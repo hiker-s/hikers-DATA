@@ -2,6 +2,8 @@
   "max_ele": 492.918,
   "total_length_km": "7.1km",
   "total_time": "1시간 28분",
+  "start_name": "버스",
+  "end_name": "내남휴게소",
   "track": [
     {
       "path_id": 0,
@@ -15,7 +17,7 @@
           "lng": 129.212509
         }
       ],
-      "color": "#570c1e",
+      "color": "#226906",
       "start_name": "버스 / 나정 입구",
       "length_meter": 211.7,
       "time_minute": 3
@@ -32,7 +34,7 @@
           "lng": 129.214279
         }
       ],
-      "color": "#447662",
+      "color": "#7a02b3",
       "start_name": "경주 나정",
       "length_meter": 179.7,
       "time_minute": 2
@@ -49,7 +51,7 @@
           "lng": 129.215591
         }
       ],
-      "color": "#309c7c",
+      "color": "#353a85",
       "start_name": "육부전",
       "length_meter": 167.3,
       "time_minute": 2
@@ -66,7 +68,7 @@
           "lng": 129.216812
         }
       ],
-      "color": "#1fab32",
+      "color": "#c4c094",
       "start_name": "월암재 / 쉼터",
       "length_meter": 196.9,
       "time_minute": 3
@@ -83,7 +85,7 @@
           "lng": 129.2117
         }
       ],
-      "color": "#9290bb",
+      "color": "#5cc56d",
       "start_name": "경주 남간사지 당간지주",
       "length_meter": 795.0,
       "time_minute": 9
@@ -100,7 +102,7 @@
           "lng": 129.211105
         }
       ],
-      "color": "#744dc3",
+      "color": "#9517a9",
       "start_name": "쉼터",
       "length_meter": 91.9,
       "time_minute": 1
@@ -117,7 +119,7 @@
           "lng": 129.21225
         }
       ],
-      "color": "#8d8366",
+      "color": "#b8873b",
       "start_name": "포석정 화장실 / 매표소 2,000원",
       "length_meter": 110.5,
       "time_minute": 1
@@ -134,7 +136,7 @@
           "lng": 129.21283
         }
       ],
-      "color": "#57811c",
+      "color": "#9e841b",
       "start_name": "쉼터 / 경주 포석정지",
       "length_meter": 73.5,
       "time_minute": 1
@@ -151,7 +153,7 @@
           "lng": 129.21257
         }
       ],
-      "color": "#29428b",
+      "color": "#69174d",
       "start_name": "단풍 / 포석정 매점",
       "length_meter": 184.4,
       "time_minute": 2
@@ -168,7 +170,7 @@
           "lng": 129.213898
         }
       ],
-      "color": "#6188a6",
+      "color": "#891b8c",
       "start_name": "가족쉼터 캠핑장",
       "length_meter": 149.5,
       "time_minute": 1
@@ -185,7 +187,7 @@
           "lng": 129.215805
         }
       ],
-      "color": "#4d18b5",
+      "color": "#a3852e",
       "start_name": "안내소 / 남산 지진대피 안내 / 남산 세계문화유산 인증서",
       "length_meter": 189.6,
       "time_minute": 3
@@ -202,7 +204,7 @@
           "lng": 129.224396
         }
       ],
-      "color": "#6c1124",
+      "color": "#911caf",
       "start_name": "안내소",
       "length_meter": 810.0,
       "time_minute": 10
@@ -219,7 +221,7 @@
           "lng": 129.223816
         }
       ],
-      "color": "#bc1074",
+      "color": "#858f06",
       "start_name": "갈림길",
       "length_meter": 127.4,
       "time_minute": 1
@@ -236,7 +238,7 @@
           "lng": 129.226349
         }
       ],
-      "color": "#25a81a",
+      "color": "#7b9db2",
       "start_name": "포석곡 제5사지 마애여래좌상",
       "length_meter": 286.4,
       "time_minute": 3
@@ -253,7 +255,7 @@
           "lng": 129.225723
         }
       ],
-      "color": "#ad95ba",
+      "color": "#bd889a",
       "start_name": "부흥사",
       "length_meter": 170.0,
       "time_minute": 2
@@ -270,7 +272,7 @@
           "lng": 129.227798
         }
       ],
-      "color": "#37a361",
+      "color": "#9f1a47",
       "start_name": "오층석탑",
       "length_meter": 308.1,
       "time_minute": 3
@@ -287,7 +289,7 @@
           "lng": 129.228836
         }
       ],
-      "color": "#032f39",
+      "color": "#ab14a3",
       "start_name": "포석곡 7사지",
       "length_meter": 95.8,
       "time_minute": 1
@@ -304,7 +306,7 @@
           "lng": 129.22905
         }
       ],
-      "color": "#c436c3",
+      "color": "#51a748",
       "start_name": "금오정",
       "length_meter": 145.5,
       "time_minute": 1
@@ -321,7 +323,7 @@
           "lng": 129.220184
         }
       ],
-      "color": "#17a434",
+      "color": "#b1c68b",
       "start_name": "갈림길",
       "length_meter": 1170.5,
       "time_minute": 14
@@ -338,7 +340,7 @@
           "lng": 129.204865
         }
       ],
-      "color": "#009e7b",
+      "color": "#552faf",
       "start_name": "약수골 안전쉼터 / 약수계곡 마애입불상",
       "length_meter": 1385.4,
       "time_minute": 23
@@ -355,7 +357,7 @@
           "lng": 129.205368
         }
       ],
-      "color": "#2ac23a",
+      "color": "#c35cab",
       "start_name": "옹심이메밀칼국수 / 신라월성대군단소",
       "length_meter": 230.0,
       "time_minute": 3

@@ -8,7 +8,7 @@ convert_path = os.path.join(base_dir, '../mnt_100_convert_json_clean')
 os.makedirs(convert_path, exist_ok=True)
 
 # 정제에서 제외할 산
-skip_mnt = ["강천산", "황악산", "공작산"]
+skip_mnt = ["강천산", "황악산", "공작산", "대암산", "축령산", "덕숭산", "민주지산"]
 
 
 # 제거할 요소 리스트

@@ -10,7 +10,7 @@ convert_path = os.path.join(base_dir, '../mnt_100_convert_json_format')
 os.makedirs(convert_path, exist_ok=True)
 
 # 정제 제외할 산
-skip_mnt = ["가리산", "금산"]
+skip_mnt = ["가리산", "금산", "대암산", "축령산", "덕숭산", "민주지산"]
 
 # 걸음 속도 4.8 km/h => 80 m/min
 walking_speed_m_per_min = 80
@@ -140,6 +140,8 @@ for mountain_folder in os.listdir(json_path):
                         "max_ele": data["max_ele"],
                         "total_length_km": f"{round(total_length / 1000, 1)}km",
                         "total_time": total_time_str,
+                        "start_name": waypoints[0].get('name'), 
+                        "end_name": waypoints[-1].get('name'),
                         "track": sections
                     }
 

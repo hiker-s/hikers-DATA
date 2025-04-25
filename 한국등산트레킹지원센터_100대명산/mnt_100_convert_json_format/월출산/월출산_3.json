@@ -2,6 +2,8 @@
   "max_ele": 658.495,
   "total_length_km": "5.8km",
   "total_time": "1시간 11분",
+  "start_name": "택시승강장",
+  "end_name": "대형주차장앞",
   "track": [
     {
       "path_id": 0,
@@ -15,7 +17,7 @@
           "lng": 126.697754
         }
       ],
-      "color": "#324099",
+      "color": "#c21593",
       "start_name": "택시승강장 / 영암터미널 / 편의점",
       "length_meter": 547.1,
       "time_minute": 9
@@ -32,7 +34,7 @@
           "lng": 126.697411
         }
       ],
-      "color": "#971f11",
+      "color": "#c15066",
       "start_name": "산성대주차장 입구 / 공영주차장",
       "length_meter": 100.5,
       "time_minute": 1
@@ -49,7 +51,7 @@
           "lng": 126.696991
         }
       ],
-      "color": "#86b805",
+      "color": "#8b3833",
       "start_name": "영암관광안내도 / 운동시설 및 놀이기구 / 정자쉼터",
       "length_meter": 162.9,
       "time_minute": 2
@@ -66,7 +68,7 @@
           "lng": 126.700378
         }
       ],
-      "color": "#0951a5",
+      "color": "#0c3bc2",
       "start_name": "탐방제한일정",
       "length_meter": 761.3,
       "time_minute": 9
@@ -83,7 +85,7 @@
           "lng": 126.700661
         }
       ],
-      "color": "#837b69",
+      "color": "#2d3702",
       "start_name": "바위 / 영암읍내전경",
       "length_meter": 271.7,
       "time_minute": 4
@@ -100,7 +102,7 @@
           "lng": 126.700294
         }
       ],
-      "color": "#0f0959",
+      "color": "#9e3ec5",
       "start_name": "ㅊ",
       "length_meter": 288.3,
       "time_minute": 3
@@ -117,7 +119,7 @@
           "lng": 126.699959
         }
       ],
-      "color": "#b61462",
+      "color": "#634827",
       "start_name": "영암일대",
       "length_meter": 222.7,
       "time_minute": 2
@@ -134,7 +136,7 @@
           "lng": 126.702965
         }
       ],
-      "color": "#7e163c",
+      "color": "#c07e7c",
       "start_name": "천황봉 / 바위",
       "length_meter": 447.9,
       "time_minute": 7
@@ -151,7 +153,7 @@
           "lng": 126.704422
         }
       ],
-      "color": "#b42d0b",
+      "color": "#66a1c2",
       "start_name": "영암읍내전경",
       "length_meter": 191.6,
       "time_minute": 2
@@ -168,7 +170,7 @@
           "lng": 126.704605
         }
       ],
-      "color": "#9c6562",
+      "color": "#b2343c",
       "start_name": "고사목과  영암일대 / 사자봉 / 천황봉",
       "length_meter": 254.6,
       "time_minute": 4
@@ -185,7 +187,7 @@
           "lng": 126.705872
         }
       ],
-      "color": "#7387b8",
+      "color": "#90c465",
       "start_name": "암릉구간",
       "length_meter": 208.5,
       "time_minute": 2
@@ -202,7 +204,7 @@
           "lng": 126.706345
         }
       ],
-      "color": "#395139",
+      "color": "#c5be60",
       "start_name": "산성대 암릉구간 / 바위길",
       "length_meter": 251.1,
       "time_minute": 3
@@ -219,7 +221,7 @@
           "lng": 126.707748
         }
       ],
-      "color": "#62818f",
+      "color": "#386114",
       "start_name": "사자봉",
       "length_meter": 243.5,
       "time_minute": 3
@@ -236,7 +238,7 @@
           "lng": 126.709274
         }
       ],
-      "color": "#819322",
+      "color": "#87b52f",
       "start_name": "구름다리 / 육형제바위",
       "length_meter": 161.8,
       "time_minute": 2
@@ -253,7 +255,7 @@
           "lng": 126.709908
         }
       ],
-      "color": "#764795",
+      "color": "#3cc51b",
       "start_name": "벤치3 / 구름다리 / 탐방로안내",
       "length_meter": 73.7,
       "time_minute": 1
@@ -270,7 +272,7 @@
           "lng": 126.709961
         }
       ],
-      "color": "#b7c300",
+      "color": "#bd5474",
       "start_name": "출입금지 / 바람폭포",
       "length_meter": 20.5,
       "time_minute": 0
@@ -287,7 +289,7 @@
           "lng": 126.711594
         }
       ],
-      "color": "#089bc5",
+      "color": "#2866c7",
       "start_name": "쉼터",
       "length_meter": 156.2,
       "time_minute": 1
@@ -304,7 +306,7 @@
           "lng": 126.713219
         }
       ],
-      "color": "#b76b7e",
+      "color": "#857c04",
       "start_name": "갈림길 / 탐방로 안내",
       "length_meter": 177.7,
       "time_minute": 2
@@ -321,7 +323,7 @@
           "lng": 126.713524
         }
       ],
-      "color": "#b6538f",
+      "color": "#7c575e",
       "start_name": "계곡 / 낙석위험",
       "length_meter": 39.4,
       "time_minute": 0
@@ -338,7 +340,7 @@
           "lng": 126.716721
         }
       ],
-      "color": "#3a9b56",
+      "color": "#b11c2a",
       "start_name": "급경사 붕괴 위험지역",
       "length_meter": 310.7,
       "time_minute": 3
@@ -355,7 +357,7 @@
           "lng": 126.718178
         }
       ],
-      "color": "#522f51",
+      "color": "#613a81",
       "start_name": "갈림길 / 탐방로 안내 / 자연경관",
       "length_meter": 149.2,
       "time_minute": 2
@@ -372,7 +374,7 @@
           "lng": 126.71904
         }
       ],
-      "color": "#64a0b1",
+      "color": "#5e0400",
       "start_name": "낙뢰다발지역",
       "length_meter": 169.2,
       "time_minute": 2
@@ -389,7 +391,7 @@
           "lng": 126.719337
         }
       ],
-      "color": "#494b3b",
+      "color": "#8f2840",
       "start_name": "월출산 시노암길 / 천황사지구 탐방로 입구 / 월출산인증  포토존 / 탕0",
       "length_meter": 55.1,
       "time_minute": 0
@@ -406,7 +408,7 @@
           "lng": 126.721252
         }
       ],
-      "color": "#c64869",
+      "color": "#944cb8",
       "start_name": "흙먼지털이기 / 갈림길 / 야영장",
       "length_meter": 229.8,
       "time_minute": 3
@@ -423,7 +425,7 @@
           "lng": 126.722046
         }
       ],
-      "color": "#4e4ab5",
+      "color": "#af0931",
       "start_name": "산새둥지",
       "length_meter": 129.1,
       "time_minute": 1
@@ -440,7 +442,7 @@
           "lng": 126.722153
         }
       ],
-      "color": "#779067",
+      "color": "#bb0277",
       "start_name": "월출산밥상 / 천황탐방지원센터",
       "length_meter": 81.7,
       "time_minute": 1
@@ -457,7 +459,7 @@
           "lng": 126.722572
         }
       ],
-      "color": "#37c2a4",
+      "color": "#468a53",
       "start_name": "주차장쉼터 / 승강ㅈ1ㆍㅇ / 월출산 / 편의점 및 식당",
       "length_meter": 50.3,
       "time_minute": 0
