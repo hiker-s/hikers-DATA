@@ -2,9 +2,9 @@ import json
 import os
 
 # 원본 JSON 파일 경로
-json_path = os.path.join(os.path.dirname(__file__), '../mnt_100_info_course.json')
+json_path = os.path.join(os.path.dirname(__file__), '../mnt_100_course_info/mnt_100_info_course.json')
 # 결과 저장 경로
-convert_path = os.path.join(os.path.dirname(__file__), '../convert.json')
+convert_path = os.path.join(os.path.dirname(__file__), '../mnt_100_course_info/convert.json')
 
 # JSON 읽기
 with open(json_path, 'r', encoding='utf-8') as f:
