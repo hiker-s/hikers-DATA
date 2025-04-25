@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 36.068874,
@@ -10,9 +11,13 @@
         "lng": 127.834587
       }
     ],
-    "color": "#c87fc9"
+    "color": "#8b2646",
+    "start_point_name": "도마령 등산로  입구",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 36.068851,
@@ -23,9 +28,13 @@
         "lng": 127.834557
       }
     ],
-    "color": "#af2a55"
+    "color": "#23ecda",
+    "start_point_name": "도마령 입구주차장",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 36.068832,
@@ -36,9 +45,13 @@
         "lng": 127.834396
       }
     ],
-    "color": "#022e7c"
+    "color": "#23c73d",
+    "start_point_name": "도마령 등산로 입구",
+    "length": 15,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 36.068878,
@@ -49,9 +62,13 @@
         "lng": 127.834648
       }
     ],
-    "color": "#70746d"
+    "color": "#ac6d4f",
+    "start_point_name": "등산로  시작점",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 36.068848,
@@ -62,9 +79,13 @@
         "lng": 127.834648
       }
     ],
-    "color": "#2d6ac3"
+    "color": "#4980a0",
+    "start_point_name": "도마령입구",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 36.068874,
@@ -75,9 +96,13 @@
         "lng": 127.835152
       }
     ],
-    "color": "#f89de6"
+    "color": "#d5dc03",
+    "start_point_name": "들머리",
+    "length": 49,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 36.069042,
@@ -88,9 +113,13 @@
         "lng": 127.846169
       }
     ],
-    "color": "#fc9147"
+    "color": "#a0505c",
+    "start_point_name": "상용정",
+    "length": 1225,
+    "time": "20"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 36.06255,
@@ -101,9 +130,13 @@
         "lng": 127.846214
       }
     ],
-    "color": "#69cd96"
+    "color": "#4803c2",
+    "start_point_name": "각호산",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 36.062527,
@@ -114,9 +147,13 @@
         "lng": 127.846214
       }
     ],
-    "color": "#a2a8f7"
+    "color": "#684ebc",
+    "start_point_name": "각호산 정상",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 36.062531,
@@ -127,9 +164,13 @@
         "lng": 127.846771
       }
     ],
-    "color": "#3a1d9a"
+    "color": "#94b7b1",
+    "start_point_name": "각호산 정상",
+    "length": 58,
+    "time": "0"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 36.062256,
@@ -140,9 +181,13 @@
         "lng": 127.847588
       }
     ],
-    "color": "#f3f630"
+    "color": "#906baf",
+    "start_point_name": "갈림길",
+    "length": 554,
+    "time": "9"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 36.057312,
@@ -153,9 +198,13 @@
         "lng": 127.847557
       }
     ],
-    "color": "#9f9305"
+    "color": "#11ea54",
+    "start_point_name": "갈림길",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 36.057304,
@@ -166,9 +215,13 @@
         "lng": 127.851242
       }
     ],
-    "color": "#9d4dc8"
+    "color": "#7c0f1f",
+    "start_point_name": "갈림길",
+    "length": 1012,
+    "time": "16"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 36.048695,
@@ -179,9 +232,13 @@
         "lng": 127.850037
       }
     ],
-    "color": "#811b66"
+    "color": "#38b86e",
+    "start_point_name": "갈림길",
+    "length": 704,
+    "time": "11"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 36.042431,
@@ -192,9 +249,13 @@
         "lng": 127.849945
       }
     ],
-    "color": "#b63bc8"
+    "color": "#97e82d",
+    "start_point_name": "대피소",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 36.042542,
@@ -205,9 +266,13 @@
         "lng": 127.849907
       }
     ],
-    "color": "#4d0051"
+    "color": "#90ddc1",
+    "start_point_name": "대피소",
+    "length": 43,
+    "time": "0"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 36.042156,
@@ -218,9 +283,13 @@
         "lng": 127.849701
       }
     ],
-    "color": "#58dc4d"
+    "color": "#51c550",
+    "start_point_name": "쉼터",
+    "length": 156,
+    "time": "2"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 36.04076,
@@ -231,9 +300,13 @@
         "lng": 127.849297
       }
     ],
-    "color": "#c73552"
+    "color": "#113385",
+    "start_point_name": "갈림길",
+    "length": 112,
+    "time": "1"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 36.039799,
@@ -244,9 +317,13 @@
         "lng": 127.849312
       }
     ],
-    "color": "#776bc0"
+    "color": "#3deaa2",
+    "start_point_name": "민주지산",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 36.039818,
@@ -257,9 +334,13 @@
         "lng": 127.849312
       }
     ],
-    "color": "#039542"
+    "color": "#3a3312",
+    "start_point_name": "민주지산",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 36.039818,
@@ -270,9 +351,13 @@
         "lng": 127.849289
       }
     ],
-    "color": "#3e20de"
+    "color": "#f43487",
+    "start_point_name": "민주지산",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 36.039814,
@@ -283,9 +368,13 @@
         "lng": 127.849106
       }
     ],
-    "color": "#b6e0a6"
+    "color": "#6fb6bd",
+    "start_point_name": "민주지산",
+    "length": 24,
+    "time": "0"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 36.03965,
@@ -296,9 +385,13 @@
         "lng": 127.85022
       }
     ],
-    "color": "#406623"
+    "color": "#a62fd4",
+    "start_point_name": "민주지산",
+    "length": 100,
+    "time": "1"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 36.039631,
@@ -309,9 +402,13 @@
         "lng": 127.850243
       }
     ],
-    "color": "#65cf8c"
+    "color": "#67ffcb",
+    "start_point_name": "갈림길",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 36.039635,
@@ -322,9 +419,13 @@
         "lng": 127.858681
       }
     ],
-    "color": "#976fd3"
+    "color": "#6d7428",
+    "start_point_name": "쉼터",
+    "length": 1145,
+    "time": "19"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 36.047352,
@@ -335,9 +436,13 @@
         "lng": 127.865318
       }
     ],
-    "color": "#99d0f9"
+    "color": "#3e6124",
+    "start_point_name": "갈림길",
+    "length": 623,
+    "time": "10"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 36.045719,
@@ -348,9 +453,13 @@
         "lng": 127.870049
       }
     ],
-    "color": "#17db53"
+    "color": "#45cbbc",
+    "start_point_name": "갈림길",
+    "length": 434,
+    "time": "7"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 36.046524,
@@ -361,9 +470,13 @@
         "lng": 127.870041
       }
     ],
-    "color": "#493a35"
+    "color": "#13c1ce",
+    "start_point_name": "갈림길",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 28,
     "path": [
       {
         "lat": 36.04673,
@@ -374,9 +487,13 @@
         "lng": 127.870026
       }
     ],
-    "color": "#1373a4"
+    "color": "#e8d2f6",
+    "start_point_name": "화장실",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 29,
     "path": [
       {
         "lat": 36.046757,
@@ -387,9 +504,13 @@
         "lng": 127.870865
       }
     ],
-    "color": "#062523"
+    "color": "#bd6292",
+    "start_point_name": "명품숲길종합아래도",
+    "length": 219,
+    "time": "3"
   },
   {
+    "path_id": 30,
     "path": [
       {
         "lat": 36.048607,
@@ -400,9 +521,13 @@
         "lng": 127.870811
       }
     ],
-    "color": "#8ebe3f"
+    "color": "#1e877f",
+    "start_point_name": "쉼터",
+    "length": 91,
+    "time": "1"
   },
   {
+    "path_id": 31,
     "path": [
       {
         "lat": 36.049427,
@@ -413,9 +538,13 @@
         "lng": 127.872322
       }
     ],
-    "color": "#b0f177"
+    "color": "#761bf2",
+    "start_point_name": "화장실",
+    "length": 550,
+    "time": "9"
   },
   {
+    "path_id": 32,
     "path": [
       {
         "lat": 36.054222,
@@ -426,9 +555,13 @@
         "lng": 127.872192
       }
     ],
-    "color": "#cb6538"
+    "color": "#31e6fd",
+    "start_point_name": "황룡사",
+    "length": 133,
+    "time": "2"
   },
   {
+    "path_id": 33,
     "path": [
       {
         "lat": 36.05542,
@@ -439,9 +572,13 @@
         "lng": 127.872894
       }
     ],
-    "color": "#6505f9"
+    "color": "#1e233a",
+    "start_point_name": "삼도봉식당",
+    "length": 124,
+    "time": "2"
   },
   {
+    "path_id": 34,
     "path": [
       {
         "lat": 36.056389,
@@ -452,9 +589,13 @@
         "lng": 127.873001
       }
     ],
-    "color": "#c71daf"
+    "color": "#9a0f75",
+    "start_point_name": "들머리 등산 안내도",
+    "length": 53,
+    "time": "0"
   },
   {
+    "path_id": 35,
     "path": [
       {
         "lat": 36.056858,
@@ -465,9 +606,13 @@
         "lng": 127.873276
       }
     ],
-    "color": "#a4b4f4"
+    "color": "#8af57e",
+    "start_point_name": "화장실",
+    "length": 41,
+    "time": "0"
   },
   {
+    "path_id": 36,
     "path": [
       {
         "lat": 36.057159,
@@ -478,9 +623,13 @@
         "lng": 127.87339
       }
     ],
-    "color": "#fa1e47"
+    "color": "#44ab05",
+    "start_point_name": "물한계곡 이정표",
+    "length": 31,
+    "time": "0"
   },
   {
+    "path_id": 37,
     "path": [
       {
         "lat": 36.057426,
@@ -491,6 +640,9 @@
         "lng": 127.874573
       }
     ],
-    "color": "#eea3a0"
+    "color": "#5b8c7a",
+    "start_point_name": "나그네가든",
+    "length": 161,
+    "time": "2"
   }
 ]

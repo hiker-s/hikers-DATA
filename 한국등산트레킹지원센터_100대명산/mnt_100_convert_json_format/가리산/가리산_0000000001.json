@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.863125,
@@ -10,9 +11,13 @@
         "lng": 127.985435
       }
     ],
-    "color": "#5844e3"
+    "color": "#fadcc7",
+    "start_point_name": "가리산자연휴양림",
+    "length": 27,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.863087,
@@ -23,9 +28,13 @@
         "lng": 127.985077
       }
     ],
-    "color": "#bd871b"
+    "color": "#8d00dd",
+    "start_point_name": "가리산자연휴양림  매표소",
+    "length": 35,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.863228,
@@ -36,9 +45,13 @@
         "lng": 127.984222
       }
     ],
-    "color": "#051ccc"
+    "color": "#3c3adb",
+    "start_point_name": "홍천에서 버스탑승",
+    "length": 144,
+    "time": "2"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.864342,
@@ -49,9 +62,13 @@
         "lng": 127.984306
       }
     ],
-    "color": "#9eb317"
+    "color": "#e16986",
+    "start_point_name": "휴양림 입구 주차장",
+    "length": 10,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.86441,
@@ -62,9 +79,13 @@
         "lng": 127.984291
       }
     ],
-    "color": "#a7671a"
+    "color": "#490cfe",
+    "start_point_name": "주차장내 화장실",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.86441,
@@ -75,9 +96,13 @@
         "lng": 127.9841
       }
     ],
-    "color": "#94f6be"
+    "color": "#27fc49",
+    "start_point_name": "해병대 가리산 전투전적비",
+    "length": 18,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.864471,
@@ -88,9 +113,13 @@
         "lng": 127.983414
       }
     ],
-    "color": "#cc990e"
+    "color": "#2f6f85",
+    "start_point_name": "흙먼지털이기",
+    "length": 60,
+    "time": "1"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.864384,
@@ -101,9 +130,13 @@
         "lng": 127.983376
       }
     ],
-    "color": "#5a29eb"
+    "color": "#ab304e",
+    "start_point_name": "자연휴양림 관리사무소",
+    "length": 6,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.864433,
@@ -114,9 +147,13 @@
         "lng": 127.983093
       }
     ],
-    "color": "#af5e6d"
+    "color": "#3c9b7f",
+    "start_point_name": "갈림길",
+    "length": 33,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.864635,
@@ -127,9 +164,13 @@
         "lng": 127.972717
       }
     ],
-    "color": "#418694"
+    "color": "#0fc680",
+    "start_point_name": "가리산휴게소",
+    "length": 2150,
+    "time": "35"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.882156,
@@ -140,9 +181,13 @@
         "lng": 127.973061
       }
     ],
-    "color": "#56d86b"
+    "color": "#09962d",
+    "start_point_name": "새득이봉",
+    "length": 51,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.88253,
@@ -153,6 +198,9 @@
         "lng": 127.980286
       }
     ],
-    "color": "#ecea37"
+    "color": "#a2e093",
+    "start_point_name": "갈림길",
+    "length": 675,
+    "time": "11"
   }
 ]

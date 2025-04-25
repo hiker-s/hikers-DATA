@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.492912,
@@ -10,9 +11,13 @@
         "lng": 127.4925
       }
     ],
-    "color": "#7fbe43"
+    "color": "#5426cb",
+    "start_point_name": "경기 양평역",
+    "length": 8,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.492847,
@@ -23,9 +28,13 @@
         "lng": 127.496872
       }
     ],
-    "color": "#3e9dba"
+    "color": "#e2cbb9",
+    "start_point_name": "경기 양평역",
+    "length": 570,
+    "time": "9"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.496628,
@@ -36,9 +45,13 @@
         "lng": 127.496002
       }
     ],
-    "color": "#066d27"
+    "color": "#ee7d5e",
+    "start_point_name": "갈림길 3",
+    "length": 226,
+    "time": "3"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.498547,
@@ -49,9 +62,13 @@
         "lng": 127.496727
       }
     ],
-    "color": "#eb8a9f"
+    "color": "#2ad53c",
+    "start_point_name": "갈림길 4",
+    "length": 184,
+    "time": "3"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.500107,
@@ -62,9 +79,13 @@
         "lng": 127.497078
       }
     ],
-    "color": "#2cc322"
+    "color": "#7ef201",
+    "start_point_name": "쉼터",
+    "length": 174,
+    "time": "2"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.501652,
@@ -75,9 +96,13 @@
         "lng": 127.497421
       }
     ],
-    "color": "#408920"
+    "color": "#52f30a",
+    "start_point_name": "소나무 군 락지",
+    "length": 53,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.502045,
@@ -88,9 +113,13 @@
         "lng": 127.497894
       }
     ],
-    "color": "#15620d"
+    "color": "#616df9",
+    "start_point_name": "갈림길 7",
+    "length": 65,
+    "time": "1"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.502499,
@@ -101,9 +130,13 @@
         "lng": 127.497917
       }
     ],
-    "color": "#8542fc"
+    "color": "#b7dbd8",
+    "start_point_name": "쉼터",
+    "length": 25,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.502728,
@@ -114,9 +147,13 @@
         "lng": 127.500359
       }
     ],
-    "color": "#ec1e74"
+    "color": "#56bccf",
+    "start_point_name": "조망점",
+    "length": 249,
+    "time": "4"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.503864,
@@ -127,9 +164,13 @@
         "lng": 127.501366
       }
     ],
-    "color": "#6e5462"
+    "color": "#407213",
+    "start_point_name": "갈림길 10",
+    "length": 107,
+    "time": "1"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.503319,
@@ -140,9 +181,13 @@
         "lng": 127.501541
       }
     ],
-    "color": "#41a6a3"
+    "color": "#b5996c",
+    "start_point_name": "밤나무 식재지",
+    "length": 18,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.503227,
@@ -153,9 +198,13 @@
         "lng": 127.509171
       }
     ],
-    "color": "#ea2add"
+    "color": "#88d1b3",
+    "start_point_name": "리키다 소나무 식재지역",
+    "length": 761,
+    "time": "12"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 37.506428,
@@ -166,9 +215,13 @@
         "lng": 127.514114
       }
     ],
-    "color": "#a7df95"
+    "color": "#05ce8e",
+    "start_point_name": "쉼터",
+    "length": 852,
+    "time": "14"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 37.51302,
@@ -179,9 +232,13 @@
         "lng": 127.514343
       }
     ],
-    "color": "#9be0dd"
+    "color": "#5608fb",
+    "start_point_name": "리키다 소나무 식재지대",
+    "length": 44,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 37.513378,
@@ -192,9 +249,13 @@
         "lng": 127.515808
       }
     ],
-    "color": "#7ebb12"
+    "color": "#701c58",
+    "start_point_name": "쉼터 운동시설",
+    "length": 155,
+    "time": "2"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 37.51416,
@@ -205,9 +266,13 @@
         "lng": 127.523682
       }
     ],
-    "color": "#6fd472"
+    "color": "#d818ad",
+    "start_point_name": "갈림길 16",
+    "length": 728,
+    "time": "12"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 37.516125,
@@ -218,9 +283,13 @@
         "lng": 127.529503
       }
     ],
-    "color": "#12eaf5"
+    "color": "#90d1c3",
+    "start_point_name": "갈림길 24",
+    "length": 2125,
+    "time": "35"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 37.534676,
@@ -231,9 +300,13 @@
         "lng": 127.529457
       }
     ],
-    "color": "#e24211"
+    "color": "#c3d950",
+    "start_point_name": "형제우물약수터",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 37.53471,
@@ -244,9 +317,13 @@
         "lng": 127.52948
       }
     ],
-    "color": "#b1bc19"
+    "color": "#7a7f63",
+    "start_point_name": "형제우물 안내석",
+    "length": 9,
+    "time": "0"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 37.534798,
@@ -257,9 +334,13 @@
         "lng": 127.531479
       }
     ],
-    "color": "#c5177e"
+    "color": "#7bb5ec",
+    "start_point_name": "갈림길 47",
+    "length": 181,
+    "time": "3"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 37.534409,
@@ -270,9 +351,13 @@
         "lng": 127.531578
       }
     ],
-    "color": "#2bd8f5"
+    "color": "#ece1c7",
+    "start_point_name": "추락위험지대",
+    "length": 13,
+    "time": "0"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 37.534504,
@@ -283,9 +368,13 @@
         "lng": 127.533394
       }
     ],
-    "color": "#fe3bb7"
+    "color": "#6b6ccc",
+    "start_point_name": "갈림길 49",
+    "length": 167,
+    "time": "2"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 37.534054,
@@ -296,9 +385,13 @@
         "lng": 127.535301
       }
     ],
-    "color": "#150b15"
+    "color": "#c8a809",
+    "start_point_name": "쉼터",
+    "length": 168,
+    "time": "2"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 37.53397,
@@ -309,9 +402,13 @@
         "lng": 127.540474
       }
     ],
-    "color": "#e0eec7"
+    "color": "#21a418",
+    "start_point_name": "숯가마터",
+    "length": 456,
+    "time": "7"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 37.534184,
@@ -322,9 +419,13 @@
         "lng": 127.541931
       }
     ],
-    "color": "#2df26a"
+    "color": "#ea3aeb",
+    "start_point_name": "갈림길 53",
+    "length": 155,
+    "time": "2"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 37.534969,
@@ -335,9 +436,13 @@
         "lng": 127.542747
       }
     ],
-    "color": "#0647ff"
+    "color": "#7bfb9a",
+    "start_point_name": "갈림길 54",
+    "length": 72,
+    "time": "1"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 37.535023,
@@ -348,9 +453,13 @@
         "lng": 127.5494
       }
     ],
-    "color": "#c86ec1"
+    "color": "#b2d4bd",
+    "start_point_name": "잣나무 식재지대",
+    "length": 586,
+    "time": "9"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 37.535046,
@@ -361,9 +470,13 @@
         "lng": 127.550201
       }
     ],
-    "color": "#020258"
+    "color": "#287456",
+    "start_point_name": "수득골계곡",
+    "length": 86,
+    "time": "1"
   },
   {
+    "path_id": 28,
     "path": [
       {
         "lat": 37.535488,
@@ -374,9 +487,13 @@
         "lng": 127.55024
       }
     ],
-    "color": "#4eb5f0"
+    "color": "#f68eaa",
+    "start_point_name": "백운암",
+    "length": 32,
+    "time": "0"
   },
   {
+    "path_id": 29,
     "path": [
       {
         "lat": 37.535198,
@@ -387,9 +504,13 @@
         "lng": 127.551643
       }
     ],
-    "color": "#7b5163"
+    "color": "#dddf60",
+    "start_point_name": "갈림길 57",
+    "length": 138,
+    "time": "2"
   },
   {
+    "path_id": 30,
     "path": [
       {
         "lat": 37.534637,
@@ -400,9 +521,13 @@
         "lng": 127.552567
       }
     ],
-    "color": "#a684e0"
+    "color": "#a8266d",
+    "start_point_name": "갈림길 60",
+    "length": 90,
+    "time": "1"
   },
   {
+    "path_id": 31,
     "path": [
       {
         "lat": 37.534992,
@@ -413,9 +538,13 @@
         "lng": 127.55719
       }
     ],
-    "color": "#39e7f2"
+    "color": "#4ab046",
+    "start_point_name": "마운틴벨리 팬션",
+    "length": 815,
+    "time": "13"
   },
   {
+    "path_id": 32,
     "path": [
       {
         "lat": 37.528645,
@@ -426,9 +555,13 @@
         "lng": 127.557785
       }
     ],
-    "color": "#84df4a"
+    "color": "#55d87d",
+    "start_point_name": "갈림길 62",
+    "length": 104,
+    "time": "1"
   },
   {
+    "path_id": 33,
     "path": [
       {
         "lat": 37.527828,
@@ -439,9 +572,13 @@
         "lng": 127.557678
       }
     ],
-    "color": "#59210e"
+    "color": "#0ca7dd",
+    "start_point_name": "갈림길 63",
+    "length": 59,
+    "time": "0"
   },
   {
+    "path_id": 34,
     "path": [
       {
         "lat": 37.527302,
@@ -452,9 +589,13 @@
         "lng": 127.557724
       }
     ],
-    "color": "#259045"
+    "color": "#566b86",
+    "start_point_name": "연수리 종점",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 35,
     "path": [
       {
         "lat": 37.52718,
@@ -465,6 +606,9 @@
         "lng": 127.557724
       }
     ],
-    "color": "#c819a4"
+    "color": "#f7cbb9",
+    "start_point_name": "화장실",
+    "length": 25,
+    "time": "0"
   }
 ]

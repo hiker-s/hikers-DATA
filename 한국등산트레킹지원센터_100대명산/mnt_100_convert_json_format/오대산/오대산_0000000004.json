@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.76638,
@@ -10,9 +11,13 @@
         "lng": 128.611588
       }
     ],
-    "color": "#d7702c"
+    "color": "#476fd7",
+    "start_point_name": "진고개탐방지원센터",
+    "length": 17,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.766273,
@@ -23,9 +28,13 @@
         "lng": 128.611771
       }
     ],
-    "color": "#cb3638"
+    "color": "#eeff3d",
+    "start_point_name": "오대산 진고개훠게소 주차장",
+    "length": 58,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.765766,
@@ -36,9 +45,13 @@
         "lng": 128.61174
       }
     ],
-    "color": "#0a24c6"
+    "color": "#997a58",
+    "start_point_name": "진고개정상휴게소",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.765785,
@@ -49,9 +62,13 @@
         "lng": 128.61145
       }
     ],
-    "color": "#e58f92"
+    "color": "#48aceb",
+    "start_point_name": "진고개정상휴게소",
+    "length": 68,
+    "time": "1"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.766354,
@@ -62,9 +79,13 @@
         "lng": 128.59903
       }
     ],
-    "color": "#755dc3"
+    "color": "#586d86",
+    "start_point_name": "진고개화장실",
+    "length": 1350,
+    "time": "22"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.773502,
@@ -75,9 +96,13 @@
         "lng": 128.599045
       }
     ],
-    "color": "#b9d3cb"
+    "color": "#b42a39",
+    "start_point_name": "갈림길",
+    "length": 66,
+    "time": "1"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.774097,
@@ -88,9 +113,13 @@
         "lng": 128.599121
       }
     ],
-    "color": "#d99393"
+    "color": "#02fbea",
+    "start_point_name": "동대산 정상",
+    "length": 7,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.774117,
@@ -101,9 +130,13 @@
         "lng": 128.598984
       }
     ],
-    "color": "#d3b502"
+    "color": "#a1193b",
+    "start_point_name": "갈림길",
+    "length": 65,
+    "time": "1"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.773537,
@@ -114,9 +147,13 @@
         "lng": 128.58812
       }
     ],
-    "color": "#9f1ab3"
+    "color": "#a330c1",
+    "start_point_name": "갈림길",
+    "length": 970,
+    "time": "16"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.771961,
@@ -127,6 +164,9 @@
         "lng": 128.577057
       }
     ],
-    "color": "#d09fff"
+    "color": "#bc3515",
+    "start_point_name": "오대산 단풍",
+    "length": 989,
+    "time": "16"
   }
 ]

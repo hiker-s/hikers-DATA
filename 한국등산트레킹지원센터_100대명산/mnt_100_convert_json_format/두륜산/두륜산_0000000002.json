@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 34.496376,
@@ -10,9 +11,13 @@
         "lng": 126.617058
       }
     ],
-    "color": "#cc7d76"
+    "color": "#8094a6",
+    "start_point_name": "케이블카  승강장",
+    "length": 758,
+    "time": "12"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 34.49754,
@@ -23,9 +28,13 @@
         "lng": 126.616959
       }
     ],
-    "color": "#073ca2"
+    "color": "#71f182",
+    "start_point_name": "대중교통 승강장",
+    "length": 89,
+    "time": "1"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 34.496735,
@@ -36,9 +45,13 @@
         "lng": 126.61689
       }
     ],
-    "color": "#d9fa83"
+    "color": "#5118bb",
+    "start_point_name": "두륜산 상가촌",
+    "length": 73,
+    "time": "1"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 34.496075,
@@ -49,9 +62,13 @@
         "lng": 126.617012
       }
     ],
-    "color": "#60ea59"
+    "color": "#5c617b",
+    "start_point_name": "상가촌 쉼터",
+    "length": 99,
+    "time": "1"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 34.495186,
@@ -62,9 +79,13 @@
         "lng": 126.617004
       }
     ],
-    "color": "#bca9bb"
+    "color": "#a4557b",
+    "start_point_name": "상가촌 주차장",
+    "length": 6,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 34.495125,
@@ -75,9 +96,13 @@
         "lng": 126.61731
       }
     ],
-    "color": "#0df07c"
+    "color": "#6f3cdb",
+    "start_point_name": "두륜산 입구 화장실",
+    "length": 40,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 34.494858,
@@ -88,9 +113,13 @@
         "lng": 126.617279
       }
     ],
-    "color": "#20bfdd"
+    "color": "#0eabe9",
+    "start_point_name": "대흥사 매표소",
+    "length": 77,
+    "time": "1"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 34.494164,
@@ -101,9 +130,13 @@
         "lng": 126.614784
       }
     ],
-    "color": "#3b75a8"
+    "color": "#6b981e",
+    "start_point_name": "대흥사 입구 건축물",
+    "length": 560,
+    "time": "9"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 34.489563,
@@ -114,6 +147,9 @@
         "lng": 126.613495
       }
     ],
-    "color": "#0dbab3"
+    "color": "#0f2a7e",
+    "start_point_name": "산책로화장실",
+    "length": 3055,
+    "time": "50"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.615387,
@@ -10,9 +11,13 @@
         "lng": 128.927216
       }
     ],
-    "color": "#3432c9"
+    "color": "#bcc830",
+    "start_point_name": "석골사",
+    "length": 20,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.61554,
@@ -23,9 +28,13 @@
         "lng": 128.927628
       }
     ],
-    "color": "#d1a7c8"
+    "color": "#b0ba01",
+    "start_point_name": "석골사",
+    "length": 56,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.615921,
@@ -36,9 +45,13 @@
         "lng": 128.928299
       }
     ],
-    "color": "#e1ae6e"
+    "color": "#61ab4b",
+    "start_point_name": "석골사 해우소",
+    "length": 86,
+    "time": "1"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.616474,
@@ -49,9 +62,13 @@
         "lng": 128.928299
       }
     ],
-    "color": "#2b3d67"
+    "color": "#9d1186",
+    "start_point_name": "안내도",
+    "length": 16,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.616623,
@@ -62,9 +79,13 @@
         "lng": 128.934311
       }
     ],
-    "color": "#afd52d"
+    "color": "#d52ff1",
+    "start_point_name": "갈림길 5",
+    "length": 576,
+    "time": "9"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.618351,
@@ -75,9 +96,13 @@
         "lng": 128.950256
       }
     ],
-    "color": "#dec3b4"
+    "color": "#b16023",
+    "start_point_name": "갈림길 6",
+    "length": 1696,
+    "time": "28"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.6264,
@@ -88,9 +113,13 @@
         "lng": 128.950378
       }
     ],
-    "color": "#337c4b"
+    "color": "#42ec47",
+    "start_point_name": "갈림길 8",
+    "length": 11,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.626419,
@@ -101,9 +130,13 @@
         "lng": 128.952698
       }
     ],
-    "color": "#f10ace"
+    "color": "#2a92d8",
+    "start_point_name": "갈림길 9",
+    "length": 325,
+    "time": "5"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.62418,
@@ -114,9 +147,13 @@
         "lng": 128.95874
       }
     ],
-    "color": "#28a92e"
+    "color": "#e5f338",
+    "start_point_name": "갈림길 10",
+    "length": 674,
+    "time": "11"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.620617,
@@ -127,9 +164,13 @@
         "lng": 128.960587
       }
     ],
-    "color": "#230a3b"
+    "color": "#df63ce",
+    "start_point_name": "갈림길 11",
+    "length": 325,
+    "time": "5"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.618103,
@@ -140,9 +181,13 @@
         "lng": 128.960526
       }
     ],
-    "color": "#1dcf1b"
+    "color": "#f9a475",
+    "start_point_name": "갈림길 12",
+    "length": 19,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 35.617935,
@@ -153,9 +198,13 @@
         "lng": 128.956467
       }
     ],
-    "color": "#4c60cc"
+    "color": "#e90432",
+    "start_point_name": "갈림길 15",
+    "length": 370,
+    "time": "6"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 35.618416,
@@ -166,9 +215,13 @@
         "lng": 128.943924
       }
     ],
-    "color": "#858896"
+    "color": "#0bf3ce",
+    "start_point_name": "상운암",
+    "length": 1149,
+    "time": "19"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 35.620102,
@@ -179,9 +232,13 @@
         "lng": 128.943893
       }
     ],
-    "color": "#af0d52"
+    "color": "#974d77",
+    "start_point_name": "정구지바위",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 35.620075,
@@ -192,9 +249,13 @@
         "lng": 128.93988
       }
     ],
-    "color": "#d19899"
+    "color": "#7e8add",
+    "start_point_name": "갈림길 18",
+    "length": 373,
+    "time": "6"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 35.619267,
@@ -205,6 +266,9 @@
         "lng": 128.939896
       }
     ],
-    "color": "#a42a03"
+    "color": "#ae2192",
+    "start_point_name": "갈림길 7",
+    "length": 2,
+    "time": "0"
   }
 ]

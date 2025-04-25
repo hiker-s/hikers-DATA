@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 33.423141,
@@ -10,9 +11,13 @@
         "lng": 126.626442
       }
     ],
-    "color": "#4fd67a"
+    "color": "#f546e7",
+    "start_point_name": "사려니숲길 정류소",
+    "length": 81,
+    "time": "1"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 33.422638,
@@ -23,9 +28,13 @@
         "lng": 126.626915
       }
     ],
-    "color": "#094175"
+    "color": "#356420",
+    "start_point_name": "사려니숲길 입구 쉼터",
+    "length": 46,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 33.422489,
@@ -36,9 +45,13 @@
         "lng": 126.626511
       }
     ],
-    "color": "#67dd94"
+    "color": "#da8cf3",
+    "start_point_name": "사려니숲길 입구 화장실",
+    "length": 38,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 33.422546,
@@ -49,9 +62,13 @@
         "lng": 126.626381
       }
     ],
-    "color": "#d23b9f"
+    "color": "#4c6ff1",
+    "start_point_name": "사려니숲길 탐방안내소",
+    "length": 139,
+    "time": "2"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 33.421295,
@@ -62,9 +79,13 @@
         "lng": 126.627304
       }
     ],
-    "color": "#8f161f"
+    "color": "#017fc3",
+    "start_point_name": "갈림길 5",
+    "length": 136,
+    "time": "2"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 33.420338,
@@ -75,9 +96,13 @@
         "lng": 126.628693
       }
     ],
-    "color": "#ddab9b"
+    "color": "#5a6afd",
+    "start_point_name": "쉼터",
+    "length": 145,
+    "time": "2"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 33.419724,
@@ -88,9 +113,13 @@
         "lng": 126.628723
       }
     ],
-    "color": "#69266c"
+    "color": "#bd69a9",
+    "start_point_name": "쉼터",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 33.419743,
@@ -101,9 +130,13 @@
         "lng": 126.628914
       }
     ],
-    "color": "#a465aa"
+    "color": "#a3e5c1",
+    "start_point_name": "갈림길 8",
+    "length": 31,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 33.419506,
@@ -114,9 +147,13 @@
         "lng": 126.634567
       }
     ],
-    "color": "#e66401"
+    "color": "#888b7d",
+    "start_point_name": "갈림길 9",
+    "length": 559,
+    "time": "9"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 33.417751,
@@ -127,9 +164,13 @@
         "lng": 126.634964
       }
     ],
-    "color": "#324c04"
+    "color": "#7293ee",
+    "start_point_name": "천미천",
+    "length": 45,
+    "time": "0"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 33.417507,
@@ -140,9 +181,13 @@
         "lng": 126.637779
       }
     ],
-    "color": "#1acca0"
+    "color": "#a714e2",
+    "start_point_name": "천미천앞 화장실",
+    "length": 262,
+    "time": "4"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 33.417274,
@@ -153,9 +198,13 @@
         "lng": 126.63826
       }
     ],
-    "color": "#c3e195"
+    "color": "#09635a",
+    "start_point_name": "쉼터",
+    "length": 44,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 33.417244,
@@ -166,9 +215,13 @@
         "lng": 126.642761
       }
     ],
-    "color": "#8c6c53"
+    "color": "#99f330",
+    "start_point_name": "서어나무",
+    "length": 450,
+    "time": "7"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 33.415733,
@@ -179,9 +232,13 @@
         "lng": 126.643547
       }
     ],
-    "color": "#98e238"
+    "color": "#b5be05",
+    "start_point_name": "이나무",
+    "length": 96,
+    "time": "1"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 33.415161,
@@ -192,9 +249,13 @@
         "lng": 126.646225
       }
     ],
-    "color": "#b47349"
+    "color": "#6150cd",
+    "start_point_name": "쉼터",
+    "length": 344,
+    "time": "5"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 33.413013,
@@ -205,9 +266,13 @@
         "lng": 126.646439
       }
     ],
-    "color": "#2d5957"
+    "color": "#e2f197",
+    "start_point_name": "개서어나무",
+    "length": 119,
+    "time": "1"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 33.411949,
@@ -218,9 +283,13 @@
         "lng": 126.646416
       }
     ],
-    "color": "#eff104"
+    "color": "#0dc2b6",
+    "start_point_name": "누리장나무",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 33.411819,
@@ -231,9 +300,13 @@
         "lng": 126.646698
       }
     ],
-    "color": "#f09508"
+    "color": "#ca85af",
+    "start_point_name": "산악기상관측장비",
+    "length": 96,
+    "time": "1"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 33.410984,
@@ -244,9 +317,13 @@
         "lng": 126.646416
       }
     ],
-    "color": "#dcb217"
+    "color": "#acdbeb",
+    "start_point_name": "쉼터",
+    "length": 96,
+    "time": "1"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 33.411819,
@@ -257,9 +334,13 @@
         "lng": 126.646088
       }
     ],
-    "color": "#f67c10"
+    "color": "#311351",
+    "start_point_name": "산악기상관측장비",
+    "length": 1257,
+    "time": "20"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 33.400517,
@@ -270,9 +351,13 @@
         "lng": 126.64579
       }
     ],
-    "color": "#ca9e51"
+    "color": "#6ce806",
+    "start_point_name": "조릿대",
+    "length": 29,
+    "time": "0"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 33.400425,
@@ -283,9 +368,13 @@
         "lng": 126.626511
       }
     ],
-    "color": "#fb9758"
+    "color": "#9343a0",
+    "start_point_name": "쉼터",
+    "length": 3041,
+    "time": "50"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 33.422546,
@@ -296,9 +385,13 @@
         "lng": 126.644783
       }
     ],
-    "color": "#6e8ec9"
+    "color": "#8d4c09",
+    "start_point_name": "사려니숲길 탐방안내소/사려니숲길 입구",
+    "length": 3442,
+    "time": "57"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 33.395603,
@@ -309,9 +402,13 @@
         "lng": 126.644753
       }
     ],
-    "color": "#905098"
+    "color": "#dbbd0c",
+    "start_point_name": "쉼터",
+    "length": 41,
+    "time": "0"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 33.395233,
@@ -322,9 +419,13 @@
         "lng": 126.644745
       }
     ],
-    "color": "#67cc9d"
+    "color": "#75dc9c",
+    "start_point_name": "쉼터",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 33.395226,
@@ -335,9 +436,13 @@
         "lng": 126.644775
       }
     ],
-    "color": "#2660aa"
+    "color": "#fc0585",
+    "start_point_name": "멧돼지출몰지역",
+    "length": 11,
+    "time": "0"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 33.395123,
@@ -348,9 +453,13 @@
         "lng": 126.644814
       }
     ],
-    "color": "#78913f"
+    "color": "#a38e85",
+    "start_point_name": "물찻오름",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 33.395096,
@@ -361,9 +470,13 @@
         "lng": 126.644814
       }
     ],
-    "color": "#0e0b41"
+    "color": "#76f440",
+    "start_point_name": "물찻오름 안내소",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 28,
     "path": [
       {
         "lat": 33.395065,
@@ -374,9 +487,13 @@
         "lng": 126.644318
       }
     ],
-    "color": "#4ceb5c"
+    "color": "#75c6a5",
+    "start_point_name": "물찻오름 앞 쉼터",
+    "length": 62,
+    "time": "1"
   },
   {
+    "path_id": 29,
     "path": [
       {
         "lat": 33.39468,
@@ -387,9 +504,13 @@
         "lng": 126.644806
       }
     ],
-    "color": "#05d3ac"
+    "color": "#83e0f7",
+    "start_point_name": "물찻오름 입구 앞 화장실",
+    "length": 52,
+    "time": "0"
   },
   {
+    "path_id": 30,
     "path": [
       {
         "lat": 33.39492,
@@ -400,9 +521,13 @@
         "lng": 126.642288
       }
     ],
-    "color": "#518b86"
+    "color": "#d585fe",
+    "start_point_name": "물찻오름 입구",
+    "length": 321,
+    "time": "5"
   },
   {
+    "path_id": 31,
     "path": [
       {
         "lat": 33.392937,
@@ -413,9 +538,13 @@
         "lng": 126.645203
       }
     ],
-    "color": "#7c43a7"
+    "color": "#97f355",
+    "start_point_name": "쉼터",
+    "length": 270,
+    "time": "4"
   },
   {
+    "path_id": 32,
     "path": [
       {
         "lat": 33.392826,
@@ -426,9 +555,13 @@
         "lng": 126.646011
       }
     ],
-    "color": "#5ef739"
+    "color": "#04fa66",
+    "start_point_name": "쉼터",
+    "length": 120,
+    "time": "2"
   },
   {
+    "path_id": 33,
     "path": [
       {
         "lat": 33.391979,
@@ -439,9 +572,13 @@
         "lng": 126.646477
       }
     ],
-    "color": "#282d1a"
+    "color": "#73456c",
+    "start_point_name": "쉼터",
+    "length": 68,
+    "time": "1"
   },
   {
+    "path_id": 34,
     "path": [
       {
         "lat": 33.391506,
@@ -452,9 +589,13 @@
         "lng": 126.647736
       }
     ],
-    "color": "#2b850d"
+    "color": "#0516de",
+    "start_point_name": "꽝꽝나무",
+    "length": 130,
+    "time": "2"
   },
   {
+    "path_id": 35,
     "path": [
       {
         "lat": 33.390976,
@@ -465,9 +606,13 @@
         "lng": 126.650604
       }
     ],
-    "color": "#843ec3"
+    "color": "#0694c7",
+    "start_point_name": "쉼터",
+    "length": 266,
+    "time": "4"
   },
   {
+    "path_id": 36,
     "path": [
       {
         "lat": 33.390984,
@@ -478,9 +623,13 @@
         "lng": 126.65271
       }
     ],
-    "color": "#b4e51e"
+    "color": "#1260f9",
+    "start_point_name": "쉼터",
+    "length": 216,
+    "time": "3"
   },
   {
+    "path_id": 37,
     "path": [
       {
         "lat": 33.390141,
@@ -491,9 +640,13 @@
         "lng": 126.652702
       }
     ],
-    "color": "#67e2f1"
+    "color": "#9a0d26",
+    "start_point_name": "화장실",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 38,
     "path": [
       {
         "lat": 33.390125,
@@ -504,9 +657,13 @@
         "lng": 126.653816
       }
     ],
-    "color": "#35c4de"
+    "color": "#1fe24a",
+    "start_point_name": "쉼터",
+    "length": 108,
+    "time": "1"
   },
   {
+    "path_id": 39,
     "path": [
       {
         "lat": 33.390434,
@@ -517,9 +674,13 @@
         "lng": 126.654358
       }
     ],
-    "color": "#c67861"
+    "color": "#a565e1",
+    "start_point_name": "산림세라피",
+    "length": 54,
+    "time": "0"
   },
   {
+    "path_id": 40,
     "path": [
       {
         "lat": 33.390629,
@@ -530,9 +691,13 @@
         "lng": 126.65564
       }
     ],
-    "color": "#4538ea"
+    "color": "#fa4f39",
+    "start_point_name": "쉼터",
+    "length": 142,
+    "time": "2"
   },
   {
+    "path_id": 41,
     "path": [
       {
         "lat": 33.391327,
@@ -543,9 +708,13 @@
         "lng": 126.655579
       }
     ],
-    "color": "#1806f2"
+    "color": "#8fcc43",
+    "start_point_name": "갈림길 40",
+    "length": 7,
+    "time": "0"
   },
   {
+    "path_id": 42,
     "path": [
       {
         "lat": 33.391277,
@@ -556,9 +725,13 @@
         "lng": 126.655548
       }
     ],
-    "color": "#3d81a5"
+    "color": "#c5d0da",
+    "start_point_name": "월든삼거리 쉼터",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 43,
     "path": [
       {
         "lat": 33.39127,
@@ -569,9 +742,13 @@
         "lng": 126.658287
       }
     ],
-    "color": "#5a0a03"
+    "color": "#57ed69",
+    "start_point_name": "월든삼거리 삼나무숲",
+    "length": 293,
+    "time": "4"
   },
   {
+    "path_id": 44,
     "path": [
       {
         "lat": 33.392582,
@@ -582,9 +759,13 @@
         "lng": 126.660378
       }
     ],
-    "color": "#b9eac8"
+    "color": "#7d784b",
+    "start_point_name": "쉼터",
+    "length": 270,
+    "time": "4"
   },
   {
+    "path_id": 45,
     "path": [
       {
         "lat": 33.394276,
@@ -595,9 +776,13 @@
         "lng": 126.660973
       }
     ],
-    "color": "#d5f17c"
+    "color": "#47e341",
+    "start_point_name": "쉼터",
+    "length": 70,
+    "time": "1"
   },
   {
+    "path_id": 46,
     "path": [
       {
         "lat": 33.394665,
@@ -608,9 +793,13 @@
         "lng": 126.661018
       }
     ],
-    "color": "#e42759"
+    "color": "#f14273",
+    "start_point_name": "갈림길 45",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 47,
     "path": [
       {
         "lat": 33.394676,
@@ -621,9 +810,13 @@
         "lng": 126.669228
       }
     ],
-    "color": "#5eb8cb"
+    "color": "#96b2d1",
+    "start_point_name": "가친오름 입구 쉼터",
+    "length": 829,
+    "time": "13"
   },
   {
+    "path_id": 48,
     "path": [
       {
         "lat": 33.397621,
@@ -634,9 +827,13 @@
         "lng": 126.672752
       }
     ],
-    "color": "#117136"
+    "color": "#d30a91",
+    "start_point_name": "쉼터",
+    "length": 394,
+    "time": "6"
   },
   {
+    "path_id": 49,
     "path": [
       {
         "lat": 33.395638,
@@ -647,9 +844,13 @@
         "lng": 126.67437
       }
     ],
-    "color": "#d9bfa2"
+    "color": "#2be4d7",
+    "start_point_name": "쉼터",
+    "length": 234,
+    "time": "3"
   },
   {
+    "path_id": 50,
     "path": [
       {
         "lat": 33.39402,
@@ -660,9 +861,13 @@
         "lng": 126.676109
       }
     ],
-    "color": "#a34d95"
+    "color": "#c95b2d",
+    "start_point_name": "쉼터",
+    "length": 185,
+    "time": "3"
   },
   {
+    "path_id": 51,
     "path": [
       {
         "lat": 33.393204,
@@ -673,9 +878,13 @@
         "lng": 126.676308
       }
     ],
-    "color": "#ec1ece"
+    "color": "#291e81",
+    "start_point_name": "쉼터",
+    "length": 19,
+    "time": "0"
   },
   {
+    "path_id": 52,
     "path": [
       {
         "lat": 33.393158,
@@ -686,9 +895,13 @@
         "lng": 126.676628
       }
     ],
-    "color": "#a38c27"
+    "color": "#5da9b0",
+    "start_point_name": "갈림길 51",
+    "length": 40,
+    "time": "0"
   },
   {
+    "path_id": 53,
     "path": [
       {
         "lat": 33.39291,
@@ -699,9 +912,13 @@
         "lng": 126.677124
       }
     ],
-    "color": "#acb5e7"
+    "color": "#23e46a",
+    "start_point_name": "가수기목",
+    "length": 162,
+    "time": "2"
   },
   {
+    "path_id": 54,
     "path": [
       {
         "lat": 33.391506,
@@ -712,9 +929,13 @@
         "lng": 126.67897
       }
     ],
-    "color": "#8a4bfb"
+    "color": "#d8f6a8",
+    "start_point_name": "쉼터",
+    "length": 186,
+    "time": "3"
   },
   {
+    "path_id": 55,
     "path": [
       {
         "lat": 33.392166,
@@ -725,9 +946,13 @@
         "lng": 126.679161
       }
     ],
-    "color": "#7f3514"
+    "color": "#95f21a",
+    "start_point_name": "쉼터",
+    "length": 18,
+    "time": "0"
   },
   {
+    "path_id": 56,
     "path": [
       {
         "lat": 33.392227,
@@ -738,9 +963,13 @@
         "lng": 126.679726
       }
     ],
-    "color": "#1ab69e"
+    "color": "#f5d5fe",
+    "start_point_name": "삼나무숲길 포토존",
+    "length": 64,
+    "time": "1"
   },
   {
+    "path_id": 57,
     "path": [
       {
         "lat": 33.39257,
@@ -751,9 +980,13 @@
         "lng": 126.679161
       }
     ],
-    "color": "#2543a1"
+    "color": "#23355e",
+    "start_point_name": "삼나무숲길 포토존2",
+    "length": 64,
+    "time": "1"
   },
   {
+    "path_id": 58,
     "path": [
       {
         "lat": 33.392227,
@@ -764,9 +997,13 @@
         "lng": 126.680328
       }
     ],
-    "color": "#1972bd"
+    "color": "#84e46b",
+    "start_point_name": "삼나무숲길 포토존1",
+    "length": 144,
+    "time": "2"
   },
   {
+    "path_id": 59,
     "path": [
       {
         "lat": 33.393089,
@@ -777,9 +1014,13 @@
         "lng": 126.68132
       }
     ],
-    "color": "#8eb1e7"
+    "color": "#97201e",
+    "start_point_name": "미로숲길 입구",
+    "length": 103,
+    "time": "1"
   },
   {
+    "path_id": 60,
     "path": [
       {
         "lat": 33.393517,
@@ -790,9 +1031,13 @@
         "lng": 126.68132
       }
     ],
-    "color": "#6a3823"
+    "color": "#937b4f",
+    "start_point_name": "산수국",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 61,
     "path": [
       {
         "lat": 33.393536,
@@ -803,9 +1048,13 @@
         "lng": 126.68132
       }
     ],
-    "color": "#fabfe4"
+    "color": "#b2041c",
+    "start_point_name": "쉼터",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 62,
     "path": [
       {
         "lat": 33.393517,
@@ -816,9 +1065,13 @@
         "lng": 126.68277
       }
     ],
-    "color": "#114e51"
+    "color": "#a82a06",
+    "start_point_name": "산수국",
+    "length": 215,
+    "time": "3"
   },
   {
+    "path_id": 63,
     "path": [
       {
         "lat": 33.395027,
@@ -829,9 +1082,13 @@
         "lng": 126.682724
       }
     ],
-    "color": "#4d34f9"
+    "color": "#aa6059",
+    "start_point_name": "미로숲길",
+    "length": 9,
+    "time": "0"
   },
   {
+    "path_id": 64,
     "path": [
       {
         "lat": 33.394955,
@@ -842,9 +1099,13 @@
         "lng": 126.682724
       }
     ],
-    "color": "#1a4b4e"
+    "color": "#3531ea",
+    "start_point_name": "미로숲길 쉼터",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 65,
     "path": [
       {
         "lat": 33.394955,
@@ -855,9 +1116,13 @@
         "lng": 126.682755
       }
     ],
-    "color": "#15bda3"
+    "color": "#d742b8",
+    "start_point_name": "미로숲길 쉼터/열린무대",
+    "length": 16,
+    "time": "0"
   },
   {
+    "path_id": 66,
     "path": [
       {
         "lat": 33.3951,
@@ -868,9 +1133,13 @@
         "lng": 126.684013
       }
     ],
-    "color": "#e3da13"
+    "color": "#f979c6",
+    "start_point_name": "사려니숲 무장애나눔길",
+    "length": 118,
+    "time": "1"
   },
   {
+    "path_id": 67,
     "path": [
       {
         "lat": 33.394901,
@@ -881,9 +1150,13 @@
         "lng": 126.68457
       }
     ],
-    "color": "#45c44d"
+    "color": "#e7f32c",
+    "start_point_name": "쉼터",
+    "length": 52,
+    "time": "0"
   },
   {
+    "path_id": 68,
     "path": [
       {
         "lat": 33.394981,
@@ -894,9 +1167,13 @@
         "lng": 126.684906
       }
     ],
-    "color": "#5296c1"
+    "color": "#c7a06c",
+    "start_point_name": "한라산둘레길 숲길센터 화장실",
+    "length": 32,
+    "time": "0"
   },
   {
+    "path_id": 69,
     "path": [
       {
         "lat": 33.395073,
@@ -907,9 +1184,13 @@
         "lng": 126.684921
       }
     ],
-    "color": "#4f9027"
+    "color": "#6e1adb",
+    "start_point_name": "한라산둘레길 숲길센터",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 70,
     "path": [
       {
         "lat": 33.395027,
@@ -920,9 +1201,13 @@
         "lng": 126.684921
       }
     ],
-    "color": "#cd401b"
+    "color": "#0c2afe",
+    "start_point_name": "사려니숲길 붉은오름 입출구",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 71,
     "path": [
       {
         "lat": 33.395027,
@@ -933,6 +1218,9 @@
         "lng": 126.685043
       }
     ],
-    "color": "#bfb5d1"
+    "color": "#69f914",
+    "start_point_name": "사려니숲길 붉은오름 입출구",
+    "length": 32,
+    "time": "0"
   }
 ]

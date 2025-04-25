@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 36.919773,
@@ -10,9 +11,13 @@
         "lng": 128.45723
       }
     ],
-    "color": "#f74ebb"
+    "color": "#372cf0",
+    "start_point_name": "갈림길",
+    "length": 86,
+    "time": "1"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 36.919945,
@@ -23,9 +28,13 @@
         "lng": 128.457626
       }
     ],
-    "color": "#dd819d"
+    "color": "#f08342",
+    "start_point_name": "희방사",
+    "length": 63,
+    "time": "1"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 36.919472,
@@ -36,9 +45,13 @@
         "lng": 128.456924
       }
     ],
-    "color": "#3d3195"
+    "color": "#a8533e",
+    "start_point_name": "희방 탐방로입구 쉼터",
+    "length": 63,
+    "time": "1"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 36.919373,
@@ -49,9 +62,13 @@
         "lng": 128.457108
       }
     ],
-    "color": "#1bd780"
+    "color": "#ee1279",
+    "start_point_name": "갈림길",
+    "length": 23,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 36.919216,
@@ -62,9 +79,13 @@
         "lng": 128.457535
       }
     ],
-    "color": "#f87113"
+    "color": "#89cfdf",
+    "start_point_name": "희방계곡",
+    "length": 48,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 36.918949,
@@ -75,9 +96,13 @@
         "lng": 128.458054
       }
     ],
-    "color": "#7f108b"
+    "color": "#a7fc19",
+    "start_point_name": "낙석주의",
+    "length": 155,
+    "time": "2"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 36.917618,
@@ -88,9 +113,13 @@
         "lng": 128.457886
       }
     ],
-    "color": "#487b61"
+    "color": "#5cdb48",
+    "start_point_name": "폭포쉼터",
+    "length": 38,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 36.917938,
@@ -101,9 +130,13 @@
         "lng": 128.457993
       }
     ],
-    "color": "#72d515"
+    "color": "#3d9544",
+    "start_point_name": "희방폭포",
+    "length": 26,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 36.917713,
@@ -114,9 +147,13 @@
         "lng": 128.457092
       }
     ],
-    "color": "#21da9a"
+    "color": "#15cb02",
+    "start_point_name": "낙석주의",
+    "length": 118,
+    "time": "1"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 36.916924,
@@ -127,9 +164,13 @@
         "lng": 128.456421
       }
     ],
-    "color": "#7edfdd"
+    "color": "#0427b6",
+    "start_point_name": "쉼터",
+    "length": 67,
+    "time": "1"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 36.916637,
@@ -140,9 +181,13 @@
         "lng": 128.456207
       }
     ],
-    "color": "#3abe93"
+    "color": "#510cac",
+    "start_point_name": "쉼터",
+    "length": 53,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 36.916183,
@@ -153,9 +198,13 @@
         "lng": 128.456192
       }
     ],
-    "color": "#5a5086"
+    "color": "#6610ae",
+    "start_point_name": "희방매표소",
+    "length": 11,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 36.916084,
@@ -166,9 +215,13 @@
         "lng": 128.456436
       }
     ],
-    "color": "#86a3e9"
+    "color": "#194a6d",
+    "start_point_name": "매표소 화장실",
+    "length": 38,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 36.915802,
@@ -179,9 +232,13 @@
         "lng": 128.456879
       }
     ],
-    "color": "#57de22"
+    "color": "#f58a96",
+    "start_point_name": "희방제2주차장",
+    "length": 81,
+    "time": "1"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 36.915157,
@@ -192,9 +249,13 @@
         "lng": 128.456833
       }
     ],
-    "color": "#30e919"
+    "color": "#812742",
+    "start_point_name": "희방계곡",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 36.915134,
@@ -205,9 +266,13 @@
         "lng": 128.457092
       }
     ],
-    "color": "#336852"
+    "color": "#be2499",
+    "start_point_name": "낙석주의",
+    "length": 47,
+    "time": "0"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 36.914757,
@@ -218,9 +283,13 @@
         "lng": 128.457275
       }
     ],
-    "color": "#9490fc"
+    "color": "#af4d17",
+    "start_point_name": "쉼터",
+    "length": 36,
+    "time": "0"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 36.914463,
@@ -231,9 +300,13 @@
         "lng": 128.457245
       }
     ],
-    "color": "#6a87ea"
+    "color": "#f6ddb4",
+    "start_point_name": "쉼터",
+    "length": 227,
+    "time": "3"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 36.912418,
@@ -244,9 +317,13 @@
         "lng": 128.45723
       }
     ],
-    "color": "#cf3096"
+    "color": "#bc92b3",
+    "start_point_name": "낙석주의",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 36.912415,
@@ -257,9 +334,13 @@
         "lng": 128.457611
       }
     ],
-    "color": "#3222ad"
+    "color": "#1c6b35",
+    "start_point_name": "쉼터",
+    "length": 53,
+    "time": "0"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 36.912045,
@@ -270,9 +351,13 @@
         "lng": 128.459167
       }
     ],
-    "color": "#7559d6"
+    "color": "#37042e",
+    "start_point_name": "쉼터",
+    "length": 237,
+    "time": "3"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 36.910305,
@@ -283,9 +368,13 @@
         "lng": 128.459274
       }
     ],
-    "color": "#e50f31"
+    "color": "#d3429a",
+    "start_point_name": "쉼터",
+    "length": 62,
+    "time": "1"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 36.909752,
@@ -296,9 +385,13 @@
         "lng": 128.459381
       }
     ],
-    "color": "#dc74a2"
+    "color": "#8e3112",
+    "start_point_name": "낙석주의",
+    "length": 24,
+    "time": "0"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 36.909546,
@@ -309,9 +402,13 @@
         "lng": 128.459503
       }
     ],
-    "color": "#0ace48"
+    "color": "#7ff190",
+    "start_point_name": "희방 제1주차장",
+    "length": 84,
+    "time": "1"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 36.908791,
@@ -322,9 +419,13 @@
         "lng": 128.45961
       }
     ],
-    "color": "#60ed91"
+    "color": "#d05da6",
+    "start_point_name": "주차장 화장실",
+    "length": 153,
+    "time": "2"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 36.90741,
@@ -335,9 +436,13 @@
         "lng": 128.45932
       }
     ],
-    "color": "#816638"
+    "color": "#5f1e39",
+    "start_point_name": "희방탐방지원센터",
+    "length": 97,
+    "time": "1"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 36.906567,
@@ -348,9 +453,13 @@
         "lng": 128.458786
       }
     ],
-    "color": "#e75d0f"
+    "color": "#d61b5d",
+    "start_point_name": "희방파크식당",
+    "length": 112,
+    "time": "1"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 36.905651,
@@ -361,6 +470,9 @@
         "lng": 128.45932
       }
     ],
-    "color": "#f76776"
+    "color": "#fb2ab3",
+    "start_point_name": "쉼터",
+    "length": 170,
+    "time": "2"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.111843,
@@ -10,9 +11,13 @@
         "lng": 128.464401
       }
     ],
-    "color": "#ccbf34"
+    "color": "#477fcb",
+    "start_point_name": "주차장",
+    "length": 17,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.111912,
@@ -23,9 +28,13 @@
         "lng": 128.4646
       }
     ],
-    "color": "#0ca792"
+    "color": "#56cc51",
+    "start_point_name": "화장실",
+    "length": 19,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.111843,
@@ -36,9 +45,13 @@
         "lng": 128.4953
       }
     ],
-    "color": "#810f72"
+    "color": "#b5665f",
+    "start_point_name": "등산로안내도",
+    "length": 3102,
+    "time": "51"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.12524,
@@ -49,9 +62,13 @@
         "lng": 128.503769
       }
     ],
-    "color": "#165024"
+    "color": "#b1bb9f",
+    "start_point_name": "전망대",
+    "length": 957,
+    "time": "15"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.130585,
@@ -62,9 +79,13 @@
         "lng": 128.532242
       }
     ],
-    "color": "#6d0d02"
+    "color": "#86e57a",
+    "start_point_name": "갈림길 9",
+    "length": 2525,
+    "time": "42"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.129898,
@@ -75,6 +96,9 @@
         "lng": 128.533112
       }
     ],
-    "color": "#7c2298"
+    "color": "#66fcfb",
+    "start_point_name": "포토존",
+    "length": 81,
+    "time": "1"
   }
 ]

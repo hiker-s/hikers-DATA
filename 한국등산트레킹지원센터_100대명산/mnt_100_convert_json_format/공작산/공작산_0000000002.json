@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.73259,
@@ -10,9 +11,13 @@
         "lng": 127.965538
       }
     ],
-    "color": "#13f380"
+    "color": "#d68913",
+    "start_point_name": "굴운저수지 정류장",
+    "length": 1250,
+    "time": "20"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.72567,
@@ -23,9 +28,13 @@
         "lng": 127.967117
       }
     ],
-    "color": "#f34798"
+    "color": "#92d197",
+    "start_point_name": "갈림길",
+    "length": 279,
+    "time": "4"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.723492,
@@ -36,9 +45,13 @@
         "lng": 127.971436
       }
     ],
-    "color": "#5c9896"
+    "color": "#a9ef0e",
+    "start_point_name": "햇살팬션가든",
+    "length": 1239,
+    "time": "20"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.712879,
@@ -49,9 +62,13 @@
         "lng": 127.983315
       }
     ],
-    "color": "#d502bd"
+    "color": "#2473a0",
+    "start_point_name": "갈림길",
+    "length": 1199,
+    "time": "19"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.707581,
@@ -62,9 +79,13 @@
         "lng": 127.989685
       }
     ],
-    "color": "#6f995e"
+    "color": "#dffdea",
+    "start_point_name": "갈림길",
+    "length": 601,
+    "time": "10"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.705608,
@@ -75,9 +96,13 @@
         "lng": 128.015366
       }
     ],
-    "color": "#cf2ba9"
+    "color": "#2334c8",
+    "start_point_name": "추락위험",
+    "length": 2261,
+    "time": "37"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.706551,
@@ -88,9 +113,13 @@
         "lng": 128.017242
       }
     ],
-    "color": "#156253"
+    "color": "#f1c42e",
+    "start_point_name": "소나무 군락지",
+    "length": 236,
+    "time": "3"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.705032,
@@ -101,9 +130,13 @@
         "lng": 128.022583
       }
     ],
-    "color": "#406d17"
+    "color": "#52324e",
+    "start_point_name": "노송군락지",
+    "length": 638,
+    "time": "10"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.701141,
@@ -114,9 +147,13 @@
         "lng": 128.022949
       }
     ],
-    "color": "#896135"
+    "color": "#a6de85",
+    "start_point_name": "잣나무 단지",
+    "length": 65,
+    "time": "1"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.700623,
@@ -127,6 +164,9 @@
         "lng": 128.022034
       }
     ],
-    "color": "#719d1b"
+    "color": "#32edad",
+    "start_point_name": "갈림길",
+    "length": 235,
+    "time": "3"
   }
 ]

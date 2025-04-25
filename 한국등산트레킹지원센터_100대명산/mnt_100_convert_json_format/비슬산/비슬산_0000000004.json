@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.729458,
@@ -10,9 +11,13 @@
         "lng": 128.561005
       }
     ],
-    "color": "#457e63"
+    "color": "#5758b6",
+    "start_point_name": "헐티재 주차장",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.729465,
@@ -23,9 +28,13 @@
         "lng": 128.560791
       }
     ],
-    "color": "#bb9c0d"
+    "color": "#c5489d",
+    "start_point_name": "헐티재",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.729362,
@@ -36,9 +45,13 @@
         "lng": 128.559998
       }
     ],
-    "color": "#bd0e93"
+    "color": "#4179ca",
+    "start_point_name": "청도  문화재 정보",
+    "length": 72,
+    "time": "1"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.729282,
@@ -49,9 +62,13 @@
         "lng": 128.555389
       }
     ],
-    "color": "#eb3601"
+    "color": "#e44664",
+    "start_point_name": "헐티재 등산로 입구",
+    "length": 470,
+    "time": "7"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.72731,
@@ -62,9 +79,13 @@
         "lng": 128.548477
       }
     ],
-    "color": "#1ba453"
+    "color": "#fbb47f",
+    "start_point_name": "뷰 맛집",
+    "length": 745,
+    "time": "12"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.723644,
@@ -75,9 +96,13 @@
         "lng": 128.548477
       }
     ],
-    "color": "#016f21"
+    "color": "#1be0d7",
+    "start_point_name": "뷰 맛집2",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.723644,
@@ -88,9 +113,13 @@
         "lng": 128.546112
       }
     ],
-    "color": "#969f2a"
+    "color": "#f68195",
+    "start_point_name": "포토존1",
+    "length": 272,
+    "time": "4"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.722122,
@@ -101,9 +130,13 @@
         "lng": 128.538422
       }
     ],
-    "color": "#a3f74c"
+    "color": "#323b8c",
+    "start_point_name": "용천봉",
+    "length": 852,
+    "time": "14"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.71767,
@@ -114,9 +147,13 @@
         "lng": 128.532501
       }
     ],
-    "color": "#b9c2c2"
+    "color": "#7b0625",
+    "start_point_name": "갈림길",
+    "length": 580,
+    "time": "9"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.715633,
@@ -127,9 +164,13 @@
         "lng": 128.527313
       }
     ],
-    "color": "#8c57ab"
+    "color": "#5a4a3c",
+    "start_point_name": "갈림길",
+    "length": 531,
+    "time": "8"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.713379,
@@ -140,9 +181,13 @@
         "lng": 128.555634
       }
     ],
-    "color": "#9ebbc9"
+    "color": "#3420ea",
+    "start_point_name": "갈림길",
+    "length": 2590,
+    "time": "43"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 35.71711,
@@ -153,9 +198,13 @@
         "lng": 128.555862
       }
     ],
-    "color": "#c8baed"
+    "color": "#dc07b3",
+    "start_point_name": "오산 주차장",
+    "length": 57,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 35.717594,
@@ -166,6 +215,9 @@
         "lng": 128.556503
       }
     ],
-    "color": "#577224"
+    "color": "#821e4b",
+    "start_point_name": "남여 화장실",
+    "length": 121,
+    "time": "2"
   }
 ]

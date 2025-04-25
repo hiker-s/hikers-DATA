@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 36.409214,
@@ -10,9 +11,13 @@
         "lng": 126.849213
       }
     ],
-    "color": "#e04199"
+    "color": "#2fa176",
+    "start_point_name": "장곡사 시내버스 종점",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 36.409229,
@@ -23,9 +28,13 @@
         "lng": 126.849678
       }
     ],
-    "color": "#026f94"
+    "color": "#935ef2",
+    "start_point_name": "버스시간표",
+    "length": 55,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 36.409557,
@@ -36,9 +45,13 @@
         "lng": 126.849998
       }
     ],
-    "color": "#18f074"
+    "color": "#a6add7",
+    "start_point_name": "장곡사 2 주차장",
+    "length": 33,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 36.40971,
@@ -49,9 +62,13 @@
         "lng": 126.850067
       }
     ],
-    "color": "#6c9394"
+    "color": "#dfad44",
+    "start_point_name": "공중 화장실",
+    "length": 24,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 36.4095,
@@ -62,9 +79,13 @@
         "lng": 126.850227
       }
     ],
-    "color": "#9ad68a"
+    "color": "#026c28",
+    "start_point_name": "청양군종합관광안내도",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 36.409496,
@@ -75,9 +96,13 @@
         "lng": 126.850166
       }
     ],
-    "color": "#0d982d"
+    "color": "#6a4563",
+    "start_point_name": "파고라 및 벤취",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 36.409298,
@@ -88,9 +113,13 @@
         "lng": 126.85125
       }
     ],
-    "color": "#3cc2f1"
+    "color": "#afccce",
+    "start_point_name": "이정표",
+    "length": 98,
+    "time": "1"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 36.40947,
@@ -101,9 +130,13 @@
         "lng": 126.85218
       }
     ],
-    "color": "#13a707"
+    "color": "#84b76b",
+    "start_point_name": "갈림길",
+    "length": 89,
+    "time": "1"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 36.409775,
@@ -114,9 +147,13 @@
         "lng": 126.852249
       }
     ],
-    "color": "#52b3a8"
+    "color": "#7bbb96",
+    "start_point_name": "팔각정",
+    "length": 19,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 36.409939,
@@ -127,9 +164,13 @@
         "lng": 126.852318
       }
     ],
-    "color": "#4744b5"
+    "color": "#6b4696",
+    "start_point_name": "장곡1 주차장",
+    "length": 10,
+    "time": "0"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 36.410015,
@@ -140,9 +181,13 @@
         "lng": 126.852303
       }
     ],
-    "color": "#4295ac"
+    "color": "#8dcdc3",
+    "start_point_name": "장곡사 산행입구",
+    "length": 47,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 36.410446,
@@ -153,9 +198,13 @@
         "lng": 126.852303
       }
     ],
-    "color": "#71e3aa"
+    "color": "#6b2a14",
+    "start_point_name": "칠갑산맛집",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 36.410446,
@@ -166,9 +215,13 @@
         "lng": 126.852989
       }
     ],
-    "color": "#03a6d0"
+    "color": "#1eb30c",
+    "start_point_name": "칠갑산골",
+    "length": 102,
+    "time": "1"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 36.411186,
@@ -179,9 +232,13 @@
         "lng": 126.853355
       }
     ],
-    "color": "#71ab05"
+    "color": "#85eac1",
+    "start_point_name": "물총칼국수. 마실식당. 마실쉼터",
+    "length": 32,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 36.411167,
@@ -192,9 +249,13 @@
         "lng": 126.853859
       }
     ],
-    "color": "#501412"
+    "color": "#cd621d",
+    "start_point_name": "산골짜기",
+    "length": 46,
+    "time": "0"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 36.411079,
@@ -205,9 +266,13 @@
         "lng": 126.856827
       }
     ],
-    "color": "#fc31c4"
+    "color": "#93bd3e",
+    "start_point_name": "장곡사 일주문",
+    "length": 442,
+    "time": "7"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 36.414261,
@@ -218,9 +283,13 @@
         "lng": 126.857536
       }
     ],
-    "color": "#e5494b"
+    "color": "#8fe50b",
+    "start_point_name": "공중화장실",
+    "length": 70,
+    "time": "1"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 36.414539,
@@ -231,9 +300,13 @@
         "lng": 126.858688
       }
     ],
-    "color": "#d78ec5"
+    "color": "#1b6e60",
+    "start_point_name": "칠갑산 꽃피는산골",
+    "length": 303,
+    "time": "5"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 36.417107,
@@ -244,9 +317,13 @@
         "lng": 126.858948
       }
     ],
-    "color": "#c99dab"
+    "color": "#f90af3",
+    "start_point_name": "장곡사해우소",
+    "length": 24,
+    "time": "0"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 36.417168,
@@ -257,9 +334,13 @@
         "lng": 126.859688
       }
     ],
-    "color": "#417b03"
+    "color": "#161eb7",
+    "start_point_name": "장곡사 주차장",
+    "length": 68,
+    "time": "1"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 36.417027,
@@ -270,9 +351,13 @@
         "lng": 126.85965
       }
     ],
-    "color": "#d6ae88"
+    "color": "#1595a4",
+    "start_point_name": "문화재 지킴이",
+    "length": 9,
+    "time": "0"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 36.417107,
@@ -283,9 +368,13 @@
         "lng": 126.859573
       }
     ],
-    "color": "#04b03b"
+    "color": "#629bb4",
+    "start_point_name": "갈림길",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 36.417297,
@@ -296,9 +385,13 @@
         "lng": 126.860657
       }
     ],
-    "color": "#41bcd4"
+    "color": "#13a113",
+    "start_point_name": "장곡사",
+    "length": 98,
+    "time": "1"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 36.417431,
@@ -309,9 +402,13 @@
         "lng": 126.860596
       }
     ],
-    "color": "#57587a"
+    "color": "#6d0d64",
+    "start_point_name": "이정표",
+    "length": 60,
+    "time": "1"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 36.416885,
@@ -322,9 +419,13 @@
         "lng": 126.861298
       }
     ],
-    "color": "#a3890c"
+    "color": "#42c51e",
+    "start_point_name": "이정표",
+    "length": 105,
+    "time": "1"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 36.416119,
@@ -335,9 +436,13 @@
         "lng": 126.86248
       }
     ],
-    "color": "#2070ec"
+    "color": "#5fa7c1",
+    "start_point_name": "이정표",
+    "length": 111,
+    "time": "1"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 36.416424,
@@ -348,9 +453,13 @@
         "lng": 126.862366
       }
     ],
-    "color": "#d487e4"
+    "color": "#ce0582",
+    "start_point_name": "이정표",
+    "length": 11,
+    "time": "0"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 36.41647,
@@ -361,9 +470,13 @@
         "lng": 126.86245
       }
     ],
-    "color": "#ea2a93"
+    "color": "#b18a47",
+    "start_point_name": "칠갑산 거북바위",
+    "length": 7,
+    "time": "0"
   },
   {
+    "path_id": 28,
     "path": [
       {
         "lat": 36.416481,
@@ -374,9 +487,13 @@
         "lng": 126.86245
       }
     ],
-    "color": "#f70892"
+    "color": "#242785",
+    "start_point_name": "통나무 벤취",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 29,
     "path": [
       {
         "lat": 36.416481,
@@ -387,9 +504,13 @@
         "lng": 126.86631
       }
     ],
-    "color": "#a9b318"
+    "color": "#a3829b",
+    "start_point_name": "소나무 군락",
+    "length": 345,
+    "time": "5"
   },
   {
+    "path_id": 30,
     "path": [
       {
         "lat": 36.416325,
@@ -400,9 +521,13 @@
         "lng": 126.866638
       }
     ],
-    "color": "#51fa70"
+    "color": "#6e3f21",
+    "start_point_name": "나무둘레에 의자",
+    "length": 70,
+    "time": "1"
   },
   {
+    "path_id": 31,
     "path": [
       {
         "lat": 36.415745,
@@ -413,9 +538,13 @@
         "lng": 126.867249
       }
     ],
-    "color": "#5adf32"
+    "color": "#259b1b",
+    "start_point_name": "나무둘레에 의자",
+    "length": 73,
+    "time": "1"
   },
   {
+    "path_id": 32,
     "path": [
       {
         "lat": 36.415302,
@@ -426,9 +555,13 @@
         "lng": 126.870239
       }
     ],
-    "color": "#573fe7"
+    "color": "#d9b449",
+    "start_point_name": "이정표",
+    "length": 268,
+    "time": "4"
   },
   {
+    "path_id": 33,
     "path": [
       {
         "lat": 36.415485,
@@ -439,9 +572,13 @@
         "lng": 126.872543
       }
     ],
-    "color": "#1fd489"
+    "color": "#84e1ac",
+    "start_point_name": "통나무 벤취",
+    "length": 339,
+    "time": "5"
   },
   {
+    "path_id": 34,
     "path": [
       {
         "lat": 36.413059,
@@ -452,9 +589,13 @@
         "lng": 126.87661
       }
     ],
-    "color": "#d512a5"
+    "color": "#05ea03",
+    "start_point_name": "이정표",
+    "length": 364,
+    "time": "6"
   },
   {
+    "path_id": 35,
     "path": [
       {
         "lat": 36.41317,
@@ -465,9 +606,13 @@
         "lng": 126.87899
       }
     ],
-    "color": "#a44aca"
+    "color": "#299459",
+    "start_point_name": "이정표",
+    "length": 212,
+    "time": "3"
   },
   {
+    "path_id": 36,
     "path": [
       {
         "lat": 36.413155,
@@ -478,9 +623,13 @@
         "lng": 126.882477
       }
     ],
-    "color": "#ae0acc"
+    "color": "#1dccdb",
+    "start_point_name": "평상",
+    "length": 358,
+    "time": "5"
   },
   {
+    "path_id": 37,
     "path": [
       {
         "lat": 36.411564,
@@ -491,9 +640,13 @@
         "lng": 126.883003
       }
     ],
-    "color": "#706223"
+    "color": "#357305",
+    "start_point_name": "갈림길",
+    "length": 48,
+    "time": "0"
   },
   {
+    "path_id": 38,
     "path": [
       {
         "lat": 36.411655,
@@ -504,9 +657,13 @@
         "lng": 126.883003
       }
     ],
-    "color": "#00d9f7"
+    "color": "#cffc11",
+    "start_point_name": "이정표",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 39,
     "path": [
       {
         "lat": 36.411667,
@@ -517,9 +674,13 @@
         "lng": 126.88372
       }
     ],
-    "color": "#91157d"
+    "color": "#fb2163",
+    "start_point_name": "갈림길",
+    "length": 66,
+    "time": "1"
   },
   {
+    "path_id": 40,
     "path": [
       {
         "lat": 36.411819,
@@ -530,9 +691,13 @@
         "lng": 126.884544
       }
     ],
-    "color": "#64ecd6"
+    "color": "#7ba9a0",
+    "start_point_name": "평상",
+    "length": 119,
+    "time": "1"
   },
   {
+    "path_id": 41,
     "path": [
       {
         "lat": 36.412663,
@@ -543,9 +708,13 @@
         "lng": 126.882889
       }
     ],
-    "color": "#b750c6"
+    "color": "#11a962",
+    "start_point_name": "평상 6개",
+    "length": 416,
+    "time": "6"
   },
   {
+    "path_id": 42,
     "path": [
       {
         "lat": 36.409164,
@@ -556,9 +725,13 @@
         "lng": 126.881821
       }
     ],
-    "color": "#a3394c"
+    "color": "#929bdb",
+    "start_point_name": "이정표",
+    "length": 372,
+    "time": "6"
   },
   {
+    "path_id": 43,
     "path": [
       {
         "lat": 36.405926,
@@ -569,9 +742,13 @@
         "lng": 126.88063
       }
     ],
-    "color": "#799225"
+    "color": "#e04412",
+    "start_point_name": "벤취",
+    "length": 200,
+    "time": "3"
   },
   {
+    "path_id": 44,
     "path": [
       {
         "lat": 36.404404,
@@ -582,9 +759,13 @@
         "lng": 126.881042
       }
     ],
-    "color": "#298e32"
+    "color": "#1607f2",
+    "start_point_name": "119 구급함",
+    "length": 190,
+    "time": "3"
   },
   {
+    "path_id": 45,
     "path": [
       {
         "lat": 36.402721,
@@ -595,9 +776,13 @@
         "lng": 126.881035
       }
     ],
-    "color": "#31d114"
+    "color": "#fa2d76",
+    "start_point_name": "이정표",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 46,
     "path": [
       {
         "lat": 36.402718,
@@ -608,9 +793,13 @@
         "lng": 126.881203
       }
     ],
-    "color": "#72118f"
+    "color": "#96fdbd",
+    "start_point_name": "칠갑산 삼형제봉 표지석",
+    "length": 31,
+    "time": "0"
   },
   {
+    "path_id": 47,
     "path": [
       {
         "lat": 36.402473,
@@ -621,9 +810,13 @@
         "lng": 126.880707
       }
     ],
-    "color": "#4b9188"
+    "color": "#d2a010",
+    "start_point_name": "평상",
+    "length": 51,
+    "time": "0"
   },
   {
+    "path_id": 48,
     "path": [
       {
         "lat": 36.402706,
@@ -634,9 +827,13 @@
         "lng": 126.880356
       }
     ],
-    "color": "#52fdcd"
+    "color": "#8fb7bc",
+    "start_point_name": "평상 1개소 벤취 1개소",
+    "length": 31,
+    "time": "0"
   },
   {
+    "path_id": 49,
     "path": [
       {
         "lat": 36.402687,
@@ -647,9 +844,13 @@
         "lng": 126.87735
       }
     ],
-    "color": "#8db5b9"
+    "color": "#735cd1",
+    "start_point_name": "평상",
+    "length": 270,
+    "time": "4"
   },
   {
+    "path_id": 50,
     "path": [
       {
         "lat": 36.402401,
@@ -660,9 +861,13 @@
         "lng": 126.875969
       }
     ],
-    "color": "#d165d9"
+    "color": "#149a45",
+    "start_point_name": "평상",
+    "length": 125,
+    "time": "2"
   },
   {
+    "path_id": 51,
     "path": [
       {
         "lat": 36.402584,
@@ -673,9 +878,13 @@
         "lng": 126.870552
       }
     ],
-    "color": "#a474e6"
+    "color": "#3e715c",
+    "start_point_name": "이정표",
+    "length": 504,
+    "time": "8"
   },
   {
+    "path_id": 52,
     "path": [
       {
         "lat": 36.403847,
@@ -686,9 +895,13 @@
         "lng": 126.865196
       }
     ],
-    "color": "#96713b"
+    "color": "#54f5b1",
+    "start_point_name": "평상",
+    "length": 484,
+    "time": "8"
   },
   {
+    "path_id": 53,
     "path": [
       {
         "lat": 36.404499,
@@ -699,9 +912,13 @@
         "lng": 126.862022
       }
     ],
-    "color": "#6918eb"
+    "color": "#43820a",
+    "start_point_name": "벤취",
+    "length": 284,
+    "time": "4"
   },
   {
+    "path_id": 54,
     "path": [
       {
         "lat": 36.404564,
@@ -712,9 +929,13 @@
         "lng": 126.860405
       }
     ],
-    "color": "#880047"
+    "color": "#28abad",
+    "start_point_name": "평상",
+    "length": 157,
+    "time": "2"
   },
   {
+    "path_id": 55,
     "path": [
       {
         "lat": 36.404003,
@@ -725,9 +946,13 @@
         "lng": 126.857796
       }
     ],
-    "color": "#561d26"
+    "color": "#6ac0dc",
+    "start_point_name": "벤취",
+    "length": 234,
+    "time": "3"
   },
   {
+    "path_id": 56,
     "path": [
       {
         "lat": 36.404228,
@@ -738,9 +963,13 @@
         "lng": 126.851746
       }
     ],
-    "color": "#27efde"
+    "color": "#d10950",
+    "start_point_name": "평상",
+    "length": 601,
+    "time": "10"
   },
   {
+    "path_id": 57,
     "path": [
       {
         "lat": 36.406574,
@@ -751,9 +980,13 @@
         "lng": 126.851059
       }
     ],
-    "color": "#becdb0"
+    "color": "#aae787",
+    "start_point_name": "벤취",
+    "length": 62,
+    "time": "1"
   },
   {
+    "path_id": 58,
     "path": [
       {
         "lat": 36.406464,
@@ -764,9 +997,13 @@
         "lng": 126.851036
       }
     ],
-    "color": "#0db7cb"
+    "color": "#835a6f",
+    "start_point_name": "이정표",
+    "length": 225,
+    "time": "3"
   },
   {
+    "path_id": 59,
     "path": [
       {
         "lat": 36.408489,
@@ -777,9 +1014,13 @@
         "lng": 126.851158
       }
     ],
-    "color": "#cb1de8"
+    "color": "#31eb94",
+    "start_point_name": "이정표",
+    "length": 11,
+    "time": "0"
   },
   {
+    "path_id": 60,
     "path": [
       {
         "lat": 36.408459,
@@ -790,9 +1031,13 @@
         "lng": 126.851776
       }
     ],
-    "color": "#4de399"
+    "color": "#b3de6b",
+    "start_point_name": "삼형제봉~칠갑산정상 등산로 입구",
+    "length": 66,
+    "time": "1"
   },
   {
+    "path_id": 61,
     "path": [
       {
         "lat": 36.408791,
@@ -803,9 +1048,13 @@
         "lng": 126.852142
       }
     ],
-    "color": "#a48a4f"
+    "color": "#2f74a1",
+    "start_point_name": "장곡사 3 주차장",
+    "length": 36,
+    "time": "0"
   },
   {
+    "path_id": 62,
     "path": [
       {
         "lat": 36.408943,
@@ -816,6 +1065,9 @@
         "lng": 126.850594
       }
     ],
-    "color": "#ef803b"
+    "color": "#9e64e3",
+    "start_point_name": "간이화장실",
+    "length": 146,
+    "time": "2"
   }
 ]

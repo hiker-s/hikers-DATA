@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 36.724445,
@@ -10,9 +11,13 @@
         "lng": 127.978661
       }
     ],
-    "color": "#040e5f"
+    "color": "#f4b3ba",
+    "start_point_name": "간이쉼터",
+    "length": 629,
+    "time": "10"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 36.721817,
@@ -23,9 +28,13 @@
         "lng": 127.990512
       }
     ],
-    "color": "#9d1bed"
+    "color": "#dd4eeb",
+    "start_point_name": "갈림길",
+    "length": 1180,
+    "time": "19"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 36.717083,
@@ -36,9 +45,13 @@
         "lng": 127.990517
       }
     ],
-    "color": "#c97dce"
+    "color": "#821218",
+    "start_point_name": "웨이포인트 16",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 36.717072,
@@ -49,9 +62,13 @@
         "lng": 127.990974
       }
     ],
-    "color": "#80ec1f"
+    "color": "#a5a314",
+    "start_point_name": "백두대간 구왕봉",
+    "length": 47,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 36.717285,
@@ -62,9 +79,13 @@
         "lng": 127.993011
       }
     ],
-    "color": "#54758a"
+    "color": "#4848f6",
+    "start_point_name": "희양산조망",
+    "length": 183,
+    "time": "3"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 36.717045,
@@ -75,9 +96,13 @@
         "lng": 127.993245
       }
     ],
-    "color": "#72d9bf"
+    "color": "#0012c2",
+    "start_point_name": "희양산조망",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 36.716975,
@@ -88,9 +113,13 @@
         "lng": 127.9953
       }
     ],
-    "color": "#7c19a3"
+    "color": "#75e526",
+    "start_point_name": "웨이포인트 19",
+    "length": 211,
+    "time": "3"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 36.717926,
@@ -101,9 +130,13 @@
         "lng": 127.995393
       }
     ],
-    "color": "#fb4172"
+    "color": "#b83078",
+    "start_point_name": "지름티재 갈림길",
+    "length": 8,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 36.717912,
@@ -114,9 +147,13 @@
         "lng": 127.997849
       }
     ],
-    "color": "#e6605f"
+    "color": "#de660d",
+    "start_point_name": "웨이포인트 21",
+    "length": 220,
+    "time": "3"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 36.718124,
@@ -127,9 +164,13 @@
         "lng": 128.00221
       }
     ],
-    "color": "#47fb30"
+    "color": "#ca83b3",
+    "start_point_name": "노송",
+    "length": 391,
+    "time": "6"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 36.71773,
@@ -140,9 +181,13 @@
         "lng": 128.002747
       }
     ],
-    "color": "#fb9989"
+    "color": "#a898f2",
+    "start_point_name": "웨이포인트 24",
+    "length": 48,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 36.717682,
@@ -153,9 +198,13 @@
         "lng": 128.002594
       }
     ],
-    "color": "#432bb7"
+    "color": "#adb28a",
+    "start_point_name": "갈림길",
+    "length": 95,
+    "time": "1"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 36.716831,
@@ -166,9 +215,13 @@
         "lng": 128.005096
       }
     ],
-    "color": "#2aa676"
+    "color": "#35279d",
+    "start_point_name": "능선조망점",
+    "length": 328,
+    "time": "5"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 36.714661,
@@ -179,9 +232,13 @@
         "lng": 128.003403
       }
     ],
-    "color": "#1d80b4"
+    "color": "#09ac0d",
+    "start_point_name": "희양산정상",
+    "length": 198,
+    "time": "3"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 36.715824,
@@ -192,9 +249,13 @@
         "lng": 128.004379
       }
     ],
-    "color": "#4511cc"
+    "color": "#d2ba97",
+    "start_point_name": "바위정상 간이조망",
+    "length": 490,
+    "time": "8"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 36.720165,
@@ -205,9 +266,13 @@
         "lng": 128.004425
       }
     ],
-    "color": "#090df5"
+    "color": "#3728cc",
+    "start_point_name": "갈림길",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 36.720173,
@@ -218,9 +283,13 @@
         "lng": 127.998085
       }
     ],
-    "color": "#69fcdb"
+    "color": "#76f47b",
+    "start_point_name": "산성터",
+    "length": 718,
+    "time": "11"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 36.724167,
@@ -231,6 +300,9 @@
         "lng": 127.988853
       }
     ],
-    "color": "#b054c9"
+    "color": "#363308",
+    "start_point_name": "희양폭포",
+    "length": 1560,
+    "time": "26"
   }
 ]

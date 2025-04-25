@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.641109,
@@ -10,9 +11,13 @@
         "lng": 126.580414
       }
     ],
-    "color": "#b96ab0"
+    "color": "#3be925",
+    "start_point_name": "내변산주차장",
+    "length": 15,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.64098,
@@ -23,9 +28,13 @@
         "lng": 126.580437
       }
     ],
-    "color": "#be3313"
+    "color": "#ee27c4",
+    "start_point_name": "사자동편의점",
+    "length": 122,
+    "time": "2"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.639881,
@@ -36,9 +45,13 @@
         "lng": 126.587875
       }
     ],
-    "color": "#96c527"
+    "color": "#c34032",
+    "start_point_name": "갈림길",
+    "length": 782,
+    "time": "13"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.636272,
@@ -49,9 +62,13 @@
         "lng": 126.587135
       }
     ],
-    "color": "#29df9e"
+    "color": "#98a600",
+    "start_point_name": "갈림길",
+    "length": 203,
+    "time": "3"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.634544,
@@ -62,9 +79,13 @@
         "lng": 126.587372
       }
     ],
-    "color": "#330da4"
+    "color": "#089e90",
+    "start_point_name": "세봉삼거리전",
+    "length": 282,
+    "time": "4"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.632008,
@@ -75,9 +96,13 @@
         "lng": 126.588837
       }
     ],
-    "color": "#567477"
+    "color": "#720469",
+    "start_point_name": "세봉삼거리전 바위",
+    "length": 299,
+    "time": "4"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.629597,
@@ -88,9 +113,13 @@
         "lng": 126.5896
       }
     ],
-    "color": "#9e182f"
+    "color": "#80c7ff",
+    "start_point_name": "세봉삼거리전",
+    "length": 105,
+    "time": "1"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.628883,
@@ -101,9 +130,13 @@
         "lng": 126.589806
       }
     ],
-    "color": "#4b1246"
+    "color": "#5acbe4",
+    "start_point_name": "인장바위",
+    "length": 235,
+    "time": "3"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.626774,
@@ -114,9 +147,13 @@
         "lng": 126.589821
       }
     ],
-    "color": "#d40947"
+    "color": "#3161d7",
+    "start_point_name": "갈림길",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.626751,
@@ -127,9 +164,13 @@
         "lng": 126.586334
       }
     ],
-    "color": "#a44281"
+    "color": "#6ba8bb",
+    "start_point_name": "세봉삼거리",
+    "length": 316,
+    "time": "5"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.626507,
@@ -140,9 +181,13 @@
         "lng": 126.586243
       }
     ],
-    "color": "#c96c1c"
+    "color": "#fdb9a8",
+    "start_point_name": "세봉",
+    "length": 41,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 35.626144,
@@ -153,9 +198,13 @@
         "lng": 126.582993
       }
     ],
-    "color": "#1fcabf"
+    "color": "#b8b622",
+    "start_point_name": "세봉50미터",
+    "length": 413,
+    "time": "6"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 35.623531,
@@ -166,9 +215,13 @@
         "lng": 126.582512
       }
     ],
-    "color": "#8c81d6"
+    "color": "#e1ed03",
+    "start_point_name": "관음봉20m전",
+    "length": 55,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 35.623219,
@@ -179,9 +232,13 @@
         "lng": 126.5802
       }
     ],
-    "color": "#e7fbbc"
+    "color": "#ef89dd",
+    "start_point_name": "변산관음봉",
+    "length": 271,
+    "time": "4"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 35.621662,
@@ -192,9 +249,13 @@
         "lng": 126.581284
       }
     ],
-    "color": "#b8a53a"
+    "color": "#9a1e54",
+    "start_point_name": "갈림길",
+    "length": 124,
+    "time": "2"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 35.620964,
@@ -205,9 +266,13 @@
         "lng": 126.581528
       }
     ],
-    "color": "#986c21"
+    "color": "#c1ef27",
+    "start_point_name": "관음봉삼거리50m전",
+    "length": 37,
+    "time": "0"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 35.620686,
@@ -218,9 +283,13 @@
         "lng": 126.582085
       }
     ],
-    "color": "#659c07"
+    "color": "#298687",
+    "start_point_name": "곰소배경",
+    "length": 83,
+    "time": "1"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 35.620087,
@@ -231,9 +300,13 @@
         "lng": 126.58371
       }
     ],
-    "color": "#b3e091"
+    "color": "#e2f5d0",
+    "start_point_name": "관음봉배경",
+    "length": 370,
+    "time": "6"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 35.617027,
@@ -244,9 +317,13 @@
         "lng": 126.588028
       }
     ],
-    "color": "#60d1b7"
+    "color": "#185ba7",
+    "start_point_name": "내소쉄터",
+    "length": 445,
+    "time": "7"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 35.615101,
@@ -257,9 +334,13 @@
         "lng": 126.588455
       }
     ],
-    "color": "#389076"
+    "color": "#6d61cf",
+    "start_point_name": "전나무숲",
+    "length": 43,
+    "time": "0"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 35.614918,
@@ -270,9 +351,13 @@
         "lng": 126.587738
       }
     ],
-    "color": "#44f25c"
+    "color": "#da8134",
+    "start_point_name": "갈림길",
+    "length": 227,
+    "time": "3"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 35.616875,
@@ -283,9 +368,13 @@
         "lng": 126.589134
       }
     ],
-    "color": "#e46fbc"
+    "color": "#be3d5f",
+    "start_point_name": "내소사",
+    "length": 390,
+    "time": "6"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 35.613548,
@@ -296,9 +385,13 @@
         "lng": 126.589432
       }
     ],
-    "color": "#2ccb40"
+    "color": "#f7eacf",
+    "start_point_name": "전나무숲",
+    "length": 93,
+    "time": "1"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 35.61274,
@@ -309,6 +402,9 @@
         "lng": 126.589096
       }
     ],
-    "color": "#6d699c"
+    "color": "#28ada7",
+    "start_point_name": "일주문",
+    "length": 113,
+    "time": "1"
   }
 ]

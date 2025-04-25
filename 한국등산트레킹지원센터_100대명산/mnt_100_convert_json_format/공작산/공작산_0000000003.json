@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.732494,
@@ -10,9 +11,13 @@
         "lng": 127.965446
       }
     ],
-    "color": "#e2323b"
+    "color": "#ef94e9",
+    "start_point_name": "굴운저수지 버스정류장",
+    "length": 1236,
+    "time": "20"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.725674,
@@ -23,9 +28,13 @@
         "lng": 128.010849
       }
     ],
-    "color": "#d78101"
+    "color": "#c0f04b",
+    "start_point_name": "갈림길",
+    "length": 4189,
+    "time": "69"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.714272,
@@ -36,9 +45,13 @@
         "lng": 128.015747
       }
     ],
-    "color": "#ee8ef7"
+    "color": "#2a07b7",
+    "start_point_name": "갈림길",
+    "length": 431,
+    "time": "7"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.714115,
@@ -49,9 +62,13 @@
         "lng": 128.015915
       }
     ],
-    "color": "#1aafe6"
+    "color": "#acc4f1",
+    "start_point_name": "낙엽송지대",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.714092,
@@ -62,9 +79,13 @@
         "lng": 128.01532
       }
     ],
-    "color": "#8e591f"
+    "color": "#fa0fcb",
+    "start_point_name": "갈림길",
+    "length": 187,
+    "time": "3"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.715714,
@@ -75,9 +96,13 @@
         "lng": 128.015427
       }
     ],
-    "color": "#aa586d"
+    "color": "#8d9ecc",
+    "start_point_name": "갈림길",
+    "length": 1345,
+    "time": "22"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.727818,
@@ -88,6 +113,9 @@
         "lng": 128.000839
       }
     ],
-    "color": "#0e0c66"
+    "color": "#66293a",
+    "start_point_name": "공작폭포",
+    "length": 3162,
+    "time": "52"
   }
 ]

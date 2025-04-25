@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 36.397999,
@@ -10,9 +11,13 @@
         "lng": 126.891647
       }
     ],
-    "color": "#aeb109"
+    "color": "#ef822d",
+    "start_point_name": "간이화정실",
+    "length": 155,
+    "time": "2"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 36.39938,
@@ -23,9 +28,13 @@
         "lng": 126.891518
       }
     ],
-    "color": "#72fef8"
+    "color": "#7e8df1",
+    "start_point_name": "공중화장실",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 36.399414,
@@ -36,9 +45,13 @@
         "lng": 126.891533
       }
     ],
-    "color": "#f05a3d"
+    "color": "#c2278b",
+    "start_point_name": "주차가능공터",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 36.399448,
@@ -49,9 +62,13 @@
         "lng": 126.891418
       }
     ],
-    "color": "#a9e9d8"
+    "color": "#1059c6",
+    "start_point_name": "도림사지~정상간 등산등로 입구",
+    "length": 18,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 36.399582,
@@ -62,9 +79,13 @@
         "lng": 126.89241
       }
     ],
-    "color": "#5b87e4"
+    "color": "#651968",
+    "start_point_name": "이정표",
+    "length": 505,
+    "time": "8"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 36.404053,
@@ -75,9 +96,13 @@
         "lng": 126.892441
       }
     ],
-    "color": "#63567e"
+    "color": "#4e2163",
+    "start_point_name": "이정표",
+    "length": 64,
+    "time": "1"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 36.404629,
@@ -88,9 +113,13 @@
         "lng": 126.890907
       }
     ],
-    "color": "#d8678f"
+    "color": "#fb984b",
+    "start_point_name": "도림사지 삼층석탑",
+    "length": 294,
+    "time": "4"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 36.406971,
@@ -101,9 +130,13 @@
         "lng": 126.887215
       }
     ],
-    "color": "#9599c6"
+    "color": "#1fcff6",
+    "start_point_name": "이정표",
+    "length": 436,
+    "time": "7"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 36.409538,
@@ -114,9 +147,13 @@
         "lng": 126.891876
       }
     ],
-    "color": "#0f2fff"
+    "color": "#1e8148",
+    "start_point_name": "이정표",
+    "length": 721,
+    "time": "12"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 36.404243,
@@ -127,9 +164,13 @@
         "lng": 126.89167
       }
     ],
-    "color": "#7e9a84"
+    "color": "#1dc5db",
+    "start_point_name": "이정표",
+    "length": 283,
+    "time": "4"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 36.401699,
@@ -140,9 +181,13 @@
         "lng": 126.891144
       }
     ],
-    "color": "#db52a8"
+    "color": "#698324",
+    "start_point_name": "공부를",
+    "length": 80,
+    "time": "1"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 36.401115,
@@ -153,6 +198,9 @@
         "lng": 126.894066
       }
     ],
-    "color": "#d14c15"
+    "color": "#8f758a",
+    "start_point_name": "이정표",
+    "length": 741,
+    "time": "12"
   }
 ]

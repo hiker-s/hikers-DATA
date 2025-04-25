@@ -1,10 +1,24 @@
 import os
 import json
 import random
+import math
 
 # 랜덤 hex 색상 생성 함수
 def random_color():
     return "#{:06x}".format(random.randint(0, 0xFFFFFF))
+
+# 거리 계산 함수 (하버사인 공식)
+def calculate_distance(lat1, lon1, lat2, lon2):
+    R = 6371000  # 지구 반지름 (미터)
+    lat1_rad = math.radians(lat1)
+    lon1_rad = math.radians(lon1)
+    lat2_rad = math.radians(lat2)
+    lon2_rad = math.radians(lon2)
+    delta_lat = lat2_rad - lat1_rad
+    delta_lon = lon2_rad - lon1_rad
+    a = math.sin(delta_lat / 2)**2 + math.cos(lat1_rad) * math.cos(lat2_rad) * math.sin(delta_lon / 2)**2
+    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+    return R * c
 
 # 경로 설정
 base_dir = os.path.dirname(__file__)
@@ -30,12 +44,27 @@ for mountain_folder in os.listdir(json_path):
                     # 두 점씩 연결해서 section 생성
                     sections = []
                     for i in range(len(waypoints) - 1):
+                        lat1 = waypoints[i]['lat']
+                        lon1 = waypoints[i]['lon']
+                        lat2 = waypoints[i+1]['lat']
+                        lon2 = waypoints[i+1]['lon']
+
+                        # 미터 단위
+                        length = calculate_distance(lat1, lon1, lat2, lon2)
+                        
+                        # 걷기 속도 = 분당 60m 기준
+                        time_minutes = length / 60  
+
                         section = {
+                            "path_id": i,
                             "path": [
-                                {"lat": waypoints[i]['lat'], "lng": waypoints[i]['lon']},
-                                {"lat": waypoints[i+1]['lat'], "lng": waypoints[i+1]['lon']}
+                                {"lat": lat1, "lng": lon1},
+                                {"lat": lat2, "lng": lon2}
                             ],
-                            "color": random_color()
+                            "color": random_color(),
+                            "start_point_name": waypoints[i].get('name', f"Point {i}"),
+                            "length": math.floor(length), # 반올림
+                            "time": f"{int(time_minutes)}"  # 분 단위
                         }
                         sections.append(section)
 

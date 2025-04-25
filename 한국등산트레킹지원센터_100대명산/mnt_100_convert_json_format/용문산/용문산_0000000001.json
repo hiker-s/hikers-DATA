@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.518688,
@@ -10,9 +11,13 @@
         "lng": 127.525909
       }
     ],
-    "color": "#48ce2b"
+    "color": "#95ca16",
+    "start_point_name": "갈림길",
+    "length": 455,
+    "time": "7"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.522469,
@@ -23,9 +28,13 @@
         "lng": 127.526695
       }
     ],
-    "color": "#43d1bf"
+    "color": "#7bf813",
+    "start_point_name": "쉼터",
+    "length": 261,
+    "time": "4"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.524738,
@@ -36,6 +45,9 @@
         "lng": 127.526642
       }
     ],
-    "color": "#a9e0cb"
+    "color": "#939ec2",
+    "start_point_name": "백년약수터",
+    "length": 68,
+    "time": "1"
   }
 ]

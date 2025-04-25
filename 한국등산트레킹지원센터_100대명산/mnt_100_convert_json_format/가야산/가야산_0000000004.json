@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.789528,
@@ -10,9 +11,13 @@
         "lng": 128.086853
       }
     ],
-    "color": "#97df91"
+    "color": "#73076b",
+    "start_point_name": "돼지골탐방지원센터주차장",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.789482,
@@ -23,9 +28,13 @@
         "lng": 128.086716
       }
     ],
-    "color": "#cd32fb"
+    "color": "#1693b9",
+    "start_point_name": "해인관광호텔",
+    "length": 27,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.789257,
@@ -36,9 +45,13 @@
         "lng": 128.08754
       }
     ],
-    "color": "#65d07e"
+    "color": "#f34170",
+    "start_point_name": "돼지골 탐방지원센터",
+    "length": 873,
+    "time": "14"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.781429,
@@ -49,9 +62,13 @@
         "lng": 128.089294
       }
     ],
-    "color": "#2226a9"
+    "color": "#f24d35",
+    "start_point_name": "멧돼지 주의",
+    "length": 561,
+    "time": "9"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.776581,
@@ -62,9 +79,13 @@
         "lng": 128.092468
       }
     ],
-    "color": "#449ddc"
+    "color": "#3a1000",
+    "start_point_name": "안전사고 다발구간",
+    "length": 290,
+    "time": "4"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.777027,
@@ -75,9 +96,13 @@
         "lng": 128.094711
       }
     ],
-    "color": "#69dc7f"
+    "color": "#912b44",
+    "start_point_name": "벤치",
+    "length": 447,
+    "time": "7"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.773438,
@@ -88,6 +113,9 @@
         "lng": 128.095154
       }
     ],
-    "color": "#1e4809"
+    "color": "#bad573",
+    "start_point_name": "자연경관",
+    "length": 96,
+    "time": "1"
   }
 ]

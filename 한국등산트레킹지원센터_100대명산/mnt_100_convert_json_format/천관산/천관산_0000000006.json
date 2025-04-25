@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 34.473724,
@@ -10,9 +11,13 @@
         "lng": 126.919662
       }
     ],
-    "color": "#c7af06"
+    "color": "#b03172",
+    "start_point_name": "갈림길 12",
+    "length": 201,
+    "time": "3"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 34.475193,
@@ -23,9 +28,13 @@
         "lng": 126.918839
       }
     ],
-    "color": "#51d277"
+    "color": "#75b592",
+    "start_point_name": "웨이포인트 13",
+    "length": 121,
+    "time": "2"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 34.476048,
@@ -36,9 +45,13 @@
         "lng": 126.918793
       }
     ],
-    "color": "#ac63bc"
+    "color": "#26f35e",
+    "start_point_name": "갈림길 14",
+    "length": 227,
+    "time": "3"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 34.478092,
@@ -49,9 +62,13 @@
         "lng": 126.918716
       }
     ],
-    "color": "#5107da"
+    "color": "#c50f37",
+    "start_point_name": "갈림길 15",
+    "length": 20,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 34.478268,
@@ -62,9 +79,13 @@
         "lng": 126.918793
       }
     ],
-    "color": "#e87f80"
+    "color": "#a5ee9b",
+    "start_point_name": "화장실",
+    "length": 20,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 34.478092,
@@ -75,9 +96,13 @@
         "lng": 126.918793
       }
     ],
-    "color": "#b74336"
+    "color": "#fd9424",
+    "start_point_name": "갈림길 15",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 34.478092,
@@ -88,9 +113,13 @@
         "lng": 126.916122
       }
     ],
-    "color": "#838732"
+    "color": "#d776c2",
+    "start_point_name": "갈림길 15",
+    "length": 557,
+    "time": "9"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 34.482601,
@@ -101,9 +130,13 @@
         "lng": 126.911995
       }
     ],
-    "color": "#b5359f"
+    "color": "#04f96e",
+    "start_point_name": "아들바위",
+    "length": 563,
+    "time": "9"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 34.486362,
@@ -114,9 +147,13 @@
         "lng": 126.911156
       }
     ],
-    "color": "#a037c4"
+    "color": "#ab2aa1",
+    "start_point_name": "질깔끄막",
+    "length": 125,
+    "time": "2"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 34.487259,
@@ -127,9 +164,13 @@
         "lng": 126.910324
       }
     ],
-    "color": "#9d9cdb"
+    "color": "#02f838",
+    "start_point_name": "포토존",
+    "length": 139,
+    "time": "2"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 34.488312,
@@ -140,9 +181,13 @@
         "lng": 126.908356
       }
     ],
-    "color": "#0f5ecb"
+    "color": "#fd3fe5",
+    "start_point_name": "갈림길 20",
+    "length": 200,
+    "time": "3"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 34.489105,
@@ -153,9 +198,13 @@
         "lng": 126.906914
       }
     ],
-    "color": "#4076b9"
+    "color": "#2e2996",
+    "start_point_name": "책상바위",
+    "length": 203,
+    "time": "3"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 34.490501,
@@ -166,9 +215,13 @@
         "lng": 126.907051
       }
     ],
-    "color": "#92aa3c"
+    "color": "#dc4efc",
+    "start_point_name": "갈림길 22",
+    "length": 122,
+    "time": "2"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 34.4916,
@@ -179,9 +232,13 @@
         "lng": 126.905327
       }
     ],
-    "color": "#5b584c"
+    "color": "#bf151b",
+    "start_point_name": "갈림길 23",
+    "length": 174,
+    "time": "2"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 34.492264,
@@ -192,9 +249,13 @@
         "lng": 126.903038
       }
     ],
-    "color": "#fe4abc"
+    "color": "#993a53",
+    "start_point_name": "갈림길 24",
+    "length": 211,
+    "time": "3"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 34.492538,
@@ -205,9 +266,13 @@
         "lng": 126.90078
       }
     ],
-    "color": "#3fb10c"
+    "color": "#8254cb",
+    "start_point_name": "갈림길 25",
+    "length": 207,
+    "time": "3"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 34.492706,
@@ -218,9 +283,13 @@
         "lng": 126.901192
       }
     ],
-    "color": "#a70c51"
+    "color": "#4a211e",
+    "start_point_name": "갈림길 26",
+    "length": 361,
+    "time": "6"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 34.495941,
@@ -231,9 +300,13 @@
         "lng": 126.899673
       }
     ],
-    "color": "#9683f1"
+    "color": "#06e660",
+    "start_point_name": "갈림길 27",
+    "length": 176,
+    "time": "2"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 34.496918,
@@ -244,9 +317,13 @@
         "lng": 126.898705
       }
     ],
-    "color": "#250bcd"
+    "color": "#424440",
+    "start_point_name": "갈림길 28",
+    "length": 222,
+    "time": "3"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 34.498756,
@@ -257,9 +334,13 @@
         "lng": 126.898727
       }
     ],
-    "color": "#d46d97"
+    "color": "#81490c",
+    "start_point_name": "버스",
+    "length": 13,
+    "time": "0"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 34.498875,
@@ -270,9 +351,13 @@
         "lng": 126.89875
       }
     ],
-    "color": "#bf7ff1"
+    "color": "#0e3762",
+    "start_point_name": "쉼터",
+    "length": 19,
+    "time": "0"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 34.49905,
@@ -283,9 +368,13 @@
         "lng": 126.901039
       }
     ],
-    "color": "#fde5f4"
+    "color": "#aab9c1",
+    "start_point_name": "갈림길 31",
+    "length": 258,
+    "time": "4"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 34.500401,
@@ -296,9 +385,13 @@
         "lng": 126.90271
       }
     ],
-    "color": "#9d6b05"
+    "color": "#8e6bab",
+    "start_point_name": "갈림길 32",
+    "length": 323,
+    "time": "5"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 34.50296,
@@ -309,9 +402,13 @@
         "lng": 126.901833
       }
     ],
-    "color": "#5e5e66"
+    "color": "#0d62c7",
+    "start_point_name": "갈림길 33",
+    "length": 353,
+    "time": "5"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 34.506058,
@@ -322,9 +419,13 @@
         "lng": 126.901825
       }
     ],
-    "color": "#18c423"
+    "color": "#82babc",
+    "start_point_name": "갈림길 34",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 34.506096,
@@ -335,9 +436,13 @@
         "lng": 126.901978
       }
     ],
-    "color": "#7303ac"
+    "color": "#589c16",
+    "start_point_name": "버스",
+    "length": 62,
+    "time": "1"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 34.506645,
@@ -348,9 +453,13 @@
         "lng": 126.901978
       }
     ],
-    "color": "#85679b"
+    "color": "#9e9e3c",
+    "start_point_name": "갈림길 36",
+    "length": 19,
+    "time": "0"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 34.506824,
@@ -361,9 +470,13 @@
         "lng": 126.902016
       }
     ],
-    "color": "#b0d4ea"
+    "color": "#7afae5",
+    "start_point_name": "쉼터",
+    "length": 58,
+    "time": "0"
   },
   {
+    "path_id": 28,
     "path": [
       {
         "lat": 34.507351,
@@ -374,9 +487,13 @@
         "lng": 126.901756
       }
     ],
-    "color": "#f40ce6"
+    "color": "#e79cb1",
+    "start_point_name": "갈림길 38",
+    "length": 104,
+    "time": "1"
   },
   {
+    "path_id": 29,
     "path": [
       {
         "lat": 34.508263,
@@ -387,9 +504,13 @@
         "lng": 126.901649
       }
     ],
-    "color": "#067a09"
+    "color": "#4aa506",
+    "start_point_name": "쉼터",
+    "length": 53,
+    "time": "0"
   },
   {
+    "path_id": 30,
     "path": [
       {
         "lat": 34.508739,
@@ -400,9 +521,13 @@
         "lng": 126.899765
       }
     ],
-    "color": "#ece539"
+    "color": "#37f808",
+    "start_point_name": "갈림길 40",
+    "length": 322,
+    "time": "5"
   },
   {
+    "path_id": 31,
     "path": [
       {
         "lat": 34.511189,
@@ -413,9 +538,13 @@
         "lng": 126.90181
       }
     ],
-    "color": "#5d095b"
+    "color": "#e7e26f",
+    "start_point_name": "갈림길 41",
+    "length": 271,
+    "time": "4"
   },
   {
+    "path_id": 32,
     "path": [
       {
         "lat": 34.512959,
@@ -426,9 +555,13 @@
         "lng": 126.902184
       }
     ],
-    "color": "#fc1aa4"
+    "color": "#28020f",
+    "start_point_name": "갈림길 42",
+    "length": 112,
+    "time": "1"
   },
   {
+    "path_id": 33,
     "path": [
       {
         "lat": 34.513927,
@@ -439,9 +572,13 @@
         "lng": 126.902611
       }
     ],
-    "color": "#ddfaec"
+    "color": "#f26270",
+    "start_point_name": "관광안내소",
+    "length": 248,
+    "time": "4"
   },
   {
+    "path_id": 34,
     "path": [
       {
         "lat": 34.516136,
@@ -452,9 +589,13 @@
         "lng": 126.903275
       }
     ],
-    "color": "#d017f6"
+    "color": "#1e2ab0",
+    "start_point_name": "갈림길 44",
+    "length": 101,
+    "time": "1"
   },
   {
+    "path_id": 35,
     "path": [
       {
         "lat": 34.516872,
@@ -465,9 +606,13 @@
         "lng": 126.906746
       }
     ],
-    "color": "#d4e607"
+    "color": "#4ee2e3",
+    "start_point_name": "쉼터",
+    "length": 752,
+    "time": "12"
   },
   {
+    "path_id": 36,
     "path": [
       {
         "lat": 34.523006,
@@ -478,9 +623,13 @@
         "lng": 126.908188
       }
     ],
-    "color": "#fe9f4e"
+    "color": "#893f69",
+    "start_point_name": "주차장",
+    "length": 154,
+    "time": "2"
   },
   {
+    "path_id": 37,
     "path": [
       {
         "lat": 34.52372,
@@ -491,9 +640,13 @@
         "lng": 126.908424
       }
     ],
-    "color": "#db0ed3"
+    "color": "#741f4d",
+    "start_point_name": "주차장",
+    "length": 33,
+    "time": "0"
   },
   {
+    "path_id": 38,
     "path": [
       {
         "lat": 34.523952,
@@ -504,6 +657,9 @@
         "lng": 126.908424
       }
     ],
-    "color": "#9c225f"
+    "color": "#e36ba0",
+    "start_point_name": "화장실",
+    "length": 14,
+    "time": "0"
   }
 ]

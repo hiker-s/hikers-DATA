@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.767159,
@@ -10,9 +11,13 @@
         "lng": 127.414917
       }
     ],
-    "color": "#4281d8"
+    "color": "#9ca5f0",
+    "start_point_name": "가위박물관앞 화장실",
+    "length": 225,
+    "time": "3"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.765533,
@@ -23,9 +28,13 @@
         "lng": 127.415123
       }
     ],
-    "color": "#07daee"
+    "color": "#103f1a",
+    "start_point_name": "마이사 쉼터",
+    "length": 60,
+    "time": "1"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.765015,
@@ -36,9 +45,13 @@
         "lng": 127.415161
       }
     ],
-    "color": "#7fdb0b"
+    "color": "#7b449f",
+    "start_point_name": "마이산안내판",
+    "length": 190,
+    "time": "3"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.763306,
@@ -49,9 +62,13 @@
         "lng": 127.414497
       }
     ],
-    "color": "#d24309"
+    "color": "#321d3f",
+    "start_point_name": "계단중간쉼터",
+    "length": 209,
+    "time": "3"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.761501,
@@ -62,9 +79,13 @@
         "lng": 127.414459
       }
     ],
-    "color": "#c48b58"
+    "color": "#b1f775",
+    "start_point_name": "천왕문",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.761505,
@@ -75,9 +96,13 @@
         "lng": 127.414696
       }
     ],
-    "color": "#7381cc"
+    "color": "#459931",
+    "start_point_name": "천왕문 분수령 쉼터",
+    "length": 70,
+    "time": "1"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.762112,
@@ -88,9 +113,13 @@
         "lng": 127.414703
       }
     ],
-    "color": "#95269c"
+    "color": "#57d4d2",
+    "start_point_name": "갈림길",
+    "length": 6,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.762173,
@@ -101,9 +130,13 @@
         "lng": 127.415665
       }
     ],
-    "color": "#428f13"
+    "color": "#7eeaf0",
+    "start_point_name": "북부주차장가는길.연인의길 갈림길 쉼터",
+    "length": 119,
+    "time": "1"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.762917,
@@ -114,9 +147,13 @@
         "lng": 127.417419
       }
     ],
-    "color": "#a35639"
+    "color": "#64db9d",
+    "start_point_name": "연인의길시작 쉼터",
+    "length": 370,
+    "time": "6"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.76593,
@@ -127,9 +164,13 @@
         "lng": 127.416008
       }
     ],
-    "color": "#ee7ab1"
+    "color": "#0b14e3",
+    "start_point_name": "쉼터",
+    "length": 242,
+    "time": "4"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.767784,
@@ -140,9 +181,13 @@
         "lng": 127.416061
       }
     ],
-    "color": "#6ef83c"
+    "color": "#33ed8c",
+    "start_point_name": "마이산조망점 쉼터",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 35.767788,
@@ -153,6 +198,9 @@
         "lng": 127.414497
       }
     ],
-    "color": "#d8417b"
+    "color": "#b5a9b5",
+    "start_point_name": "마이산 조망점",
+    "length": 160,
+    "time": "2"
   }
 ]

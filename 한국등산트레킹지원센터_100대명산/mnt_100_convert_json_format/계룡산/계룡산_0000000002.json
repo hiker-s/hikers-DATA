@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 36.361523,
@@ -10,9 +11,13 @@
         "lng": 127.210297
       }
     ],
-    "color": "#1a72d1"
+    "color": "#0ad7cf",
+    "start_point_name": "계룡산 삼불봉",
+    "length": 10,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 36.361492,
@@ -23,9 +28,13 @@
         "lng": 127.210365
       }
     ],
-    "color": "#d5b7ae"
+    "color": "#873423",
+    "start_point_name": "낙석, 추락 미끄럼 주의",
+    "length": 6,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 36.361492,
@@ -36,9 +45,13 @@
         "lng": 127.210373
       }
     ],
-    "color": "#9c920c"
+    "color": "#f339fa",
+    "start_point_name": "삼불봉",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 36.3615,
@@ -49,9 +62,13 @@
         "lng": 127.210129
       }
     ],
-    "color": "#06d63c"
+    "color": "#725a3d",
+    "start_point_name": "삼불봉 조망",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 36.361462,
@@ -62,9 +79,13 @@
         "lng": 127.210022
       }
     ],
-    "color": "#cfe31f"
+    "color": "#e62b3f",
+    "start_point_name": "조망점",
+    "length": 16,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 36.36158,
@@ -75,9 +96,13 @@
         "lng": 127.20974
       }
     ],
-    "color": "#06f1a3"
+    "color": "#58578a",
+    "start_point_name": "자연경관",
+    "length": 25,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 36.361572,
@@ -88,9 +113,13 @@
         "lng": 127.208069
       }
     ],
-    "color": "#7449a1"
+    "color": "#052434",
+    "start_point_name": "갈림길",
+    "length": 175,
+    "time": "2"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 36.360752,
@@ -101,9 +130,13 @@
         "lng": 127.208054
       }
     ],
-    "color": "#aa9c77"
+    "color": "#00b06c",
+    "start_point_name": "갈림길",
+    "length": 35,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 36.360435,
@@ -114,9 +147,13 @@
         "lng": 127.208046
       }
     ],
-    "color": "#b820cf"
+    "color": "#5c3854",
+    "start_point_name": "조망점",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 36.360435,
@@ -127,9 +164,13 @@
         "lng": 127.208038
       }
     ],
-    "color": "#dce6f4"
+    "color": "#ddcb75",
+    "start_point_name": "자연경관",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 36.360428,
@@ -140,9 +181,13 @@
         "lng": 127.207916
       }
     ],
-    "color": "#d525c2"
+    "color": "#a20d17",
+    "start_point_name": "포토존",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 36.360367,
@@ -153,9 +198,13 @@
         "lng": 127.207855
       }
     ],
-    "color": "#f05c2e"
+    "color": "#ff21ba",
+    "start_point_name": "추락주의",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 36.360367,
@@ -166,9 +215,13 @@
         "lng": 127.207741
       }
     ],
-    "color": "#88d0a0"
+    "color": "#a7dd56",
+    "start_point_name": "조망점",
+    "length": 35,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 36.360058,
@@ -179,9 +232,13 @@
         "lng": 127.207741
       }
     ],
-    "color": "#2bb95a"
+    "color": "#aab4af",
+    "start_point_name": "자연성릉 자연경관",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 36.360054,
@@ -192,9 +249,13 @@
         "lng": 127.207748
       }
     ],
-    "color": "#9b33e3"
+    "color": "#6891c5",
+    "start_point_name": "자연성릉 조망점",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 36.360058,
@@ -205,9 +266,13 @@
         "lng": 127.207649
       }
     ],
-    "color": "#6f4040"
+    "color": "#c132e1",
+    "start_point_name": "자연성릉 포토스팟",
+    "length": 48,
+    "time": "0"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 36.359627,
@@ -218,9 +283,13 @@
         "lng": 127.206955
       }
     ],
-    "color": "#13507f"
+    "color": "#612bb0",
+    "start_point_name": "암벽",
+    "length": 143,
+    "time": "2"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 36.358463,
@@ -231,9 +300,13 @@
         "lng": 127.203941
       }
     ],
-    "color": "#f1aa6c"
+    "color": "#717d34",
+    "start_point_name": "조망점",
+    "length": 392,
+    "time": "6"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 36.3559,
@@ -244,9 +317,13 @@
         "lng": 127.203613
       }
     ],
-    "color": "#dcc394"
+    "color": "#a06b64",
+    "start_point_name": "조망점",
+    "length": 160,
+    "time": "2"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 36.354485,
@@ -257,9 +334,13 @@
         "lng": 127.203789
       }
     ],
-    "color": "#f630f1"
+    "color": "#de6001",
+    "start_point_name": "조망점",
+    "length": 232,
+    "time": "3"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 36.352398,
@@ -270,9 +351,13 @@
         "lng": 127.207756
       }
     ],
-    "color": "#88a94b"
+    "color": "#3ddea3",
+    "start_point_name": "낙석주의",
+    "length": 358,
+    "time": "5"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 36.352859,
@@ -283,9 +368,13 @@
         "lng": 127.208504
       }
     ],
-    "color": "#d0d9fb"
+    "color": "#8aef5d",
+    "start_point_name": "은선폭포상단 안전쉼터",
+    "length": 68,
+    "time": "1"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 36.352993,
@@ -296,9 +385,13 @@
         "lng": 127.209068
       }
     ],
-    "color": "#77d988"
+    "color": "#edc06a",
+    "start_point_name": "낙석 추락미끄럼주의",
+    "length": 80,
+    "time": "1"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 36.352432,
@@ -309,9 +402,13 @@
         "lng": 127.209053
       }
     ],
-    "color": "#05dff3"
+    "color": "#1cd0fc",
+    "start_point_name": "은선폭포",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 36.35239,
@@ -322,9 +419,13 @@
         "lng": 127.209335
       }
     ],
-    "color": "#9d601a"
+    "color": "#ccaa9b",
+    "start_point_name": "은선폭포",
+    "length": 27,
+    "time": "0"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 36.352493,
@@ -335,9 +436,13 @@
         "lng": 127.209595
       }
     ],
-    "color": "#500a2b"
+    "color": "#d87908",
+    "start_point_name": "갈림길",
+    "length": 44,
+    "time": "0"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 36.35215,
@@ -348,9 +453,13 @@
         "lng": 127.210587
       }
     ],
-    "color": "#644271"
+    "color": "#ed3e3c",
+    "start_point_name": "쌀개봉 조망점",
+    "length": 130,
+    "time": "2"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 36.351288,
@@ -361,9 +470,13 @@
         "lng": 127.21199
       }
     ],
-    "color": "#9bbf71"
+    "color": "#357185",
+    "start_point_name": "은선폭포 하단 계곡",
+    "length": 126,
+    "time": "2"
   },
   {
+    "path_id": 28,
     "path": [
       {
         "lat": 36.351387,
@@ -374,9 +487,13 @@
         "lng": 127.212044
       }
     ],
-    "color": "#e52eb8"
+    "color": "#5d8bb8",
+    "start_point_name": "미끄럼주의(상습결빙구간)",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 29,
     "path": [
       {
         "lat": 36.351368,
@@ -387,9 +504,13 @@
         "lng": 127.212494
       }
     ],
-    "color": "#9fcadf"
+    "color": "#dd51ac",
+    "start_point_name": "낙석주의",
+    "length": 49,
+    "time": "0"
   },
   {
+    "path_id": 30,
     "path": [
       {
         "lat": 36.351631,
@@ -400,9 +521,13 @@
         "lng": 127.219627
       }
     ],
-    "color": "#b7c6e3"
+    "color": "#de16dc",
+    "start_point_name": "급경사지 위험지역",
+    "length": 666,
+    "time": "11"
   },
   {
+    "path_id": 31,
     "path": [
       {
         "lat": 36.35334,
@@ -413,9 +538,13 @@
         "lng": 127.220062
       }
     ],
-    "color": "#d52991"
+    "color": "#79ef81",
+    "start_point_name": "공주 청량사지 칠층석탑",
+    "length": 44,
+    "time": "0"
   },
   {
+    "path_id": 32,
     "path": [
       {
         "lat": 36.353142,
@@ -426,9 +555,13 @@
         "lng": 127.220192
       }
     ],
-    "color": "#8cd247"
+    "color": "#6379d0",
+    "start_point_name": "대웅전",
+    "length": 13,
+    "time": "0"
   },
   {
+    "path_id": 33,
     "path": [
       {
         "lat": 36.353081,
@@ -439,9 +572,13 @@
         "lng": 127.220467
       }
     ],
-    "color": "#2a69e5"
+    "color": "#e99234",
+    "start_point_name": "동학사",
+    "length": 34,
+    "time": "0"
   },
   {
+    "path_id": 34,
     "path": [
       {
         "lat": 36.352859,
@@ -452,9 +589,13 @@
         "lng": 127.221054
       }
     ],
-    "color": "#70563a"
+    "color": "#90062b",
+    "start_point_name": "화장실",
+    "length": 55,
+    "time": "0"
   },
   {
+    "path_id": 35,
     "path": [
       {
         "lat": 36.353027,
@@ -465,9 +606,13 @@
         "lng": 127.221375
       }
     ],
-    "color": "#351ef2"
+    "color": "#6337d2",
+    "start_point_name": "정자",
+    "length": 31,
+    "time": "0"
   },
   {
+    "path_id": 36,
     "path": [
       {
         "lat": 36.353138,
@@ -478,9 +623,13 @@
         "lng": 127.221329
       }
     ],
-    "color": "#2d5c12"
+    "color": "#f81b48",
+    "start_point_name": "갈림길",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 37,
     "path": [
       {
         "lat": 36.353142,
@@ -491,9 +640,13 @@
         "lng": 127.222473
       }
     ],
-    "color": "#c2045e"
+    "color": "#9eba57",
+    "start_point_name": "벤치",
+    "length": 103,
+    "time": "1"
   },
   {
+    "path_id": 38,
     "path": [
       {
         "lat": 36.352982,
@@ -504,9 +657,13 @@
         "lng": 127.222656
       }
     ],
-    "color": "#06779f"
+    "color": "#5b19d3",
+    "start_point_name": "미타암",
+    "length": 27,
+    "time": "0"
   },
   {
+    "path_id": 39,
     "path": [
       {
         "lat": 36.353176,
@@ -517,9 +674,13 @@
         "lng": 127.227707
       }
     ],
-    "color": "#4ff523"
+    "color": "#824d65",
+    "start_point_name": "길상암",
+    "length": 498,
+    "time": "8"
   },
   {
+    "path_id": 40,
     "path": [
       {
         "lat": 36.355057,
@@ -530,9 +691,13 @@
         "lng": 127.228546
       }
     ],
-    "color": "#78e3db"
+    "color": "#ee02aa",
+    "start_point_name": "화장실",
+    "length": 78,
+    "time": "1"
   },
   {
+    "path_id": 41,
     "path": [
       {
         "lat": 36.355259,
@@ -543,9 +708,13 @@
         "lng": 127.229103
       }
     ],
-    "color": "#03a85f"
+    "color": "#333ea2",
+    "start_point_name": "벤치",
+    "length": 71,
+    "time": "1"
   },
   {
+    "path_id": 42,
     "path": [
       {
         "lat": 36.355724,
@@ -556,9 +725,13 @@
         "lng": 127.230812
       }
     ],
-    "color": "#6d2080"
+    "color": "#dd697c",
+    "start_point_name": "기념품샵",
+    "length": 155,
+    "time": "2"
   },
   {
+    "path_id": 43,
     "path": [
       {
         "lat": 36.355968,
@@ -569,9 +742,13 @@
         "lng": 127.231804
       }
     ],
-    "color": "#ee1e89"
+    "color": "#6776a3",
+    "start_point_name": "벤치",
+    "length": 111,
+    "time": "1"
   },
   {
+    "path_id": 44,
     "path": [
       {
         "lat": 36.356571,
@@ -582,9 +759,13 @@
         "lng": 127.232735
       }
     ],
-    "color": "#6bd3f9"
+    "color": "#7fa09c",
+    "start_point_name": "동학계곡 신록",
+    "length": 84,
+    "time": "1"
   },
   {
+    "path_id": 45,
     "path": [
       {
         "lat": 36.356468,
@@ -595,9 +776,13 @@
         "lng": 127.232735
       }
     ],
-    "color": "#ac9415"
+    "color": "#7e6979",
+    "start_point_name": "계룡산탐방안내소",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 46,
     "path": [
       {
         "lat": 36.356468,
@@ -608,9 +793,13 @@
         "lng": 127.232948
       }
     ],
-    "color": "#f1b1ba"
+    "color": "#d817bd",
+    "start_point_name": "계룡산국립공원사무소",
+    "length": 77,
+    "time": "1"
   },
   {
+    "path_id": 47,
     "path": [
       {
         "lat": 36.357143,
@@ -621,6 +810,9 @@
         "lng": 127.233002
       }
     ],
-    "color": "#37b1f7"
+    "color": "#efcf6d",
+    "start_point_name": "동학사 입구",
+    "length": 6,
+    "time": "0"
   }
 ]

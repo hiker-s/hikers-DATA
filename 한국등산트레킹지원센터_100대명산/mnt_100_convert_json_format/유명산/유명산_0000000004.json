@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.596073,
@@ -10,9 +11,13 @@
         "lng": 127.505936
       }
     ],
-    "color": "#0b6492"
+    "color": "#6c0d80",
+    "start_point_name": "유명산종점",
+    "length": 1322,
+    "time": "22"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.597321,
@@ -23,9 +28,13 @@
         "lng": 127.51062
       }
     ],
-    "color": "#1e1a37"
+    "color": "#cbcaae",
+    "start_point_name": "들꽃여울",
+    "length": 868,
+    "time": "14"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.59045,
@@ -36,9 +45,13 @@
         "lng": 127.509872
       }
     ],
-    "color": "#e7ba28"
+    "color": "#075c37",
+    "start_point_name": "어비산안내도",
+    "length": 70,
+    "time": "1"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.590233,
@@ -49,9 +62,13 @@
         "lng": 127.503082
       }
     ],
-    "color": "#d5ccb8"
+    "color": "#e2d253",
+    "start_point_name": "갈림길",
+    "length": 896,
+    "time": "14"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.584229,
@@ -62,9 +79,13 @@
         "lng": 127.503044
       }
     ],
-    "color": "#79dc6f"
+    "color": "#573b48",
+    "start_point_name": "능선등산로",
+    "length": 65,
+    "time": "1"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.583637,
@@ -75,9 +96,13 @@
         "lng": 127.503349
       }
     ],
-    "color": "#b1ae02"
+    "color": "#707a2f",
+    "start_point_name": "등산로",
+    "length": 140,
+    "time": "2"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.582394,
@@ -88,9 +113,13 @@
         "lng": 127.504265
       }
     ],
-    "color": "#40f957"
+    "color": "#425116",
+    "start_point_name": "조망쉼터",
+    "length": 114,
+    "time": "1"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.581665,
@@ -101,9 +130,13 @@
         "lng": 127.506325
       }
     ],
-    "color": "#83392b"
+    "color": "#093ab9",
+    "start_point_name": "조망쉼터",
+    "length": 461,
+    "time": "7"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.577847,
@@ -114,9 +147,13 @@
         "lng": 127.506218
       }
     ],
-    "color": "#fda094"
+    "color": "#d47fa1",
+    "start_point_name": "어비산 인근",
+    "length": 77,
+    "time": "1"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.577152,
@@ -127,9 +164,13 @@
         "lng": 127.506462
       }
     ],
-    "color": "#d5418a"
+    "color": "#558cc1",
+    "start_point_name": "조망쉼터",
+    "length": 211,
+    "time": "3"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.57526,
@@ -140,9 +181,13 @@
         "lng": 127.498482
       }
     ],
-    "color": "#1578d5"
+    "color": "#d405a9",
+    "start_point_name": "어비산",
+    "length": 834,
+    "time": "13"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.571224,
@@ -153,9 +198,13 @@
         "lng": 127.506577
       }
     ],
-    "color": "#e04e8f"
+    "color": "#c9077d",
+    "start_point_name": "갈림길",
+    "length": 852,
+    "time": "14"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 37.575413,
@@ -166,9 +215,13 @@
         "lng": 127.50972
       }
     ],
-    "color": "#a7bb60"
+    "color": "#25971c",
+    "start_point_name": "갈림길",
+    "length": 304,
+    "time": "5"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 37.576553,
@@ -179,9 +232,13 @@
         "lng": 127.51664
       }
     ],
-    "color": "#b8e9bc"
+    "color": "#28e698",
+    "start_point_name": "어비계곡 쉼터",
+    "length": 791,
+    "time": "13"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 37.581085,
@@ -192,9 +249,13 @@
         "lng": 127.515785
       }
     ],
-    "color": "#07b529"
+    "color": "#39b748",
+    "start_point_name": "갈림길",
+    "length": 159,
+    "time": "2"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 37.582352,
@@ -205,6 +266,9 @@
         "lng": 127.511444
       }
     ],
-    "color": "#e19c48"
+    "color": "#bbf6a7",
+    "start_point_name": "갈림길",
+    "length": 1193,
+    "time": "19"
   }
 ]

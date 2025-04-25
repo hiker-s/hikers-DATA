@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.404537,
@@ -10,9 +11,13 @@
         "lng": 128.287506
       }
     ],
-    "color": "#338978"
+    "color": "#27161f",
+    "start_point_name": "백덕산 가는길",
+    "length": 294,
+    "time": "4"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.403545,
@@ -23,9 +28,13 @@
         "lng": 128.293686
       }
     ],
-    "color": "#204faf"
+    "color": "#6067c8",
+    "start_point_name": "갈림길",
+    "length": 615,
+    "time": "10"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.400993,
@@ -36,9 +45,13 @@
         "lng": 128.293777
       }
     ],
-    "color": "#dc7c4a"
+    "color": "#e5bca8",
+    "start_point_name": "갈림길",
+    "length": 39,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.400642,
@@ -49,9 +62,13 @@
         "lng": 128.2939
       }
     ],
-    "color": "#80e6ea"
+    "color": "#b42168",
+    "start_point_name": "정상가기전 작은 공터",
+    "length": 55,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.400154,
@@ -62,9 +79,13 @@
         "lng": 128.293533
       }
     ],
-    "color": "#1ea594"
+    "color": "#52abb1",
+    "start_point_name": "정상 가기전",
+    "length": 65,
+    "time": "1"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.399639,
@@ -75,9 +96,13 @@
         "lng": 128.293533
       }
     ],
-    "color": "#77ce8d"
+    "color": "#6ed91b",
+    "start_point_name": "정상가기전 나무",
+    "length": 351,
+    "time": "5"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.396477,
@@ -88,9 +113,13 @@
         "lng": 128.287613
       }
     ],
-    "color": "#0391ce"
+    "color": "#ba9c3d",
+    "start_point_name": "백덕산 정상",
+    "length": 940,
+    "time": "15"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.403507,
@@ -101,9 +130,13 @@
         "lng": 128.287704
       }
     ],
-    "color": "#ef77a9"
+    "color": "#f12ee1",
+    "start_point_name": "주의 안내문. 문재,백덕산,비네소골 갈림길",
+    "length": 36,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.403824,
@@ -114,9 +147,13 @@
         "lng": 128.287674
       }
     ],
-    "color": "#64049a"
+    "color": "#442d64",
+    "start_point_name": "비네소골 내려가는 길",
+    "length": 573,
+    "time": "9"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.408985,
@@ -127,9 +164,13 @@
         "lng": 128.287613
       }
     ],
-    "color": "#f25161"
+    "color": "#1bb375",
+    "start_point_name": "갈림길",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.409008,
@@ -140,9 +181,13 @@
         "lng": 128.289047
       }
     ],
-    "color": "#7ecb82"
+    "color": "#858bf7",
+    "start_point_name": "주의 안내문",
+    "length": 372,
+    "time": "6"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.412155,
@@ -153,9 +198,13 @@
         "lng": 128.286255
       }
     ],
-    "color": "#80a29f"
+    "color": "#985fe3",
+    "start_point_name": "계곡",
+    "length": 733,
+    "time": "12"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 37.418365,
@@ -166,9 +215,13 @@
         "lng": 128.285583
       }
     ],
-    "color": "#674e3b"
+    "color": "#ee34e7",
+    "start_point_name": "산사태 취약지역",
+    "length": 188,
+    "time": "3"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 37.419971,
@@ -179,9 +232,13 @@
         "lng": 128.285049
       }
     ],
-    "color": "#0ea459"
+    "color": "#e7e7a9",
+    "start_point_name": "비네소골",
+    "length": 121,
+    "time": "2"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 37.420982,
@@ -192,6 +249,9 @@
         "lng": 128.285217
       }
     ],
-    "color": "#0fae6a"
+    "color": "#e41631",
+    "start_point_name": "갈림길",
+    "length": 79,
+    "time": "1"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 36.780079,
@@ -10,9 +11,13 @@
         "lng": 128.927872
       }
     ],
-    "color": "#4c5fb4"
+    "color": "#0c8871",
+    "start_point_name": "산성입구",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 36.780125,
@@ -23,9 +28,13 @@
         "lng": 128.927917
       }
     ],
-    "color": "#e81122"
+    "color": "#55f000",
+    "start_point_name": "산성입구 화장실",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 36.780121,
@@ -36,9 +45,13 @@
         "lng": 128.927643
       }
     ],
-    "color": "#72ca79"
+    "color": "#d59041",
+    "start_point_name": "들머리 산성입구",
+    "length": 25,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 36.780067,
@@ -49,9 +62,13 @@
         "lng": 128.927246
       }
     ],
-    "color": "#395aaa"
+    "color": "#e4369c",
+    "start_point_name": "산성입구 쉼터",
+    "length": 301,
+    "time": "5"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 36.777374,
@@ -62,9 +79,13 @@
         "lng": 128.924225
       }
     ],
-    "color": "#6f5a75"
+    "color": "#e04fa1",
+    "start_point_name": "갈림길",
+    "length": 274,
+    "time": "4"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 36.777885,
@@ -75,9 +96,13 @@
         "lng": 128.925018
       }
     ],
-    "color": "#ef31c7"
+    "color": "#00d728",
+    "start_point_name": "갈림길",
+    "length": 100,
+    "time": "1"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 36.778534,
@@ -88,9 +113,13 @@
         "lng": 128.91983
       }
     ],
-    "color": "#d8ec10"
+    "color": "#4ecad3",
+    "start_point_name": "밀성대 조망",
+    "length": 481,
+    "time": "8"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 36.777328,
@@ -101,9 +130,13 @@
         "lng": 128.917709
       }
     ],
-    "color": "#9e8186"
+    "color": "#5a8c2e",
+    "start_point_name": "청량사,응전전 조망",
+    "length": 227,
+    "time": "3"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 36.77618,
@@ -114,9 +147,13 @@
         "lng": 128.917618
       }
     ],
-    "color": "#87a35a"
+    "color": "#7d4556",
+    "start_point_name": "북문지 전망대",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 36.776089,
@@ -127,9 +164,13 @@
         "lng": 128.914886
       }
     ],
-    "color": "#27ff9c"
+    "color": "#0cf49a",
+    "start_point_name": "위치정보",
+    "length": 317,
+    "time": "5"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 36.774254,
@@ -140,9 +181,13 @@
         "lng": 128.914841
       }
     ],
-    "color": "#f5d7f4"
+    "color": "#3f53cf",
+    "start_point_name": "갈림길",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 36.774227,
@@ -153,9 +198,13 @@
         "lng": 128.912964
       }
     ],
-    "color": "#7fc64d"
+    "color": "#feda7e",
+    "start_point_name": "위치정보",
+    "length": 167,
+    "time": "2"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 36.77433,
@@ -166,9 +215,13 @@
         "lng": 128.912857
       }
     ],
-    "color": "#e151ce"
+    "color": "#aeca67",
+    "start_point_name": "축융봉 해발 845.2m",
+    "length": 24,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 36.774128,
@@ -179,9 +232,13 @@
         "lng": 128.913361
       }
     ],
-    "color": "#71053b"
+    "color": "#b099ce",
+    "start_point_name": "갈림길",
+    "length": 52,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 36.77388,
@@ -192,9 +249,13 @@
         "lng": 128.920044
       }
     ],
-    "color": "#4a1016"
+    "color": "#be2dcb",
+    "start_point_name": "갈림길",
+    "length": 595,
+    "time": "9"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 36.774101,
@@ -205,9 +266,13 @@
         "lng": 128.924393
       }
     ],
-    "color": "#29b69c"
+    "color": "#1fbab3",
+    "start_point_name": "갈림길",
+    "length": 451,
+    "time": "7"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 36.77618,
@@ -218,9 +283,13 @@
         "lng": 128.927597
       }
     ],
-    "color": "#eeff11"
+    "color": "#d03fe5",
+    "start_point_name": "위치정보",
+    "length": 510,
+    "time": "8"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 36.779991,
@@ -231,9 +300,13 @@
         "lng": 128.924622
       }
     ],
-    "color": "#093307"
+    "color": "#7313b2",
+    "start_point_name": "날머리 산성입구",
+    "length": 294,
+    "time": "4"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 36.781143,
@@ -244,9 +317,13 @@
         "lng": 128.920486
       }
     ],
-    "color": "#b867bc"
+    "color": "#a2df2b",
+    "start_point_name": "갈림길",
+    "length": 374,
+    "time": "6"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 36.781727,
@@ -257,9 +334,13 @@
         "lng": 128.924393
       }
     ],
-    "color": "#3a4138"
+    "color": "#0e90c6",
+    "start_point_name": "금탕봉,연화봉",
+    "length": 349,
+    "time": "5"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 36.781391,
@@ -270,6 +351,9 @@
         "lng": 128.927643
       }
     ],
-    "color": "#415e13"
+    "color": "#cb6f1f",
+    "start_point_name": "입석쉼터",
+    "length": 318,
+    "time": "5"
   }
 ]

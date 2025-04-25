@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 34.483768,
@@ -10,9 +11,13 @@
         "lng": 126.614441
       }
     ],
-    "color": "#4ffd04"
+    "color": "#1a3f15",
+    "start_point_name": "마전밭 주차장",
+    "length": 21,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 34.483639,
@@ -23,9 +28,13 @@
         "lng": 126.614166
       }
     ],
-    "color": "#e02a02"
+    "color": "#d63da3",
+    "start_point_name": "주차장내 쉼터",
+    "length": 60,
+    "time": "1"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 34.483143,
@@ -36,9 +45,13 @@
         "lng": 126.612045
       }
     ],
-    "color": "#633871"
+    "color": "#9c9bb7",
+    "start_point_name": "마전밭화장실",
+    "length": 414,
+    "time": "6"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 34.479847,
@@ -49,9 +62,13 @@
         "lng": 126.610611
       }
     ],
-    "color": "#c35a4c"
+    "color": "#523540",
+    "start_point_name": "갈림길",
+    "length": 234,
+    "time": "3"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 34.478104,
@@ -62,9 +79,13 @@
         "lng": 126.611786
       }
     ],
-    "color": "#0b592d"
+    "color": "#69ca63",
+    "start_point_name": "갈림길",
+    "length": 132,
+    "time": "2"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 34.477417,
@@ -75,9 +96,13 @@
         "lng": 126.623146
       }
     ],
-    "color": "#12b537"
+    "color": "#9122ab",
+    "start_point_name": "갈림길",
+    "length": 1609,
+    "time": "26"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 34.466377,
@@ -88,9 +113,13 @@
         "lng": 126.630951
       }
     ],
-    "color": "#d6703a"
+    "color": "#2fd62a",
+    "start_point_name": "갈림길",
+    "length": 1134,
+    "time": "18"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 34.474293,
@@ -101,9 +130,13 @@
         "lng": 126.631439
       }
     ],
-    "color": "#006046"
+    "color": "#4b853e",
+    "start_point_name": "갈림길",
+    "length": 57,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 34.474621,
@@ -114,9 +147,13 @@
         "lng": 126.634613
       }
     ],
-    "color": "#2749b4"
+    "color": "#ee002a",
+    "start_point_name": "북미륵암  마애여래좌상",
+    "length": 444,
+    "time": "7"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 34.477646,
@@ -127,9 +164,13 @@
         "lng": 126.633682
       }
     ],
-    "color": "#be3e8b"
+    "color": "#5f1d65",
+    "start_point_name": "갈림길",
+    "length": 454,
+    "time": "7"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 34.481663,
@@ -140,9 +181,13 @@
         "lng": 126.633979
       }
     ],
-    "color": "#91c228"
+    "color": "#8afecd",
+    "start_point_name": "두륜산 고계봉",
+    "length": 38,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 34.481416,
@@ -153,9 +198,13 @@
         "lng": 126.633979
       }
     ],
-    "color": "#f674cd"
+    "color": "#584878",
+    "start_point_name": "웨이포인트 17",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 34.481416,
@@ -166,9 +215,13 @@
         "lng": 126.633979
       }
     ],
-    "color": "#174e1f"
+    "color": "#70a142",
+    "start_point_name": "웨이포인트 18",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 34.481416,
@@ -179,9 +232,13 @@
         "lng": 126.634286
       }
     ],
-    "color": "#94ac77"
+    "color": "#548af7",
+    "start_point_name": "웨이포인트 19",
+    "length": 149,
+    "time": "2"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 34.480097,
@@ -192,6 +249,9 @@
         "lng": 126.634286
       }
     ],
-    "color": "#894eb5"
+    "color": "#ae34c9",
+    "start_point_name": "웨이포인트 20",
+    "length": 0,
+    "time": "0"
   }
 ]

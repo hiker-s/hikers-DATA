@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.904221,
@@ -10,9 +11,13 @@
         "lng": 127.453545
       }
     ],
-    "color": "#f10e94"
+    "color": "#3d7251",
+    "start_point_name": "백둔봉 입구",
+    "length": 72,
+    "time": "1"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.904419,
@@ -23,9 +28,13 @@
         "lng": 127.453308
       }
     ],
-    "color": "#25bcfd"
+    "color": "#de1563",
+    "start_point_name": "갈림길",
+    "length": 305,
+    "time": "5"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.907162,
@@ -36,9 +45,13 @@
         "lng": 127.457283
       }
     ],
-    "color": "#035024"
+    "color": "#ec1737",
+    "start_point_name": "갈림길",
+    "length": 863,
+    "time": "14"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.914268,
@@ -49,9 +62,13 @@
         "lng": 127.45768
       }
     ],
-    "color": "#afc53c"
+    "color": "#084f9e",
+    "start_point_name": "능선 위에 멋진 소나무",
+    "length": 573,
+    "time": "9"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.919418,
@@ -62,9 +79,13 @@
         "lng": 127.451256
       }
     ],
-    "color": "#a28f88"
+    "color": "#d43ef0",
+    "start_point_name": "갈림길",
+    "length": 763,
+    "time": "12"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.924049,
@@ -75,9 +96,13 @@
         "lng": 127.449844
       }
     ],
-    "color": "#f474f4"
+    "color": "#0a1aee",
+    "start_point_name": "백둔봉",
+    "length": 125,
+    "time": "2"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.923847,
@@ -88,6 +113,9 @@
         "lng": 127.441475
       }
     ],
-    "color": "#b4faa3"
+    "color": "#37e310",
+    "start_point_name": "헬기장",
+    "length": 847,
+    "time": "14"
   }
 ]

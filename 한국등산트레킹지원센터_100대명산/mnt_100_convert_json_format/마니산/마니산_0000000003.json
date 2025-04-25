@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.612511,
@@ -10,9 +11,13 @@
         "lng": 126.447784
       }
     ],
-    "color": "#4fe910"
+    "color": "#663684",
+    "start_point_name": "갈림길",
+    "length": 43,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.612652,
@@ -23,9 +28,13 @@
         "lng": 126.4478
       }
     ],
-    "color": "#f4baec"
+    "color": "#01f2fe",
+    "start_point_name": "갈림길",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.612652,
@@ -36,9 +45,13 @@
         "lng": 126.443558
       }
     ],
-    "color": "#05ae11"
+    "color": "#3ef91f",
+    "start_point_name": "화장실",
+    "length": 499,
+    "time": "8"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.609676,
@@ -49,9 +62,13 @@
         "lng": 126.443642
       }
     ],
-    "color": "#f45b17"
+    "color": "#cb5809",
+    "start_point_name": "갈림길",
+    "length": 90,
+    "time": "1"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.608868,
@@ -62,9 +79,13 @@
         "lng": 126.443512
       }
     ],
-    "color": "#fa0941"
+    "color": "#a6cf20",
+    "start_point_name": "사랑의하트석",
+    "length": 28,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.608635,
@@ -75,9 +96,13 @@
         "lng": 126.441025
       }
     ],
-    "color": "#3afee3"
+    "color": "#fe044f",
+    "start_point_name": "갈림길",
+    "length": 247,
+    "time": "4"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.609665,
@@ -88,9 +113,13 @@
         "lng": 126.440811
       }
     ],
-    "color": "#81415b"
+    "color": "#2ec91a",
+    "start_point_name": "미끄럼주의",
+    "length": 18,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.609653,
@@ -101,9 +130,13 @@
         "lng": 126.440315
       }
     ],
-    "color": "#2aa8cf"
+    "color": "#952847",
+    "start_point_name": "미끄럼주의",
+    "length": 47,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.609814,
@@ -114,9 +147,13 @@
         "lng": 126.439171
       }
     ],
-    "color": "#8dc760"
+    "color": "#99eabb",
+    "start_point_name": "추락주의",
+    "length": 149,
+    "time": "2"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.610806,
@@ -127,9 +164,13 @@
         "lng": 126.438034
       }
     ],
-    "color": "#415a4d"
+    "color": "#0f1e5b",
+    "start_point_name": "추락주의",
+    "length": 177,
+    "time": "2"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.612125,
@@ -140,9 +181,13 @@
         "lng": 126.438263
       }
     ],
-    "color": "#d05879"
+    "color": "#79528c",
+    "start_point_name": "추락사고위험구간",
+    "length": 28,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.612312,
@@ -153,9 +198,13 @@
         "lng": 126.440643
       }
     ],
-    "color": "#edaf5d"
+    "color": "#5bd38f",
+    "start_point_name": "갈림길",
+    "length": 251,
+    "time": "4"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 37.61356,
@@ -166,9 +215,13 @@
         "lng": 126.443977
       }
     ],
-    "color": "#b4a7de"
+    "color": "#65d6d2",
+    "start_point_name": "갈림길",
+    "length": 329,
+    "time": "5"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 37.612217,
@@ -179,9 +232,13 @@
         "lng": 126.443565
       }
     ],
-    "color": "#6763f3"
+    "color": "#e0266c",
+    "start_point_name": "갈림길",
+    "length": 256,
+    "time": "4"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 37.609936,
@@ -192,9 +249,13 @@
         "lng": 126.44519
       }
     ],
-    "color": "#19e25a"
+    "color": "#0897e5",
+    "start_point_name": "갈림길",
+    "length": 336,
+    "time": "5"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 37.612679,
@@ -205,9 +266,13 @@
         "lng": 126.446022
       }
     ],
-    "color": "#afdd08"
+    "color": "#aa50d7",
+    "start_point_name": "추락사고위험",
+    "length": 74,
+    "time": "1"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 37.612789,
@@ -218,9 +283,13 @@
         "lng": 126.446472
       }
     ],
-    "color": "#68feda"
+    "color": "#eb43bc",
+    "start_point_name": "함허동천계곡",
+    "length": 56,
+    "time": "0"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 37.613148,
@@ -231,9 +300,13 @@
         "lng": 126.447151
       }
     ],
-    "color": "#1bfc31"
+    "color": "#2fbb3c",
+    "start_point_name": "야영장쉼터",
+    "length": 71,
+    "time": "1"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 37.612789,
@@ -244,9 +317,13 @@
         "lng": 126.447533
       }
     ],
-    "color": "#0d057c"
+    "color": "#90244a",
+    "start_point_name": "야영장 쉼터",
+    "length": 34,
+    "time": "0"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 37.61272,
@@ -257,9 +334,13 @@
         "lng": 126.44751
       }
     ],
-    "color": "#2e9074"
+    "color": "#697a71",
+    "start_point_name": "야영장쉼터",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 37.612728,
@@ -270,9 +351,13 @@
         "lng": 126.448166
       }
     ],
-    "color": "#9725cb"
+    "color": "#60dc41",
+    "start_point_name": "화장실",
+    "length": 74,
+    "time": "1"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 37.612312,
@@ -283,9 +368,13 @@
         "lng": 126.448425
       }
     ],
-    "color": "#7fee8a"
+    "color": "#4a53c9",
+    "start_point_name": "야영장쉼터",
+    "length": 26,
+    "time": "0"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 37.61219,
@@ -296,6 +385,9 @@
         "lng": 126.448639
       }
     ],
-    "color": "#d00f07"
+    "color": "#5e85dc",
+    "start_point_name": "야영장쉼터",
+    "length": 29,
+    "time": "0"
   }
 ]

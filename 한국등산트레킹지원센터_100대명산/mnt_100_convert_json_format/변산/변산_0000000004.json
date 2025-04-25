@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.683605,
@@ -10,9 +11,13 @@
         "lng": 126.631469
       }
     ],
-    "color": "#62fded"
+    "color": "#4fbb24",
+    "start_point_name": "입구",
+    "length": 315,
+    "time": "5"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.686436,
@@ -23,9 +28,13 @@
         "lng": 126.632151
       }
     ],
-    "color": "#7807d6"
+    "color": "#5e3400",
+    "start_point_name": "계단",
+    "length": 106,
+    "time": "1"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.68722,
@@ -36,9 +45,13 @@
         "lng": 126.630149
       }
     ],
-    "color": "#af959d"
+    "color": "#68ad2b",
+    "start_point_name": "어수대갈림길",
+    "length": 209,
+    "time": "3"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.688165,
@@ -49,9 +62,13 @@
         "lng": 126.629764
       }
     ],
-    "color": "#03af34"
+    "color": "#fa686f",
+    "start_point_name": "조망점",
+    "length": 38,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.688026,
@@ -62,9 +79,13 @@
         "lng": 126.628074
       }
     ],
-    "color": "#3d5a28"
+    "color": "#9ffdcb",
+    "start_point_name": "조망점",
+    "length": 154,
+    "time": "2"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.687836,
@@ -75,9 +96,13 @@
         "lng": 126.624392
       }
     ],
-    "color": "#39da73"
+    "color": "#27af68",
+    "start_point_name": "비룡상천봉",
+    "length": 371,
+    "time": "6"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.686341,
@@ -88,9 +113,13 @@
         "lng": 126.619151
       }
     ],
-    "color": "#db2f3a"
+    "color": "#61cb99",
+    "start_point_name": "변산조망",
+    "length": 1154,
+    "time": "19"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.676872,
@@ -101,9 +130,13 @@
         "lng": 126.618981
       }
     ],
-    "color": "#8dcd3d"
+    "color": "#5bbb08",
+    "start_point_name": "포토죤",
+    "length": 153,
+    "time": "2"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.675494,
@@ -114,9 +147,13 @@
         "lng": 126.619032
       }
     ],
-    "color": "#6c62b3"
+    "color": "#275dde",
+    "start_point_name": "쇠뿔바위봉",
+    "length": 11,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.675395,
@@ -127,9 +164,13 @@
         "lng": 126.61894
       }
     ],
-    "color": "#b993b5"
+    "color": "#28f652",
+    "start_point_name": "쇠뿔바위전망대",
+    "length": 85,
+    "time": "1"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.676163,
@@ -140,9 +181,13 @@
         "lng": 126.617491
       }
     ],
-    "color": "#8ccc6c"
+    "color": "#0e77e9",
+    "start_point_name": "계단.데크",
+    "length": 144,
+    "time": "2"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 35.675615,
@@ -153,9 +198,13 @@
         "lng": 126.617201
       }
     ],
-    "color": "#ba5d79"
+    "color": "#4b7778",
+    "start_point_name": "너덜계단",
+    "length": 95,
+    "time": "1"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 35.674788,
@@ -166,9 +215,13 @@
         "lng": 126.61069
       }
     ],
-    "color": "#3e93ac"
+    "color": "#80b88d",
+    "start_point_name": "청림마을 조망",
+    "length": 655,
+    "time": "10"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 35.672178,
@@ -179,9 +232,13 @@
         "lng": 126.610685
       }
     ],
-    "color": "#d3960c"
+    "color": "#e232b8",
+    "start_point_name": "밧줄 및 암반",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 35.672148,
@@ -192,9 +249,13 @@
         "lng": 126.609743
       }
     ],
-    "color": "#4b8a16"
+    "color": "#899bdf",
+    "start_point_name": "쇠뿔바위봉조망",
+    "length": 492,
+    "time": "8"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 35.667787,
@@ -205,9 +266,13 @@
         "lng": 126.612947
       }
     ],
-    "color": "#2484f4"
+    "color": "#0be5b2",
+    "start_point_name": "새재삼거리",
+    "length": 303,
+    "time": "5"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 35.666973,
@@ -218,6 +283,9 @@
         "lng": 126.615593
       }
     ],
-    "color": "#825340"
+    "color": "#4a903f",
+    "start_point_name": "청림마을",
+    "length": 327,
+    "time": "5"
   }
 ]

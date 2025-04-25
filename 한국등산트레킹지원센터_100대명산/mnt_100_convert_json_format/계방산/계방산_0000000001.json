@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.702568,
@@ -10,9 +11,13 @@
         "lng": 128.46904
       }
     ],
-    "color": "#4a93aa"
+    "color": "#f31ccf",
+    "start_point_name": "간이쉼터",
+    "length": 304,
+    "time": "5"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.704754,
@@ -23,9 +28,13 @@
         "lng": 128.469116
       }
     ],
-    "color": "#f39cb8"
+    "color": "#012698",
+    "start_point_name": "멧돼지흔적",
+    "length": 23,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.704952,
@@ -36,9 +45,13 @@
         "lng": 128.468964
       }
     ],
-    "color": "#c44cd7"
+    "color": "#88dc1c",
+    "start_point_name": "산철쯕",
+    "length": 144,
+    "time": "2"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.706242,
@@ -49,9 +62,13 @@
         "lng": 128.46907
       }
     ],
-    "color": "#da6cba"
+    "color": "#433724",
+    "start_point_name": "귄대감바위",
+    "length": 138,
+    "time": "2"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.707481,
@@ -62,9 +79,13 @@
         "lng": 128.469055
       }
     ],
-    "color": "#f3d991"
+    "color": "#f5f0fd",
+    "start_point_name": "갈림길",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.707516,
@@ -75,9 +96,13 @@
         "lng": 128.470169
       }
     ],
-    "color": "#0f4cca"
+    "color": "#b4f023",
+    "start_point_name": "쉼터",
+    "length": 406,
+    "time": "6"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.711063,
@@ -88,9 +113,13 @@
         "lng": 128.470154
       }
     ],
-    "color": "#b42cd4"
+    "color": "#61a239",
+    "start_point_name": "갈림길",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.711102,
@@ -101,6 +130,9 @@
         "lng": 128.46814
       }
     ],
-    "color": "#711afd"
+    "color": "#34987a",
+    "start_point_name": "쉼터",
+    "length": 1085,
+    "time": "18"
   }
 ]

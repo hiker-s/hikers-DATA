@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 36.16153,
@@ -10,9 +11,13 @@
         "lng": 127.583557
       }
     ],
-    "color": "#536be7"
+    "color": "#cf8307",
+    "start_point_name": "신안리 마을회관",
+    "length": 175,
+    "time": "2"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 36.162209,
@@ -23,9 +28,13 @@
         "lng": 127.585327
       }
     ],
-    "color": "#2490a4"
+    "color": "#4ce28b",
+    "start_point_name": "갈림길",
+    "length": 185,
+    "time": "3"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 36.163078,
@@ -36,9 +45,13 @@
         "lng": 127.585739
       }
     ],
-    "color": "#3e1093"
+    "color": "#f0f7eb",
+    "start_point_name": "갈림길",
+    "length": 48,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 36.163364,
@@ -49,9 +62,13 @@
         "lng": 127.589645
       }
     ],
-    "color": "#dc7182"
+    "color": "#dcfcfa",
+    "start_point_name": "등산로 입구",
+    "length": 386,
+    "time": "6"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 36.164833,
@@ -62,9 +79,13 @@
         "lng": 127.593719
       }
     ],
-    "color": "#b016f7"
+    "color": "#a54838",
+    "start_point_name": "정자",
+    "length": 370,
+    "time": "6"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 36.165379,
@@ -75,9 +96,13 @@
         "lng": 127.595497
       }
     ],
-    "color": "#4ee5e8"
+    "color": "#bfd3b4",
+    "start_point_name": "갈림길",
+    "length": 210,
+    "time": "3"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 36.166611,
@@ -88,9 +113,13 @@
         "lng": 127.600143
       }
     ],
-    "color": "#09fd04"
+    "color": "#6d6fbc",
+    "start_point_name": "이정표",
+    "length": 424,
+    "time": "7"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 36.165901,
@@ -101,9 +130,13 @@
         "lng": 127.600861
       }
     ],
-    "color": "#2ed822"
+    "color": "#e37fc6",
+    "start_point_name": "기도터",
+    "length": 131,
+    "time": "2"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 36.164867,
@@ -114,9 +147,13 @@
         "lng": 127.601463
       }
     ],
-    "color": "#4cf94b"
+    "color": "#6d931f",
+    "start_point_name": "거북바위",
+    "length": 130,
+    "time": "2"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 36.163795,
@@ -127,9 +164,13 @@
         "lng": 127.600037
       }
     ],
-    "color": "#fe9ed1"
+    "color": "#bfe6ea",
+    "start_point_name": "갈림길",
+    "length": 533,
+    "time": "8"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 36.159138,
@@ -140,9 +181,13 @@
         "lng": 127.599525
       }
     ],
-    "color": "#4417de"
+    "color": "#82b94a",
+    "start_point_name": "천태산 정상",
+    "length": 46,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 36.159092,
@@ -153,6 +198,9 @@
         "lng": 127.596771
       }
     ],
-    "color": "#77a42e"
+    "color": "#a01eb0",
+    "start_point_name": "화원동 하산 알림판",
+    "length": 851,
+    "time": "14"
   }
 ]

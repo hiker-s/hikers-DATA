@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.466591,
@@ -10,9 +11,13 @@
         "lng": 128.537537
       }
     ],
-    "color": "#be2199"
+    "color": "#6c4a72",
+    "start_point_name": "발심사 입구",
+    "length": 200,
+    "time": "3"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.464901,
@@ -23,9 +28,13 @@
         "lng": 128.537003
       }
     ],
-    "color": "#14dc35"
+    "color": "#013dbc",
+    "start_point_name": "이끼계곡",
+    "length": 84,
+    "time": "1"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.464268,
@@ -36,9 +45,13 @@
         "lng": 128.536255
       }
     ],
-    "color": "#e3c5be"
+    "color": "#a8afab",
+    "start_point_name": "이끼계곡",
+    "length": 178,
+    "time": "2"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.462776,
@@ -49,9 +62,13 @@
         "lng": 128.535599
       }
     ],
-    "color": "#8351a9"
+    "color": "#7d005b",
+    "start_point_name": "양치류",
+    "length": 129,
+    "time": "2"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.461731,
@@ -62,9 +79,13 @@
         "lng": 128.542313
       }
     ],
-    "color": "#afb6e4"
+    "color": "#4186bb",
+    "start_point_name": "갈림길",
+    "length": 620,
+    "time": "10"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.460075,
@@ -75,9 +96,13 @@
         "lng": 128.545715
       }
     ],
-    "color": "#890e39"
+    "color": "#72f437",
+    "start_point_name": "참나무",
+    "length": 300,
+    "time": "5"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.459953,
@@ -88,9 +113,13 @@
         "lng": 128.546722
       }
     ],
-    "color": "#7b3057"
+    "color": "#596878",
+    "start_point_name": "쓰러진 고목",
+    "length": 91,
+    "time": "1"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.459774,
@@ -101,9 +130,13 @@
         "lng": 128.550613
       }
     ],
-    "color": "#f09e1c"
+    "color": "#466cf7",
+    "start_point_name": "헬기장",
+    "length": 399,
+    "time": "6"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.457943,
@@ -114,9 +147,13 @@
         "lng": 128.554352
       }
     ],
-    "color": "#443ddb"
+    "color": "#e459f1",
+    "start_point_name": "단풍",
+    "length": 340,
+    "time": "5"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.45718,
@@ -127,9 +164,13 @@
         "lng": 128.577957
       }
     ],
-    "color": "#f9c2b4"
+    "color": "#dd25f0",
+    "start_point_name": "간이쉼터",
+    "length": 2143,
+    "time": "35"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.452644,
@@ -140,9 +181,13 @@
         "lng": 128.580841
       }
     ],
-    "color": "#e31795"
+    "color": "#616600",
+    "start_point_name": "잣나무",
+    "length": 279,
+    "time": "4"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.451599,
@@ -153,9 +198,13 @@
         "lng": 128.55658
       }
     ],
-    "color": "#44e700"
+    "color": "#7926a6",
+    "start_point_name": "갈림길",
+    "length": 2266,
+    "time": "37"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 37.458271,
@@ -166,9 +215,13 @@
         "lng": 128.552689
       }
     ],
-    "color": "#a8a21e"
+    "color": "#b14fd3",
+    "start_point_name": "갈림길",
+    "length": 367,
+    "time": "6"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 37.457104,
@@ -179,9 +232,13 @@
         "lng": 128.551514
       }
     ],
-    "color": "#537666"
+    "color": "#d03c6f",
+    "start_point_name": "구멍뚫린 고목",
+    "length": 107,
+    "time": "1"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 37.457344,
@@ -192,6 +249,9 @@
         "lng": 128.535828
       }
     ],
-    "color": "#4c202d"
+    "color": "#8c3c92",
+    "start_point_name": "갈림길",
+    "length": 1463,
+    "time": "24"
   }
 ]

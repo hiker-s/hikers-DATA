@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 33.311928,
@@ -10,9 +11,13 @@
         "lng": 126.457359
       }
     ],
-    "color": "#1a4610"
+    "color": "#14b023",
+    "start_point_name": "서귀포자연휴양림 정류장",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 33.311893,
@@ -23,9 +28,13 @@
         "lng": 126.455849
       }
     ],
-    "color": "#9dff08"
+    "color": "#d48847",
+    "start_point_name": "돌오름길 입구",
+    "length": 144,
+    "time": "2"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 33.31221,
@@ -36,9 +45,13 @@
         "lng": 126.455811
       }
     ],
-    "color": "#620bf2"
+    "color": "#36bfc4",
+    "start_point_name": "돌오름길 입구 안내소",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 33.312252,
@@ -49,9 +62,13 @@
         "lng": 126.455902
       }
     ],
-    "color": "#b44210"
+    "color": "#367cfc",
+    "start_point_name": "돌오름길 입구 화징실",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 33.312332,
@@ -62,9 +79,13 @@
         "lng": 126.452011
       }
     ],
-    "color": "#6fa843"
+    "color": "#c960ab",
+    "start_point_name": "제주조릿대구간",
+    "length": 1489,
+    "time": "24"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 33.325329,
@@ -75,9 +96,13 @@
         "lng": 126.451843
       }
     ],
-    "color": "#3a3774"
+    "color": "#3ee51b",
+    "start_point_name": "계곡",
+    "length": 16,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 33.325291,
@@ -88,9 +113,13 @@
         "lng": 126.451851
       }
     ],
-    "color": "#4f2bf4"
+    "color": "#406bf1",
+    "start_point_name": "판삼절리 하천",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 33.325268,
@@ -101,9 +130,13 @@
         "lng": 126.449638
       }
     ],
-    "color": "#1c325b"
+    "color": "#787992",
+    "start_point_name": "판상절리 하천",
+    "length": 209,
+    "time": "3"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 33.324928,
@@ -114,9 +147,13 @@
         "lng": 126.442581
       }
     ],
-    "color": "#ae8b51"
+    "color": "#6b6438",
+    "start_point_name": "용바위",
+    "length": 1003,
+    "time": "16"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 33.33176,
@@ -127,9 +164,13 @@
         "lng": 126.440605
       }
     ],
-    "color": "#3f54e8"
+    "color": "#0395e2",
+    "start_point_name": "표고버섯재배장",
+    "length": 245,
+    "time": "4"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 33.330288,
@@ -140,9 +181,13 @@
         "lng": 126.439354
       }
     ],
-    "color": "#641fe2"
+    "color": "#f5fe28",
+    "start_point_name": "갈림길 11",
+    "length": 178,
+    "time": "2"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 33.331505,
@@ -153,9 +198,13 @@
         "lng": 126.435097
       }
     ],
-    "color": "#dbc60d"
+    "color": "#ea4451",
+    "start_point_name": "삼나무 군락치",
+    "length": 450,
+    "time": "7"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 33.333439,
@@ -166,9 +215,13 @@
         "lng": 126.432762
       }
     ],
-    "color": "#9bb0b1"
+    "color": "#49ed58",
+    "start_point_name": "계곡",
+    "length": 292,
+    "time": "4"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 33.335209,
@@ -179,9 +232,13 @@
         "lng": 126.432762
       }
     ],
-    "color": "#6ee945"
+    "color": "#7ba920",
+    "start_point_name": "보림농장삼거리 쉼터",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 33.335209,
@@ -192,6 +249,9 @@
         "lng": 126.432747
       }
     ],
-    "color": "#690b9d"
+    "color": "#7e77e5",
+    "start_point_name": "돌오름입구 쉼터",
+    "length": 6,
+    "time": "0"
   }
 ]

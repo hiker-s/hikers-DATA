@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 38.051804,
@@ -10,9 +11,13 @@
         "lng": 127.780136
       }
     ],
-    "color": "#aa46fc"
+    "color": "#a86990",
+    "start_point_name": "갈림길",
+    "length": 655,
+    "time": "10"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 38.052364,
@@ -23,9 +28,13 @@
         "lng": 127.780739
       }
     ],
-    "color": "#ba4110"
+    "color": "#72bc0a",
+    "start_point_name": "산촌생태단지(수불무산 입구)",
+    "length": 387,
+    "time": "6"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 38.048912,
@@ -36,9 +45,13 @@
         "lng": 127.775894
       }
     ],
-    "color": "#4b95ad"
+    "color": "#05ee49",
+    "start_point_name": "쉼터",
+    "length": 961,
+    "time": "16"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 38.041157,
@@ -49,9 +62,13 @@
         "lng": 127.775787
       }
     ],
-    "color": "#b72a3a"
+    "color": "#67bc2f",
+    "start_point_name": "국가지점번호",
+    "length": 21,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 38.040981,
@@ -62,9 +79,13 @@
         "lng": 127.777168
       }
     ],
-    "color": "#c084a8"
+    "color": "#164582",
+    "start_point_name": "조망점",
+    "length": 681,
+    "time": "11"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 38.03495,
@@ -75,9 +96,13 @@
         "lng": 127.777161
       }
     ],
-    "color": "#078079"
+    "color": "#dbaf77",
+    "start_point_name": "수불무산 정상",
+    "length": 42,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 38.034565,
@@ -88,9 +113,13 @@
         "lng": 127.777138
       }
     ],
-    "color": "#6408e6"
+    "color": "#9652b4",
+    "start_point_name": "수불무산 정상 바위 조망점",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 38.034523,
@@ -101,9 +130,13 @@
         "lng": 127.777107
       }
     ],
-    "color": "#d31c56"
+    "color": "#209dbf",
+    "start_point_name": "수불무산 정상바위",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 38.034416,
@@ -114,9 +147,13 @@
         "lng": 127.773186
       }
     ],
-    "color": "#66e30c"
+    "color": "#6b5421",
+    "start_point_name": "갈림길",
+    "length": 798,
+    "time": "13"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 38.027931,
@@ -127,9 +164,13 @@
         "lng": 127.770836
       }
     ],
-    "color": "#9cd3c0"
+    "color": "#5804cf",
+    "start_point_name": "조망점",
+    "length": 239,
+    "time": "3"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 38.026825,
@@ -140,9 +181,13 @@
         "lng": 127.779709
       }
     ],
-    "color": "#fcd3cc"
+    "color": "#dca28b",
+    "start_point_name": "갈림길",
+    "length": 1462,
+    "time": "24"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 38.037968,
@@ -153,9 +198,13 @@
         "lng": 127.779846
       }
     ],
-    "color": "#cd43ae"
+    "color": "#f4eac6",
+    "start_point_name": "조망점",
+    "length": 48,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 38.038395,
@@ -166,9 +215,13 @@
         "lng": 127.779823
       }
     ],
-    "color": "#bf959a"
+    "color": "#de573d",
+    "start_point_name": "포토존",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 38.038391,
@@ -179,9 +232,13 @@
         "lng": 127.780937
       }
     ],
-    "color": "#ebc03f"
+    "color": "#1b5168",
+    "start_point_name": "자연경관",
+    "length": 158,
+    "time": "2"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 38.03952,
@@ -192,9 +249,13 @@
         "lng": 127.780136
       }
     ],
-    "color": "#003c96"
+    "color": "#c68de3",
+    "start_point_name": "수불무산 전위봉",
+    "length": 103,
+    "time": "1"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 38.040199,
@@ -205,9 +266,13 @@
         "lng": 127.78006
       }
     ],
-    "color": "#63a7db"
+    "color": "#9b60e4",
+    "start_point_name": "포토존",
+    "length": 235,
+    "time": "3"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 38.04232,
@@ -218,6 +283,9 @@
         "lng": 127.779137
       }
     ],
-    "color": "#465b1b"
+    "color": "#1e1d23",
+    "start_point_name": "갈림길",
+    "length": 149,
+    "time": "2"
   }
 ]

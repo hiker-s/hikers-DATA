@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.811111,
@@ -10,9 +11,13 @@
         "lng": 128.136398
       }
     ],
-    "color": "#0f0836"
+    "color": "#c46745",
+    "start_point_name": "가야산성",
+    "length": 335,
+    "time": "5"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.813484,
@@ -23,9 +28,13 @@
         "lng": 128.135468
       }
     ],
-    "color": "#8397c0"
+    "color": "#5c3d8a",
+    "start_point_name": "낙석주의",
+    "length": 175,
+    "time": "2"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.814873,
@@ -36,9 +45,13 @@
         "lng": 128.135361
       }
     ],
-    "color": "#66c78b"
+    "color": "#eb3636",
+    "start_point_name": "나무의자",
+    "length": 10,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.814911,
@@ -49,9 +62,13 @@
         "lng": 128.134277
       }
     ],
-    "color": "#833ba3"
+    "color": "#6ddc8d",
+    "start_point_name": "쉼터옆 계곡",
+    "length": 120,
+    "time": "2"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.815544,
@@ -62,9 +79,13 @@
         "lng": 128.133224
       }
     ],
-    "color": "#7e8bb7"
+    "color": "#ec5d9c",
+    "start_point_name": "낙석주의",
+    "length": 99,
+    "time": "1"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.815269,
@@ -75,9 +96,13 @@
         "lng": 128.124359
       }
     ],
-    "color": "#640ed4"
+    "color": "#f09c3f",
+    "start_point_name": "낙석주의",
+    "length": 1003,
+    "time": "16"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.820721,
@@ -88,9 +113,13 @@
         "lng": 128.12384
       }
     ],
-    "color": "#93c2d0"
+    "color": "#6f40ad",
+    "start_point_name": "자연경관",
+    "length": 55,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.820988,
@@ -101,9 +130,13 @@
         "lng": 128.12381
       }
     ],
-    "color": "#d89eab"
+    "color": "#dd3ff2",
+    "start_point_name": "조망",
+    "length": 13,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.82111,
@@ -114,9 +147,13 @@
         "lng": 128.122681
       }
     ],
-    "color": "#481341"
+    "color": "#9acfa1",
+    "start_point_name": "자연경관",
+    "length": 188,
+    "time": "3"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.82254,
@@ -127,9 +164,13 @@
         "lng": 128.122849
       }
     ],
-    "color": "#635ea6"
+    "color": "#f4dd28",
+    "start_point_name": "갈림길 18",
+    "length": 15,
+    "time": "0"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.822544,
@@ -140,9 +181,13 @@
         "lng": 128.12059
       }
     ],
-    "color": "#f71472"
+    "color": "#3e310d",
+    "start_point_name": "칠불봉",
+    "length": 213,
+    "time": "3"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 35.823132,
@@ -153,9 +198,13 @@
         "lng": 128.123611
       }
     ],
-    "color": "#740cef"
+    "color": "#316e91",
+    "start_point_name": "갈림길 20",
+    "length": 342,
+    "time": "5"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 35.821262,
@@ -166,9 +215,13 @@
         "lng": 128.128616
       }
     ],
-    "color": "#4e2612"
+    "color": "#544d12",
+    "start_point_name": "조망점",
+    "length": 830,
+    "time": "13"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 35.814987,
@@ -179,6 +232,9 @@
         "lng": 128.141891
       }
     ],
-    "color": "#554ce5"
+    "color": "#aa3844",
+    "start_point_name": "백운암지",
+    "length": 1972,
+    "time": "32"
   }
 ]

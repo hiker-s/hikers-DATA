@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.815239,
@@ -10,9 +11,13 @@
         "lng": 129.210327
       }
     ],
-    "color": "#fdefa5"
+    "color": "#368a2b",
+    "start_point_name": "버스",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.815182,
@@ -23,9 +28,13 @@
         "lng": 129.212509
       }
     ],
-    "color": "#3825d9"
+    "color": "#0bd789",
+    "start_point_name": "나정 입구",
+    "length": 199,
+    "time": "3"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.815453,
@@ -36,9 +45,13 @@
         "lng": 129.212326
       }
     ],
-    "color": "#ae0b00"
+    "color": "#318b30",
+    "start_point_name": "경주 나정",
+    "length": 21,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.815578,
@@ -49,9 +62,13 @@
         "lng": 129.21257
       }
     ],
-    "color": "#f66e4e"
+    "color": "#7ec19b",
+    "start_point_name": "경주 나정",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.815536,
@@ -62,9 +79,13 @@
         "lng": 129.214218
       }
     ],
-    "color": "#1251fa"
+    "color": "#a24006",
+    "start_point_name": "경주 나정",
+    "length": 161,
+    "time": "2"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.816097,
@@ -75,9 +96,13 @@
         "lng": 129.214279
       }
     ],
-    "color": "#59b487"
+    "color": "#575fba",
+    "start_point_name": "주차장",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.816196,
@@ -88,9 +113,13 @@
         "lng": 129.215591
       }
     ],
-    "color": "#fde9d6"
+    "color": "#c6240e",
+    "start_point_name": "육부전",
+    "length": 167,
+    "time": "2"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.815132,
@@ -101,9 +130,13 @@
         "lng": 129.215714
       }
     ],
-    "color": "#202b03"
+    "color": "#298160",
+    "start_point_name": "월암재",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.81509,
@@ -114,9 +147,13 @@
         "lng": 129.216812
       }
     ],
-    "color": "#be3e63"
+    "color": "#fae2e0",
+    "start_point_name": "쉼터",
+    "length": 184,
+    "time": "3"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.813686,
@@ -127,9 +164,13 @@
         "lng": 129.2117
       }
     ],
-    "color": "#71e04c"
+    "color": "#bf9db1",
+    "start_point_name": "경주 남간사지 당간지주",
+    "length": 794,
+    "time": "13"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.807861,
@@ -140,9 +181,13 @@
         "lng": 129.211853
       }
     ],
-    "color": "#9e1fb1"
+    "color": "#914d0d",
+    "start_point_name": "쉼터",
+    "length": 15,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 35.807808,
@@ -153,9 +198,13 @@
         "lng": 129.211075
       }
     ],
-    "color": "#b0eeac"
+    "color": "#a6a792",
+    "start_point_name": "주차장",
+    "length": 99,
+    "time": "1"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 35.807178,
@@ -166,9 +215,13 @@
         "lng": 129.211105
       }
     ],
-    "color": "#0cb59b"
+    "color": "#a6482d",
+    "start_point_name": "주차장",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 35.80719,
@@ -179,9 +232,13 @@
         "lng": 129.2117
       }
     ],
-    "color": "#31fa40"
+    "color": "#60ee33",
+    "start_point_name": "포석정 화장실",
+    "length": 54,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 35.807083,
@@ -192,9 +249,13 @@
         "lng": 129.21225
       }
     ],
-    "color": "#7c6560"
+    "color": "#48e8fb",
+    "start_point_name": "매표소 2,000원",
+    "length": 55,
+    "time": "0"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 35.807308,
@@ -205,9 +266,13 @@
         "lng": 129.212616
       }
     ],
-    "color": "#f3643c"
+    "color": "#838c48",
+    "start_point_name": "쉼터",
+    "length": 33,
+    "time": "0"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 35.807308,
@@ -218,9 +283,13 @@
         "lng": 129.212601
       }
     ],
-    "color": "#d6d9bc"
+    "color": "#19f728",
+    "start_point_name": "경주 포석정지",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 35.807289,
@@ -231,9 +300,13 @@
         "lng": 129.21283
       }
     ],
-    "color": "#e80b91"
+    "color": "#01b24a",
+    "start_point_name": "경주 포석정지",
+    "length": 39,
+    "time": "0"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 35.806988,
@@ -244,9 +317,13 @@
         "lng": 129.213013
       }
     ],
-    "color": "#f3d9bf"
+    "color": "#0420fd",
+    "start_point_name": "단풍",
+    "length": 16,
+    "time": "0"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 35.806969,
@@ -257,9 +334,13 @@
         "lng": 129.21228
       }
     ],
-    "color": "#3c06f6"
+    "color": "#96065f",
+    "start_point_name": "단풍",
+    "length": 72,
+    "time": "1"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 35.80724,
@@ -270,9 +351,13 @@
         "lng": 129.21257
       }
     ],
-    "color": "#58beea"
+    "color": "#1088c9",
+    "start_point_name": "포석정 매점",
+    "length": 127,
+    "time": "2"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 35.806118,
@@ -283,9 +368,13 @@
         "lng": 129.213898
       }
     ],
-    "color": "#f2c439"
+    "color": "#92ad91",
+    "start_point_name": "가족쉼터 캠핑장",
+    "length": 149,
+    "time": "2"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 35.805313,
@@ -296,9 +385,13 @@
         "lng": 129.213898
       }
     ],
-    "color": "#e10c4c"
+    "color": "#b5dd8a",
+    "start_point_name": "안내소",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 35.805305,
@@ -309,9 +402,13 @@
         "lng": 129.214005
       }
     ],
-    "color": "#0a9fb1"
+    "color": "#5aebb9",
+    "start_point_name": "남산 지진대피 안내",
+    "length": 10,
+    "time": "0"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 35.80534,
@@ -322,9 +419,13 @@
         "lng": 129.215805
       }
     ],
-    "color": "#eb0ebc"
+    "color": "#cc3cae",
+    "start_point_name": "남산 세계문화유산 인증서",
+    "length": 178,
+    "time": "2"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 35.806004,
@@ -335,9 +436,13 @@
         "lng": 129.224396
       }
     ],
-    "color": "#5a11ca"
+    "color": "#6ef285",
+    "start_point_name": "안내소",
+    "length": 809,
+    "time": "13"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 35.803879,
@@ -348,9 +453,13 @@
         "lng": 129.223816
       }
     ],
-    "color": "#f57d1e"
+    "color": "#6de905",
+    "start_point_name": "갈림길",
+    "length": 127,
+    "time": "2"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 35.802834,
@@ -361,9 +470,13 @@
         "lng": 129.226349
       }
     ],
-    "color": "#c5f9ad"
+    "color": "#ab0631",
+    "start_point_name": "포석곡 제5사지 마애여래좌상",
+    "length": 286,
+    "time": "4"
   },
   {
+    "path_id": 28,
     "path": [
       {
         "lat": 35.801281,
@@ -374,9 +487,13 @@
         "lng": 129.225723
       }
     ],
-    "color": "#5df91d"
+    "color": "#220778",
+    "start_point_name": "부흥사",
+    "length": 169,
+    "time": "2"
   },
   {
+    "path_id": 29,
     "path": [
       {
         "lat": 35.799839,
@@ -387,9 +504,13 @@
         "lng": 129.227798
       }
     ],
-    "color": "#b8ee13"
+    "color": "#1501ed",
+    "start_point_name": "오층석탑",
+    "length": 308,
+    "time": "5"
   },
   {
+    "path_id": 30,
     "path": [
       {
         "lat": 35.797638,
@@ -400,9 +521,13 @@
         "lng": 129.228836
       }
     ],
-    "color": "#f8ba5f"
+    "color": "#4ddd11",
+    "start_point_name": "포석곡 7사지",
+    "length": 95,
+    "time": "1"
   },
   {
+    "path_id": 31,
     "path": [
       {
         "lat": 35.797455,
@@ -413,9 +538,13 @@
         "lng": 129.228729
       }
     ],
-    "color": "#71f3c8"
+    "color": "#8095a8",
+    "start_point_name": "금오정",
+    "length": 10,
+    "time": "0"
   },
   {
+    "path_id": 32,
     "path": [
       {
         "lat": 35.797485,
@@ -426,9 +555,13 @@
         "lng": 129.22905
       }
     ],
-    "color": "#8d234d"
+    "color": "#762ae3",
+    "start_point_name": "금오정",
+    "length": 150,
+    "time": "2"
   },
   {
+    "path_id": 33,
     "path": [
       {
         "lat": 35.796158,
@@ -439,9 +572,13 @@
         "lng": 129.222198
       }
     ],
-    "color": "#efb49c"
+    "color": "#573058",
+    "start_point_name": "갈림길",
+    "length": 1026,
+    "time": "17"
   },
   {
+    "path_id": 34,
     "path": [
       {
         "lat": 35.788788,
@@ -452,9 +589,13 @@
         "lng": 129.221268
       }
     ],
-    "color": "#73cc7d"
+    "color": "#754d80",
+    "start_point_name": "포토존",
+    "length": 90,
+    "time": "1"
   },
   {
+    "path_id": 35,
     "path": [
       {
         "lat": 35.789104,
@@ -465,9 +606,13 @@
         "lng": 129.220276
       }
     ],
-    "color": "#3645a6"
+    "color": "#7c7db9",
+    "start_point_name": "미끄럼주의",
+    "length": 116,
+    "time": "1"
   },
   {
+    "path_id": 36,
     "path": [
       {
         "lat": 35.788437,
@@ -478,9 +623,13 @@
         "lng": 129.220184
       }
     ],
-    "color": "#54a2ce"
+    "color": "#6a202e",
+    "start_point_name": "조망점",
+    "length": 9,
+    "time": "0"
   },
   {
+    "path_id": 37,
     "path": [
       {
         "lat": 35.788471,
@@ -491,9 +640,13 @@
         "lng": 129.220062
       }
     ],
-    "color": "#429f83"
+    "color": "#0ee384",
+    "start_point_name": "약수골 안전쉼터",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 38,
     "path": [
       {
         "lat": 35.788387,
@@ -504,9 +657,13 @@
         "lng": 129.204865
       }
     ],
-    "color": "#f0828d"
+    "color": "#5bfae0",
+    "start_point_name": "약수계곡 마애입불상",
+    "length": 1370,
+    "time": "22"
   },
   {
+    "path_id": 39,
     "path": [
       {
         "lat": 35.788616,
@@ -517,9 +674,13 @@
         "lng": 129.204773
       }
     ],
-    "color": "#da9c47"
+    "color": "#f3a64d",
+    "start_point_name": "옹심이메밀칼국수",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 40,
     "path": [
       {
         "lat": 35.788803,
@@ -530,9 +691,13 @@
         "lng": 129.204865
       }
     ],
-    "color": "#d7c925"
+    "color": "#5a3e65",
+    "start_point_name": "신라월성대군단소",
+    "length": 30,
+    "time": "0"
   },
   {
+    "path_id": 41,
     "path": [
       {
         "lat": 35.78907,
@@ -543,6 +708,9 @@
         "lng": 129.205368
       }
     ],
-    "color": "#416ccd"
+    "color": "#8d5bd3",
+    "start_point_name": "신라월성대군단소",
+    "length": 176,
+    "time": "2"
   }
 ]

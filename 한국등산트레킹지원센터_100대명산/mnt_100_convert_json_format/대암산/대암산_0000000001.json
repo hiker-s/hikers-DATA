@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 38.169401,
@@ -10,9 +11,13 @@
         "lng": 128.11645
       }
     ],
-    "color": "#0d46eb"
+    "color": "#11306d",
+    "start_point_name": "갈림길",
+    "length": 966,
+    "time": "16"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 38.169401,
@@ -23,9 +28,13 @@
         "lng": 128.12279
       }
     ],
-    "color": "#f4e141"
+    "color": "#46715b",
+    "start_point_name": "갈림길",
+    "length": 932,
+    "time": "15"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 38.162658,
@@ -36,9 +45,13 @@
         "lng": 128.105395
       }
     ],
-    "color": "#7066a7"
+    "color": "#ae952f",
+    "start_point_name": "갈림길",
+    "length": 1695,
+    "time": "28"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 38.169401,
@@ -49,9 +62,13 @@
         "lng": 128.11645
       }
     ],
-    "color": "#08c4d4"
+    "color": "#e95095",
+    "start_point_name": "갈림길",
+    "length": 966,
+    "time": "16"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 38.169401,
@@ -62,9 +79,13 @@
         "lng": 128.12279
       }
     ],
-    "color": "#b38383"
+    "color": "#736caa",
+    "start_point_name": "갈림길",
+    "length": 932,
+    "time": "15"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 38.162658,
@@ -75,9 +96,13 @@
         "lng": 128.132306
       }
     ],
-    "color": "#89ba56"
+    "color": "#a30486",
+    "start_point_name": "갈림길",
+    "length": 1119,
+    "time": "18"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 38.169401,
@@ -88,9 +113,13 @@
         "lng": 128.132352
       }
     ],
-    "color": "#8b3d20"
+    "color": "#2b36e8",
+    "start_point_name": "갈림길",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 38.169401,
@@ -101,9 +130,13 @@
         "lng": 128.178207
       }
     ],
-    "color": "#a798b3"
+    "color": "#e26159",
+    "start_point_name": "갈림길",
+    "length": 5343,
+    "time": "89"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 38.137638,
@@ -114,9 +147,13 @@
         "lng": 128.169188
       }
     ],
-    "color": "#cf8ab2"
+    "color": "#687319",
+    "start_point_name": "갈림길",
+    "length": 2173,
+    "time": "36"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 38.15585,
@@ -127,9 +164,13 @@
         "lng": 128.185284
       }
     ],
-    "color": "#318f09"
+    "color": "#ab6acd",
+    "start_point_name": "갈림길",
+    "length": 1767,
+    "time": "29"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 38.146229,
@@ -140,9 +181,13 @@
         "lng": 128.132306
       }
     ],
-    "color": "#6f422e"
+    "color": "#c4a985",
+    "start_point_name": "갈림길",
+    "length": 5300,
+    "time": "88"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 38.169401,
@@ -153,9 +198,13 @@
         "lng": 128.132352
       }
     ],
-    "color": "#2e0eea"
+    "color": "#f15a38",
+    "start_point_name": "갈림길",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 38.169401,
@@ -166,6 +215,9 @@
         "lng": 128.185284
       }
     ],
-    "color": "#039244"
+    "color": "#14aba9",
+    "start_point_name": "갈림길",
+    "length": 5296,
+    "time": "88"
   }
 ]

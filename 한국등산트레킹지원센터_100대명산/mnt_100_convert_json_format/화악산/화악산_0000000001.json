@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 38.005432,
@@ -10,9 +11,13 @@
         "lng": 127.52578
       }
     ],
-    "color": "#45fd00"
+    "color": "#47332a",
+    "start_point_name": "화악터널앞",
+    "length": 35,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 38.005302,
@@ -23,9 +28,13 @@
         "lng": 127.525581
       }
     ],
-    "color": "#15d84d"
+    "color": "#a01a68",
+    "start_point_name": "터널입구",
+    "length": 414,
+    "time": "6"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 38.001575,
@@ -36,9 +45,13 @@
         "lng": 127.524635
       }
     ],
-    "color": "#a6c827"
+    "color": "#56706a",
+    "start_point_name": "입구주차장",
+    "length": 86,
+    "time": "1"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 38.001366,
@@ -49,9 +62,13 @@
         "lng": 127.500259
       }
     ],
-    "color": "#a209a4"
+    "color": "#54bba9",
+    "start_point_name": "헬기장",
+    "length": 2528,
+    "time": "42"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.989193,
@@ -62,9 +79,13 @@
         "lng": 127.500229
       }
     ],
-    "color": "#944861"
+    "color": "#edefc3",
+    "start_point_name": "갈림길",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.989189,
@@ -75,6 +96,9 @@
         "lng": 127.489326
       }
     ],
-    "color": "#49caeb"
+    "color": "#5f169a",
+    "start_point_name": "전망대",
+    "length": 1226,
+    "time": "20"
   }
 ]

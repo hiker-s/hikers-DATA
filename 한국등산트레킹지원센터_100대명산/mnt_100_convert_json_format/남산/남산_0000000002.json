@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.801545,
@@ -10,9 +11,13 @@
         "lng": 129.211365
       }
     ],
-    "color": "#caf92d"
+    "color": "#abce3e",
+    "start_point_name": "웨이포인트 19",
+    "length": 1257,
+    "time": "20"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.806736,
@@ -23,9 +28,13 @@
         "lng": 129.209785
       }
     ],
-    "color": "#d8b5e2"
+    "color": "#3f4b68",
+    "start_point_name": "주차장",
+    "length": 142,
+    "time": "2"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.806749,
@@ -36,9 +45,13 @@
         "lng": 129.209662
       }
     ],
-    "color": "#084e3c"
+    "color": "#fab3af",
+    "start_point_name": "웨이포인트 25",
+    "length": 11,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.806783,
@@ -49,6 +62,9 @@
         "lng": 129.209662
       }
     ],
-    "color": "#f68f6c"
+    "color": "#33c62e",
+    "start_point_name": "웨이포인트 26",
+    "length": 0,
+    "time": "0"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.208775,
@@ -10,9 +11,13 @@
         "lng": 128.556534
       }
     ],
-    "color": "#fb50b4"
+    "color": "#25d6dd",
+    "start_point_name": "갈림길",
+    "length": 33,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.208721,
@@ -23,9 +28,13 @@
         "lng": 128.555801
       }
     ],
-    "color": "#71a2b3"
+    "color": "#1e7078",
+    "start_point_name": "쉼터",
+    "length": 68,
+    "time": "1"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.208584,
@@ -36,9 +45,13 @@
         "lng": 128.55304
       }
     ],
-    "color": "#e57438"
+    "color": "#b3eeb1",
+    "start_point_name": "갈림길",
+    "length": 250,
+    "time": "4"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.208549,
@@ -49,9 +62,13 @@
         "lng": 128.552979
       }
     ],
-    "color": "#403d43"
+    "color": "#6c9e74",
+    "start_point_name": "갈림길",
+    "length": 6,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.208519,
@@ -62,9 +79,13 @@
         "lng": 128.552551
       }
     ],
-    "color": "#6fd89a"
+    "color": "#269e87",
+    "start_point_name": "백운사 주차장",
+    "length": 39,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.208488,
@@ -75,9 +96,13 @@
         "lng": 128.551895
       }
     ],
-    "color": "#3f90aa"
+    "color": "#e63935",
+    "start_point_name": "백운사앞 화장실",
+    "length": 75,
+    "time": "1"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.208904,
@@ -88,9 +113,13 @@
         "lng": 128.551727
       }
     ],
-    "color": "#530b53"
+    "color": "#f66e61",
+    "start_point_name": "백운사",
+    "length": 26,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.20871,
@@ -101,9 +130,13 @@
         "lng": 128.551498
       }
     ],
-    "color": "#e3e9dc"
+    "color": "#f24c3a",
+    "start_point_name": "등산로입구",
+    "length": 22,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.208797,
@@ -114,9 +147,13 @@
         "lng": 128.551331
       }
     ],
-    "color": "#d01381"
+    "color": "#e93cb3",
+    "start_point_name": "백운사입구 팔각정",
+    "length": 15,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.208813,
@@ -127,9 +164,13 @@
         "lng": 128.550095
       }
     ],
-    "color": "#aa8a9e"
+    "color": "#ea2e4d",
+    "start_point_name": "산불감시초소",
+    "length": 114,
+    "time": "1"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.208992,
@@ -140,9 +181,13 @@
         "lng": 128.549759
       }
     ],
-    "color": "#f8c544"
+    "color": "#0b9379",
+    "start_point_name": "무학산기도원 약수터",
+    "length": 41,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 35.208744,
@@ -153,9 +198,13 @@
         "lng": 128.548645
       }
     ],
-    "color": "#1064bf"
+    "color": "#227c4e",
+    "start_point_name": "갈림길",
+    "length": 102,
+    "time": "1"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 35.208881,
@@ -166,9 +215,13 @@
         "lng": 128.54834
       }
     ],
-    "color": "#8545cb"
+    "color": "#a2d174",
+    "start_point_name": "갈림길",
+    "length": 29,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 35.208778,
@@ -179,9 +232,13 @@
         "lng": 128.546066
       }
     ],
-    "color": "#c43654"
+    "color": "#176603",
+    "start_point_name": "갈림길",
+    "length": 209,
+    "time": "3"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 35.209084,
@@ -192,9 +249,13 @@
         "lng": 128.546082
       }
     ],
-    "color": "#eacea7"
+    "color": "#631642",
+    "start_point_name": "등나무산장 약수터",
+    "length": 7,
+    "time": "0"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 35.209148,
@@ -205,9 +266,13 @@
         "lng": 128.544266
       }
     ],
-    "color": "#e6da7e"
+    "color": "#4130a0",
+    "start_point_name": "갈림길",
+    "length": 172,
+    "time": "2"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 35.208687,
@@ -218,9 +283,13 @@
         "lng": 128.544235
       }
     ],
-    "color": "#c6a4cf"
+    "color": "#e8e401",
+    "start_point_name": "갈림길",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 35.208656,
@@ -231,9 +300,13 @@
         "lng": 128.541504
       }
     ],
-    "color": "#4a94ec"
+    "color": "#ccfc4d",
+    "start_point_name": "쉼터",
+    "length": 251,
+    "time": "4"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 35.209026,
@@ -244,9 +317,13 @@
         "lng": 128.53772
       }
     ],
-    "color": "#7ddbb7"
+    "color": "#868e79",
+    "start_point_name": "중간전망대",
+    "length": 503,
+    "time": "8"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 35.205715,
@@ -257,9 +334,13 @@
         "lng": 128.537445
       }
     ],
-    "color": "#e040de"
+    "color": "#d4e014",
+    "start_point_name": "갈림길",
+    "length": 122,
+    "time": "2"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 35.204639,
@@ -270,9 +351,13 @@
         "lng": 128.537292
       }
     ],
-    "color": "#318720"
+    "color": "#8c4f96",
+    "start_point_name": "갈림길",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 35.204594,
@@ -283,9 +368,13 @@
         "lng": 128.537369
       }
     ],
-    "color": "#95553d"
+    "color": "#1c1c57",
+    "start_point_name": "안개약수터",
+    "length": 13,
+    "time": "0"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 35.204494,
@@ -296,9 +385,13 @@
         "lng": 128.538345
       }
     ],
-    "color": "#d5f1c9"
+    "color": "#49c639",
+    "start_point_name": "안개쉼터",
+    "length": 335,
+    "time": "5"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 35.201588,
@@ -309,9 +402,13 @@
         "lng": 128.539047
       }
     ],
-    "color": "#3af6bb"
+    "color": "#835dd5",
+    "start_point_name": "갈림길",
+    "length": 656,
+    "time": "10"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 35.195709,
@@ -322,9 +419,13 @@
         "lng": 128.541107
       }
     ],
-    "color": "#a02d13"
+    "color": "#b81540",
+    "start_point_name": "갈림길",
+    "length": 543,
+    "time": "9"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 35.191116,
@@ -335,9 +436,13 @@
         "lng": 128.54039
       }
     ],
-    "color": "#71eb1a"
+    "color": "#3ca080",
+    "start_point_name": "갈림길",
+    "length": 144,
+    "time": "2"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 35.18996,
@@ -348,9 +453,13 @@
         "lng": 128.540436
       }
     ],
-    "color": "#194448"
+    "color": "#c4c525",
+    "start_point_name": "대곡산 정상",
+    "length": 8,
+    "time": "0"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 35.189892,
@@ -361,9 +470,13 @@
         "lng": 128.540176
       }
     ],
-    "color": "#16bf38"
+    "color": "#290cfd",
+    "start_point_name": "대곡산 조망점",
+    "length": 57,
+    "time": "0"
   },
   {
+    "path_id": 28,
     "path": [
       {
         "lat": 35.189419,
@@ -374,9 +487,13 @@
         "lng": 128.542603
       }
     ],
-    "color": "#0b83fa"
+    "color": "#8dc1f9",
+    "start_point_name": "갈림길",
+    "length": 337,
+    "time": "5"
   },
   {
+    "path_id": 29,
     "path": [
       {
         "lat": 35.187119,
@@ -387,9 +504,13 @@
         "lng": 128.546539
       }
     ],
-    "color": "#47568c"
+    "color": "#370aee",
+    "start_point_name": "쉼터",
+    "length": 520,
+    "time": "8"
   },
   {
+    "path_id": 30,
     "path": [
       {
         "lat": 35.18372,
@@ -400,6 +521,9 @@
         "lng": 128.552109
       }
     ],
-    "color": "#13b783"
+    "color": "#4865fc",
+    "start_point_name": "만날고개",
+    "length": 539,
+    "time": "8"
   }
 ]

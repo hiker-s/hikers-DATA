@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.908817,
@@ -10,9 +11,13 @@
         "lng": 127.443939
       }
     ],
-    "color": "#557493"
+    "color": "#894ffa",
+    "start_point_name": "백둔리 종점 버스 정류장",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.908916,
@@ -23,9 +28,13 @@
         "lng": 127.440178
       }
     ],
-    "color": "#071c94"
+    "color": "#47f80b",
+    "start_point_name": "출구 백둔리 버스종점",
+    "length": 414,
+    "time": "6"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.911175,
@@ -36,9 +45,13 @@
         "lng": 127.434898
       }
     ],
-    "color": "#481327"
+    "color": "#cb638b",
+    "start_point_name": "갈림길",
+    "length": 535,
+    "time": "8"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.913586,
@@ -49,9 +62,13 @@
         "lng": 127.434639
       }
     ],
-    "color": "#453ce5"
+    "color": "#4d1a88",
+    "start_point_name": "생태보호 안내판",
+    "length": 26,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.9137,
@@ -62,9 +79,13 @@
         "lng": 127.429611
       }
     ],
-    "color": "#585210"
+    "color": "#f7ddc9",
+    "start_point_name": "갈림길",
+    "length": 462,
+    "time": "7"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.914944,
@@ -75,9 +96,13 @@
         "lng": 127.429573
       }
     ],
-    "color": "#082e76"
+    "color": "#971ada",
+    "start_point_name": "명지천",
+    "length": 7,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.915001,
@@ -88,9 +113,13 @@
         "lng": 127.429214
       }
     ],
-    "color": "#1e0263"
+    "color": "#2303a5",
+    "start_point_name": "개울",
+    "length": 62,
+    "time": "1"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.915489,
@@ -101,9 +130,13 @@
         "lng": 127.421005
       }
     ],
-    "color": "#ca82b6"
+    "color": "#90b8a4",
+    "start_point_name": "명지천",
+    "length": 1405,
+    "time": "23"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.926346,
@@ -114,9 +147,13 @@
         "lng": 127.42215
       }
     ],
-    "color": "#807f03"
+    "color": "#d4a5f6",
+    "start_point_name": "갈림길",
+    "length": 315,
+    "time": "5"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.929039,
@@ -127,9 +164,13 @@
         "lng": 127.422615
       }
     ],
-    "color": "#9e13cc"
+    "color": "#9612f6",
+    "start_point_name": "강우량 자동측정기",
+    "length": 66,
+    "time": "1"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.929516,
@@ -140,9 +181,13 @@
         "lng": 127.422615
       }
     ],
-    "color": "#09ee9a"
+    "color": "#62266a",
+    "start_point_name": "갈림길",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.929516,
@@ -153,9 +198,13 @@
         "lng": 127.422935
       }
     ],
-    "color": "#b6ebb4"
+    "color": "#239f95",
+    "start_point_name": "갈림길",
+    "length": 28,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 37.929451,
@@ -166,9 +215,13 @@
         "lng": 127.425888
       }
     ],
-    "color": "#267c41"
+    "color": "#ea846a",
+    "start_point_name": "명지3봉",
+    "length": 261,
+    "time": "4"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 37.929783,
@@ -179,9 +232,13 @@
         "lng": 127.426788
       }
     ],
-    "color": "#1f3853"
+    "color": "#190348",
+    "start_point_name": "야생화",
+    "length": 95,
+    "time": "1"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 37.930271,
@@ -192,9 +249,13 @@
         "lng": 127.428566
       }
     ],
-    "color": "#c175a5"
+    "color": "#ad9716",
+    "start_point_name": "야생화",
+    "length": 183,
+    "time": "3"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 37.931145,
@@ -205,9 +266,13 @@
         "lng": 127.430817
       }
     ],
-    "color": "#8db730"
+    "color": "#5b4390",
+    "start_point_name": "야생화",
+    "length": 204,
+    "time": "3"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 37.931629,
@@ -218,9 +283,13 @@
         "lng": 127.432259
       }
     ],
-    "color": "#b49236"
+    "color": "#b51fa9",
+    "start_point_name": "명지2봉",
+    "length": 127,
+    "time": "2"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 37.931759,
@@ -231,9 +300,13 @@
         "lng": 127.43853
       }
     ],
-    "color": "#dac9e6"
+    "color": "#75bbf4",
+    "start_point_name": "갈림길",
+    "length": 1255,
+    "time": "20"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 37.921608,
@@ -244,9 +317,13 @@
         "lng": 127.438515
       }
     ],
-    "color": "#61a2dc"
+    "color": "#68264a",
+    "start_point_name": "명지천 폭포",
+    "length": 118,
+    "time": "1"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 37.920544,
@@ -257,9 +334,13 @@
         "lng": 127.441498
       }
     ],
-    "color": "#c28854"
+    "color": "#4b4491",
+    "start_point_name": "갈림길",
+    "length": 1127,
+    "time": "18"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 37.910679,
@@ -270,9 +351,13 @@
         "lng": 127.443413
       }
     ],
-    "color": "#db2251"
+    "color": "#0e52ad",
+    "start_point_name": "갈림길",
+    "length": 257,
+    "time": "4"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 37.908928,
@@ -283,6 +368,9 @@
         "lng": 127.443993
       }
     ],
-    "color": "#ab93ca"
+    "color": "#a4dc3f",
+    "start_point_name": "캠핑빌",
+    "length": 50,
+    "time": "0"
   }
 ]

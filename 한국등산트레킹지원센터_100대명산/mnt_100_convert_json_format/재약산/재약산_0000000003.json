@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.583685,
@@ -10,9 +11,13 @@
         "lng": 129.01829
       }
     ],
-    "color": "#984347"
+    "color": "#86a2b0",
+    "start_point_name": "웨이포인트 1",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.583685,
@@ -23,9 +28,13 @@
         "lng": 129.008785
       }
     ],
-    "color": "#7de38e"
+    "color": "#e414c6",
+    "start_point_name": "웨이포인트 2",
+    "length": 934,
+    "time": "15"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.580381,
@@ -36,9 +45,13 @@
         "lng": 129.008785
       }
     ],
-    "color": "#a919ae"
+    "color": "#87cec2",
+    "start_point_name": "웨이포인트 3",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.580381,
@@ -49,9 +62,13 @@
         "lng": 129.00791
       }
     ],
-    "color": "#367b72"
+    "color": "#aa8248",
+    "start_point_name": "웨이포인트 4",
+    "length": 190,
+    "time": "3"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.57882,
@@ -62,9 +79,13 @@
         "lng": 129.007361
       }
     ],
-    "color": "#843a9a"
+    "color": "#d5e0f8",
+    "start_point_name": "웨이포인트 5",
+    "length": 73,
+    "time": "1"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.578329,
@@ -75,9 +96,13 @@
         "lng": 129.000521
       }
     ],
-    "color": "#a63584"
+    "color": "#d40b9c",
+    "start_point_name": "웨이포인트 6",
+    "length": 867,
+    "time": "14"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.572863,
@@ -88,9 +113,13 @@
         "lng": 129.000521
       }
     ],
-    "color": "#821596"
+    "color": "#96e906",
+    "start_point_name": "웨이포인트 7",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.572863,
@@ -101,9 +130,13 @@
         "lng": 129.000521
       }
     ],
-    "color": "#0a2a78"
+    "color": "#30b4e8",
+    "start_point_name": "웨이포인트 8",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.572863,
@@ -114,9 +147,13 @@
         "lng": 129.000521
       }
     ],
-    "color": "#b44ce0"
+    "color": "#b76802",
+    "start_point_name": "웨이포인트 9",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.572863,
@@ -127,9 +164,13 @@
         "lng": 128.991792
       }
     ],
-    "color": "#c210c7"
+    "color": "#e04878",
+    "start_point_name": "웨이포인트 10",
+    "length": 954,
+    "time": "15"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.568031,
@@ -140,6 +181,9 @@
         "lng": 128.991792
       }
     ],
-    "color": "#56e7f7"
+    "color": "#d9d4cd",
+    "start_point_name": "웨이포인트 11",
+    "length": 0,
+    "time": "0"
   }
 ]

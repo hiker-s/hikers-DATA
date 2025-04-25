@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.258999,
@@ -10,9 +11,13 @@
         "lng": 129.054169
       }
     ],
-    "color": "#8c6cb0"
+    "color": "#f06428",
+    "start_point_name": "갈림길",
+    "length": 474,
+    "time": "7"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.263077,
@@ -23,9 +28,13 @@
         "lng": 129.051544
       }
     ],
-    "color": "#330a95"
+    "color": "#28de73",
+    "start_point_name": "갈림길",
+    "length": 1799,
+    "time": "29"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.279121,
@@ -36,9 +45,13 @@
         "lng": 129.051468
       }
     ],
-    "color": "#0b8a5e"
+    "color": "#03fb30",
+    "start_point_name": "고당샘",
+    "length": 7,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.279137,
@@ -49,9 +62,13 @@
         "lng": 129.050827
       }
     ],
-    "color": "#6dadd5"
+    "color": "#bab914",
+    "start_point_name": "갈림길",
+    "length": 101,
+    "time": "1"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.279884,
@@ -62,9 +79,13 @@
         "lng": 129.050827
       }
     ],
-    "color": "#22cf6c"
+    "color": "#f56340",
+    "start_point_name": "고당봉전망대",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.279884,
@@ -75,9 +96,13 @@
         "lng": 129.050583
       }
     ],
-    "color": "#9b0e10"
+    "color": "#b81866",
+    "start_point_name": "고당봉전망대",
+    "length": 37,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.280159,
@@ -88,6 +113,9 @@
         "lng": 129.050552
       }
     ],
-    "color": "#adbba7"
+    "color": "#d5a753",
+    "start_point_name": "고당봉",
+    "length": 75,
+    "time": "1"
   }
 ]

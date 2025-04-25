@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.98341,
@@ -10,9 +11,13 @@
         "lng": 127.818153
       }
     ],
-    "color": "#47cfbf"
+    "color": "#8fa41b",
+    "start_point_name": "화장실",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.983452,
@@ -23,9 +28,13 @@
         "lng": 127.816826
       }
     ],
-    "color": "#492118"
+    "color": "#15d7bd",
+    "start_point_name": "부용계곡 등산 들머리",
+    "length": 129,
+    "time": "2"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.982937,
@@ -36,9 +45,13 @@
         "lng": 127.814827
       }
     ],
-    "color": "#111829"
+    "color": "#1f5ee5",
+    "start_point_name": "쉼터",
+    "length": 175,
+    "time": "2"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.982815,
@@ -49,9 +62,13 @@
         "lng": 127.814499
       }
     ],
-    "color": "#ae9989"
+    "color": "#f43c80",
+    "start_point_name": "갈림길",
+    "length": 49,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.983181,
@@ -62,9 +79,13 @@
         "lng": 127.813515
       }
     ],
-    "color": "#302e0f"
+    "color": "#636c7f",
+    "start_point_name": "소양강호",
+    "length": 362,
+    "time": "6"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.986347,
@@ -75,9 +96,13 @@
         "lng": 127.813171
       }
     ],
-    "color": "#37a9bf"
+    "color": "#5d939d",
+    "start_point_name": "굴",
+    "length": 38,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.986565,
@@ -88,9 +113,13 @@
         "lng": 127.811897
       }
     ],
-    "color": "#e8c2ce"
+    "color": "#ed3d37",
+    "start_point_name": "갈림길",
+    "length": 359,
+    "time": "5"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.989635,
@@ -101,9 +130,13 @@
         "lng": 127.811104
       }
     ],
-    "color": "#2bd6c3"
+    "color": "#bb31aa",
+    "start_point_name": "소양강호",
+    "length": 287,
+    "time": "4"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.992146,
@@ -114,9 +147,13 @@
         "lng": 127.811089
       }
     ],
-    "color": "#b3e12e"
+    "color": "#662cfd",
+    "start_point_name": "갈림길",
+    "length": 1,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.992138,
@@ -127,9 +164,13 @@
         "lng": 127.810402
       }
     ],
-    "color": "#582a80"
+    "color": "#0f1723",
+    "start_point_name": "오봉산 5지점",
+    "length": 153,
+    "time": "2"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.993412,
@@ -140,9 +181,13 @@
         "lng": 127.810356
       }
     ],
-    "color": "#2418aa"
+    "color": "#bba32c",
+    "start_point_name": "소요대",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.993439,
@@ -153,9 +198,13 @@
         "lng": 127.810303
       }
     ],
-    "color": "#88b660"
+    "color": "#5fd2e3",
+    "start_point_name": "소요대 전망",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 37.993317,
@@ -166,9 +215,13 @@
         "lng": 127.809753
       }
     ],
-    "color": "#30cfe1"
+    "color": "#480dab",
+    "start_point_name": "백꼽봉 688.4m",
+    "length": 133,
+    "time": "2"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 37.994434,
@@ -179,9 +232,13 @@
         "lng": 127.808098
       }
     ],
-    "color": "#032acf"
+    "color": "#f2be60",
+    "start_point_name": "갈림길",
+    "length": 229,
+    "time": "3"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 37.996037,
@@ -192,9 +249,13 @@
         "lng": 127.808456
       }
     ],
-    "color": "#29af12"
+    "color": "#5eef12",
+    "start_point_name": "홈통바위",
+    "length": 269,
+    "time": "4"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 37.998444,
@@ -205,9 +266,13 @@
         "lng": 127.80928
       }
     ],
-    "color": "#0af271"
+    "color": "#df8635",
+    "start_point_name": "오봉산 3지점",
+    "length": 498,
+    "time": "8"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 37.994011,
@@ -218,9 +283,13 @@
         "lng": 127.805405
       }
     ],
-    "color": "#4aceca"
+    "color": "#b78c44",
+    "start_point_name": "오봉산 4지점",
+    "length": 446,
+    "time": "7"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 37.991402,
@@ -231,9 +300,13 @@
         "lng": 127.805389
       }
     ],
-    "color": "#a955cb"
+    "color": "#1753b0",
+    "start_point_name": "갈림길",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 37.991417,
@@ -244,9 +317,13 @@
         "lng": 127.805511
       }
     ],
-    "color": "#1bfe95"
+    "color": "#aeed71",
+    "start_point_name": "진락공 세수터",
+    "length": 46,
+    "time": "0"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 37.991013,
@@ -257,9 +334,13 @@
         "lng": 127.805817
       }
     ],
-    "color": "#890526"
+    "color": "#477eaa",
+    "start_point_name": "식암폭포",
+    "length": 70,
+    "time": "1"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 37.990425,
@@ -270,9 +351,13 @@
         "lng": 127.806267
       }
     ],
-    "color": "#95e5f9"
+    "color": "#860527",
+    "start_point_name": "척번대",
+    "length": 348,
+    "time": "5"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 37.987309,
@@ -283,6 +368,9 @@
         "lng": 127.807022
       }
     ],
-    "color": "#aa815a"
+    "color": "#998ad8",
+    "start_point_name": "환적당과 설화당 부도",
+    "length": 97,
+    "time": "1"
   }
 ]

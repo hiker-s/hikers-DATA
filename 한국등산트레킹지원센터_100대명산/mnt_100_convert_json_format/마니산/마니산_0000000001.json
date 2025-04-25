@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.609451,
@@ -10,9 +11,13 @@
         "lng": 126.456741
       }
     ],
-    "color": "#b2a6d1"
+    "color": "#d725fc",
+    "start_point_name": "함허동천",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.609364,
@@ -23,9 +28,13 @@
         "lng": 126.456467
       }
     ],
-    "color": "#600f57"
+    "color": "#849947",
+    "start_point_name": "함허동천 주차장",
+    "length": 39,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.609646,
@@ -36,9 +45,13 @@
         "lng": 126.456306
       }
     ],
-    "color": "#c2793f"
+    "color": "#612e9f",
+    "start_point_name": "함허동천 2,  3주차장",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.609673,
@@ -49,9 +62,13 @@
         "lng": 126.455589
       }
     ],
-    "color": "#257f80"
+    "color": "#73b643",
+    "start_point_name": "야영장 만남 슈퍼",
+    "length": 75,
+    "time": "1"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.610039,
@@ -62,9 +79,13 @@
         "lng": 126.45536
       }
     ],
-    "color": "#f01133"
+    "color": "#06fdad",
+    "start_point_name": "입구 화장실",
+    "length": 20,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.610088,
@@ -75,9 +96,13 @@
         "lng": 126.455017
       }
     ],
-    "color": "#bc5fde"
+    "color": "#426cb5",
+    "start_point_name": "1주차장",
+    "length": 34,
+    "time": "0"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.610229,
@@ -88,9 +113,13 @@
         "lng": 126.454834
       }
     ],
-    "color": "#7b52a3"
+    "color": "#23fc34",
+    "start_point_name": "이레가든",
+    "length": 19,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.610329,
@@ -101,9 +130,13 @@
         "lng": 126.454086
       }
     ],
-    "color": "#6cfa17"
+    "color": "#cbbfc4",
+    "start_point_name": "구름계곡 슈퍼",
+    "length": 98,
+    "time": "1"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.610992,
@@ -114,9 +147,13 @@
         "lng": 126.454376
       }
     ],
-    "color": "#6218b5"
+    "color": "#455e08",
+    "start_point_name": "쉼터",
+    "length": 36,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.610756,
@@ -127,9 +164,13 @@
         "lng": 126.45314
       }
     ],
-    "color": "#e88017"
+    "color": "#15a8d8",
+    "start_point_name": "입구 매표소",
+    "length": 127,
+    "time": "2"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.611355,
@@ -140,9 +181,13 @@
         "lng": 126.453041
       }
     ],
-    "color": "#cea405"
+    "color": "#a5b122",
+    "start_point_name": "매점",
+    "length": 24,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.611557,
@@ -153,9 +198,13 @@
         "lng": 126.452118
       }
     ],
-    "color": "#ff0e7c"
+    "color": "#76edd1",
+    "start_point_name": "화장실",
+    "length": 99,
+    "time": "1"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 37.612072,
@@ -166,9 +215,13 @@
         "lng": 126.452141
       }
     ],
-    "color": "#91954f"
+    "color": "#6410a5",
+    "start_point_name": "2야영장",
+    "length": 18,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 37.611908,
@@ -179,9 +232,13 @@
         "lng": 126.451057
       }
     ],
-    "color": "#74bac1"
+    "color": "#14c207",
+    "start_point_name": "갈림길",
+    "length": 95,
+    "time": "1"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 37.611843,
@@ -192,9 +249,13 @@
         "lng": 126.450729
       }
     ],
-    "color": "#2ab166"
+    "color": "#edc29c",
+    "start_point_name": "함허정",
+    "length": 55,
+    "time": "0"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 37.612274,
@@ -205,9 +266,13 @@
         "lng": 126.445168
       }
     ],
-    "color": "#28ff3b"
+    "color": "#34230d",
+    "start_point_name": "갈림길",
+    "length": 622,
+    "time": "10"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 37.615723,
@@ -218,9 +283,13 @@
         "lng": 126.440636
       }
     ],
-    "color": "#3a448f"
+    "color": "#1d0596",
+    "start_point_name": "갈림길",
+    "length": 467,
+    "time": "7"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 37.613533,
@@ -231,9 +300,13 @@
         "lng": 126.435555
       }
     ],
-    "color": "#6acc4b"
+    "color": "#102517",
+    "start_point_name": "갈림길",
+    "length": 451,
+    "time": "7"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 37.612972,
@@ -244,9 +317,13 @@
         "lng": 126.431122
       }
     ],
-    "color": "#965418"
+    "color": "#ffa369",
+    "start_point_name": "능선길2",
+    "length": 458,
+    "time": "7"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 37.615139,
@@ -257,9 +334,13 @@
         "lng": 126.432266
       }
     ],
-    "color": "#bffdcd"
+    "color": "#df1b82",
+    "start_point_name": "참성단 중수비",
+    "length": 130,
+    "time": "2"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 37.614395,
@@ -270,9 +351,13 @@
         "lng": 126.443993
       }
     ],
-    "color": "#a7687c"
+    "color": "#d74393",
+    "start_point_name": "능선길 바다경관",
+    "length": 1288,
+    "time": "21"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 37.607464,
@@ -283,9 +368,13 @@
         "lng": 126.443993
       }
     ],
-    "color": "#e84cdc"
+    "color": "#9deeea",
+    "start_point_name": "정수사로 매표소",
+    "length": 4,
+    "time": "0"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 37.607426,
@@ -296,9 +385,13 @@
         "lng": 126.443855
       }
     ],
-    "color": "#a552b6"
+    "color": "#eda37e",
+    "start_point_name": "주차장",
+    "length": 14,
+    "time": "0"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 37.607349,
@@ -309,9 +402,13 @@
         "lng": 126.444328
       }
     ],
-    "color": "#b8732e"
+    "color": "#8fb9fe",
+    "start_point_name": "간이화장실",
+    "length": 43,
+    "time": "0"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 37.607246,
@@ -322,9 +419,13 @@
         "lng": 126.445091
       }
     ],
-    "color": "#c7c5e6"
+    "color": "#f1a0fc",
+    "start_point_name": "갈림길",
+    "length": 68,
+    "time": "1"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 37.60738,
@@ -335,9 +436,13 @@
         "lng": 126.445267
       }
     ],
-    "color": "#00243c"
+    "color": "#193486",
+    "start_point_name": "정수사",
+    "length": 69,
+    "time": "1"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 37.606773,
@@ -348,9 +453,13 @@
         "lng": 126.448982
       }
     ],
-    "color": "#0486d3"
+    "color": "#bac074",
+    "start_point_name": "화장실",
+    "length": 339,
+    "time": "5"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 37.605957,
@@ -361,6 +470,9 @@
         "lng": 126.457169
       }
     ],
-    "color": "#fe90b6"
+    "color": "#7797f2",
+    "start_point_name": "갈림길",
+    "length": 752,
+    "time": "12"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.39798,
@@ -10,9 +11,13 @@
         "lng": 126.995132
       }
     ],
-    "color": "#8dae03"
+    "color": "#25c0fd",
+    "start_point_name": "쉼터",
+    "length": 106,
+    "time": "1"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.397198,
@@ -23,9 +28,13 @@
         "lng": 126.990364
       }
     ],
-    "color": "#aee62b"
+    "color": "#0a779b",
+    "start_point_name": "쉼터",
+    "length": 490,
+    "time": "8"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.395111,
@@ -36,9 +45,13 @@
         "lng": 126.990364
       }
     ],
-    "color": "#d1a47f"
+    "color": "#8024ea",
+    "start_point_name": "갈림길",
+    "length": 9,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.395195,
@@ -49,9 +62,13 @@
         "lng": 126.990303
       }
     ],
-    "color": "#fd9e46"
+    "color": "#2ba8c8",
+    "start_point_name": "추월산 구상암",
+    "length": 42,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.394817,
@@ -62,9 +79,13 @@
         "lng": 126.989517
       }
     ],
-    "color": "#6b3ebb"
+    "color": "#ece3f8",
+    "start_point_name": "주의지점",
+    "length": 81,
+    "time": "1"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.394459,
@@ -75,9 +96,13 @@
         "lng": 126.987221
       }
     ],
-    "color": "#67043b"
+    "color": "#2763e4",
+    "start_point_name": "쉼터",
+    "length": 243,
+    "time": "4"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.393318,
@@ -88,6 +113,9 @@
         "lng": 126.986763
       }
     ],
-    "color": "#474272"
+    "color": "#3abe88",
+    "start_point_name": "쉼터",
+    "length": 41,
+    "time": "0"
   }
 ]

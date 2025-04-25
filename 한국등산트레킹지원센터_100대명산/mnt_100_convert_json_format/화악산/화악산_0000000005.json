@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.970882,
@@ -10,9 +11,13 @@
         "lng": 127.52655
       }
     ],
-    "color": "#b01e27"
+    "color": "#88eeba",
+    "start_point_name": "갈림길",
+    "length": 929,
+    "time": "15"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.979198,
@@ -23,9 +28,13 @@
         "lng": 127.526886
       }
     ],
-    "color": "#1833bc"
+    "color": "#f076de",
+    "start_point_name": "매봉(응봉)",
+    "length": 306,
+    "time": "5"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.981941,
@@ -36,9 +45,13 @@
         "lng": 127.525948
       }
     ],
-    "color": "#d422b3"
+    "color": "#4d8748",
+    "start_point_name": "화악산 신선봉",
+    "length": 1688,
+    "time": "28"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.997108,
@@ -49,9 +62,13 @@
         "lng": 127.526184
       }
     ],
-    "color": "#6798de"
+    "color": "#1a6424",
+    "start_point_name": "쌈지공원",
+    "length": 32,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.996887,
@@ -62,9 +79,13 @@
         "lng": 127.524376
       }
     ],
-    "color": "#abc44c"
+    "color": "#f0a40e",
+    "start_point_name": "쌈지공원 팔각정",
+    "length": 283,
+    "time": "4"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.998997,
@@ -75,9 +96,13 @@
         "lng": 127.526382
       }
     ],
-    "color": "#2fe12b"
+    "color": "#1289dd",
+    "start_point_name": "갈림길",
+    "length": 305,
+    "time": "5"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 38.001244,
@@ -88,9 +113,13 @@
         "lng": 127.544815
       }
     ],
-    "color": "#7b9ac1"
+    "color": "#63c023",
+    "start_point_name": "갈림길",
+    "length": 2295,
+    "time": "38"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.98658,
@@ -101,9 +130,13 @@
         "lng": 127.547877
       }
     ],
-    "color": "#2ab934"
+    "color": "#16878a",
+    "start_point_name": "기암",
+    "length": 950,
+    "time": "15"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.978379,
@@ -114,9 +147,13 @@
         "lng": 127.547877
       }
     ],
-    "color": "#fa3071"
+    "color": "#3c7947",
+    "start_point_name": "웨이포인트 16",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.978379,
@@ -127,9 +164,13 @@
         "lng": 127.547877
       }
     ],
-    "color": "#89184e"
+    "color": "#c0798e",
+    "start_point_name": "웨이포인트 17",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 37.978379,
@@ -140,9 +181,13 @@
         "lng": 127.547859
       }
     ],
-    "color": "#404013"
+    "color": "#43bb89",
+    "start_point_name": "웨이포인트 18",
+    "length": 8,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 37.978458,
@@ -153,6 +198,9 @@
         "lng": 127.547852
       }
     ],
-    "color": "#151b8c"
+    "color": "#4d59f6",
+    "start_point_name": "촉대봉",
+    "length": 0,
+    "time": "0"
   }
 ]

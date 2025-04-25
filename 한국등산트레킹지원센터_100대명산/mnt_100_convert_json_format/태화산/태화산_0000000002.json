@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.089752,
@@ -10,9 +11,13 @@
         "lng": 128.48175
       }
     ],
-    "color": "#57cddb"
+    "color": "#bd5a15",
+    "start_point_name": "쉼터",
+    "length": 2803,
+    "time": "46"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.114155,
@@ -23,9 +28,13 @@
         "lng": 128.481705
       }
     ],
-    "color": "#a039fe"
+    "color": "#974cf7",
+    "start_point_name": "입산금지",
+    "length": 10,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.114239,
@@ -36,6 +45,9 @@
         "lng": 128.473877
       }
     ],
-    "color": "#04a25c"
+    "color": "#4be5f2",
+    "start_point_name": "갈림길 3",
+    "length": 2217,
+    "time": "36"
   }
 ]

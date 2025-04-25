@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.592281,
@@ -10,9 +11,13 @@
         "lng": 127.489189
       }
     ],
-    "color": "#21705d"
+    "color": "#811d75",
+    "start_point_name": "유명산  제2주차장",
+    "length": 88,
+    "time": "1"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.592922,
@@ -23,9 +28,13 @@
         "lng": 127.489227
       }
     ],
-    "color": "#c87bec"
+    "color": "#7b05a5",
+    "start_point_name": "솔가든,산장가든,황토마당등",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.592812,
@@ -36,9 +45,13 @@
         "lng": 127.489006
       }
     ],
-    "color": "#b60ee9"
+    "color": "#fec9a9",
+    "start_point_name": "화장실",
+    "length": 45,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.592445,
@@ -49,9 +62,13 @@
         "lng": 127.490898
       }
     ],
-    "color": "#13db4a"
+    "color": "#8a96c8",
+    "start_point_name": "등산로,계곡입구",
+    "length": 168,
+    "time": "2"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.592255,
@@ -62,9 +79,13 @@
         "lng": 127.491882
       }
     ],
-    "color": "#ab0cf5"
+    "color": "#25f245",
+    "start_point_name": "제1주차장",
+    "length": 110,
+    "time": "1"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.591637,
@@ -75,9 +96,13 @@
         "lng": 127.490517
       }
     ],
-    "color": "#311753"
+    "color": "#ab2a8b",
+    "start_point_name": "유명산 자연  휴양림  캠핑장",
+    "length": 280,
+    "time": "4"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.589355,
@@ -88,9 +113,13 @@
         "lng": 127.490517
       }
     ],
-    "color": "#393117"
+    "color": "#184272",
+    "start_point_name": "갈림길 7",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.589348,
@@ -101,9 +130,13 @@
         "lng": 127.489983
       }
     ],
-    "color": "#bd89ca"
+    "color": "#4b96bb",
+    "start_point_name": "갈림길 8",
+    "length": 47,
+    "time": "0"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.589428,
@@ -114,9 +147,13 @@
         "lng": 127.486748
       }
     ],
-    "color": "#36f92d"
+    "color": "#2976a7",
+    "start_point_name": "갈림길 9",
+    "length": 385,
+    "time": "6"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 37.587093,
@@ -127,6 +164,9 @@
         "lng": 127.486855
       }
     ],
-    "color": "#8eb795"
+    "color": "#1e9cc2",
+    "start_point_name": "갈림길 10",
+    "length": 1300,
+    "time": "21"
   }
 ]

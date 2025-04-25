@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 34.529282,
@@ -10,9 +11,13 @@
         "lng": 126.909462
       }
     ],
-    "color": "#00c71d"
+    "color": "#9712b0",
+    "start_point_name": "반야굴",
+    "length": 170,
+    "time": "2"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 34.530777,
@@ -23,9 +28,13 @@
         "lng": 126.909363
       }
     ],
-    "color": "#105b5c"
+    "color": "#ec9ba2",
+    "start_point_name": "갈림길 11",
+    "length": 21,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 34.530952,
@@ -36,9 +45,13 @@
         "lng": 126.908913
       }
     ],
-    "color": "#5a3372"
+    "color": "#e1fbf2",
+    "start_point_name": "탑산사",
+    "length": 41,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 34.531013,
@@ -49,9 +62,13 @@
         "lng": 126.908546
       }
     ],
-    "color": "#d5a10e"
+    "color": "#520515",
+    "start_point_name": "갈림길 13",
+    "length": 34,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 34.53109,
@@ -62,9 +79,13 @@
         "lng": 126.907005
       }
     ],
-    "color": "#cf51a6"
+    "color": "#085b8a",
+    "start_point_name": "아육왕탑",
+    "length": 162,
+    "time": "2"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 34.531815,
@@ -75,9 +96,13 @@
         "lng": 126.91066
       }
     ],
-    "color": "#b66004"
+    "color": "#93e26a",
+    "start_point_name": "구룡봉",
+    "length": 443,
+    "time": "7"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 34.534435,
@@ -88,9 +113,13 @@
         "lng": 126.911171
       }
     ],
-    "color": "#efb4f3"
+    "color": "#ecd4a0",
+    "start_point_name": "진죽봉",
+    "length": 121,
+    "time": "2"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 34.535439,
@@ -101,9 +130,13 @@
         "lng": 126.91526
       }
     ],
-    "color": "#514c95"
+    "color": "#0d9298",
+    "start_point_name": "갈림길 17",
+    "length": 442,
+    "time": "7"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 34.533314,
@@ -114,9 +147,13 @@
         "lng": 126.91893
       }
     ],
-    "color": "#23b012"
+    "color": "#06f2d4",
+    "start_point_name": "갈림길 19",
+    "length": 892,
+    "time": "14"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 34.525875,
@@ -127,6 +164,9 @@
         "lng": 126.912842
       }
     ],
-    "color": "#778866"
+    "color": "#cfc716",
+    "start_point_name": "갈림길 22",
+    "length": 708,
+    "time": "11"
   }
 ]

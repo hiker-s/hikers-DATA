@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.52232,
@@ -10,9 +11,13 @@
         "lng": 130.854599
       }
     ],
-    "color": "#6d53f6"
+    "color": "#da8785",
+    "start_point_name": "웨이포인트 1",
+    "length": 167,
+    "time": "2"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.523819,
@@ -23,9 +28,13 @@
         "lng": 130.856339
       }
     ],
-    "color": "#2d2dcd"
+    "color": "#e16bb2",
+    "start_point_name": "갈림길",
+    "length": 233,
+    "time": "3"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.525398,
@@ -36,9 +45,13 @@
         "lng": 130.857437
       }
     ],
-    "color": "#20fa21"
+    "color": "#034a8f",
+    "start_point_name": "원시림관리안내소",
+    "length": 146,
+    "time": "2"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.524406,
@@ -49,9 +62,13 @@
         "lng": 130.857529
       }
     ],
-    "color": "#0d5b48"
+    "color": "#0a6124",
+    "start_point_name": "갈림길",
+    "length": 64,
+    "time": "1"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.523827,
@@ -62,9 +79,13 @@
         "lng": 130.858032
       }
     ],
-    "color": "#bff63f"
+    "color": "#e2a936",
+    "start_point_name": "용출소",
+    "length": 130,
+    "time": "2"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 37.52272,
@@ -75,9 +96,13 @@
         "lng": 130.863998
       }
     ],
-    "color": "#57b006"
+    "color": "#c22c29",
+    "start_point_name": "쉼터",
+    "length": 535,
+    "time": "8"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 37.521832,
@@ -88,9 +113,13 @@
         "lng": 130.86438
       }
     ],
-    "color": "#210182"
+    "color": "#dfcd2f",
+    "start_point_name": "섬말나리동산",
+    "length": 49,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 37.5215,
@@ -101,9 +130,13 @@
         "lng": 130.861389
       }
     ],
-    "color": "#f1c31c"
+    "color": "#39c51a",
+    "start_point_name": "갈림길",
+    "length": 332,
+    "time": "5"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 37.519684,
@@ -114,6 +147,9 @@
         "lng": 130.859589
       }
     ],
-    "color": "#be81a6"
+    "color": "#535d88",
+    "start_point_name": "알봉아래쉼터",
+    "length": 162,
+    "time": "2"
   }
 ]

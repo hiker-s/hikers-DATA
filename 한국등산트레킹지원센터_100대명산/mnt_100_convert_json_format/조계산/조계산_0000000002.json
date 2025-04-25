@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.00312,
@@ -10,9 +11,13 @@
         "lng": 127.273521
       }
     ],
-    "color": "#d48021"
+    "color": "#11e478",
+    "start_point_name": "길상다원",
+    "length": 465,
+    "time": "7"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.002857,
@@ -23,9 +28,13 @@
         "lng": 127.283279
       }
     ],
-    "color": "#72cda4"
+    "color": "#05d96d",
+    "start_point_name": "다송원",
+    "length": 1124,
+    "time": "18"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 34.996655,
@@ -36,9 +45,13 @@
         "lng": 127.284973
       }
     ],
-    "color": "#0e0ca2"
+    "color": "#ea941c",
+    "start_point_name": "노각나무 분포지역",
+    "length": 197,
+    "time": "3"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 34.995548,
@@ -49,9 +62,13 @@
         "lng": 127.293938
       }
     ],
-    "color": "#c40b5e"
+    "color": "#21a867",
+    "start_point_name": "갈림길",
+    "length": 895,
+    "time": "14"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 34.998848,
@@ -62,9 +79,13 @@
         "lng": 127.30265
       }
     ],
-    "color": "#d550b3"
+    "color": "#5a05d5",
+    "start_point_name": "삿갓사초군",
+    "length": 809,
+    "time": "13"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 34.997414,
@@ -75,9 +96,13 @@
         "lng": 127.301994
       }
     ],
-    "color": "#b74628"
+    "color": "#8e44d7",
+    "start_point_name": "갈림길",
+    "length": 290,
+    "time": "4"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 34.994854,
@@ -88,9 +113,13 @@
         "lng": 127.300049
       }
     ],
-    "color": "#6e4424"
+    "color": "#90571c",
+    "start_point_name": "조계산연산봉",
+    "length": 192,
+    "time": "3"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 34.994175,
@@ -101,9 +130,13 @@
         "lng": 127.296036
       }
     ],
-    "color": "#165143"
+    "color": "#64ce2e",
+    "start_point_name": "천자암조망",
+    "length": 729,
+    "time": "12"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 34.988495,
@@ -114,9 +147,13 @@
         "lng": 127.295929
       }
     ],
-    "color": "#c713be"
+    "color": "#c1defe",
+    "start_point_name": "송광굴목재",
+    "length": 42,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 34.988121,
@@ -127,9 +164,13 @@
         "lng": 127.293915
       }
     ],
-    "color": "#8a1c18"
+    "color": "#f30c49",
+    "start_point_name": "갈림길",
+    "length": 517,
+    "time": "8"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 34.983765,
@@ -140,9 +181,13 @@
         "lng": 127.293945
       }
     ],
-    "color": "#bbe1bf"
+    "color": "#e13285",
+    "start_point_name": "천자암봉",
+    "length": 2,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 34.983757,
@@ -153,9 +198,13 @@
         "lng": 127.294197
       }
     ],
-    "color": "#b94e91"
+    "color": "#5726b1",
+    "start_point_name": "천자암봉",
+    "length": 215,
+    "time": "3"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 34.981831,
@@ -166,9 +215,13 @@
         "lng": 127.289543
       }
     ],
-    "color": "#72e8ff"
+    "color": "#9b8b61",
+    "start_point_name": "갈림길",
+    "length": 463,
+    "time": "7"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 34.980148,
@@ -179,9 +232,13 @@
         "lng": 127.289612
       }
     ],
-    "color": "#aa2645"
+    "color": "#20c7c7",
+    "start_point_name": "갈림길",
+    "length": 13,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 34.980251,
@@ -192,9 +249,13 @@
         "lng": 127.277237
       }
     ],
-    "color": "#6f6823"
+    "color": "#406a2d",
+    "start_point_name": "천자암",
+    "length": 1525,
+    "time": "25"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 34.989498,
@@ -205,9 +266,13 @@
         "lng": 127.277321
       }
     ],
-    "color": "#40b240"
+    "color": "#3ae34f",
+    "start_point_name": "갈림길",
+    "length": 1193,
+    "time": "19"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 35.000229,
@@ -218,9 +283,13 @@
         "lng": 127.274879
       }
     ],
-    "color": "#11b677"
+    "color": "#1aa41c",
+    "start_point_name": "갈림길",
+    "length": 313,
+    "time": "5"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 35.00222,
@@ -231,9 +300,13 @@
         "lng": 127.267899
       }
     ],
-    "color": "#ca3afa"
+    "color": "#6039aa",
+    "start_point_name": "송광사",
+    "length": 650,
+    "time": "10"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 35.003471,
@@ -244,9 +317,13 @@
         "lng": 127.266899
       }
     ],
-    "color": "#d22edd"
+    "color": "#921cae",
+    "start_point_name": "매표소",
+    "length": 113,
+    "time": "1"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 35.004082,
@@ -257,6 +334,9 @@
         "lng": 127.265762
       }
     ],
-    "color": "#024a1b"
+    "color": "#b159e7",
+    "start_point_name": "길상식당등",
+    "length": 107,
+    "time": "1"
   }
 ]

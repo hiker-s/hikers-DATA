@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 35.345116,
@@ -10,9 +11,13 @@
         "lng": 128.955841
       }
     ],
-    "color": "#b791d8"
+    "color": "#271fff",
+    "start_point_name": "조망점",
+    "length": 139,
+    "time": "2"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 35.346359,
@@ -23,9 +28,13 @@
         "lng": 128.956314
       }
     ],
-    "color": "#2bd703"
+    "color": "#dd7dc7",
+    "start_point_name": "조망점",
+    "length": 740,
+    "time": "12"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 35.353008,
@@ -36,9 +45,13 @@
         "lng": 128.956635
       }
     ],
-    "color": "#98eb10"
+    "color": "#49189d",
+    "start_point_name": "조망점",
+    "length": 169,
+    "time": "2"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 35.354511,
@@ -49,9 +62,13 @@
         "lng": 128.956909
       }
     ],
-    "color": "#5a6915"
+    "color": "#d4cb60",
+    "start_point_name": "조망점",
+    "length": 87,
+    "time": "1"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 35.35527,
@@ -62,9 +79,13 @@
         "lng": 128.957657
       }
     ],
-    "color": "#d54429"
+    "color": "#65b485",
+    "start_point_name": "조망점",
+    "length": 162,
+    "time": "2"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 35.356602,
@@ -75,9 +96,13 @@
         "lng": 128.950867
       }
     ],
-    "color": "#84d76b"
+    "color": "#a3f7aa",
+    "start_point_name": "용골산",
+    "length": 1892,
+    "time": "31"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 35.3727,
@@ -88,9 +113,13 @@
         "lng": 128.950974
       }
     ],
-    "color": "#2e9784"
+    "color": "#ce2e32",
+    "start_point_name": "조망점",
+    "length": 44,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 35.373093,
@@ -101,9 +130,13 @@
         "lng": 128.949966
       }
     ],
-    "color": "#8a7f96"
+    "color": "#e74f0f",
+    "start_point_name": "조망점",
+    "length": 185,
+    "time": "3"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 35.374546,
@@ -114,9 +147,13 @@
         "lng": 128.949966
       }
     ],
-    "color": "#fe32f7"
+    "color": "#2cc6ba",
+    "start_point_name": "갈림길 9",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 35.374546,
@@ -127,9 +164,13 @@
         "lng": 128.950912
       }
     ],
-    "color": "#48caa5"
+    "color": "#28d4c0",
+    "start_point_name": "갈림길 10",
+    "length": 182,
+    "time": "3"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 35.375992,
@@ -140,9 +181,13 @@
         "lng": 128.950775
       }
     ],
-    "color": "#5727e4"
+    "color": "#db6633",
+    "start_point_name": "갈림길 11",
+    "length": 233,
+    "time": "3"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 35.37809,
@@ -153,9 +198,13 @@
         "lng": 128.95813
       }
     ],
-    "color": "#1ba551"
+    "color": "#a617bb",
+    "start_point_name": "토곡",
+    "length": 666,
+    "time": "11"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 35.378162,
@@ -166,9 +215,13 @@
         "lng": 128.95813
       }
     ],
-    "color": "#490bfa"
+    "color": "#88439b",
+    "start_point_name": "갈림길 13",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 35.378162,
@@ -179,6 +232,9 @@
         "lng": 128.956161
       }
     ],
-    "color": "#3dfd1f"
+    "color": "#6224c9",
+    "start_point_name": "갈림길 14",
+    "length": 372,
+    "time": "6"
   }
 ]

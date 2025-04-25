@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 37.667805,
@@ -10,9 +11,13 @@
         "lng": 127.285675
       }
     ],
-    "color": "#7d280a"
+    "color": "#e97d5e",
+    "start_point_name": "갈림길",
+    "length": 191,
+    "time": "3"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 37.668999,
@@ -23,9 +28,13 @@
         "lng": 127.285454
       }
     ],
-    "color": "#ff4057"
+    "color": "#be7ef9",
+    "start_point_name": "천마산 국립 공원 매점",
+    "length": 25,
+    "time": "0"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 37.669144,
@@ -36,9 +45,13 @@
         "lng": 127.282173
       }
     ],
-    "color": "#b25d33"
+    "color": "#34050b",
+    "start_point_name": "천마산 등산로 마지막 화장실",
+    "length": 370,
+    "time": "6"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 37.671238,
@@ -49,9 +62,13 @@
         "lng": 127.281952
       }
     ],
-    "color": "#837c19"
+    "color": "#743002",
+    "start_point_name": "화장실",
+    "length": 21,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 37.67131,
@@ -62,6 +79,9 @@
         "lng": 127.262535
       }
     ],
-    "color": "#e7f4a9"
+    "color": "#22b22e",
+    "start_point_name": "천마산 약수터",
+    "length": 1784,
+    "time": "29"
   }
 ]

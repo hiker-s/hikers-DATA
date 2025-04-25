@@ -1,5 +1,6 @@
 [
   {
+    "path_id": 0,
     "path": [
       {
         "lat": 36.782864,
@@ -10,9 +11,13 @@
         "lng": 128.921921
       }
     ],
-    "color": "#d67fa0"
+    "color": "#a52ce2",
+    "start_point_name": "추락주의",
+    "length": 35,
+    "time": "0"
   },
   {
+    "path_id": 1,
     "path": [
       {
         "lat": 36.783127,
@@ -23,9 +28,13 @@
         "lng": 128.921555
       }
     ],
-    "color": "#5b2d12"
+    "color": "#a7eb64",
+    "start_point_name": "갈림길",
+    "length": 96,
+    "time": "1"
   },
   {
+    "path_id": 2,
     "path": [
       {
         "lat": 36.783943,
@@ -36,9 +45,13 @@
         "lng": 128.921524
       }
     ],
-    "color": "#eb95af"
+    "color": "#e0ee91",
+    "start_point_name": "응진전 등산로 전망대",
+    "length": 3,
+    "time": "0"
   },
   {
+    "path_id": 3,
     "path": [
       {
         "lat": 36.783928,
@@ -49,9 +62,13 @@
         "lng": 128.921478
       }
     ],
-    "color": "#bfc6e1"
+    "color": "#419807",
+    "start_point_name": "추락주의",
+    "length": 46,
+    "time": "0"
   },
   {
+    "path_id": 4,
     "path": [
       {
         "lat": 36.784348,
@@ -62,9 +79,13 @@
         "lng": 128.921478
       }
     ],
-    "color": "#17c7cc"
+    "color": "#86729d",
+    "start_point_name": "응진전 등산로 전망대",
+    "length": 11,
+    "time": "0"
   },
   {
+    "path_id": 5,
     "path": [
       {
         "lat": 36.784451,
@@ -75,9 +96,13 @@
         "lng": 128.920181
       }
     ],
-    "color": "#8e89c7"
+    "color": "#e72cc2",
+    "start_point_name": "추락위험",
+    "length": 152,
+    "time": "2"
   },
   {
+    "path_id": 6,
     "path": [
       {
         "lat": 36.785351,
@@ -88,9 +113,13 @@
         "lng": 128.920181
       }
     ],
-    "color": "#b60e47"
+    "color": "#d5ac2d",
+    "start_point_name": "응진전",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 7,
     "path": [
       {
         "lat": 36.785355,
@@ -101,9 +130,13 @@
         "lng": 128.919525
       }
     ],
-    "color": "#153166"
+    "color": "#a6e011",
+    "start_point_name": "경유대(응진전 법당앞)",
+    "length": 86,
+    "time": "1"
   },
   {
+    "path_id": 8,
     "path": [
       {
         "lat": 36.785934,
@@ -114,9 +147,13 @@
         "lng": 128.919693
       }
     ],
-    "color": "#d8ff4d"
+    "color": "#e82053",
+    "start_point_name": "갈림길",
+    "length": 20,
+    "time": "0"
   },
   {
+    "path_id": 9,
     "path": [
       {
         "lat": 36.785809,
@@ -127,9 +164,13 @@
         "lng": 128.919479
       }
     ],
-    "color": "#452f2d"
+    "color": "#daeab3",
+    "start_point_name": "풍혈대",
+    "length": 57,
+    "time": "0"
   },
   {
+    "path_id": 10,
     "path": [
       {
         "lat": 36.786297,
@@ -140,9 +181,13 @@
         "lng": 128.919495
       }
     ],
-    "color": "#97a23f"
+    "color": "#86c94c",
+    "start_point_name": "등산로 전망대",
+    "length": 16,
+    "time": "0"
   },
   {
+    "path_id": 11,
     "path": [
       {
         "lat": 36.786449,
@@ -153,9 +198,13 @@
         "lng": 128.919495
       }
     ],
-    "color": "#19a35e"
+    "color": "#5564b9",
+    "start_point_name": "추락위험",
+    "length": 0,
+    "time": "0"
   },
   {
+    "path_id": 12,
     "path": [
       {
         "lat": 36.786453,
@@ -166,9 +215,13 @@
         "lng": 128.919617
       }
     ],
-    "color": "#2d9bef"
+    "color": "#2a6958",
+    "start_point_name": "풍혈대 전망대",
+    "length": 10,
+    "time": "0"
   },
   {
+    "path_id": 13,
     "path": [
       {
         "lat": 36.786457,
@@ -179,9 +232,13 @@
         "lng": 128.919708
       }
     ],
-    "color": "#5c8cbb"
+    "color": "#61d43b",
+    "start_point_name": "총명수",
+    "length": 44,
+    "time": "0"
   },
   {
+    "path_id": 14,
     "path": [
       {
         "lat": 36.786854,
@@ -192,9 +249,13 @@
         "lng": 128.920273
       }
     ],
-    "color": "#aabe21"
+    "color": "#678761",
+    "start_point_name": "어풍대",
+    "length": 51,
+    "time": "0"
   },
   {
+    "path_id": 15,
     "path": [
       {
         "lat": 36.786957,
@@ -205,9 +266,13 @@
         "lng": 128.921036
       }
     ],
-    "color": "#2aface"
+    "color": "#48f590",
+    "start_point_name": "갈림길",
+    "length": 68,
+    "time": "1"
   },
   {
+    "path_id": 16,
     "path": [
       {
         "lat": 36.787006,
@@ -218,9 +283,13 @@
         "lng": 128.921127
       }
     ],
-    "color": "#55c751"
+    "color": "#be076d",
+    "start_point_name": "갈림길",
+    "length": 51,
+    "time": "0"
   },
   {
+    "path_id": 17,
     "path": [
       {
         "lat": 36.78746,
@@ -231,9 +300,13 @@
         "lng": 128.921249
       }
     ],
-    "color": "#f3d360"
+    "color": "#f7f6e4",
+    "start_point_name": "추락위험 접근금지",
+    "length": 17,
+    "time": "0"
   },
   {
+    "path_id": 18,
     "path": [
       {
         "lat": 36.787579,
@@ -244,9 +317,13 @@
         "lng": 128.921539
       }
     ],
-    "color": "#762513"
+    "color": "#326425",
+    "start_point_name": "김생굴",
+    "length": 29,
+    "time": "0"
   },
   {
+    "path_id": 19,
     "path": [
       {
         "lat": 36.787712,
@@ -257,9 +334,13 @@
         "lng": 128.92157
       }
     ],
-    "color": "#58fbae"
+    "color": "#c16758",
+    "start_point_name": "김생폭포",
+    "length": 180,
+    "time": "3"
   },
   {
+    "path_id": 20,
     "path": [
       {
         "lat": 36.789333,
@@ -270,9 +351,13 @@
         "lng": 128.920288
       }
     ],
-    "color": "#46dfaf"
+    "color": "#751c9f",
+    "start_point_name": "연화봉 전경",
+    "length": 200,
+    "time": "3"
   },
   {
+    "path_id": 21,
     "path": [
       {
         "lat": 36.790813,
@@ -283,9 +368,13 @@
         "lng": 128.921173
       }
     ],
-    "color": "#c55c9d"
+    "color": "#104010",
+    "start_point_name": "위치번호",
+    "length": 255,
+    "time": "4"
   },
   {
+    "path_id": 22,
     "path": [
       {
         "lat": 36.792995,
@@ -296,9 +385,13 @@
         "lng": 128.921432
       }
     ],
-    "color": "#3d5054"
+    "color": "#c95a29",
+    "start_point_name": "갈림길",
+    "length": 42,
+    "time": "0"
   },
   {
+    "path_id": 23,
     "path": [
       {
         "lat": 36.793312,
@@ -309,9 +402,13 @@
         "lng": 128.921326
       }
     ],
-    "color": "#c3da57"
+    "color": "#db6d98",
+    "start_point_name": "자소봉입구 위치정보",
+    "length": 26,
+    "time": "0"
   },
   {
+    "path_id": 24,
     "path": [
       {
         "lat": 36.793537,
@@ -322,9 +419,13 @@
         "lng": 128.920212
       }
     ],
-    "color": "#30da4e"
+    "color": "#511b9d",
+    "start_point_name": "자소봉(일명 보살봉,해발840M)",
+    "length": 99,
+    "time": "1"
   },
   {
+    "path_id": 25,
     "path": [
       {
         "lat": 36.793556,
@@ -335,9 +436,13 @@
         "lng": 128.920074
       }
     ],
-    "color": "#05ac7b"
+    "color": "#e5cdb3",
+    "start_point_name": "탁필봉",
+    "length": 12,
+    "time": "0"
   },
   {
+    "path_id": 26,
     "path": [
       {
         "lat": 36.793575,
@@ -348,9 +453,13 @@
         "lng": 128.91983
       }
     ],
-    "color": "#319415"
+    "color": "#04dfc4",
+    "start_point_name": "탁필봉~연적봉 위치정보",
+    "length": 24,
+    "time": "0"
   },
   {
+    "path_id": 27,
     "path": [
       {
         "lat": 36.793674,
@@ -361,9 +470,13 @@
         "lng": 128.918839
       }
     ],
-    "color": "#926c7d"
+    "color": "#5ca23a",
+    "start_point_name": "연적봉(해발 846M)",
+    "length": 95,
+    "time": "1"
   },
   {
+    "path_id": 28,
     "path": [
       {
         "lat": 36.793991,
@@ -374,9 +487,13 @@
         "lng": 128.915207
       }
     ],
-    "color": "#f9b568"
+    "color": "#6bb50c",
+    "start_point_name": "연적봉 계단 조망",
+    "length": 327,
+    "time": "5"
   },
   {
+    "path_id": 29,
     "path": [
       {
         "lat": 36.793552,
@@ -387,9 +504,13 @@
         "lng": 128.915176
       }
     ],
-    "color": "#f23624"
+    "color": "#cd3efc",
+    "start_point_name": "갈림길",
+    "length": 5,
+    "time": "0"
   },
   {
+    "path_id": 30,
     "path": [
       {
         "lat": 36.79351,
@@ -400,9 +521,13 @@
         "lng": 128.91217
       }
     ],
-    "color": "#549645"
+    "color": "#0cd606",
+    "start_point_name": "뒷실고개 위치번호",
+    "length": 278,
+    "time": "4"
   },
   {
+    "path_id": 31,
     "path": [
       {
         "lat": 36.792809,
@@ -413,9 +538,13 @@
         "lng": 128.910446
       }
     ],
-    "color": "#6d2eae"
+    "color": "#5f68c7",
+    "start_point_name": "하늘다리",
+    "length": 174,
+    "time": "2"
   },
   {
+    "path_id": 32,
     "path": [
       {
         "lat": 36.793552,
@@ -426,9 +555,13 @@
         "lng": 128.907715
       }
     ],
-    "color": "#a4d538"
+    "color": "#2c6f47",
+    "start_point_name": "갈림길",
+    "length": 518,
+    "time": "8"
   },
   {
+    "path_id": 33,
     "path": [
       {
         "lat": 36.789436,
@@ -439,9 +572,13 @@
         "lng": 128.906998
       }
     ],
-    "color": "#0ce3e6"
+    "color": "#9db4a6",
+    "start_point_name": "마을 민가",
+    "length": 137,
+    "time": "2"
   },
   {
+    "path_id": 34,
     "path": [
       {
         "lat": 36.788345,
@@ -452,9 +589,13 @@
         "lng": 128.906799
       }
     ],
-    "color": "#9b5523"
+    "color": "#fb04f2",
+    "start_point_name": "갈림길",
+    "length": 263,
+    "time": "4"
   },
   {
+    "path_id": 35,
     "path": [
       {
         "lat": 36.785984,
@@ -465,6 +606,9 @@
         "lng": 128.907089
       }
     ],
-    "color": "#e166fd"
+    "color": "#f2072d",
+    "start_point_name": "두실마을 농산물장터",
+    "length": 69,
+    "time": "1"
   }
 ]
