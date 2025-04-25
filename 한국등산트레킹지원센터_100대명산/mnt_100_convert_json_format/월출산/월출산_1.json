@@ -1,5 +1,7 @@
 {
   "max_ele": 794.9,
+  "total_length_km": "6.3km",
+  "total_time": "1시간 18분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 126.697113
         }
       ],
-      "color": "#7223b6",
+      "color": "#41a875",
       "start_name": "기체육공원주차장 / 한옥카페 / 기체육공원주차장",
       "length_meter": 194.2,
       "time_minute": 3
@@ -30,7 +32,7 @@
           "lng": 126.699837
         }
       ],
-      "color": "#5c05b3",
+      "color": "#be0113",
       "start_name": "산성대탐방지원센터 / 산성대탐방로입구",
       "length_meter": 654.2,
       "time_minute": 10
@@ -47,10 +49,10 @@
           "lng": 126.699928
         }
       ],
-      "color": "#321f4d",
+      "color": "#1438ab",
       "start_name": "안전쉼터",
       "length_meter": 518.8,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
       "path_id": 3,
@@ -64,10 +66,10 @@
           "lng": 126.699715
         }
       ],
-      "color": "#b54eab",
+      "color": "#5faf6d",
       "start_name": "월출제일관",
       "length_meter": 357.7,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 126.7043
         }
       ],
-      "color": "#295366",
+      "color": "#5f9863",
       "start_name": "산성대",
       "length_meter": 633.9,
-      "time_minute": 10
+      "time_minute": 7
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 126.706245
         }
       ],
-      "color": "#42b8a6",
+      "color": "#8a35be",
       "start_name": "고인돌바위",
       "length_meter": 566.9,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
       "path_id": 6,
@@ -115,7 +117,7 @@
           "lng": 126.706261
         }
       ],
-      "color": "#7b27a9",
+      "color": "#095294",
       "start_name": "안전쉼터 / 갈림길",
       "length_meter": 229.0,
       "time_minute": 3
@@ -132,7 +134,7 @@
           "lng": 126.705505
         }
       ],
-      "color": "#95c637",
+      "color": "#4b29b8",
       "start_name": "추락위험",
       "length_meter": 102.6,
       "time_minute": 1
@@ -145,48 +147,48 @@
           "lng": 126.705505
         },
         {
-          "lat": 34.766815,
-          "lng": 126.704727
+          "lat": 34.766869,
+          "lng": 126.704666
         }
       ],
-      "color": "#bf7863",
-      "start_name": "갈림길",
-      "length_meter": 78.6,
+      "color": "#88aa8c",
+      "start_name": "갈림길 / 낙석위험지역",
+      "length_meter": 86.8,
       "time_minute": 1
     },
     {
       "path_id": 9,
       "path": [
         {
-          "lat": 34.766815,
-          "lng": 126.704727
+          "lat": 34.766869,
+          "lng": 126.704666
         },
         {
-          "lat": 34.76656,
-          "lng": 126.703896
+          "lat": 34.766399,
+          "lng": 126.70372
         }
       ],
-      "color": "#796bc1",
-      "start_name": "낙석위험지역 / 통천문",
-      "length_meter": 86.5,
+      "color": "#8f3e8f",
+      "start_name": "통천문 / 천황봉",
+      "length_meter": 102.3,
       "time_minute": 1
     },
     {
       "path_id": 10,
       "path": [
         {
-          "lat": 34.76656,
-          "lng": 126.703896
+          "lat": 34.766399,
+          "lng": 126.70372
         },
         {
           "lat": 34.764946,
           "lng": 126.701675
         }
       ],
-      "color": "#183db6",
-      "start_name": "천황봉 / 추락위험",
-      "length_meter": 271.0,
-      "time_minute": 4
+      "color": "#4ac024",
+      "start_name": "추락위험",
+      "length_meter": 247.0,
+      "time_minute": 3
     },
     {
       "path_id": 11,
@@ -200,10 +202,10 @@
           "lng": 126.700912
         }
       ],
-      "color": "#612b30",
+      "color": "#2b1c36",
       "start_name": "안전쉼터",
       "length_meter": 146.6,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 12,
@@ -213,34 +215,17 @@
           "lng": 126.700912
         },
         {
-          "lat": 34.763298,
-          "lng": 126.700485
-        }
-      ],
-      "color": "#968288",
-      "start_name": "추락위험",
-      "length_meter": 66.8,
-      "time_minute": 1
-    },
-    {
-      "path_id": 13,
-      "path": [
-        {
-          "lat": 34.763298,
-          "lng": 126.700485
-        },
-        {
           "lat": 34.761898,
           "lng": 126.699188
         }
       ],
-      "color": "#16b1bb",
-      "start_name": "돼지바위",
-      "length_meter": 195.6,
-      "time_minute": 3
+      "color": "#920f94",
+      "start_name": "추락위험 / 돼지바위",
+      "length_meter": 262.5,
+      "time_minute": 4
     },
     {
-      "path_id": 14,
+      "path_id": 13,
       "path": [
         {
           "lat": 34.761898,
@@ -251,13 +236,13 @@
           "lng": 126.698494
         }
       ],
-      "color": "#0c06a1",
+      "color": "#0aa1b5",
       "start_name": "추락위험 / 남근바위",
       "length_meter": 81.4,
       "time_minute": 1
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 34.761448,
@@ -268,13 +253,13 @@
           "lng": 126.706451
         }
       ],
-      "color": "#3c424e",
+      "color": "#97c649",
       "start_name": "쉼터",
       "length_meter": 974.2,
-      "time_minute": 16
+      "time_minute": 12
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 34.755615,
@@ -285,13 +270,13 @@
           "lng": 126.706863
         }
       ],
-      "color": "#4da339",
+      "color": "#355d10",
       "start_name": "갈림길",
       "length_meter": 143.7,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 17,
+      "path_id": 16,
       "path": [
         {
           "lat": 34.754368,
@@ -302,13 +287,13 @@
           "lng": 126.708809
         }
       ],
-      "color": "#a1b89a",
+      "color": "#2e180f",
       "start_name": "독사",
       "length_meter": 537.9,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
-      "path_id": 18,
+      "path_id": 17,
       "path": [
         {
           "lat": 34.749802,
@@ -319,13 +304,13 @@
           "lng": 126.70887
         }
       ],
-      "color": "#0b50a4",
+      "color": "#090f8f",
       "start_name": "금릉경포대",
       "length_meter": 387.3,
-      "time_minute": 6
+      "time_minute": 4
     },
     {
-      "path_id": 19,
+      "path_id": 18,
       "path": [
         {
           "lat": 34.746319,
@@ -336,7 +321,7 @@
           "lng": 126.709198
         }
       ],
-      "color": "#711102",
+      "color": "#6f388d",
       "start_name": "경포대산장 / 만남의광장 / 경포대주차장화장실",
       "length_meter": 48.6,
       "time_minute": 0

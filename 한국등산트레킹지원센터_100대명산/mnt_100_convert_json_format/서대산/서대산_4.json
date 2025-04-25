@@ -1,5 +1,7 @@
 {
   "max_ele": 887.418,
+  "total_length_km": "5.7km",
+  "total_time": "1시간 11분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 127.566544
         }
       ],
-      "color": "#04712b",
+      "color": "#8b0b1d",
       "start_name": "산꽃로(보광교)",
       "length_meter": 147.5,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 1,
@@ -30,10 +32,10 @@
           "lng": 127.554535
         }
       ],
-      "color": "#40c6ba",
+      "color": "#4f84a0",
       "start_name": "버스정류장",
       "length_meter": 1084.4,
-      "time_minute": 18
+      "time_minute": 13
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 127.551521
         }
       ],
-      "color": "#0d7e64",
+      "color": "#31105c",
       "start_name": "갈림길",
       "length_meter": 456.8,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 3,
@@ -64,7 +66,7 @@
           "lng": 127.550516
         }
       ],
-      "color": "#74afba",
+      "color": "#2e8896",
       "start_name": "안보광리 효심정",
       "length_meter": 167.8,
       "time_minute": 2
@@ -81,10 +83,10 @@
           "lng": 127.549461
         }
       ],
-      "color": "#5a1299",
+      "color": "#b97003",
       "start_name": "웨이포인트 5",
       "length_meter": 158.7,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 5,
@@ -98,7 +100,7 @@
           "lng": 127.5485
         }
       ],
-      "color": "#8d4172",
+      "color": "#406a16",
       "start_name": "효심사 덕분스쿨 / 효심사 덕분스쿨 주차장",
       "length_meter": 131.0,
       "time_minute": 2
@@ -115,10 +117,10 @@
           "lng": 127.548416
         }
       ],
-      "color": "#5b8e12",
+      "color": "#95a52e",
       "start_name": "효심사",
       "length_meter": 138.5,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 7,
@@ -132,7 +134,7 @@
           "lng": 127.547386
         }
       ],
-      "color": "#8a5718",
+      "color": "#b50538",
       "start_name": "서대산등산 안내도",
       "length_meter": 92.5,
       "time_minute": 1
@@ -149,7 +151,7 @@
           "lng": 127.54644
         }
       ],
-      "color": "#722763",
+      "color": "#704737",
       "start_name": "긴급구난표지",
       "length_meter": 119.1,
       "time_minute": 1
@@ -166,10 +168,10 @@
           "lng": 127.5438
         }
       ],
-      "color": "#699254",
+      "color": "#812263",
       "start_name": "긴급구조지표",
       "length_meter": 348.6,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
       "path_id": 10,
@@ -183,7 +185,7 @@
           "lng": 127.542953
         }
       ],
-      "color": "#025a28",
+      "color": "#996a1e",
       "start_name": "긴급구난지표 / 선녀바위",
       "length_meter": 88.2,
       "time_minute": 1
@@ -200,10 +202,10 @@
           "lng": 127.542076
         }
       ],
-      "color": "#39199f",
+      "color": "#98a56e",
       "start_name": "긴급구난지표",
       "length_meter": 124.7,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 12,
@@ -217,7 +219,7 @@
           "lng": 127.54158
         }
       ],
-      "color": "#17c225",
+      "color": "#3402b7",
       "start_name": "조망바위 / gps수신 불량",
       "length_meter": 83.4,
       "time_minute": 1
@@ -234,10 +236,10 @@
           "lng": 127.536987
         }
       ],
-      "color": "#4e5386",
+      "color": "#2d597a",
       "start_name": "긴급구난지표",
       "length_meter": 426.6,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 14,
@@ -251,7 +253,7 @@
           "lng": 127.537529
         }
       ],
-      "color": "#3c6a1c",
+      "color": "#59c71b",
       "start_name": "등산로쉼터 / 갈림길",
       "length_meter": 101.0,
       "time_minute": 1
@@ -268,10 +270,10 @@
           "lng": 127.534393
         }
       ],
-      "color": "#3c2123",
+      "color": "#974b03",
       "start_name": "옥녀탄금대(옛지명 상암)",
       "length_meter": 292.2,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 16,
@@ -285,7 +287,7 @@
           "lng": 127.528427
         }
       ],
-      "color": "#7faba3",
+      "color": "#726558",
       "start_name": "돌무덤 / 조망바위",
       "length_meter": 572.9,
       "time_minute": 9
@@ -298,65 +300,48 @@
           "lng": 127.528427
         },
         {
-          "lat": 36.218098,
-          "lng": 127.527855
+          "lat": 36.217945,
+          "lng": 127.527565
         }
       ],
-      "color": "#566347",
-      "start_name": "서대사(원흥사) / 원흥사",
-      "length_meter": 64.6,
+      "color": "#58a159",
+      "start_name": "서대사(원흥사) / 원흥사 / 서대사 주차장",
+      "length_meter": 95.7,
       "time_minute": 1
     },
     {
       "path_id": 18,
       "path": [
         {
-          "lat": 36.218098,
-          "lng": 127.527855
+          "lat": 36.217945,
+          "lng": 127.527565
         },
         {
-          "lat": 36.217651,
-          "lng": 127.527229
+          "lat": 36.217865,
+          "lng": 127.526619
         }
       ],
-      "color": "#8da293",
-      "start_name": "서대사 주차장 / 서대산추모공원(일불사)",
-      "length_meter": 75.6,
+      "color": "#8c23b1",
+      "start_name": "서대산추모공원(일불사) / 서대사 안내도",
+      "length_meter": 104.1,
       "time_minute": 1
     },
     {
       "path_id": 19,
       "path": [
         {
-          "lat": 36.217651,
-          "lng": 127.527229
-        },
-        {
-          "lat": 36.218235,
-          "lng": 127.525887
-        }
-      ],
-      "color": "#777140",
-      "start_name": "서대사 안내도 / 커피숖",
-      "length_meter": 137.2,
-      "time_minute": 2
-    },
-    {
-      "path_id": 20,
-      "path": [
-        {
-          "lat": 36.218235,
-          "lng": 127.525887
+          "lat": 36.217865,
+          "lng": 127.526619
         },
         {
           "lat": 36.220253,
           "lng": 127.516403
         }
       ],
-      "color": "#4c5f37",
-      "start_name": "일불사입구",
-      "length_meter": 879.9,
-      "time_minute": 14
+      "color": "#4dbbb0",
+      "start_name": "커피숖 / 일불사입구",
+      "length_meter": 957.4,
+      "time_minute": 15
     }
   ]
 }

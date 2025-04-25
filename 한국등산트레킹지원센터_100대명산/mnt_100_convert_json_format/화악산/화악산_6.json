@@ -1,5 +1,7 @@
 {
   "max_ele": 1399.14,
+  "total_length_km": "8.2km",
+  "total_time": "1시간 42분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 127.477715
         }
       ],
-      "color": "#622c73",
+      "color": "#1b3331",
       "start_name": "무지개다리 / 띠아모펜션앞",
       "length_meter": 51.1,
       "time_minute": 0
@@ -30,10 +32,10 @@
           "lng": 127.480927
         }
       ],
-      "color": "#bcb190",
+      "color": "#514d4e",
       "start_name": "가마소 아우라지",
       "length_meter": 465.3,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 127.481461
         }
       ],
-      "color": "#a33228",
+      "color": "#4ec250",
       "start_name": "갈림길",
       "length_meter": 129.2,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 3,
@@ -64,7 +66,7 @@
           "lng": 127.48175
         }
       ],
-      "color": "#323a29",
+      "color": "#077110",
       "start_name": "포토존 가마소 폭포 / 가마소폭포 / 웨이포인트 12",
       "length_meter": 32.1,
       "time_minute": 0
@@ -81,10 +83,10 @@
           "lng": 127.482124
         }
       ],
-      "color": "#7a279c",
+      "color": "#983c2e",
       "start_name": "무지개다리",
       "length_meter": 736.2,
-      "time_minute": 12
+      "time_minute": 9
     },
     {
       "path_id": 5,
@@ -98,7 +100,7 @@
           "lng": 127.481773
         }
       ],
-      "color": "#66213e",
+      "color": "#ab9f32",
       "start_name": "갈림길",
       "length_meter": 105.5,
       "time_minute": 1
@@ -115,10 +117,10 @@
           "lng": 127.482582
         }
       ],
-      "color": "#16330d",
+      "color": "#b2a465",
       "start_name": "단풍경관",
       "length_meter": 1450.3,
-      "time_minute": 24
+      "time_minute": 18
     },
     {
       "path_id": 7,
@@ -132,10 +134,10 @@
           "lng": 127.487289
         }
       ],
-      "color": "#929822",
+      "color": "#bcb95a",
       "start_name": "갈림길",
       "length_meter": 489.4,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
       "path_id": 8,
@@ -149,7 +151,7 @@
           "lng": 127.488167
         }
       ],
-      "color": "#53316a",
+      "color": "#82a1c4",
       "start_name": "바위 / 사자바위",
       "length_meter": 82.5,
       "time_minute": 1
@@ -166,7 +168,7 @@
           "lng": 127.48967
         }
       ],
-      "color": "#3255af",
+      "color": "#486717",
       "start_name": "바위3 / 바위4 / 바위",
       "length_meter": 138.1,
       "time_minute": 2
@@ -183,7 +185,7 @@
           "lng": 127.490608
         }
       ],
-      "color": "#c6a848",
+      "color": "#2d4982",
       "start_name": "전망암",
       "length_meter": 89.4,
       "time_minute": 1
@@ -196,51 +198,34 @@
           "lng": 127.490608
         },
         {
-          "lat": 37.988617,
-          "lng": 127.491325
+          "lat": 37.988697,
+          "lng": 127.491737
         }
       ],
-      "color": "#276e58",
-      "start_name": "바위 / 웨이포인트 31",
-      "length_meter": 63.6,
+      "color": "#082c40",
+      "start_name": "바위 / 웨이포인트 31 / 바위",
+      "length_meter": 100.8,
       "time_minute": 1
     },
     {
       "path_id": 12,
       "path": [
         {
-          "lat": 37.988617,
-          "lng": 127.491325
-        },
-        {
-          "lat": 37.98871,
-          "lng": 127.491882
-        }
-      ],
-      "color": "#6a9e0e",
-      "start_name": "바위 / 진짜 전망바위에서 / 웨이포인트 38 / 웨이포인트 34 / 웨이포인트 35 / 웨이포인트 36 / 웨이포인트 37",
-      "length_meter": 66.9,
-      "time_minute": 1
-    },
-    {
-      "path_id": 13,
-      "path": [
-        {
-          "lat": 37.98871,
-          "lng": 127.491882
+          "lat": 37.988697,
+          "lng": 127.491737
         },
         {
           "lat": 37.988682,
           "lng": 127.491959
         }
       ],
-      "color": "#817497",
-      "start_name": "웨이포인트 39",
-      "length_meter": 7.4,
+      "color": "#afbdab",
+      "start_name": "진짜 전망바위에서 / 웨이포인트 38 / 웨이포인트 34 / 웨이포인트 35 / 웨이포인트 36 / 웨이포인트 37 / 웨이포인트 39",
+      "length_meter": 37.1,
       "time_minute": 0
     },
     {
-      "path_id": 14,
+      "path_id": 13,
       "path": [
         {
           "lat": 37.988682,
@@ -251,13 +236,13 @@
           "lng": 127.492935
         }
       ],
-      "color": "#6c0c4b",
+      "color": "#c04139",
       "start_name": "형제바위",
       "length_meter": 96.8,
       "time_minute": 1
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 37.98909,
@@ -268,13 +253,13 @@
           "lng": 127.493126
         }
       ],
-      "color": "#bbc108",
+      "color": "#72c06c",
       "start_name": "갈림길 / 스테플러 계단",
       "length_meter": 23.6,
       "time_minute": 0
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 37.988979,
@@ -285,13 +270,13 @@
           "lng": 127.496048
         }
       ],
-      "color": "#aac1b4",
+      "color": "#c1460d",
       "start_name": "중봉정상 뷰",
       "length_meter": 279.1,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 17,
+      "path_id": 16,
       "path": [
         {
           "lat": 37.98798,
@@ -302,13 +287,13 @@
           "lng": 127.496635
         }
       ],
-      "color": "#5ec782",
+      "color": "#7720bc",
       "start_name": "갈림길",
       "length_meter": 1229.4,
-      "time_minute": 20
+      "time_minute": 15
     },
     {
-      "path_id": 18,
+      "path_id": 17,
       "path": [
         {
           "lat": 37.976933,
@@ -319,13 +304,13 @@
           "lng": 127.483284
         }
       ],
-      "color": "#c554a0",
+      "color": "#2e2a3f",
       "start_name": "바위",
       "length_meter": 1661.4,
-      "time_minute": 27
+      "time_minute": 20
     },
     {
-      "path_id": 19,
+      "path_id": 18,
       "path": [
         {
           "lat": 37.966328,
@@ -336,13 +321,13 @@
           "lng": 127.481732
         }
       ],
-      "color": "#0139b8",
+      "color": "#9473a9",
       "start_name": "갈림길",
       "length_meter": 228.1,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 20,
+      "path_id": 19,
       "path": [
         {
           "lat": 37.964682,
@@ -353,7 +338,7 @@
           "lng": 127.476639
         }
       ],
-      "color": "#b98c37",
+      "color": "#4b934a",
       "start_name": "웨이포인트 13 / 웨이포인트 14",
       "length_meter": 764.3,
       "time_minute": 12

@@ -1,5 +1,7 @@
 {
   "max_ele": 1032.1,
+  "total_length_km": "3.0km",
+  "total_time": "0시간 37분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 129.008785
         }
       ],
-      "color": "#1a059b",
+      "color": "#842355",
       "start_name": "웨이포인트 1 / 웨이포인트 2",
       "length_meter": 934.8,
       "time_minute": 15
@@ -30,7 +32,7 @@
           "lng": 129.00791
         }
       ],
-      "color": "#a85ac6",
+      "color": "#6e3e03",
       "start_name": "웨이포인트 3 / 웨이포인트 4",
       "length_meter": 190.8,
       "time_minute": 3
@@ -43,36 +45,19 @@
           "lng": 129.00791
         },
         {
-          "lat": 35.578329,
-          "lng": 129.007361
+          "lat": 35.572863,
+          "lng": 129.000521
         }
       ],
-      "color": "#56c07b",
-      "start_name": "웨이포인트 5",
-      "length_meter": 73.8,
-      "time_minute": 1
+      "color": "#98a0b4",
+      "start_name": "웨이포인트 5 / 웨이포인트 6",
+      "length_meter": 941.0,
+      "time_minute": 15
     },
     {
       "path_id": 3,
       "path": [
         {
-          "lat": 35.578329,
-          "lng": 129.007361
-        },
-        {
-          "lat": 35.572863,
-          "lng": 129.000521
-        }
-      ],
-      "color": "#64b026",
-      "start_name": "웨이포인트 6",
-      "length_meter": 867.2,
-      "time_minute": 14
-    },
-    {
-      "path_id": 4,
-      "path": [
-        {
           "lat": 35.572863,
           "lng": 129.000521
         },
@@ -81,13 +66,13 @@
           "lng": 128.991792
         }
       ],
-      "color": "#58b2b3",
+      "color": "#1a9074",
       "start_name": "웨이포인트 7 / 웨이포인트 8 / 웨이포인트 9 / 웨이포인트 10",
       "length_meter": 955.0,
       "time_minute": 15
     },
     {
-      "path_id": 5,
+      "path_id": 4,
       "path": [
         {
           "lat": 35.568031,
@@ -98,7 +83,7 @@
           "lng": 128.991792
         }
       ],
-      "color": "#9f3458",
+      "color": "#39233f",
       "start_name": "웨이포인트 11",
       "length_meter": 0.0,
       "time_minute": 0

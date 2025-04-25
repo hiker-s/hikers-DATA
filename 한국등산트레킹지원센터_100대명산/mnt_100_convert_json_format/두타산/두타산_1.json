@@ -1,5 +1,7 @@
 {
   "max_ele": 1066.031,
+  "total_length_km": "5.2km",
+  "total_time": "1시간 4분",
   "track": [
     {
       "path_id": 0,
@@ -9,31 +11,31 @@
           "lng": 129.012466
         },
         {
-          "lat": 37.384945,
-          "lng": 129.013
+          "lat": 37.385078,
+          "lng": 129.012589
         }
       ],
-      "color": "#5d8290",
-      "start_name": "댓재주차장 / 댓재조망대",
-      "length_meter": 70.9,
+      "color": "#7e055b",
+      "start_name": "댓재주차장 / 댓재조망대 / 댓재조형물",
+      "length_meter": 110.1,
       "time_minute": 1
     },
     {
       "path_id": 1,
       "path": [
         {
-          "lat": 37.384945,
-          "lng": 129.013
+          "lat": 37.385078,
+          "lng": 129.012589
         },
         {
           "lat": 37.384998,
           "lng": 129.012146
         }
       ],
-      "color": "#ae23a9",
-      "start_name": "댓재조형물 / 댓재휴게소",
-      "length_meter": 79.3,
-      "time_minute": 1
+      "color": "#0d2da5",
+      "start_name": "댓재휴게소",
+      "length_meter": 40.1,
+      "time_minute": 0
     },
     {
       "path_id": 2,
@@ -47,7 +49,7 @@
           "lng": 129.014954
         }
       ],
-      "color": "#3c8745",
+      "color": "#445f20",
       "start_name": "댓재화장실 / 갈림길",
       "length_meter": 496.8,
       "time_minute": 8
@@ -64,10 +66,10 @@
           "lng": 129.016495
         }
       ],
-      "color": "#a83d95",
+      "color": "#b01f96",
       "start_name": "간이쉼터",
       "length_meter": 278.2,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 129.011749
         }
       ],
-      "color": "#53851b",
+      "color": "#00ac90",
       "start_name": "햇댓등",
       "length_meter": 426.0,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 129.009369
         }
       ],
-      "color": "#507549",
+      "color": "#1b5023",
       "start_name": "갈림길",
       "length_meter": 211.7,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 129.008575
         }
       ],
-      "color": "#35631a",
+      "color": "#22a643",
       "start_name": "급경사지",
       "length_meter": 2331.0,
-      "time_minute": 38
+      "time_minute": 29
     },
     {
       "path_id": 7,
@@ -132,10 +134,10 @@
           "lng": 129.004639
         }
       ],
-      "color": "#7843c4",
+      "color": "#7dc50d",
       "start_name": "갈림길",
       "length_meter": 1297.5,
-      "time_minute": 21
+      "time_minute": 16
     }
   ]
 }

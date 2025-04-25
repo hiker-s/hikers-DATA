@@ -1,5 +1,7 @@
 {
   "max_ele": 664.736,
+  "total_length_km": "6.5km",
+  "total_time": "1시간 21분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 127.636604
         }
       ],
-      "color": "#0486b6",
+      "color": "#1e6abf",
       "start_name": "삼악산강촌유원지등산로입구 / 강촌유원지 정류장(1464, 삼악산 방면) / 쉼터",
       "length_meter": 479.6,
       "time_minute": 7
@@ -30,10 +32,10 @@
           "lng": 127.636009
         }
       ],
-      "color": "#840820",
+      "color": "#b9bcc6",
       "start_name": "소양강 조망",
       "length_meter": 135.3,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 2,
@@ -47,7 +49,7 @@
           "lng": 127.635712
         }
       ],
-      "color": "#606a27",
+      "color": "#7b5625",
       "start_name": "삼악좌봉 / 갈림길 / 거대바위",
       "length_meter": 347.1,
       "time_minute": 5
@@ -64,10 +66,10 @@
           "lng": 127.637161
         }
       ],
-      "color": "#a22e16",
+      "color": "#4d9a65",
       "start_name": "소양강 조망2",
       "length_meter": 143.6,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 127.638359
         }
       ],
-      "color": "#95474a",
+      "color": "#667b68",
       "start_name": "계관산능선",
       "length_meter": 122.8,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 127.643135
         }
       ],
-      "color": "#00c306",
+      "color": "#4874b2",
       "start_name": "돌탑과 함께 / 소양강조망",
       "length_meter": 549.1,
-      "time_minute": 9
+      "time_minute": 8
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 127.64917
         }
       ],
-      "color": "#92b292",
+      "color": "#9bc15e",
       "start_name": "등선봉 해발632m",
       "length_meter": 581.3,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
       "path_id": 7,
@@ -132,10 +134,10 @@
           "lng": 127.649017
         }
       ],
-      "color": "#1c05bb",
+      "color": "#b1bb3b",
       "start_name": "갈림길",
       "length_meter": 799.3,
-      "time_minute": 13
+      "time_minute": 9
     },
     {
       "path_id": 8,
@@ -149,7 +151,7 @@
           "lng": 127.652992
         }
       ],
-      "color": "#b2a19d",
+      "color": "#194195",
       "start_name": "청운봉 해발527m / 갈림길",
       "length_meter": 359.3,
       "time_minute": 5
@@ -166,10 +168,10 @@
           "lng": 127.660736
         }
       ],
-      "color": "#318622",
+      "color": "#2cb66f",
       "start_name": "소양강",
       "length_meter": 736.4,
-      "time_minute": 12
+      "time_minute": 9
     },
     {
       "path_id": 10,
@@ -183,10 +185,10 @@
           "lng": 127.656769
         }
       ],
-      "color": "#b08e3e",
+      "color": "#741f71",
       "start_name": "큰초원 쉼터 / 갈림길",
       "length_meter": 362.9,
-      "time_minute": 6
+      "time_minute": 5
     },
     {
       "path_id": 11,
@@ -200,10 +202,10 @@
           "lng": 127.653183
         }
       ],
-      "color": "#8a506c",
+      "color": "#1e8512",
       "start_name": "작은초원 쉼터",
       "length_meter": 315.1,
-      "time_minute": 5
+      "time_minute": 3
     },
     {
       "path_id": 12,
@@ -213,70 +215,53 @@
           "lng": 127.653183
         },
         {
-          "lat": 37.836552,
-          "lng": 127.653381
+          "lat": 37.83297,
+          "lng": 127.655838
         }
       ],
-      "color": "#a0c680",
-      "start_name": "흥국사 화장실",
-      "length_meter": 67.5,
-      "time_minute": 1
+      "color": "#70457f",
+      "start_name": "흥국사 화장실 / 운악산막",
+      "length_meter": 520.5,
+      "time_minute": 8
     },
     {
       "path_id": 13,
       "path": [
         {
-          "lat": 37.836552,
-          "lng": 127.653381
-        },
-        {
           "lat": 37.83297,
           "lng": 127.655838
+        },
+        {
+          "lat": 37.830097,
+          "lng": 127.657776
         }
       ],
-      "color": "#0d6bc2",
-      "start_name": "운악산막",
-      "length_meter": 453.0,
-      "time_minute": 7
+      "color": "#593169",
+      "start_name": "폭포",
+      "length_meter": 362.0,
+      "time_minute": 4
     },
     {
       "path_id": 14,
       "path": [
         {
-          "lat": 37.83297,
-          "lng": 127.655838
-        },
-        {
           "lat": 37.830097,
           "lng": 127.657776
+        },
+        {
+          "lat": 37.828403,
+          "lng": 127.657448
         }
       ],
-      "color": "#c63e93",
-      "start_name": "폭포",
-      "length_meter": 362.0,
-      "time_minute": 6
+      "color": "#3c924f",
+      "start_name": "폭포소",
+      "length_meter": 190.6,
+      "time_minute": 2
     },
     {
       "path_id": 15,
       "path": [
         {
-          "lat": 37.830097,
-          "lng": 127.657776
-        },
-        {
-          "lat": 37.828403,
-          "lng": 127.657448
-        }
-      ],
-      "color": "#803b2c",
-      "start_name": "폭포소",
-      "length_meter": 190.6,
-      "time_minute": 3
-    },
-    {
-      "path_id": 16,
-      "path": [
-        {
           "lat": 37.828403,
           "lng": 127.657448
         },
@@ -285,13 +270,13 @@
           "lng": 127.658142
         }
       ],
-      "color": "#7652b9",
+      "color": "#81449c",
       "start_name": "주렴폭포",
       "length_meter": 115.0,
       "time_minute": 1
     },
     {
-      "path_id": 17,
+      "path_id": 16,
       "path": [
         {
           "lat": 37.827526,
@@ -302,47 +287,47 @@
           "lng": 127.659172
         }
       ],
-      "color": "#267a8e",
+      "color": "#7ec692",
       "start_name": "백련폭포 / 쉼터 / 승학폭포",
       "length_meter": 143.2,
       "time_minute": 2
     },
     {
-      "path_id": 18,
+      "path_id": 17,
       "path": [
         {
           "lat": 37.826565,
           "lng": 127.659172
         },
         {
-          "lat": 37.825935,
-          "lng": 127.659508
+          "lat": 37.825642,
+          "lng": 127.659439
         }
       ],
-      "color": "#42a9c0",
-      "start_name": "등선제1폭포",
-      "length_meter": 76.0,
+      "color": "#4d1186",
+      "start_name": "등선제1폭포 / 등선휴게소식당",
+      "length_meter": 109.2,
       "time_minute": 1
     },
     {
-      "path_id": 19,
+      "path_id": 18,
       "path": [
         {
-          "lat": 37.825935,
-          "lng": 127.659508
+          "lat": 37.825642,
+          "lng": 127.659439
         },
         {
           "lat": 37.824883,
           "lng": 127.659355
         }
       ],
-      "color": "#11aeaf",
-      "start_name": "등선휴게소식당 / 등선폭포 매표소 / 등선매표소 화장실",
-      "length_meter": 131.8,
-      "time_minute": 2
+      "color": "#2e4d52",
+      "start_name": "등선폭포 매표소 / 등선매표소 화장실",
+      "length_meter": 98.6,
+      "time_minute": 1
     },
     {
-      "path_id": 20,
+      "path_id": 19,
       "path": [
         {
           "lat": 37.824883,
@@ -353,10 +338,10 @@
           "lng": 127.660057
         }
       ],
-      "color": "#40a806",
+      "color": "#44032f",
       "start_name": "유료주차장",
       "length_meter": 61.9,
-      "time_minute": 1
+      "time_minute": 0
     }
   ]
 }

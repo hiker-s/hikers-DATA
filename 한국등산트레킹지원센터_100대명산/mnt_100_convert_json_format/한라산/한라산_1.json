@@ -1,5 +1,7 @@
 {
   "max_ele": 1938.703,
+  "total_length_km": "16.7km",
+  "total_time": "3시간 29분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 126.61956
         }
       ],
-      "color": "#117991",
+      "color": "#a02525",
       "start_name": "281번 / 성판악주차장 / 성판악 매점 / 국립공원사무소",
       "length_meter": 80.9,
       "time_minute": 1
@@ -30,10 +32,10 @@
           "lng": 126.606216
         }
       ],
-      "color": "#bf9eb5",
+      "color": "#68916e",
       "start_name": "한라산 성판악 들머리",
       "length_meter": 1262.3,
-      "time_minute": 21
+      "time_minute": 15
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 126.581253
         }
       ],
-      "color": "#917d27",
+      "color": "#0e7395",
       "start_name": "쉼터",
       "length_meter": 2334.7,
-      "time_minute": 38
+      "time_minute": 29
     },
     {
       "path_id": 3,
@@ -64,10 +66,10 @@
           "lng": 126.571495
         }
       ],
-      "color": "#2d0630",
+      "color": "#c5285f",
       "start_name": "속밭대피소",
       "length_meter": 949.9,
-      "time_minute": 15
+      "time_minute": 11
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 126.568733
         }
       ],
-      "color": "#a09c24",
+      "color": "#373136",
       "start_name": "쉼터",
       "length_meter": 541.7,
-      "time_minute": 9
+      "time_minute": 6
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 126.569962
         }
       ],
-      "color": "#1aab0b",
+      "color": "#5d6f78",
       "start_name": "갈림길",
       "length_meter": 249.5,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 126.5718
         }
       ],
-      "color": "#9759ab",
+      "color": "#022bb6",
       "start_name": "사라오름",
       "length_meter": 218.6,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 7,
@@ -132,10 +134,10 @@
           "lng": 126.566399
         }
       ],
-      "color": "#47b94f",
+      "color": "#66a1be",
       "start_name": "사라오름 전망대 조망",
       "length_meter": 570.1,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
       "path_id": 8,
@@ -149,10 +151,10 @@
           "lng": 126.55584
         }
       ],
-      "color": "#173878",
+      "color": "#549090",
       "start_name": "쉼터",
       "length_meter": 1031.3,
-      "time_minute": 17
+      "time_minute": 12
     },
     {
       "path_id": 9,
@@ -166,10 +168,10 @@
           "lng": 126.535667
         }
       ],
-      "color": "#93520b",
+      "color": "#780583",
       "start_name": "진달래밭대피소",
       "length_meter": 2103.5,
-      "time_minute": 35
+      "time_minute": 26
     },
     {
       "path_id": 10,
@@ -183,10 +185,10 @@
           "lng": 126.534637
         }
       ],
-      "color": "#5ac7ba",
+      "color": "#139e97",
       "start_name": "한라산 백록담",
       "length_meter": 289.5,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 11,
@@ -200,10 +202,10 @@
           "lng": 126.533279
         }
       ],
-      "color": "#2a0672",
+      "color": "#ad621c",
       "start_name": "조망",
       "length_meter": 716.6,
-      "time_minute": 11
+      "time_minute": 8
     },
     {
       "path_id": 12,
@@ -217,10 +219,10 @@
           "lng": 126.530083
         }
       ],
-      "color": "#53145d",
+      "color": "#b1257e",
       "start_name": "용진각 대피소 자리",
       "length_meter": 399.3,
-      "time_minute": 6
+      "time_minute": 4
     },
     {
       "path_id": 13,
@@ -230,34 +232,17 @@
           "lng": 126.530083
         },
         {
-          "lat": 33.372665,
-          "lng": 126.529587
-        }
-      ],
-      "color": "#4e5bbb",
-      "start_name": "용진각 현수교",
-      "length_meter": 67.7,
-      "time_minute": 1
-    },
-    {
-      "path_id": 14,
-      "path": [
-        {
-          "lat": 33.372665,
-          "lng": 126.529587
-        },
-        {
           "lat": 33.376408,
           "lng": 126.530624
         }
       ],
-      "color": "#ad9907",
-      "start_name": "약수터",
-      "length_meter": 427.2,
+      "color": "#aa0097",
+      "start_name": "용진각 현수교 / 약수터",
+      "length_meter": 494.9,
       "time_minute": 7
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 33.376408,
@@ -268,13 +253,13 @@
           "lng": 126.530655
         }
       ],
-      "color": "#796552",
+      "color": "#176e47",
       "start_name": "삼각봉 대피소",
       "length_meter": 26.4,
       "time_minute": 0
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 33.376644,
@@ -285,13 +270,13 @@
           "lng": 126.537735
         }
       ],
-      "color": "#553c7c",
+      "color": "#35ab11",
       "start_name": "삼각봉",
       "length_meter": 1871.9,
-      "time_minute": 31
+      "time_minute": 23
     },
     {
-      "path_id": 17,
+      "path_id": 16,
       "path": [
         {
           "lat": 33.392406,
@@ -302,13 +287,13 @@
           "lng": 126.540283
         }
       ],
-      "color": "#be3075",
+      "color": "#10858a",
       "start_name": "갈림길",
       "length_meter": 991.1,
-      "time_minute": 16
+      "time_minute": 12
     },
     {
-      "path_id": 18,
+      "path_id": 17,
       "path": [
         {
           "lat": 33.401062,
@@ -319,13 +304,13 @@
           "lng": 126.542137
         }
       ],
-      "color": "#9a891d",
+      "color": "#50aac0",
       "start_name": "쉼터",
       "length_meter": 430.0,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
-      "path_id": 19,
+      "path_id": 18,
       "path": [
         {
           "lat": 33.404606,
@@ -336,13 +321,13 @@
           "lng": 126.547455
         }
       ],
-      "color": "#102646",
+      "color": "#058779",
       "start_name": "숯가마터 / 쉼터",
       "length_meter": 892.5,
       "time_minute": 14
     },
     {
-      "path_id": 20,
+      "path_id": 19,
       "path": [
         {
           "lat": 33.411293,
@@ -353,13 +338,13 @@
           "lng": 126.549973
         }
       ],
-      "color": "#0a2cc1",
+      "color": "#b5a81a",
       "start_name": "구린굴",
       "length_meter": 1132.8,
-      "time_minute": 18
+      "time_minute": 14
     },
     {
-      "path_id": 21,
+      "path_id": 20,
       "path": [
         {
           "lat": 33.421261,
@@ -370,13 +355,13 @@
           "lng": 126.550606
         }
       ],
-      "color": "#0a0680",
+      "color": "#9a0596",
       "start_name": "관음사사지구 탐방지원센터",
       "length_meter": 88.5,
       "time_minute": 1
     },
     {
-      "path_id": 22,
+      "path_id": 21,
       "path": [
         {
           "lat": 33.421856,
@@ -387,7 +372,7 @@
           "lng": 126.550087
         }
       ],
-      "color": "#605f92",
+      "color": "#887a0f",
       "start_name": "국립공원관리사무소",
       "length_meter": 51.8,
       "time_minute": 0

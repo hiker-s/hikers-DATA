@@ -12,6 +12,9 @@ os.makedirs(convert_path, exist_ok=True)
 # 정제 제외할 산
 skip_mnt = ["가리산", "금산"]
 
+# 걸음 속도 4.8 km/h => 80 m/min
+walking_speed_m_per_min = 80
+
 def random_color():
     while True:
         hex_color = "#{:06x}".format(random.randint(0, 0xFFFFFF))
@@ -88,6 +91,8 @@ for mountain_folder in os.listdir(json_path):
                     i = 0
                     path_id = 0
 
+                    total_length = 0  # 총 길이 누적 변수
+
                     while i < len(waypoints) - 1:
                         lat1 = waypoints[i]['lat']
                         lon1 = waypoints[i]['lon']
@@ -95,7 +100,7 @@ for mountain_folder in os.listdir(json_path):
                         lon2 = waypoints[i+1]['lon']
 
                         length = calculate_distance(lat1, lon1, lat2, lon2)
-                        time_minutes = length / 60
+                        time_minutes = length / walking_speed_m_per_min
                         start_names = [waypoints[i].get('name', f"Point {i}")]
 
                         if mountain_folder not in skip_mnt:
@@ -104,6 +109,8 @@ for mountain_folder in os.listdir(json_path):
                             )
                         else:
                             print(f"{mountain_folder} 제외")
+
+                        total_length += length  # 누적
 
                         section = create_section(path_id, lat1, lon1, lat2, lon2, start_names, length, time_minutes)
 
@@ -115,14 +122,30 @@ for mountain_folder in os.listdir(json_path):
                     os.makedirs(output_mountain_dir, exist_ok=True)
                     output_file_path = os.path.join(output_mountain_dir, filename)
 
+                    # 걸리는 시간 계산 (단위: 분)
+                    total_time_minutes = total_length / walking_speed_m_per_min
+
+                    # 시간과 분으로 나누기
+                    hours = int(total_time_minutes // 60)
+                    minutes = int(total_time_minutes % 60)
+
+                    # 시간 형식 설정 (minutes가 0일 경우 '시간'만 포함)
+                    if minutes == 0:
+                        total_time_str = f"{hours}시간"
+                    else:
+                        total_time_str = f"{hours}시간 {minutes}분"
+
                     # 최종 JSON 데이터 구성
                     output_data = {
                         "max_ele": data["max_ele"],
+                        "total_length_km": f"{round(total_length / 1000, 1)}km",
+                        "total_time": total_time_str,
                         "track": sections
                     }
 
                     with open(output_file_path, 'w', encoding='utf-8') as f:
                         json.dump(output_data, f, ensure_ascii=False, indent=2)
+
 
                 except Exception as e:
                     print(f"❌ {mountain_folder}/{filename} 오류 발생: {e}")

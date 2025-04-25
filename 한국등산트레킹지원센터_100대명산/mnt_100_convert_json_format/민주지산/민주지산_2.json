@@ -1,5 +1,7 @@
 {
   "max_ele": 1247.335,
+  "total_length_km": "8.2km",
+  "total_time": "1시간 42분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 127.850204
         }
       ],
-      "color": "#60c63e",
+      "color": "#6cbf4c",
       "start_name": "갈림길",
       "length_meter": 1948.0,
-      "time_minute": 32
+      "time_minute": 24
     },
     {
       "path_id": 1,
@@ -26,68 +28,34 @@
           "lng": 127.850204
         },
         {
-          "lat": 36.039589,
-          "lng": 127.849411
+          "lat": 36.039623,
+          "lng": 127.849396
         }
       ],
-      "color": "#0a05bf",
-      "start_name": "쉼터",
-      "length_meter": 71.4,
-      "time_minute": 1
+      "color": "#2d5884",
+      "start_name": "쉼터 / 갈림길",
+      "length_meter": 75.4,
+      "time_minute": 0
     },
     {
       "path_id": 2,
       "path": [
         {
-          "lat": 36.039589,
-          "lng": 127.849411
-        },
-        {
           "lat": 36.039623,
           "lng": 127.849396
-        }
-      ],
-      "color": "#bbc51f",
-      "start_name": "갈림길",
-      "length_meter": 4.0,
-      "time_minute": 0
-    },
-    {
-      "path_id": 3,
-      "path": [
-        {
-          "lat": 36.039623,
-          "lng": 127.849396
-        },
-        {
-          "lat": 36.039627,
-          "lng": 127.850273
-        }
-      ],
-      "color": "#1b8d23",
-      "start_name": "민주지산",
-      "length_meter": 78.9,
-      "time_minute": 1
-    },
-    {
-      "path_id": 4,
-      "path": [
-        {
-          "lat": 36.039627,
-          "lng": 127.850273
         },
         {
           "lat": 36.025398,
           "lng": 127.863914
         }
       ],
-      "color": "#13a95c",
-      "start_name": "갈림길",
-      "length_meter": 2002.0,
-      "time_minute": 33
+      "color": "#b17654",
+      "start_name": "민주지산 / 갈림길",
+      "length_meter": 2080.8,
+      "time_minute": 34
     },
     {
-      "path_id": 5,
+      "path_id": 3,
       "path": [
         {
           "lat": 36.025398,
@@ -98,13 +66,13 @@
           "lng": 127.864807
         }
       ],
-      "color": "#291c1b",
+      "color": "#bd4609",
       "start_name": "삼신상 쉼터 / 갈림길",
       "length_meter": 84.0,
       "time_minute": 1
     },
     {
-      "path_id": 6,
+      "path_id": 4,
       "path": [
         {
           "lat": 36.025589,
@@ -115,13 +83,13 @@
           "lng": 127.867935
         }
       ],
-      "color": "#c65401",
+      "color": "#732f08",
       "start_name": "석기봉",
       "length_meter": 286.5,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 7,
+      "path_id": 5,
       "path": [
         {
           "lat": 36.025101,
@@ -132,13 +100,13 @@
           "lng": 127.876389
         }
       ],
-      "color": "#683159",
+      "color": "#8a2f42",
       "start_name": "갈림길",
       "length_meter": 799.6,
-      "time_minute": 13
+      "time_minute": 9
     },
     {
-      "path_id": 8,
+      "path_id": 6,
       "path": [
         {
           "lat": 36.022873,
@@ -149,13 +117,13 @@
           "lng": 127.876656
         }
       ],
-      "color": "#5e3b2f",
+      "color": "#7755ae",
       "start_name": "헬기장 겸 쉼터",
       "length_meter": 28.3,
       "time_minute": 0
     },
     {
-      "path_id": 9,
+      "path_id": 7,
       "path": [
         {
           "lat": 36.022739,
@@ -166,13 +134,13 @@
           "lng": 127.8787
         }
       ],
-      "color": "#56a608",
+      "color": "#7c4553",
       "start_name": "삼도봉 / 갈림길",
       "length_meter": 858.5,
       "time_minute": 14
     },
     {
-      "path_id": 10,
+      "path_id": 8,
       "path": [
         {
           "lat": 36.030243,
@@ -183,13 +151,13 @@
           "lng": 127.874176
         }
       ],
-      "color": "#1e677f",
+      "color": "#85503e",
       "start_name": "쉼터",
       "length_meter": 664.6,
-      "time_minute": 11
+      "time_minute": 8
     },
     {
-      "path_id": 11,
+      "path_id": 9,
       "path": [
         {
           "lat": 36.034969,
@@ -200,13 +168,13 @@
           "lng": 127.873962
         }
       ],
-      "color": "#583f6b",
+      "color": "#5e84b6",
       "start_name": "음주암 폭포",
       "length_meter": 50.1,
       "time_minute": 0
     },
     {
-      "path_id": 12,
+      "path_id": 10,
       "path": [
         {
           "lat": 36.035385,
@@ -217,13 +185,13 @@
           "lng": 127.873238
         }
       ],
-      "color": "#c381ae",
+      "color": "#0d042b",
       "start_name": "쉼터",
       "length_meter": 126.3,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 13,
+      "path_id": 11,
       "path": [
         {
           "lat": 36.036358,
@@ -234,13 +202,13 @@
           "lng": 127.870049
         }
       ],
-      "color": "#580462",
+      "color": "#35a663",
       "start_name": "갈림길",
       "length_meter": 847.8,
-      "time_minute": 14
+      "time_minute": 10
     },
     {
-      "path_id": 14,
+      "path_id": 12,
       "path": [
         {
           "lat": 36.043533,
@@ -251,13 +219,13 @@
           "lng": 127.87014
         }
       ],
-      "color": "#172b88",
+      "color": "#98a557",
       "start_name": "쉼터",
       "length_meter": 233.1,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 15,
+      "path_id": 13,
       "path": [
         {
           "lat": 36.045628,
@@ -268,7 +236,7 @@
           "lng": 127.869911
         }
       ],
-      "color": "#23c5c1",
+      "color": "#99221e",
       "start_name": "갈림길 / 3번째  화장실",
       "length_meter": 147.6,
       "time_minute": 2

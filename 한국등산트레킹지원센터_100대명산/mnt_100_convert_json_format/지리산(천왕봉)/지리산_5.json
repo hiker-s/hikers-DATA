@@ -1,5 +1,7 @@
 {
   "max_ele": 1938.284,
+  "total_length_km": "10.2km",
+  "total_time": "2시간 7분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 127.732666
         }
       ],
-      "color": "#c19bc5",
+      "color": "#b9423e",
       "start_name": "천왕봉정상 / 갈림길",
       "length_meter": 503.2,
       "time_minute": 8
@@ -30,7 +32,7 @@
           "lng": 127.73365
         }
       ],
-      "color": "#70c3a1",
+      "color": "#c3102c",
       "start_name": "현위치",
       "length_meter": 164.5,
       "time_minute": 2
@@ -43,53 +45,36 @@
           "lng": 127.73365
         },
         {
-          "lat": 35.342888,
-          "lng": 127.733688
+          "lat": 35.343117,
+          "lng": 127.734795
         }
       ],
-      "color": "#0a8511",
-      "start_name": "중봉",
-      "length_meter": 60.8,
-      "time_minute": 1
+      "color": "#425e1f",
+      "start_name": "중봉 / 구상나무",
+      "length_meter": 164.4,
+      "time_minute": 2
     },
     {
       "path_id": 3,
       "path": [
         {
-          "lat": 35.342888,
-          "lng": 127.733688
-        },
-        {
           "lat": 35.343117,
           "lng": 127.734795
+        },
+        {
+          "lat": 35.343151,
+          "lng": 127.737053
         }
       ],
-      "color": "#843abe",
-      "start_name": "구상나무",
-      "length_meter": 103.6,
-      "time_minute": 1
+      "color": "#2747a9",
+      "start_name": "급경사  너덜길",
+      "length_meter": 204.8,
+      "time_minute": 2
     },
     {
       "path_id": 4,
       "path": [
         {
-          "lat": 35.343117,
-          "lng": 127.734795
-        },
-        {
-          "lat": 35.343151,
-          "lng": 127.737053
-        }
-      ],
-      "color": "#997a0c",
-      "start_name": "급경사  너덜길",
-      "length_meter": 204.8,
-      "time_minute": 3
-    },
-    {
-      "path_id": 5,
-      "path": [
-        {
           "lat": 35.343151,
           "lng": 127.737053
         },
@@ -98,13 +83,13 @@
           "lng": 127.742966
         }
       ],
-      "color": "#0e30a0",
+      "color": "#972302",
       "start_name": "중봉안전쉼터 / 국가지점",
       "length_meter": 538.8,
       "time_minute": 8
     },
     {
-      "path_id": 6,
+      "path_id": 5,
       "path": [
         {
           "lat": 35.343044,
@@ -115,13 +100,13 @@
           "lng": 127.745583
         }
       ],
-      "color": "#047b1b",
+      "color": "#bbb43e",
       "start_name": "써리봉",
       "length_meter": 281.3,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 7,
+      "path_id": 6,
       "path": [
         {
           "lat": 35.341686,
@@ -132,13 +117,13 @@
           "lng": 127.749741
         }
       ],
-      "color": "#0847c5",
+      "color": "#994b50",
       "start_name": "국가지점",
       "length_meter": 795.8,
-      "time_minute": 13
+      "time_minute": 9
     },
     {
-      "path_id": 8,
+      "path_id": 7,
       "path": [
         {
           "lat": 35.347988,
@@ -149,13 +134,13 @@
           "lng": 127.750633
         }
       ],
-      "color": "#9b201c",
+      "color": "#b5786c",
       "start_name": "치밭목샘",
       "length_meter": 101.3,
       "time_minute": 1
     },
     {
-      "path_id": 9,
+      "path_id": 8,
       "path": [
         {
           "lat": 35.348537,
@@ -166,13 +151,13 @@
           "lng": 127.753067
         }
       ],
-      "color": "#77ac7a",
+      "color": "#3a4c36",
       "start_name": "치밭목대피소 / 갈림길",
       "length_meter": 227.6,
       "time_minute": 3
     },
     {
-      "path_id": 10,
+      "path_id": 9,
       "path": [
         {
           "lat": 35.34832,
@@ -183,13 +168,13 @@
           "lng": 127.763786
         }
       ],
-      "color": "#3a2939",
+      "color": "#4bb08d",
       "start_name": "국가지점",
       "length_meter": 993.6,
-      "time_minute": 16
+      "time_minute": 12
     },
     {
-      "path_id": 11,
+      "path_id": 10,
       "path": [
         {
           "lat": 35.350166,
@@ -200,13 +185,13 @@
           "lng": 127.767731
         }
       ],
-      "color": "#a34d99",
+      "color": "#3009c4",
       "start_name": "갈림길",
       "length_meter": 393.5,
-      "time_minute": 6
+      "time_minute": 4
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 35.351639,
@@ -217,13 +202,13 @@
           "lng": 127.794769
         }
       ],
-      "color": "#43005d",
+      "color": "#13545d",
       "start_name": "국가지점",
       "length_meter": 2718.2,
-      "time_minute": 45
+      "time_minute": 33
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 35.36219,
@@ -234,13 +219,13 @@
           "lng": 127.798164
         }
       ],
-      "color": "#791874",
+      "color": "#648f46",
       "start_name": "대원사쪽  등산로  들날머리 / 갈림길",
       "length_meter": 338.0,
       "time_minute": 5
     },
     {
-      "path_id": 14,
+      "path_id": 13,
       "path": [
         {
           "lat": 35.361938,
@@ -251,47 +236,30 @@
           "lng": 127.807556
         }
       ],
-      "color": "#8a0ec1",
+      "color": "#022e12",
       "start_name": "긴장과  민박",
       "length_meter": 1052.0,
-      "time_minute": 17
+      "time_minute": 13
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 35.356384,
           "lng": 127.807556
-        },
-        {
-          "lat": 35.355743,
-          "lng": 127.807541
-        }
-      ],
-      "color": "#4d94c6",
-      "start_name": "대원사화장실",
-      "length_meter": 71.3,
-      "time_minute": 1
-    },
-    {
-      "path_id": 16,
-      "path": [
-        {
-          "lat": 35.355743,
-          "lng": 127.807541
         },
         {
           "lat": 35.355915,
           "lng": 127.810127
         }
       ],
-      "color": "#106cc4",
-      "start_name": "대원사",
-      "length_meter": 235.3,
-      "time_minute": 3
+      "color": "#462485",
+      "start_name": "대원사화장실 / 대원사",
+      "length_meter": 306.6,
+      "time_minute": 4
     },
     {
-      "path_id": 17,
+      "path_id": 15,
       "path": [
         {
           "lat": 35.355915,
@@ -302,13 +270,13 @@
           "lng": 127.812904
         }
       ],
-      "color": "#bd6d19",
+      "color": "#52782c",
       "start_name": "대원사일주문 / 대원사계곡길전망대",
       "length_meter": 297.9,
       "time_minute": 4
     },
     {
-      "path_id": 18,
+      "path_id": 16,
       "path": [
         {
           "lat": 35.357113,
@@ -319,13 +287,13 @@
           "lng": 127.81321
         }
       ],
-      "color": "#495318",
+      "color": "#c57d3c",
       "start_name": "맹세아골화장실",
       "length_meter": 44.2,
       "time_minute": 0
     },
     {
-      "path_id": 19,
+      "path_id": 17,
       "path": [
         {
           "lat": 35.356804,
@@ -336,13 +304,13 @@
           "lng": 127.812218
         }
       ],
-      "color": "#25bcb0",
+      "color": "#a30e52",
       "start_name": "맹세사골주차장",
       "length_meter": 204.1,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 20,
+      "path_id": 18,
       "path": [
         {
           "lat": 35.355156,
@@ -353,13 +321,13 @@
           "lng": 127.811684
         }
       ],
-      "color": "#70626c",
+      "color": "#a67ca8",
       "start_name": "갈림길 / 대원사계곡  포토존",
       "length_meter": 218.2,
       "time_minute": 3
     },
     {
-      "path_id": 21,
+      "path_id": 19,
       "path": [
         {
           "lat": 35.35334,
@@ -370,13 +338,13 @@
           "lng": 127.816521
         }
       ],
-      "color": "#047363",
+      "color": "#7a80c6",
       "start_name": "쉼터",
       "length_meter": 525.4,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
-      "path_id": 22,
+      "path_id": 20,
       "path": [
         {
           "lat": 35.350739,
@@ -387,13 +355,13 @@
           "lng": 127.816437
         }
       ],
-      "color": "#540548",
+      "color": "#080528",
       "start_name": "갈림길",
       "length_meter": 34.9,
       "time_minute": 0
     },
     {
-      "path_id": 23,
+      "path_id": 21,
       "path": [
         {
           "lat": 35.350433,
@@ -404,13 +372,13 @@
           "lng": 127.816811
         }
       ],
-      "color": "#b844a3",
+      "color": "#570861",
       "start_name": "대원사계곡길  탐방지원센터 / 갈림길",
       "length_meter": 80.9,
       "time_minute": 1
     },
     {
-      "path_id": 24,
+      "path_id": 22,
       "path": [
         {
           "lat": 35.349865,
@@ -421,7 +389,7 @@
           "lng": 127.816742
         }
       ],
-      "color": "#b53562",
+      "color": "#948a21",
       "start_name": "대원사  시외버스 승차장",
       "length_meter": 6.6,
       "time_minute": 0

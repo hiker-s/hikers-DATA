@@ -1,5 +1,7 @@
 {
   "max_ele": 571.407,
+  "total_length_km": "8.3km",
+  "total_time": "1시간 44분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 126.849998
         }
       ],
-      "color": "#415dae",
+      "color": "#2c3a60",
       "start_name": "장곡사 시내버스 종점 / 버스시간표 / 장곡사 2 주차장",
       "length_meter": 92.4,
       "time_minute": 1
@@ -30,7 +32,7 @@
           "lng": 126.850227
         }
       ],
-      "color": "#7d8ec0",
+      "color": "#135f59",
       "start_name": "공중 화장실 / 청양군종합관광안내도",
       "length_meter": 38.5,
       "time_minute": 0
@@ -47,7 +49,7 @@
           "lng": 126.85125
         }
       ],
-      "color": "#681198",
+      "color": "#047b0a",
       "start_name": "파고라 및 벤취",
       "length_meter": 91.6,
       "time_minute": 1
@@ -64,7 +66,7 @@
           "lng": 126.85218
         }
       ],
-      "color": "#342f16",
+      "color": "#5a2b8c",
       "start_name": "갈림길",
       "length_meter": 89.9,
       "time_minute": 1
@@ -81,7 +83,7 @@
           "lng": 126.852303
         }
       ],
-      "color": "#275206",
+      "color": "#26295a",
       "start_name": "팔각정 / 장곡1 주차장 / 장곡사 산행입구",
       "length_meter": 77.7,
       "time_minute": 1
@@ -98,7 +100,7 @@
           "lng": 126.852989
         }
       ],
-      "color": "#9a5e79",
+      "color": "#8fa29c",
       "start_name": "칠갑산맛집 / 칠갑산골",
       "length_meter": 102.7,
       "time_minute": 1
@@ -115,7 +117,7 @@
           "lng": 126.853859
         }
       ],
-      "color": "#150ab9",
+      "color": "#163513",
       "start_name": "물총칼국수. 마실식당. 마실쉼터 / 산골짜기",
       "length_meter": 79.0,
       "time_minute": 1
@@ -132,10 +134,10 @@
           "lng": 126.856827
         }
       ],
-      "color": "#24a883",
+      "color": "#9a6226",
       "start_name": "장곡사 일주문",
       "length_meter": 442.4,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 8,
@@ -145,34 +147,17 @@
           "lng": 126.856827
         },
         {
-          "lat": 36.414539,
-          "lng": 126.857536
-        }
-      ],
-      "color": "#741cbe",
-      "start_name": "공중화장실",
-      "length_meter": 70.6,
-      "time_minute": 1
-    },
-    {
-      "path_id": 9,
-      "path": [
-        {
-          "lat": 36.414539,
-          "lng": 126.857536
-        },
-        {
           "lat": 36.417107,
           "lng": 126.858688
         }
       ],
-      "color": "#6e7f4a",
-      "start_name": "칠갑산 꽃피는산골",
-      "length_meter": 303.6,
+      "color": "#810f0e",
+      "start_name": "공중화장실 / 칠갑산 꽃피는산골",
+      "length_meter": 374.2,
       "time_minute": 5
     },
     {
-      "path_id": 10,
+      "path_id": 9,
       "path": [
         {
           "lat": 36.417107,
@@ -183,13 +168,13 @@
           "lng": 126.859688
         }
       ],
-      "color": "#252ba6",
+      "color": "#100913",
       "start_name": "장곡사해우소 / 장곡사 주차장",
       "length_meter": 92.3,
       "time_minute": 1
     },
     {
-      "path_id": 11,
+      "path_id": 10,
       "path": [
         {
           "lat": 36.417027,
@@ -200,13 +185,13 @@
           "lng": 126.862366
         }
       ],
-      "color": "#365014",
+      "color": "#891354",
       "start_name": "문화재 지킴이 / 갈림길 / 장곡사",
       "length_meter": 298.0,
       "time_minute": 4
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 36.41647,
@@ -217,13 +202,13 @@
           "lng": 126.86631
         }
       ],
-      "color": "#32ac9b",
+      "color": "#78577f",
       "start_name": "칠갑산 거북바위 / 통나무 벤취 / 소나무 군락",
       "length_meter": 353.4,
       "time_minute": 5
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 36.416325,
@@ -234,13 +219,13 @@
           "lng": 126.870239
         }
       ],
-      "color": "#bbbf19",
+      "color": "#0d9995",
       "start_name": "나무둘레에 의자",
       "length_meter": 363.8,
-      "time_minute": 6
+      "time_minute": 4
     },
     {
-      "path_id": 14,
+      "path_id": 13,
       "path": [
         {
           "lat": 36.415485,
@@ -251,13 +236,13 @@
           "lng": 126.87899
         }
       ],
-      "color": "#a52538",
+      "color": "#b73f50",
       "start_name": "통나무 벤취",
       "length_meter": 824.8,
-      "time_minute": 13
+      "time_minute": 10
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 36.413155,
@@ -268,13 +253,13 @@
           "lng": 126.882477
         }
       ],
-      "color": "#046571",
+      "color": "#ac9314",
       "start_name": "평상",
       "length_meter": 358.7,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 36.411564,
@@ -285,32 +270,32 @@
           "lng": 126.88372
         }
       ],
-      "color": "#14a699",
+      "color": "#b5991f",
       "start_name": "갈림길",
       "length_meter": 114.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 36.411819,
+          "lng": 126.88372
+        },
+        {
+          "lat": 36.412663,
+          "lng": 126.884544
+        }
+      ],
+      "color": "#735864",
+      "start_name": "평상",
+      "length_meter": 119.4,
       "time_minute": 1
     },
     {
       "path_id": 17,
       "path": [
         {
-          "lat": 36.411819,
-          "lng": 126.88372
-        },
-        {
-          "lat": 36.412663,
-          "lng": 126.884544
-        }
-      ],
-      "color": "#c12faa",
-      "start_name": "평상",
-      "length_meter": 119.4,
-      "time_minute": 1
-    },
-    {
-      "path_id": 18,
-      "path": [
-        {
           "lat": 36.412663,
           "lng": 126.884544
         },
@@ -319,13 +304,13 @@
           "lng": 126.881821
         }
       ],
-      "color": "#0273a0",
+      "color": "#5a5817",
       "start_name": "평상 6개",
       "length_meter": 787.8,
-      "time_minute": 13
+      "time_minute": 9
     },
     {
-      "path_id": 19,
+      "path_id": 18,
       "path": [
         {
           "lat": 36.405926,
@@ -336,13 +321,13 @@
           "lng": 126.88063
         }
       ],
-      "color": "#69c050",
+      "color": "#376180",
       "start_name": "벤취",
       "length_meter": 200.0,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 20,
+      "path_id": 19,
       "path": [
         {
           "lat": 36.404404,
@@ -353,13 +338,13 @@
           "lng": 126.881035
         }
       ],
-      "color": "#bf027c",
+      "color": "#23779b",
       "start_name": "119 구급함",
       "length_meter": 190.9,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 21,
+      "path_id": 20,
       "path": [
         {
           "lat": 36.402718,
@@ -370,13 +355,13 @@
           "lng": 126.880707
         }
       ],
-      "color": "#1851c7",
+      "color": "#4d4d29",
       "start_name": "칠갑산 삼형제봉 표지석 / 평상",
       "length_meter": 82.5,
       "time_minute": 1
     },
     {
-      "path_id": 22,
+      "path_id": 21,
       "path": [
         {
           "lat": 36.402706,
@@ -387,13 +372,13 @@
           "lng": 126.865196
         }
       ],
-      "color": "#a88b87",
+      "color": "#8f661f",
       "start_name": "평상 1개소 벤취 1개소 / 평상",
       "length_meter": 1403.1,
       "time_minute": 23
     },
     {
-      "path_id": 23,
+      "path_id": 22,
       "path": [
         {
           "lat": 36.404499,
@@ -404,13 +389,13 @@
           "lng": 126.862022
         }
       ],
-      "color": "#541f9a",
+      "color": "#418865",
       "start_name": "벤취",
       "length_meter": 284.1,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 24,
+      "path_id": 23,
       "path": [
         {
           "lat": 36.404564,
@@ -421,95 +406,95 @@
           "lng": 126.860405
         }
       ],
-      "color": "#11a4ab",
+      "color": "#02b048",
       "start_name": "평상",
       "length_meter": 157.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 24,
+      "path": [
+        {
+          "lat": 36.404003,
+          "lng": 126.860405
+        },
+        {
+          "lat": 36.404228,
+          "lng": 126.857796
+        }
+      ],
+      "color": "#9a960a",
+      "start_name": "벤취",
+      "length_meter": 234.8,
       "time_minute": 2
     },
     {
       "path_id": 25,
       "path": [
         {
-          "lat": 36.404003,
-          "lng": 126.860405
-        },
-        {
           "lat": 36.404228,
           "lng": 126.857796
+        },
+        {
+          "lat": 36.406574,
+          "lng": 126.851746
         }
       ],
-      "color": "#4a050f",
-      "start_name": "벤취",
-      "length_meter": 234.8,
-      "time_minute": 3
+      "color": "#948139",
+      "start_name": "평상",
+      "length_meter": 601.0,
+      "time_minute": 7
     },
     {
       "path_id": 26,
       "path": [
         {
-          "lat": 36.404228,
-          "lng": 126.857796
-        },
-        {
           "lat": 36.406574,
           "lng": 126.851746
+        },
+        {
+          "lat": 36.408459,
+          "lng": 126.851158
         }
       ],
-      "color": "#3a9d6a",
-      "start_name": "평상",
-      "length_meter": 601.0,
-      "time_minute": 10
+      "color": "#407f2b",
+      "start_name": "벤취",
+      "length_meter": 216.1,
+      "time_minute": 2
     },
     {
       "path_id": 27,
       "path": [
         {
-          "lat": 36.406574,
-          "lng": 126.851746
-        },
-        {
           "lat": 36.408459,
           "lng": 126.851158
+        },
+        {
+          "lat": 36.408943,
+          "lng": 126.852142
         }
       ],
-      "color": "#043f22",
-      "start_name": "벤취",
-      "length_meter": 216.1,
-      "time_minute": 3
+      "color": "#40657c",
+      "start_name": "삼형제봉~칠갑산정상 등산로 입구 / 장곡사 3 주차장",
+      "length_meter": 103.4,
+      "time_minute": 1
     },
     {
       "path_id": 28,
       "path": [
         {
-          "lat": 36.408459,
-          "lng": 126.851158
-        },
-        {
-          "lat": 36.408791,
-          "lng": 126.851776
-        }
-      ],
-      "color": "#23284e",
-      "start_name": "삼형제봉~칠갑산정상 등산로 입구",
-      "length_meter": 66.5,
-      "time_minute": 1
-    },
-    {
-      "path_id": 29,
-      "path": [
-        {
-          "lat": 36.408791,
-          "lng": 126.851776
+          "lat": 36.408943,
+          "lng": 126.852142
         },
         {
           "lat": 36.409363,
           "lng": 126.850594
         }
       ],
-      "color": "#6e99a0",
-      "start_name": "장곡사 3 주차장 / 간이화장실",
-      "length_meter": 183.0,
-      "time_minute": 3
+      "color": "#4b1d22",
+      "start_name": "간이화장실",
+      "length_meter": 146.2,
+      "time_minute": 1
     }
   ]
 }

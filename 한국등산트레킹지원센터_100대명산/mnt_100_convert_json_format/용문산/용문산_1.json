@@ -1,5 +1,7 @@
 {
   "max_ele": 678.428,
+  "total_length_km": "0.8km",
+  "total_time": "0시간 9분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 127.525909
         }
       ],
-      "color": "#8e0d58",
+      "color": "#5e40c3",
       "start_name": "갈림길",
       "length_meter": 455.6,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 1,
@@ -30,10 +32,10 @@
           "lng": 127.526695
         }
       ],
-      "color": "#8461ae",
+      "color": "#10c22e",
       "start_name": "쉼터",
       "length_meter": 261.6,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 127.526642
         }
       ],
-      "color": "#683d02",
+      "color": "#098714",
       "start_name": "백년약수터",
       "length_meter": 68.9,
-      "time_minute": 1
+      "time_minute": 0
     }
   ]
 }

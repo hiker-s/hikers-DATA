@@ -1,5 +1,7 @@
 {
   "max_ele": 473.217,
+  "total_length_km": "5.2km",
+  "total_time": "1시간 5분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 126.456306
         }
       ],
-      "color": "#748b69",
+      "color": "#872891",
       "start_name": "함허동천 / 함허동천 주차장 / 함허동천 2,  3주차장",
       "length_meter": 66.7,
       "time_minute": 1
@@ -26,51 +28,34 @@
           "lng": 126.456306
         },
         {
-          "lat": 37.610039,
-          "lng": 126.455589
+          "lat": 37.610088,
+          "lng": 126.45536
         }
       ],
-      "color": "#519d68",
-      "start_name": "야영장 만남 슈퍼",
-      "length_meter": 75.1,
+      "color": "#863b01",
+      "start_name": "야영장 만남 슈퍼 / 입구 화장실",
+      "length_meter": 96.0,
       "time_minute": 1
     },
     {
       "path_id": 2,
       "path": [
         {
-          "lat": 37.610039,
-          "lng": 126.455589
-        },
-        {
-          "lat": 37.610329,
-          "lng": 126.454834
-        }
-      ],
-      "color": "#67986d",
-      "start_name": "입구 화장실 / 1주차장 / 이레가든",
-      "length_meter": 74.5,
-      "time_minute": 1
-    },
-    {
-      "path_id": 3,
-      "path": [
-        {
-          "lat": 37.610329,
-          "lng": 126.454834
+          "lat": 37.610088,
+          "lng": 126.45536
         },
         {
           "lat": 37.610992,
           "lng": 126.454086
         }
       ],
-      "color": "#302705",
-      "start_name": "구름계곡 슈퍼",
-      "length_meter": 98.9,
-      "time_minute": 1
+      "color": "#5cad08",
+      "start_name": "1주차장 / 이레가든 / 구름계곡 슈퍼",
+      "length_meter": 152.5,
+      "time_minute": 2
     },
     {
-      "path_id": 4,
+      "path_id": 3,
       "path": [
         {
           "lat": 37.610992,
@@ -81,13 +66,13 @@
           "lng": 126.45314
         }
       ],
-      "color": "#afa940",
+      "color": "#9f832d",
       "start_name": "쉼터 / 입구 매표소",
       "length_meter": 164.3,
       "time_minute": 2
     },
     {
-      "path_id": 5,
+      "path_id": 4,
       "path": [
         {
           "lat": 37.611355,
@@ -98,13 +83,13 @@
           "lng": 126.452118
         }
       ],
-      "color": "#a4ac61",
+      "color": "#4a6f6a",
       "start_name": "매점",
       "length_meter": 120.3,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 6,
+      "path_id": 5,
       "path": [
         {
           "lat": 37.612072,
@@ -115,13 +100,13 @@
           "lng": 126.451057
         }
       ],
-      "color": "#779ea2",
+      "color": "#8e8b81",
       "start_name": "2야영장 / 갈림길",
       "length_meter": 114.1,
       "time_minute": 1
     },
     {
-      "path_id": 7,
+      "path_id": 6,
       "path": [
         {
           "lat": 37.611843,
@@ -132,13 +117,13 @@
           "lng": 126.435555
         }
       ],
-      "color": "#310f98",
+      "color": "#4f602c",
       "start_name": "함허정 / 갈림길",
       "length_meter": 1394.8,
       "time_minute": 23
     },
     {
-      "path_id": 8,
+      "path_id": 7,
       "path": [
         {
           "lat": 37.612972,
@@ -149,13 +134,13 @@
           "lng": 126.431122
         }
       ],
-      "color": "#93b264",
+      "color": "#8710ac",
       "start_name": "능선길2",
       "length_meter": 458.8,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
-      "path_id": 9,
+      "path_id": 8,
       "path": [
         {
           "lat": 37.615139,
@@ -166,13 +151,13 @@
           "lng": 126.432266
         }
       ],
-      "color": "#1f33c3",
+      "color": "#a17c17",
       "start_name": "참성단 중수비",
       "length_meter": 130.4,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 10,
+      "path_id": 9,
       "path": [
         {
           "lat": 37.614395,
@@ -183,13 +168,13 @@
           "lng": 126.443993
         }
       ],
-      "color": "#8532a7",
+      "color": "#4f8999",
       "start_name": "능선길 바다경관",
       "length_meter": 1288.8,
-      "time_minute": 21
+      "time_minute": 16
     },
     {
-      "path_id": 11,
+      "path_id": 10,
       "path": [
         {
           "lat": 37.607464,
@@ -200,13 +185,13 @@
           "lng": 126.443855
         }
       ],
-      "color": "#9f6f75",
+      "color": "#0e33a1",
       "start_name": "정수사로 매표소",
       "length_meter": 17.6,
       "time_minute": 0
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 37.607349,
@@ -217,13 +202,13 @@
           "lng": 126.445091
         }
       ],
-      "color": "#51c09d",
+      "color": "#565d37",
       "start_name": "간이화장실 / 갈림길",
       "length_meter": 112.1,
       "time_minute": 1
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 37.60738,
@@ -234,13 +219,13 @@
           "lng": 126.448982
         }
       ],
-      "color": "#8f9c85",
+      "color": "#3796c4",
       "start_name": "정수사",
       "length_meter": 377.5,
-      "time_minute": 6
+      "time_minute": 4
     },
     {
-      "path_id": 14,
+      "path_id": 13,
       "path": [
         {
           "lat": 37.605957,
@@ -251,10 +236,10 @@
           "lng": 126.457169
         }
       ],
-      "color": "#60690c",
+      "color": "#ab3c6a",
       "start_name": "갈림길",
       "length_meter": 752.7,
-      "time_minute": 12
+      "time_minute": 9
     }
   ]
 }

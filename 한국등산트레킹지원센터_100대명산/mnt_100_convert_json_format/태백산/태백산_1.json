@@ -1,5 +1,7 @@
 {
   "max_ele": 1579.992,
+  "total_length_km": "4.4km",
+  "total_time": "0시간 54분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 128.907898
         }
       ],
-      "color": "#807b23",
+      "color": "#3d4541",
       "start_name": "태백산등산로 / 등산로입구안내소",
       "length_meter": 79.5,
       "time_minute": 1
@@ -30,7 +32,7 @@
           "lng": 128.908615
         }
       ],
-      "color": "#4eb632",
+      "color": "#c56d00",
       "start_name": "미니슈퍼 / 갈림길",
       "length_meter": 496.1,
       "time_minute": 8
@@ -47,7 +49,7 @@
           "lng": 128.908844
         }
       ],
-      "color": "#6833b3",
+      "color": "#aa62a2",
       "start_name": "매점",
       "length_meter": 86.5,
       "time_minute": 1
@@ -64,10 +66,10 @@
           "lng": 128.909454
         }
       ],
-      "color": "#bd4f55",
+      "color": "#535755",
       "start_name": "갈림길",
       "length_meter": 72.0,
-      "time_minute": 1
+      "time_minute": 0
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 128.910782
         }
       ],
-      "color": "#50b605",
+      "color": "#42c63a",
       "start_name": "쉼터",
       "length_meter": 310.7,
-      "time_minute": 5
+      "time_minute": 3
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 128.912277
         }
       ],
-      "color": "#a23330",
+      "color": "#6d7f9a",
       "start_name": "갈림길",
       "length_meter": 143.6,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 128.913391
         }
       ],
-      "color": "#17936a",
+      "color": "#3e9700",
       "start_name": "출입금지 안내",
       "length_meter": 120.3,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 7,
@@ -132,7 +134,7 @@
           "lng": 128.914261
         }
       ],
-      "color": "#c76db6",
+      "color": "#234255",
       "start_name": "쉼터 / 갈림길",
       "length_meter": 113.5,
       "time_minute": 1
@@ -149,10 +151,10 @@
           "lng": 128.911575
         }
       ],
-      "color": "#389332",
+      "color": "#89a372",
       "start_name": "등산로",
       "length_meter": 335.2,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
       "path_id": 9,
@@ -166,10 +168,10 @@
           "lng": 128.914337
         }
       ],
-      "color": "#6c4627",
+      "color": "#9fc11b",
       "start_name": "쉼터",
       "length_meter": 477.0,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 10,
@@ -183,7 +185,7 @@
           "lng": 128.915009
         }
       ],
-      "color": "#0b30a5",
+      "color": "#4635b0",
       "start_name": "불법안내",
       "length_meter": 92.6,
       "time_minute": 1
@@ -196,31 +198,31 @@
           "lng": 128.915009
         },
         {
-          "lat": 37.104237,
-          "lng": 128.915115
+          "lat": 37.104099,
+          "lng": 128.91507
         }
       ],
-      "color": "#8b68be",
-      "start_name": "조망~",
-      "length_meter": 79.8,
+      "color": "#ae20ab",
+      "start_name": "조망~ / 쉼텨",
+      "length_meter": 95.7,
       "time_minute": 1
     },
     {
       "path_id": 12,
       "path": [
         {
-          "lat": 37.104237,
-          "lng": 128.915115
+          "lat": 37.104099,
+          "lng": 128.91507
         },
         {
           "lat": 37.101959,
           "lng": 128.915619
         }
       ],
-      "color": "#055bad",
-      "start_name": "쉼텨 / 불법안내",
-      "length_meter": 258.7,
-      "time_minute": 4
+      "color": "#875d55",
+      "start_name": "불법안내",
+      "length_meter": 242.9,
+      "time_minute": 3
     },
     {
       "path_id": 13,
@@ -234,10 +236,10 @@
           "lng": 128.916122
         }
       ],
-      "color": "#908290",
+      "color": "#bb728a",
       "start_name": "조망",
       "length_meter": 202.2,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 14,
@@ -251,7 +253,7 @@
           "lng": 128.916107
         }
       ],
-      "color": "#b28778",
+      "color": "#65b288",
       "start_name": "포토",
       "length_meter": 16.5,
       "time_minute": 0
@@ -268,7 +270,7 @@
           "lng": 128.915848
         }
       ],
-      "color": "#76328a",
+      "color": "#572e2f",
       "start_name": "장군봉에서 바라본 전망",
       "length_meter": 117.7,
       "time_minute": 1
@@ -285,7 +287,7 @@
           "lng": 128.916168
         }
       ],
-      "color": "#2e7eb1",
+      "color": "#2e3779",
       "start_name": "갈림길 / 태백산천제단 / 장군봉정상석",
       "length_meter": 82.1,
       "time_minute": 1
@@ -302,10 +304,10 @@
           "lng": 128.916565
         }
       ],
-      "color": "#ba8654",
+      "color": "#115642",
       "start_name": "정상경관",
       "length_meter": 187.0,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 18,
@@ -319,7 +321,7 @@
           "lng": 128.91655
         }
       ],
-      "color": "#758a26",
+      "color": "#c7c075",
       "start_name": "천제단에서 바라본 전망 / 태백산 / 정상경관",
       "length_meter": 68.9,
       "time_minute": 1
@@ -336,10 +338,10 @@
           "lng": 128.915939
         }
       ],
-      "color": "#079d62",
+      "color": "#6e71b0",
       "start_name": "태백산천제단",
       "length_meter": 519.4,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
       "path_id": 20,
@@ -353,7 +355,7 @@
           "lng": 128.915634
         }
       ],
-      "color": "#3e4b75",
+      "color": "#5968bb",
       "start_name": "출입금지",
       "length_meter": 92.3,
       "time_minute": 1
@@ -370,10 +372,10 @@
           "lng": 128.914352
         }
       ],
-      "color": "#27ba60",
+      "color": "#9c842c",
       "start_name": "경관",
       "length_meter": 433.4,
-      "time_minute": 7
+      "time_minute": 5
     }
   ]
 }

@@ -1,5 +1,7 @@
 {
   "max_ele": 622.0,
+  "total_length_km": "6.5km",
+  "total_time": "1시간 21분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 127.450813
         }
       ],
-      "color": "#4c7890",
+      "color": "#2d047f",
       "start_name": "팔영산  등산안내도 / 팔영산  곡강 / 팔영산  곡강 주차장",
       "length_meter": 119.3,
       "time_minute": 1
@@ -30,10 +32,10 @@
           "lng": 127.448883
         }
       ],
-      "color": "#5e5a44",
+      "color": "#a4ba4a",
       "start_name": "팔영산 선녀봉경유입구",
       "length_meter": 283.2,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 127.448761
         }
       ],
-      "color": "#b73a99",
+      "color": "#6507a7",
       "start_name": "탐방로 안내도",
       "length_meter": 154.0,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 3,
@@ -64,10 +66,10 @@
           "lng": 127.447975
         }
       ],
-      "color": "#575b11",
+      "color": "#403071",
       "start_name": "갈림길",
       "length_meter": 272.6,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 127.44693
         }
       ],
-      "color": "#3c3d47",
+      "color": "#192287",
       "start_name": "낙석주위",
       "length_meter": 231.5,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 127.444717
         }
       ],
-      "color": "#31c585",
+      "color": "#bb0e9f",
       "start_name": "목구조목",
       "length_meter": 220.4,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 6,
@@ -111,34 +113,17 @@
           "lng": 127.444717
         },
         {
-          "lat": 34.632393,
-          "lng": 127.443962
-        }
-      ],
-      "color": "#3e55a5",
-      "start_name": "갈림길",
-      "length_meter": 70.0,
-      "time_minute": 1
-    },
-    {
-      "path_id": 7,
-      "path": [
-        {
-          "lat": 34.632393,
-          "lng": 127.443962
-        },
-        {
           "lat": 34.630947,
           "lng": 127.442612
         }
       ],
-      "color": "#058544",
-      "start_name": "선녀1봉",
-      "length_meter": 202.8,
-      "time_minute": 3
+      "color": "#ac94b8",
+      "start_name": "갈림길 / 선녀1봉",
+      "length_meter": 272.8,
+      "time_minute": 4
     },
     {
-      "path_id": 8,
+      "path_id": 7,
       "path": [
         {
           "lat": 34.630947,
@@ -149,13 +134,13 @@
           "lng": 127.441353
         }
       ],
-      "color": "#8da6aa",
+      "color": "#0c5a95",
       "start_name": "추락위험",
       "length_meter": 120.8,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 9,
+      "path_id": 8,
       "path": [
         {
           "lat": 34.630619,
@@ -166,13 +151,13 @@
           "lng": 127.439445
         }
       ],
-      "color": "#126d53",
+      "color": "#757711",
       "start_name": "선녀봉 2봉 쥥터",
       "length_meter": 210.5,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 10,
+      "path_id": 9,
       "path": [
         {
           "lat": 34.629562,
@@ -183,13 +168,13 @@
           "lng": 127.439415
         }
       ],
-      "color": "#57a28a",
+      "color": "#bf6751",
       "start_name": "팔영산 선녀봉",
       "length_meter": 18.4,
       "time_minute": 0
     },
     {
-      "path_id": 11,
+      "path_id": 10,
       "path": [
         {
           "lat": 34.629398,
@@ -200,13 +185,13 @@
           "lng": 127.439217
         }
       ],
-      "color": "#aaaf69",
+      "color": "#b04e10",
       "start_name": "선녀봉에서 성주봉쪽으로 / 갈림길",
       "length_meter": 40.4,
       "time_minute": 0
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 34.62912,
@@ -217,13 +202,13 @@
           "lng": 127.433182
         }
       ],
-      "color": "#7617b8",
+      "color": "#489a7a",
       "start_name": "목구조목",
       "length_meter": 592.7,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 34.627182,
@@ -234,13 +219,13 @@
           "lng": 127.43103
         }
       ],
-      "color": "#0cbb0c",
+      "color": "#9a5223",
       "start_name": "갈림길",
       "length_meter": 738.5,
-      "time_minute": 12
+      "time_minute": 9
     },
     {
-      "path_id": 14,
+      "path_id": 13,
       "path": [
         {
           "lat": 34.620781,
@@ -251,13 +236,13 @@
           "lng": 127.43177
         }
       ],
-      "color": "#102577",
+      "color": "#b14a04",
       "start_name": "칠봉과팔봉사이",
       "length_meter": 149.8,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 34.619579,
@@ -268,13 +253,13 @@
           "lng": 127.43177
         }
       ],
-      "color": "#5d615a",
+      "color": "#7ea083",
       "start_name": "팔영산 8봉 / 갈림길",
       "length_meter": 54.7,
       "time_minute": 0
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 34.619087,
@@ -285,13 +270,13 @@
           "lng": 127.426369
         }
       ],
-      "color": "#314f05",
+      "color": "#4f23a8",
       "start_name": "목구조목",
       "length_meter": 678.8,
-      "time_minute": 11
+      "time_minute": 8
     },
     {
-      "path_id": 17,
+      "path_id": 16,
       "path": [
         {
           "lat": 34.623272,
@@ -302,13 +287,13 @@
           "lng": 127.417015
         }
       ],
-      "color": "#2938bc",
+      "color": "#804e6c",
       "start_name": "갈림길",
       "length_meter": 1745.3,
-      "time_minute": 29
+      "time_minute": 21
     },
     {
-      "path_id": 18,
+      "path_id": 17,
       "path": [
         {
           "lat": 34.636951,
@@ -319,13 +304,13 @@
           "lng": 127.413948
         }
       ],
-      "color": "#be123f",
+      "color": "#90a354",
       "start_name": "팔영산 캠핑장  주차장",
       "length_meter": 590.5,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
-      "path_id": 19,
+      "path_id": 18,
       "path": [
         {
           "lat": 34.641624,
@@ -336,7 +321,7 @@
           "lng": 127.414215
         }
       ],
-      "color": "#9c0023",
+      "color": "#9b281d",
       "start_name": "팔영산 탐방센터 주차장 / 팔영산  탐방센터",
       "length_meter": 24.4,
       "time_minute": 0

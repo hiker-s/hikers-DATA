@@ -1,5 +1,7 @@
 {
   "max_ele": 539.362,
+  "total_length_km": "5.6km",
+  "total_time": "1시간 9분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 129.23027
         }
       ],
-      "color": "#46bd65",
+      "color": "#2d3356",
       "start_name": "삼릉곡 제1사지 탑재와 불상",
       "length_meter": 2440.3,
-      "time_minute": 40
+      "time_minute": 30
     },
     {
       "path_id": 1,
@@ -30,10 +32,10 @@
           "lng": 129.231696
         }
       ],
-      "color": "#1c286b",
+      "color": "#861a3f",
       "start_name": "갈림길",
       "length_meter": 715.0,
-      "time_minute": 11
+      "time_minute": 8
     },
     {
       "path_id": 2,
@@ -47,7 +49,7 @@
           "lng": 129.231506
         }
       ],
-      "color": "#6f6f2e",
+      "color": "#764318",
       "start_name": "웨이포인트 35 / 데크 상단",
       "length_meter": 65.1,
       "time_minute": 1
@@ -64,10 +66,10 @@
           "lng": 129.231913
         }
       ],
-      "color": "#7da7bf",
+      "color": "#4d7f34",
       "start_name": "웨이포인트 37",
       "length_meter": 126.6,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 4,
@@ -81,7 +83,7 @@
           "lng": 129.231913
         }
       ],
-      "color": "#20876e",
+      "color": "#46096d",
       "start_name": "웨이포인트 38",
       "length_meter": 0.0,
       "time_minute": 0
@@ -98,7 +100,7 @@
           "lng": 129.232864
         }
       ],
-      "color": "#66606d",
+      "color": "#7ab238",
       "start_name": "웨이포인트 39",
       "length_meter": 100.9,
       "time_minute": 1
@@ -115,10 +117,10 @@
           "lng": 129.225311
         }
       ],
-      "color": "#c547a0",
+      "color": "#044474",
       "start_name": "갈림길",
       "length_meter": 839.5,
-      "time_minute": 13
+      "time_minute": 10
     },
     {
       "path_id": 7,
@@ -132,7 +134,7 @@
           "lng": 129.224792
         }
       ],
-      "color": "#b8640f",
+      "color": "#a5764b",
       "start_name": "고위봉 / 갈림길 / 웨이포인트 46",
       "length_meter": 166.5,
       "time_minute": 2
@@ -145,34 +147,17 @@
           "lng": 129.224792
         },
         {
-          "lat": 35.769417,
-          "lng": 129.224548
-        }
-      ],
-      "color": "#7da61b",
-      "start_name": "조망터",
-      "length_meter": 64.2,
-      "time_minute": 1
-    },
-    {
-      "path_id": 9,
-      "path": [
-        {
-          "lat": 35.769417,
-          "lng": 129.224548
-        },
-        {
           "lat": 35.769952,
           "lng": 129.223797
         }
       ],
-      "color": "#382b35",
-      "start_name": "암릉구간",
-      "length_meter": 90.2,
-      "time_minute": 1
+      "color": "#1842a2",
+      "start_name": "조망터 / 암릉구간",
+      "length_meter": 154.3,
+      "time_minute": 2
     },
     {
-      "path_id": 10,
+      "path_id": 9,
       "path": [
         {
           "lat": 35.769952,
@@ -183,13 +168,13 @@
           "lng": 129.221728
         }
       ],
-      "color": "#35c01d",
+      "color": "#315341",
       "start_name": "웨이포인트 49 / 웨이포인트 50 / 웨이포인트 51 / 웨이포인트 52",
       "length_meter": 326.3,
       "time_minute": 5
     },
     {
-      "path_id": 11,
+      "path_id": 10,
       "path": [
         {
           "lat": 35.77205,
@@ -200,13 +185,13 @@
           "lng": 129.220211
         }
       ],
-      "color": "#a54081",
+      "color": "#939473",
       "start_name": "웨이포인트 53 / 웨이포인트 54 / 웨이포인트 55",
       "length_meter": 204.3,
       "time_minute": 3
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 35.773414,
@@ -217,7 +202,7 @@
           "lng": 129.215439
         }
       ],
-      "color": "#1f2099",
+      "color": "#9cc57c",
       "start_name": "웨이포인트 57 / 웨이포인트 58",
       "length_meter": 452.2,
       "time_minute": 7

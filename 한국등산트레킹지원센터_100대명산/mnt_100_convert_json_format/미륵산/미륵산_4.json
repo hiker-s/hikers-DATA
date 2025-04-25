@@ -1,5 +1,7 @@
 {
   "max_ele": 309.5,
+  "total_length_km": "5.8km",
+  "total_time": "1시간 12분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 128.405579
         }
       ],
-      "color": "#87a005",
+      "color": "#1e6e59",
       "start_name": "통영해양관광공원 / 쉼터",
       "length_meter": 157.4,
       "time_minute": 2
@@ -30,7 +32,7 @@
           "lng": 128.404495
         }
       ],
-      "color": "#670f9e",
+      "color": "#99a54b",
       "start_name": "놀이시설 / 운동시설",
       "length_meter": 141.1,
       "time_minute": 2
@@ -47,7 +49,7 @@
           "lng": 128.405121
         }
       ],
-      "color": "#030b22",
+      "color": "#4cbb00",
       "start_name": "걷기시설.바다풍경 / 쉼터",
       "length_meter": 139.7,
       "time_minute": 2
@@ -64,7 +66,7 @@
           "lng": 128.406021
         }
       ],
-      "color": "#881017",
+      "color": "#77b683",
       "start_name": "공영주차장",
       "length_meter": 113.0,
       "time_minute": 1
@@ -81,7 +83,7 @@
           "lng": 128.406311
         }
       ],
-      "color": "#a7064e",
+      "color": "#582d71",
       "start_name": "현대아파트 하차장",
       "length_meter": 38.2,
       "time_minute": 0
@@ -98,10 +100,10 @@
           "lng": 128.409958
         }
       ],
-      "color": "#2d5377",
+      "color": "#ad7220",
       "start_name": "등산로 입구",
       "length_meter": 333.1,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 128.409042
         }
       ],
-      "color": "#6e1d07",
+      "color": "#615c56",
       "start_name": "갈림길",
       "length_meter": 285.3,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 7,
@@ -128,34 +130,17 @@
           "lng": 128.409042
         },
         {
-          "lat": 34.825203,
-          "lng": 128.408997
-        }
-      ],
-      "color": "#866783",
-      "start_name": "약수터",
-      "length_meter": 64.6,
-      "time_minute": 1
-    },
-    {
-      "path_id": 8,
-      "path": [
-        {
-          "lat": 34.825203,
-          "lng": 128.408997
-        },
-        {
           "lat": 34.825142,
           "lng": 128.408981
         }
       ],
-      "color": "#0a2a99",
-      "start_name": "갈림길",
-      "length_meter": 6.9,
+      "color": "#c637b7",
+      "start_name": "약수터 / 갈림길",
+      "length_meter": 71.6,
       "time_minute": 0
     },
     {
-      "path_id": 9,
+      "path_id": 8,
       "path": [
         {
           "lat": 34.825142,
@@ -166,83 +151,83 @@
           "lng": 128.407806
         }
       ],
-      "color": "#59a640",
+      "color": "#1baa21",
       "start_name": "쉼터",
       "length_meter": 107.3,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 34.825123,
+          "lng": 128.407806
+        },
+        {
+          "lat": 34.8251,
+          "lng": 128.406311
+        }
+      ],
+      "color": "#6d6104",
+      "start_name": "갈림길",
+      "length_meter": 136.5,
       "time_minute": 1
     },
     {
       "path_id": 10,
       "path": [
         {
-          "lat": 34.825123,
-          "lng": 128.407806
-        },
-        {
           "lat": 34.8251,
           "lng": 128.406311
+        },
+        {
+          "lat": 34.825974,
+          "lng": 128.404572
         }
       ],
-      "color": "#be2816",
-      "start_name": "갈림길",
-      "length_meter": 136.5,
+      "color": "#151f90",
+      "start_name": "쉼터",
+      "length_meter": 186.1,
       "time_minute": 2
     },
     {
       "path_id": 11,
       "path": [
         {
-          "lat": 34.8251,
-          "lng": 128.406311
-        },
-        {
           "lat": 34.825974,
           "lng": 128.404572
+        },
+        {
+          "lat": 34.823002,
+          "lng": 128.405457
         }
       ],
-      "color": "#b45698",
-      "start_name": "쉼터",
-      "length_meter": 186.1,
-      "time_minute": 3
+      "color": "#50c3b2",
+      "start_name": "등산로 입구",
+      "length_meter": 340.2,
+      "time_minute": 4
     },
     {
       "path_id": 12,
       "path": [
         {
-          "lat": 34.825974,
-          "lng": 128.404572
-        },
-        {
           "lat": 34.823002,
           "lng": 128.405457
+        },
+        {
+          "lat": 34.825153,
+          "lng": 128.403687
         }
       ],
-      "color": "#a4b799",
-      "start_name": "등산로 입구",
-      "length_meter": 340.2,
-      "time_minute": 5
+      "color": "#7e27af",
+      "start_name": "갈림길",
+      "length_meter": 288.6,
+      "time_minute": 3
     },
     {
       "path_id": 13,
       "path": [
         {
-          "lat": 34.823002,
-          "lng": 128.405457
-        },
-        {
-          "lat": 34.825153,
-          "lng": 128.403687
-        }
-      ],
-      "color": "#559b6e",
-      "start_name": "갈림길",
-      "length_meter": 288.6,
-      "time_minute": 4
-    },
-    {
-      "path_id": 14,
-      "path": [
-        {
           "lat": 34.825153,
           "lng": 128.403687
         },
@@ -251,13 +236,13 @@
           "lng": 128.401886
         }
       ],
-      "color": "#9c6ebf",
+      "color": "#4dc4a1",
       "start_name": "등산로 입구",
       "length_meter": 165.2,
       "time_minute": 2
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 34.825008,
@@ -268,13 +253,13 @@
           "lng": 128.40184
         }
       ],
-      "color": "#7a6961",
+      "color": "#0e8d83",
       "start_name": "갈림길",
       "length_meter": 125.2,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 34.823883,
@@ -285,13 +270,13 @@
           "lng": 128.404297
         }
       ],
-      "color": "#51a46d",
+      "color": "#272b09",
       "start_name": "등산로 입구",
       "length_meter": 332.0,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
-      "path_id": 17,
+      "path_id": 16,
       "path": [
         {
           "lat": 34.821682,
@@ -302,13 +287,13 @@
           "lng": 128.40448
         }
       ],
-      "color": "#58617d",
+      "color": "#b3760c",
       "start_name": "쉼터",
       "length_meter": 85.6,
       "time_minute": 1
     },
     {
-      "path_id": 18,
+      "path_id": 17,
       "path": [
         {
           "lat": 34.820927,
@@ -319,47 +304,30 @@
           "lng": 128.407867
         }
       ],
-      "color": "#88501d",
+      "color": "#ada93e",
       "start_name": "갈림길",
       "length_meter": 387.6,
-      "time_minute": 6
+      "time_minute": 4
     },
     {
-      "path_id": 19,
+      "path_id": 18,
       "path": [
         {
           "lat": 34.818825,
           "lng": 128.407867
-        },
-        {
-          "lat": 34.81834,
-          "lng": 128.407562
-        }
-      ],
-      "color": "#8d511f",
-      "start_name": "바위조망처",
-      "length_meter": 60.7,
-      "time_minute": 1
-    },
-    {
-      "path_id": 20,
-      "path": [
-        {
-          "lat": 34.81834,
-          "lng": 128.407562
         },
         {
           "lat": 34.822945,
           "lng": 128.408478
         }
       ],
-      "color": "#40a154",
-      "start_name": "갈림길",
-      "length_meter": 518.8,
-      "time_minute": 8
+      "color": "#56604b",
+      "start_name": "바위조망처 / 갈림길",
+      "length_meter": 579.5,
+      "time_minute": 9
     },
     {
-      "path_id": 21,
+      "path_id": 19,
       "path": [
         {
           "lat": 34.822945,
@@ -370,13 +338,13 @@
           "lng": 128.409164
         }
       ],
-      "color": "#bf4c96",
+      "color": "#727528",
       "start_name": "약수터",
       "length_meter": 81.5,
       "time_minute": 1
     },
     {
-      "path_id": 22,
+      "path_id": 20,
       "path": [
         {
           "lat": 34.823414,
@@ -387,13 +355,13 @@
           "lng": 128.404251
         }
       ],
-      "color": "#633e3e",
+      "color": "#680905",
       "start_name": "굿터기점 / 갈림길",
       "length_meter": 582.5,
       "time_minute": 9
     },
     {
-      "path_id": 23,
+      "path_id": 21,
       "path": [
         {
           "lat": 34.820633,
@@ -404,13 +372,13 @@
           "lng": 128.4039
         }
       ],
-      "color": "#428667",
+      "color": "#a4b828",
       "start_name": "선금산약수터",
       "length_meter": 32.1,
       "time_minute": 0
     },
     {
-      "path_id": 24,
+      "path_id": 22,
       "path": [
         {
           "lat": 34.82061,
@@ -421,13 +389,13 @@
           "lng": 128.402832
         }
       ],
-      "color": "#4c621f",
+      "color": "#777883",
       "start_name": "선금산약수터 조망",
       "length_meter": 97.8,
       "time_minute": 1
     },
     {
-      "path_id": 25,
+      "path_id": 23,
       "path": [
         {
           "lat": 34.820675,
@@ -438,13 +406,13 @@
           "lng": 128.396774
         }
       ],
-      "color": "#bca7ba",
+      "color": "#212d3c",
       "start_name": "갈림길",
       "length_meter": 571.0,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
-      "path_id": 26,
+      "path_id": 24,
       "path": [
         {
           "lat": 34.821953,
@@ -455,13 +423,13 @@
           "lng": 128.399963
         }
       ],
-      "color": "#aa7908",
+      "color": "#7c4434",
       "start_name": "미수휴먼시아 등산로 입구",
       "length_meter": 324.9,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
-      "path_id": 27,
+      "path_id": 25,
       "path": [
         {
           "lat": 34.82325,
@@ -472,7 +440,7 @@
           "lng": 128.400421
         }
       ],
-      "color": "#244481",
+      "color": "#64332b",
       "start_name": "등산로 입구",
       "length_meter": 97.7,
       "time_minute": 1

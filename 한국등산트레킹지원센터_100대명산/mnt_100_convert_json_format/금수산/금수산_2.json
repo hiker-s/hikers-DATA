@@ -1,5 +1,7 @@
 {
   "max_ele": 1037.417,
+  "total_length_km": "4.7km",
+  "total_time": "0시간 59분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 128.273529
         }
       ],
-      "color": "#ba771b",
+      "color": "#bd1689",
       "start_name": "금수산 상학주차장 버스정류장 / 상학주차장",
       "length_meter": 259.6,
       "time_minute": 4
@@ -30,10 +32,10 @@
           "lng": 128.269379
         }
       ],
-      "color": "#473900",
+      "color": "#ba329d",
       "start_name": "대추나무집",
       "length_meter": 407.9,
-      "time_minute": 6
+      "time_minute": 5
     },
     {
       "path_id": 2,
@@ -47,7 +49,7 @@
           "lng": 128.265945
         }
       ],
-      "color": "#6f8c9b",
+      "color": "#ac301d",
       "start_name": "들머리 / 갈림길",
       "length_meter": 368.2,
       "time_minute": 6
@@ -64,10 +66,10 @@
           "lng": 128.266388
         }
       ],
-      "color": "#76782c",
+      "color": "#7c6625",
       "start_name": "대비사",
       "length_meter": 352.1,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 128.267044
         }
       ],
-      "color": "#724a41",
+      "color": "#a6401a",
       "start_name": "쉼터",
       "length_meter": 241.7,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 5,
@@ -98,7 +100,7 @@
           "lng": 128.266693
         }
       ],
-      "color": "#6e733a",
+      "color": "#62af4f",
       "start_name": "갈림길 / 쉼터 / 남근석공원",
       "length_meter": 31.5,
       "time_minute": 0
@@ -111,34 +113,17 @@
           "lng": 128.266693
         },
         {
-          "lat": 36.985851,
-          "lng": 128.265991
-        }
-      ],
-      "color": "#3bc726",
-      "start_name": "쉼터",
-      "length_meter": 62.6,
-      "time_minute": 1
-    },
-    {
-      "path_id": 7,
-      "path": [
-        {
-          "lat": 36.985851,
-          "lng": 128.265991
-        },
-        {
           "lat": 36.986027,
           "lng": 128.263458
         }
       ],
-      "color": "#bf8365",
-      "start_name": "갈림길",
-      "length_meter": 225.8,
-      "time_minute": 3
+      "color": "#637c1d",
+      "start_name": "쉼터 / 갈림길",
+      "length_meter": 288.4,
+      "time_minute": 4
     },
     {
-      "path_id": 8,
+      "path_id": 7,
       "path": [
         {
           "lat": 36.986027,
@@ -149,13 +134,13 @@
           "lng": 128.263046
         }
       ],
-      "color": "#384d4d",
+      "color": "#569907",
       "start_name": "옹달샘",
       "length_meter": 38.3,
       "time_minute": 0
     },
     {
-      "path_id": 9,
+      "path_id": 8,
       "path": [
         {
           "lat": 36.98613,
@@ -166,13 +151,13 @@
           "lng": 128.263672
         }
       ],
-      "color": "#706cc4",
+      "color": "#244c7e",
       "start_name": "왕제비꽃 서식지 / 갈림길",
       "length_meter": 149.3,
       "time_minute": 2
     },
     {
-      "path_id": 10,
+      "path_id": 9,
       "path": [
         {
           "lat": 36.986786,
@@ -183,13 +168,13 @@
           "lng": 128.258774
         }
       ],
-      "color": "#a7813a",
+      "color": "#30bf59",
       "start_name": "설금전망대",
       "length_meter": 443.9,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
-      "path_id": 11,
+      "path_id": 10,
       "path": [
         {
           "lat": 36.985992,
@@ -200,13 +185,13 @@
           "lng": 128.257004
         }
       ],
-      "color": "#932f07",
+      "color": "#658c83",
       "start_name": "낙석주의지점",
       "length_meter": 165.5,
       "time_minute": 2
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 36.986458,
@@ -217,13 +202,13 @@
           "lng": 128.25589
         }
       ],
-      "color": "#98ac8e",
+      "color": "#a22e65",
       "start_name": "낙석주의구간",
       "length_meter": 99.4,
       "time_minute": 1
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 36.986546,
@@ -234,13 +219,13 @@
           "lng": 128.256775
         }
       ],
-      "color": "#89c793",
+      "color": "#4361b6",
       "start_name": "갈림길 / 전망대",
       "length_meter": 193.9,
       "time_minute": 3
     },
     {
-      "path_id": 14,
+      "path_id": 13,
       "path": [
         {
           "lat": 36.985016,
@@ -251,13 +236,13 @@
           "lng": 128.257004
         }
       ],
-      "color": "#2f2b6a",
+      "color": "#985381",
       "start_name": "금수산정상",
       "length_meter": 331.5,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 36.98204,
@@ -268,13 +253,13 @@
           "lng": 128.258682
         }
       ],
-      "color": "#731e3e",
+      "color": "#a1aeae",
       "start_name": "갈림길",
       "length_meter": 172.1,
       "time_minute": 2
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 36.981266,
@@ -285,13 +270,13 @@
           "lng": 128.264038
         }
       ],
-      "color": "#7ebdac",
+      "color": "#474124",
       "start_name": "전망대",
       "length_meter": 642.0,
-      "time_minute": 10
+      "time_minute": 8
     },
     {
-      "path_id": 17,
+      "path_id": 16,
       "path": [
         {
           "lat": 36.97739,
@@ -302,10 +287,10 @@
           "lng": 128.269806
         }
       ],
-      "color": "#5d480e",
+      "color": "#40401a",
       "start_name": "갈림길",
       "length_meter": 534.7,
-      "time_minute": 8
+      "time_minute": 6
     }
   ]
 }

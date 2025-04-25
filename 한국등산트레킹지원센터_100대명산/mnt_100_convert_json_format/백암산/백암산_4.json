@@ -1,5 +1,7 @@
 {
   "max_ele": 773.495,
+  "total_length_km": "9.7km",
+  "total_time": "2시간",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 126.879646
         }
       ],
-      "color": "#909f4d",
+      "color": "#3e0613",
       "start_name": "백양 탐방지원센터 / 길안내",
       "length_meter": 17.8,
       "time_minute": 0
@@ -30,10 +32,10 @@
           "lng": 126.880035
         }
       ],
-      "color": "#ba750b",
+      "color": "#af8e71",
       "start_name": "일주문 화장실",
       "length_meter": 150.9,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 2,
@@ -43,30 +45,30 @@
           "lng": 126.880035
         },
         {
-          "lat": 35.431318,
-          "lng": 126.880086
+          "lat": 35.431396,
+          "lng": 126.880466
         }
       ],
-      "color": "#9f91b6",
-      "start_name": "갈림길 / 쉼터",
-      "length_meter": 65.0,
+      "color": "#684631",
+      "start_name": "갈림길 / 쉼터 / 가인 민박마을 입구",
+      "length_meter": 100.5,
       "time_minute": 1
     },
     {
       "path_id": 3,
       "path": [
         {
-          "lat": 35.431318,
-          "lng": 126.880086
+          "lat": 35.431396,
+          "lng": 126.880466
         },
         {
           "lat": 35.434124,
           "lng": 126.882545
         }
       ],
-      "color": "#b0ac22",
-      "start_name": "가인 민박마을 입구 / 길안내 / 가인 화장실 / 백양 수변길",
-      "length_meter": 401.3,
+      "color": "#b8b84e",
+      "start_name": "길안내 / 가인 화장실 / 백양 수변길",
+      "length_meter": 365.8,
       "time_minute": 6
     },
     {
@@ -81,7 +83,7 @@
           "lng": 126.883209
         }
       ],
-      "color": "#1ca689",
+      "color": "#3d8eab",
       "start_name": "박물관 화장실 / 백양사 박물관",
       "length_meter": 150.1,
       "time_minute": 2
@@ -98,10 +100,10 @@
           "lng": 126.883614
         }
       ],
-      "color": "#32138f",
+      "color": "#03151e",
       "start_name": "백양사 주차장",
       "length_meter": 132.1,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 6,
@@ -115,7 +117,7 @@
           "lng": 126.88282
         }
       ],
-      "color": "#36616e",
+      "color": "#1ab136",
       "start_name": "백암골 자연관찰로 / 인명구조함 / 자연관찰로 포토존",
       "length_meter": 108.1,
       "time_minute": 1
@@ -132,10 +134,10 @@
           "lng": 126.883492
         }
       ],
-      "color": "#7b4921",
+      "color": "#28af3a",
       "start_name": "자연관찰로 쉼터",
       "length_meter": 148.0,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 8,
@@ -149,10 +151,10 @@
           "lng": 126.883629
         }
       ],
-      "color": "#709d14",
+      "color": "#48652c",
       "start_name": "백양사 템플스테이 숙소",
       "length_meter": 132.9,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 9,
@@ -166,7 +168,7 @@
           "lng": 126.883374
         }
       ],
-      "color": "#8506b3",
+      "color": "#0e0fa1",
       "start_name": "백양사  템플스테이 화장실 / 백양사 종무소 / 백양사 직영 찻집",
       "length_meter": 81.8,
       "time_minute": 1
@@ -183,7 +185,7 @@
           "lng": 126.882996
         }
       ],
-      "color": "#6497b9",
+      "color": "#685225",
       "start_name": "백양사 보리수 나무",
       "length_meter": 35.4,
       "time_minute": 0
@@ -200,7 +202,7 @@
           "lng": 126.883667
         }
       ],
-      "color": "#5588c6",
+      "color": "#3b364d",
       "start_name": "백양사 대웅전",
       "length_meter": 83.5,
       "time_minute": 1
@@ -217,7 +219,7 @@
           "lng": 126.882988
         }
       ],
-      "color": "#283f76",
+      "color": "#2ab18b",
       "start_name": "갈림길",
       "length_meter": 80.9,
       "time_minute": 1
@@ -234,10 +236,10 @@
           "lng": 126.879982
         }
       ],
-      "color": "#5d1170",
+      "color": "#7570b8",
       "start_name": "청량원",
       "length_meter": 470.6,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 14,
@@ -251,7 +253,7 @@
           "lng": 126.88022
         }
       ],
-      "color": "#277113",
+      "color": "#9d3f5e",
       "start_name": "백양공원 지킴터 / 갈림길 / 위험등급구간 / 생각하며 걷는 오르막길",
       "length_meter": 71.3,
       "time_minute": 1
@@ -268,7 +270,7 @@
           "lng": 126.880361
         }
       ],
-      "color": "#11a710",
+      "color": "#3b963d",
       "start_name": "국립공원 건강알림 안내 / 바자나무",
       "length_meter": 90.6,
       "time_minute": 1
@@ -281,30 +283,30 @@
           "lng": 126.880361
         },
         {
-          "lat": 35.445152,
-          "lng": 126.881035
+          "lat": 35.445135,
+          "lng": 126.881121
         }
       ],
-      "color": "#2b77b4",
-      "start_name": "계단이용 건강정보(200계단) / 백학봉 오르막길 조망1 / 백학봉 오르막길 조망2 / 백학봉 오르막길 조망3",
-      "length_meter": 66.6,
+      "color": "#0e03c0",
+      "start_name": "계단이용 건강정보(200계단) / 백학봉 오르막길 조망1 / 백학봉 오르막길 조망2 / 백학봉 오르막길 조망3 / 약사암",
+      "length_meter": 74.6,
       "time_minute": 1
     },
     {
       "path_id": 17,
       "path": [
         {
-          "lat": 35.445152,
-          "lng": 126.881035
+          "lat": 35.445135,
+          "lng": 126.881121
         },
         {
           "lat": 35.445358,
           "lng": 126.881828
         }
       ],
-      "color": "#91bc17",
-      "start_name": "약사암 / 백양사 조망 / 길안내 / 약사암 종무소 / 약사암 종무소 쉼터",
-      "length_meter": 78.4,
+      "color": "#347c6b",
+      "start_name": "백양사 조망 / 길안내 / 약사암 종무소 / 약사암 종무소 쉼터",
+      "length_meter": 70.4,
       "time_minute": 1
     },
     {
@@ -319,7 +321,7 @@
           "lng": 126.881424
         }
       ],
-      "color": "#81382b",
+      "color": "#20a05f",
       "start_name": "위치번호 백암 12-01 / 영천굴에서의 조망1 / 영천굴에서의 조망2 / 영천굴",
       "length_meter": 77.9,
       "time_minute": 1
@@ -332,87 +334,70 @@
           "lng": 126.881424
         },
         {
-          "lat": 35.446392,
-          "lng": 126.881081
+          "lat": 35.446641,
+          "lng": 126.881641
         }
       ],
-      "color": "#c48680",
-      "start_name": "길안내",
-      "length_meter": 60.7,
-      "time_minute": 1
+      "color": "#6177bc",
+      "start_name": "길안내 / 추락위험 / 계단이용 건강정보(800계단) / 쉼터에서 내장사 조망 / 쉼터에서의 내장사 조망 / 쉼터 / 낙석위험",
+      "length_meter": 135.3,
+      "time_minute": 2
     },
     {
       "path_id": 20,
       "path": [
         {
-          "lat": 35.446392,
-          "lng": 126.881081
-        },
-        {
           "lat": 35.446641,
           "lng": 126.881641
+        },
+        {
+          "lat": 35.447372,
+          "lng": 126.882408
         }
       ],
-      "color": "#3a89b6",
-      "start_name": "추락위험 / 계단이용 건강정보(800계단) / 쉼터에서 내장사 조망 / 쉼터에서의 내장사 조망 / 쉼터 / 낙석위험",
-      "length_meter": 74.6,
+      "color": "#669d25",
+      "start_name": "계단이용 건강정보(1000계단) / 위치번호 백암 12-02",
+      "length_meter": 112.3,
       "time_minute": 1
     },
     {
       "path_id": 21,
       "path": [
         {
-          "lat": 35.446641,
-          "lng": 126.881641
-        },
-        {
           "lat": 35.447372,
           "lng": 126.882408
+        },
+        {
+          "lat": 35.447996,
+          "lng": 126.882496
         }
       ],
-      "color": "#4d0db7",
-      "start_name": "계단이용 건강정보(1000계단) / 위치번호 백암 12-02",
-      "length_meter": 112.3,
+      "color": "#448397",
+      "start_name": "길안내 / 백학봉 능선에서 바라본 전망 / 백학봉 능선 전망",
+      "length_meter": 75.8,
       "time_minute": 1
     },
     {
       "path_id": 22,
       "path": [
         {
-          "lat": 35.447372,
-          "lng": 126.882408
-        },
-        {
           "lat": 35.447996,
           "lng": 126.882496
+        },
+        {
+          "lat": 35.448833,
+          "lng": 126.882294
         }
       ],
-      "color": "#785612",
-      "start_name": "길안내 / 백학봉 능선에서 바라본 전망 / 백학봉 능선 전망",
-      "length_meter": 75.8,
+      "color": "#417d5a",
+      "start_name": "가을단풍",
+      "length_meter": 94.9,
       "time_minute": 1
     },
     {
       "path_id": 23,
       "path": [
         {
-          "lat": 35.447996,
-          "lng": 126.882496
-        },
-        {
-          "lat": 35.448833,
-          "lng": 126.882294
-        }
-      ],
-      "color": "#871f05",
-      "start_name": "가을단풍",
-      "length_meter": 94.9,
-      "time_minute": 1
-    },
-    {
-      "path_id": 24,
-      "path": [
-        {
           "lat": 35.448833,
           "lng": 126.882294
         },
@@ -421,13 +406,13 @@
           "lng": 126.882321
         }
       ],
-      "color": "#483106",
+      "color": "#212d90",
       "start_name": "백학봉 / 구조 구급함 / 낙뢰주의 / 백학봉 정상에서 바라본 전망",
       "length_meter": 7.3,
       "time_minute": 0
     },
     {
-      "path_id": 25,
+      "path_id": 24,
       "path": [
         {
           "lat": 35.448872,
@@ -438,13 +423,13 @@
           "lng": 126.880417
         }
       ],
-      "color": "#b97932",
+      "color": "#a16e19",
       "start_name": "탐방로 안내",
       "length_meter": 418.9,
-      "time_minute": 6
+      "time_minute": 5
     },
     {
-      "path_id": 26,
+      "path_id": 25,
       "path": [
         {
           "lat": 35.452305,
@@ -455,13 +440,13 @@
           "lng": 126.880882
         }
       ],
-      "color": "#4a373d",
+      "color": "#404daa",
       "start_name": "갈림길",
       "length_meter": 286.9,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 27,
+      "path_id": 26,
       "path": [
         {
           "lat": 35.454857,
@@ -472,13 +457,13 @@
           "lng": 126.875893
         }
       ],
-      "color": "#9774a9",
+      "color": "#3da5c4",
       "start_name": "쉼터",
       "length_meter": 479.5,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
-      "path_id": 28,
+      "path_id": 27,
       "path": [
         {
           "lat": 35.456299,
@@ -489,13 +474,13 @@
           "lng": 126.869812
         }
       ],
-      "color": "#be1854",
+      "color": "#bc861c",
       "start_name": "백학송에서 바라본 전망1 / 백학송 쉼터 / 백학송에서 바라본 전망2 / 백학송에서 바라본 전망3 / 백학송 전망대 / 백학송 앞 쉼터",
       "length_meter": 721.0,
       "time_minute": 12
     },
     {
-      "path_id": 29,
+      "path_id": 28,
       "path": [
         {
           "lat": 35.460449,
@@ -506,13 +491,13 @@
           "lng": 126.86869
         }
       ],
-      "color": "#038141",
+      "color": "#be9d09",
       "start_name": "상왕봉 능선길 조망",
       "length_meter": 133.5,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 30,
+      "path_id": 29,
       "path": [
         {
           "lat": 35.461227,
@@ -523,13 +508,13 @@
           "lng": 126.865356
         }
       ],
-      "color": "#99bec7",
+      "color": "#52066b",
       "start_name": "갈림길 / 상왕봉 구급함 / 상왕봉 / 상왕봉에서 바라본 전망1 / 상왕봉에서 바라본 전망2 / 상왕봉에서 바라본 전망3",
       "length_meter": 399.9,
       "time_minute": 6
     },
     {
-      "path_id": 31,
+      "path_id": 30,
       "path": [
         {
           "lat": 35.458992,
@@ -540,13 +525,13 @@
           "lng": 126.864906
         }
       ],
-      "color": "#b4b04a",
+      "color": "#5bad2a",
       "start_name": "가을 단풍",
       "length_meter": 69.9,
-      "time_minute": 1
+      "time_minute": 0
     },
     {
-      "path_id": 32,
+      "path_id": 31,
       "path": [
         {
           "lat": 35.458481,
@@ -557,13 +542,13 @@
           "lng": 126.86338
         }
       ],
-      "color": "#037708",
+      "color": "#521053",
       "start_name": "사거리 쉼터 / 갈림길",
       "length_meter": 186.1,
       "time_minute": 3
     },
     {
-      "path_id": 33,
+      "path_id": 32,
       "path": [
         {
           "lat": 35.457378,
@@ -574,13 +559,13 @@
           "lng": 126.864326
         }
       ],
-      "color": "#785704",
+      "color": "#61c210",
       "start_name": "사자봉",
       "length_meter": 189.7,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 34,
+      "path_id": 33,
       "path": [
         {
           "lat": 35.455856,
@@ -591,13 +576,13 @@
           "lng": 126.864609
         }
       ],
-      "color": "#772c03",
+      "color": "#8ab25f",
       "start_name": "사자봉 능선에서 바라본 전망1 / 사자봉 능선에서 바라본 전망2 / 사자봉 능선 전망 / 사자봉에서 바라본 전망1 / 사자봉에서 바라본 전망2 / 사자봉에서 바라본 전망3",
       "length_meter": 290.5,
       "time_minute": 4
     },
     {
-      "path_id": 35,
+      "path_id": 34,
       "path": [
         {
           "lat": 35.453274,
@@ -608,13 +593,13 @@
           "lng": 126.866787
         }
       ],
-      "color": "#1e9228",
+      "color": "#20397b",
       "start_name": "위치번호 백암 12-10",
       "length_meter": 407.1,
-      "time_minute": 6
+      "time_minute": 5
     },
     {
-      "path_id": 36,
+      "path_id": 35,
       "path": [
         {
           "lat": 35.450071,
@@ -625,13 +610,13 @@
           "lng": 126.867973
         }
       ],
-      "color": "#581a8c",
+      "color": "#565001",
       "start_name": "탐방로 안내 / 갈림길 / 길안내 / 위치번호 백암 12-11 / 출입금지",
       "length_meter": 165.7,
       "time_minute": 2
     },
     {
-      "path_id": 37,
+      "path_id": 36,
       "path": [
         {
           "lat": 35.449093,
@@ -642,13 +627,13 @@
           "lng": 126.869583
         }
       ],
-      "color": "#73614f",
+      "color": "#121e97",
       "start_name": "가을단풍",
       "length_meter": 268.7,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 38,
+      "path_id": 37,
       "path": [
         {
           "lat": 35.447063,
@@ -659,13 +644,13 @@
           "lng": 126.867371
         }
       ],
-      "color": "#b5263b",
+      "color": "#6221c4",
       "start_name": "길안내",
       "length_meter": 580.3,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
-      "path_id": 39,
+      "path_id": 38,
       "path": [
         {
           "lat": 35.442165,
@@ -676,47 +661,30 @@
           "lng": 126.870255
         }
       ],
-      "color": "#0b6b62",
+      "color": "#314e50",
       "start_name": "위치번호 백암 12-14",
       "length_meter": 348.3,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
-      "path_id": 40,
+      "path_id": 39,
       "path": [
         {
           "lat": 35.440093,
           "lng": 126.870255
-        },
-        {
-          "lat": 35.439846,
-          "lng": 126.870895
-        }
-      ],
-      "color": "#904d59",
-      "start_name": "가을단풍",
-      "length_meter": 64.2,
-      "time_minute": 1
-    },
-    {
-      "path_id": 41,
-      "path": [
-        {
-          "lat": 35.439846,
-          "lng": 126.870895
         },
         {
           "lat": 35.440008,
           "lng": 126.871252
         }
       ],
-      "color": "#5e0a9c",
-      "start_name": "단풍",
-      "length_meter": 37.0,
-      "time_minute": 0
+      "color": "#8b9778",
+      "start_name": "가을단풍 / 단풍",
+      "length_meter": 101.2,
+      "time_minute": 1
     },
     {
-      "path_id": 42,
+      "path_id": 40,
       "path": [
         {
           "lat": 35.440008,
@@ -727,13 +695,13 @@
           "lng": 126.873024
         }
       ],
-      "color": "#64b890",
+      "color": "#737e37",
       "start_name": "웨이포인트 162",
       "length_meter": 190.7,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 43,
+      "path_id": 41,
       "path": [
         {
           "lat": 35.439083,
@@ -744,13 +712,13 @@
           "lng": 126.876022
         }
       ],
-      "color": "#1a567c",
+      "color": "#5d08c4",
       "start_name": "갈림길 / 탐방로 안내 / 청류암",
       "length_meter": 482.1,
       "time_minute": 8
     },
     {
-      "path_id": 44,
+      "path_id": 42,
       "path": [
         {
           "lat": 35.436287,
@@ -761,13 +729,13 @@
           "lng": 126.877174
         }
       ],
-      "color": "#a52a51",
+      "color": "#14aa76",
       "start_name": "길안내",
       "length_meter": 131.6,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 45,
+      "path_id": 43,
       "path": [
         {
           "lat": 35.435566,
@@ -778,13 +746,13 @@
           "lng": 126.878059
         }
       ],
-      "color": "#0b3d7f",
+      "color": "#2e4478",
       "start_name": "백양고로쇠 판매장",
       "length_meter": 113.7,
       "time_minute": 1
     },
     {
-      "path_id": 46,
+      "path_id": 44,
       "path": [
         {
           "lat": 35.434841,
@@ -795,13 +763,13 @@
           "lng": 126.879165
         }
       ],
-      "color": "#626111",
+      "color": "#4b0527",
       "start_name": "가인마을 전경1 / 가인마을 계곡",
       "length_meter": 209.8,
       "time_minute": 3
     },
     {
-      "path_id": 47,
+      "path_id": 45,
       "path": [
         {
           "lat": 35.433184,
@@ -812,13 +780,13 @@
           "lng": 126.879925
         }
       ],
-      "color": "#b5193b",
+      "color": "#071403",
       "start_name": "가인마을 전경2 / 가인마을 전경3",
       "length_meter": 123.4,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 48,
+      "path_id": 46,
       "path": [
         {
           "lat": 35.432266,
@@ -829,13 +797,13 @@
           "lng": 126.879471
         }
       ],
-      "color": "#b13083",
+      "color": "#5e836f",
       "start_name": "가인마을 민박소개 / 가인 야영장",
       "length_meter": 208.3,
       "time_minute": 3
     },
     {
-      "path_id": 49,
+      "path_id": 47,
       "path": [
         {
           "lat": 35.430538,
@@ -846,13 +814,13 @@
           "lng": 126.879318
         }
       ],
-      "color": "#7562a7",
+      "color": "#870e31",
       "start_name": "가인 주차장",
       "length_meter": 92.2,
       "time_minute": 1
     },
     {
-      "path_id": 50,
+      "path_id": 48,
       "path": [
         {
           "lat": 35.429718,
@@ -863,10 +831,10 @@
           "lng": 126.879196
         }
       ],
-      "color": "#3c0314",
+      "color": "#966bad",
       "start_name": "가인 주차장 쉼터",
       "length_meter": 194.6,
-      "time_minute": 3
+      "time_minute": 2
     }
   ]
 }

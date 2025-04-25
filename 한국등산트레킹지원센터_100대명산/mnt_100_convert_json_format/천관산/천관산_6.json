@@ -1,5 +1,7 @@
 {
   "max_ele": 354.021,
+  "total_length_km": "6.5km",
+  "total_time": "1시간 21분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 126.919662
         }
       ],
-      "color": "#668d55",
+      "color": "#838c94",
       "start_name": "갈림길",
       "length_meter": 201.2,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 1,
@@ -30,10 +32,10 @@
           "lng": 126.918839
         }
       ],
-      "color": "#a67a81",
+      "color": "#b0624d",
       "start_name": "웨이포인트 13",
       "length_meter": 121.4,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 126.916122
         }
       ],
-      "color": "#b69313",
+      "color": "#211d46",
       "start_name": "갈림길",
       "length_meter": 770.0,
-      "time_minute": 12
+      "time_minute": 9
     },
     {
       "path_id": 3,
@@ -64,10 +66,10 @@
           "lng": 126.911995
         }
       ],
-      "color": "#241160",
+      "color": "#4c1851",
       "start_name": "아들바위",
       "length_meter": 563.9,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 126.910324
         }
       ],
-      "color": "#adc5a8",
+      "color": "#0d1c79",
       "start_name": "질깔끄막",
       "length_meter": 265.5,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 126.908356
         }
       ],
-      "color": "#2c51ac",
+      "color": "#553973",
       "start_name": "갈림길",
       "length_meter": 200.8,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 126.906914
         }
       ],
-      "color": "#985ac3",
+      "color": "#5f883f",
       "start_name": "책상바위",
       "length_meter": 203.9,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 7,
@@ -132,10 +134,10 @@
           "lng": 126.898705
         }
       ],
-      "color": "#4d88bd",
+      "color": "#627749",
       "start_name": "갈림길",
       "length_meter": 1186.8,
-      "time_minute": 19
+      "time_minute": 14
     },
     {
       "path_id": 8,
@@ -149,7 +151,7 @@
           "lng": 126.898727
         }
       ],
-      "color": "#b1b217",
+      "color": "#728f84",
       "start_name": "버스",
       "length_meter": 13.4,
       "time_minute": 0
@@ -166,7 +168,7 @@
           "lng": 126.901825
         }
       ],
-      "color": "#35bf67",
+      "color": "#69b677",
       "start_name": "쉼터 / 갈림길",
       "length_meter": 852.2,
       "time_minute": 14
@@ -179,34 +181,17 @@
           "lng": 126.901825
         },
         {
-          "lat": 34.506645,
-          "lng": 126.901978
-        }
-      ],
-      "color": "#a2582e",
-      "start_name": "버스",
-      "length_meter": 62.6,
-      "time_minute": 1
-    },
-    {
-      "path_id": 11,
-      "path": [
-        {
-          "lat": 34.506645,
-          "lng": 126.901978
-        },
-        {
           "lat": 34.506824,
           "lng": 126.901978
         }
       ],
-      "color": "#80b142",
-      "start_name": "갈림길",
-      "length_meter": 19.9,
-      "time_minute": 0
+      "color": "#ba5b9a",
+      "start_name": "버스 / 갈림길",
+      "length_meter": 82.5,
+      "time_minute": 1
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 34.506824,
@@ -217,13 +202,13 @@
           "lng": 126.901756
         }
       ],
-      "color": "#91babb",
+      "color": "#1c0ea1",
       "start_name": "쉼터 / 갈림길",
       "length_meter": 162.9,
       "time_minute": 2
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 34.508263,
@@ -234,13 +219,13 @@
           "lng": 126.902184
         }
       ],
-      "color": "#ba7daa",
+      "color": "#798a00",
       "start_name": "쉼터 / 갈림길",
       "length_meter": 632.8,
       "time_minute": 10
     },
     {
-      "path_id": 14,
+      "path_id": 13,
       "path": [
         {
           "lat": 34.513927,
@@ -251,13 +236,13 @@
           "lng": 126.902611
         }
       ],
-      "color": "#aa7942",
+      "color": "#0b78b0",
       "start_name": "관광안내소",
       "length_meter": 248.7,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 34.516136,
@@ -268,13 +253,13 @@
           "lng": 126.903275
         }
       ],
-      "color": "#53b793",
+      "color": "#b66481",
       "start_name": "갈림길",
       "length_meter": 102.0,
       "time_minute": 1
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 34.516872,
@@ -285,10 +270,10 @@
           "lng": 126.908424
         }
       ],
-      "color": "#5c10a7",
+      "color": "#586600",
       "start_name": "쉼터",
       "length_meter": 905.1,
-      "time_minute": 15
+      "time_minute": 11
     }
   ]
 }

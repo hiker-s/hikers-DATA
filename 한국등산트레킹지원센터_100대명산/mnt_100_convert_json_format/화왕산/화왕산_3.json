@@ -1,5 +1,7 @@
 {
   "max_ele": 770.0,
+  "total_length_km": "9.8km",
+  "total_time": "2시간 2분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 128.551147
         }
       ],
-      "color": "#9417ba",
+      "color": "#2875ba",
       "start_name": "주차장화장실 / 쉼터,체육시설 / 옥천매표소 주차장 / 창녕군관광안내소 / 버스정류장",
       "length_meter": 89.5,
       "time_minute": 1
@@ -30,10 +32,10 @@
           "lng": 128.549911
         }
       ],
-      "color": "#8dbb14",
+      "color": "#0c5773",
       "start_name": "(들머리, 날머리)옥천매표소 주차장",
       "length_meter": 301.8,
-      "time_minute": 5
+      "time_minute": 3
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 128.54863
         }
       ],
-      "color": "#838881",
+      "color": "#4c3da9",
       "start_name": "인공폭포",
       "length_meter": 219.4,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 3,
@@ -60,70 +62,53 @@
           "lng": 128.54863
         },
         {
-          "lat": 35.523964,
-          "lng": 128.54834
+          "lat": 35.526279,
+          "lng": 128.547897
         }
       ],
-      "color": "#526a3d",
-      "start_name": "등산안내도",
-      "length_meter": 65.3,
-      "time_minute": 1
+      "color": "#c22d75",
+      "start_name": "등산안내도 / 화왕산 스토리길 안내도",
+      "length_meter": 325.8,
+      "time_minute": 5
     },
     {
       "path_id": 4,
       "path": [
         {
-          "lat": 35.523964,
-          "lng": 128.54834
-        },
-        {
           "lat": 35.526279,
           "lng": 128.547897
+        },
+        {
+          "lat": 35.532917,
+          "lng": 128.545639
         }
       ],
-      "color": "#3b054c",
-      "start_name": "화왕산 스토리길 안내도",
-      "length_meter": 260.5,
-      "time_minute": 4
+      "color": "#a08936",
+      "start_name": "옥천계곡",
+      "length_meter": 765.9,
+      "time_minute": 9
     },
     {
       "path_id": 5,
       "path": [
         {
-          "lat": 35.526279,
-          "lng": 128.547897
-        },
-        {
           "lat": 35.532917,
           "lng": 128.545639
+        },
+        {
+          "lat": 35.539818,
+          "lng": 128.545197
         }
       ],
-      "color": "#58095b",
-      "start_name": "옥천계곡",
-      "length_meter": 765.9,
-      "time_minute": 12
+      "color": "#100d43",
+      "start_name": "큰바위얼굴",
+      "length_meter": 768.4,
+      "time_minute": 9
     },
     {
       "path_id": 6,
       "path": [
         {
-          "lat": 35.532917,
-          "lng": 128.545639
-        },
-        {
-          "lat": 35.539818,
-          "lng": 128.545197
-        }
-      ],
-      "color": "#32288c",
-      "start_name": "큰바위얼굴",
-      "length_meter": 768.4,
-      "time_minute": 12
-    },
-    {
-      "path_id": 7,
-      "path": [
-        {
           "lat": 35.539818,
           "lng": 128.545197
         },
@@ -132,13 +117,13 @@
           "lng": 128.545197
         }
       ],
-      "color": "#40c4a3",
+      "color": "#6b13ad",
       "start_name": "등산로는 있으나 송이 채취 기간은 출입금지",
       "length_meter": 0.0,
       "time_minute": 0
     },
     {
-      "path_id": 8,
+      "path_id": 7,
       "path": [
         {
           "lat": 35.539818,
@@ -149,13 +134,13 @@
           "lng": 128.547684
         }
       ],
-      "color": "#160947",
+      "color": "#afb77f",
       "start_name": "등산로 출입금지",
       "length_meter": 454.5,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
-      "path_id": 9,
+      "path_id": 8,
       "path": [
         {
           "lat": 35.543369,
@@ -166,13 +151,13 @@
           "lng": 128.548218
         }
       ],
-      "color": "#567c05",
+      "color": "#b23d6c",
       "start_name": "갈림길",
       "length_meter": 183.8,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 10,
+      "path_id": 9,
       "path": [
         {
           "lat": 35.544964,
@@ -183,13 +168,13 @@
           "lng": 128.548309
         }
       ],
-      "color": "#477b9c",
+      "color": "#050955",
       "start_name": "일야봉산장",
       "length_meter": 41.1,
       "time_minute": 0
     },
     {
-      "path_id": 11,
+      "path_id": 10,
       "path": [
         {
           "lat": 35.545326,
@@ -200,13 +185,13 @@
           "lng": 128.54335
         }
       ],
-      "color": "#5f8422",
+      "color": "#21954b",
       "start_name": "일야봉산장 주차장 / 갈림길",
       "length_meter": 489.5,
       "time_minute": 8
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 35.54689,
@@ -217,13 +202,13 @@
           "lng": 128.537933
         }
       ],
-      "color": "#1304a8",
+      "color": "#63b197",
       "start_name": "허준세트장",
       "length_meter": 502.5,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 35.545891,
@@ -234,13 +219,13 @@
           "lng": 128.535675
         }
       ],
-      "color": "#9a1eb7",
+      "color": "#b25b51",
       "start_name": "화왕산성 동문",
       "length_meter": 224.6,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 14,
+      "path_id": 13,
       "path": [
         {
           "lat": 35.545052,
@@ -251,13 +236,13 @@
           "lng": 128.543518
         }
       ],
-      "color": "#47a68f",
+      "color": "#1529ae",
       "start_name": "용지",
       "length_meter": 710.5,
-      "time_minute": 11
+      "time_minute": 8
     },
     {
-      "path_id": 15,
+      "path_id": 14,
       "path": [
         {
           "lat": 35.54538,
@@ -268,13 +253,13 @@
           "lng": 128.547745
         }
       ],
-      "color": "#7b0131",
+      "color": "#058c1f",
       "start_name": "진달래 군락지",
       "length_meter": 528.5,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 35.54866,
@@ -285,13 +270,13 @@
           "lng": 128.550827
         }
       ],
-      "color": "#086f22",
+      "color": "#571c20",
       "start_name": "쉼터",
       "length_meter": 284.9,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 17,
+      "path_id": 16,
       "path": [
         {
           "lat": 35.548134,
@@ -302,13 +287,13 @@
           "lng": 128.550934
         }
       ],
-      "color": "#600101",
+      "color": "#c51303",
       "start_name": "갈림길",
       "length_meter": 54.8,
       "time_minute": 0
     },
     {
-      "path_id": 18,
+      "path_id": 17,
       "path": [
         {
           "lat": 35.547649,
@@ -319,13 +304,13 @@
           "lng": 128.553833
         }
       ],
-      "color": "#2f998e",
+      "color": "#05b449",
       "start_name": "쉼터",
       "length_meter": 909.0,
-      "time_minute": 15
+      "time_minute": 11
     },
     {
-      "path_id": 19,
+      "path_id": 18,
       "path": [
         {
           "lat": 35.539822,
@@ -336,13 +321,13 @@
           "lng": 128.552612
         }
       ],
-      "color": "#a7658a",
+      "color": "#24c5bc",
       "start_name": "갈림길 / 관룡산 정상",
       "length_meter": 290.0,
       "time_minute": 4
     },
     {
-      "path_id": 20,
+      "path_id": 19,
       "path": [
         {
           "lat": 35.537498,
@@ -353,13 +338,13 @@
           "lng": 128.549347
         }
       ],
-      "color": "#896866",
+      "color": "#5e59b6",
       "start_name": "길없음",
       "length_meter": 720.0,
-      "time_minute": 12
+      "time_minute": 9
     },
     {
-      "path_id": 21,
+      "path_id": 20,
       "path": [
         {
           "lat": 35.531593,
@@ -370,13 +355,13 @@
           "lng": 128.553238
         }
       ],
-      "color": "#57942e",
+      "color": "#9847a3",
       "start_name": "용선대",
       "length_meter": 352.3,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
-      "path_id": 22,
+      "path_id": 21,
       "path": [
         {
           "lat": 35.531704,
@@ -387,13 +372,13 @@
           "lng": 128.553543
         }
       ],
-      "color": "#694e6d",
+      "color": "#3a9e77",
       "start_name": "관룡사",
       "length_meter": 33.3,
       "time_minute": 0
     },
     {
-      "path_id": 23,
+      "path_id": 22,
       "path": [
         {
           "lat": 35.531872,
@@ -404,13 +389,13 @@
           "lng": 128.554016
         }
       ],
-      "color": "#82b27f",
+      "color": "#c5311a",
       "start_name": "관룡사 약수터 / 갈림길",
       "length_meter": 82.3,
       "time_minute": 1
     },
     {
-      "path_id": 24,
+      "path_id": 23,
       "path": [
         {
           "lat": 35.531471,
@@ -421,13 +406,13 @@
           "lng": 128.553726
         }
       ],
-      "color": "#17a135",
+      "color": "#bf3eb6",
       "start_name": "관룡사 주차장2",
       "length_meter": 42.5,
       "time_minute": 0
     },
     {
-      "path_id": 25,
+      "path_id": 24,
       "path": [
         {
           "lat": 35.53117,
@@ -438,13 +423,13 @@
           "lng": 128.54863
         }
       ],
-      "color": "#a3a8c3",
+      "color": "#510437",
       "start_name": "관룡사 주차장1",
       "length_meter": 979.7,
-      "time_minute": 16
+      "time_minute": 12
     },
     {
-      "path_id": 26,
+      "path_id": 25,
       "path": [
         {
           "lat": 35.523396,
@@ -455,13 +440,13 @@
           "lng": 128.5504
         }
       ],
-      "color": "#413160",
+      "color": "#4c641c",
       "start_name": "갈림길",
       "length_meter": 361.6,
-      "time_minute": 6
+      "time_minute": 4
     },
     {
-      "path_id": 27,
+      "path_id": 26,
       "path": [
         {
           "lat": 35.520481,
@@ -472,7 +457,7 @@
           "lng": 128.550781
         }
       ],
-      "color": "#b10950",
+      "color": "#647577",
       "start_name": "쉼터",
       "length_meter": 96.7,
       "time_minute": 1

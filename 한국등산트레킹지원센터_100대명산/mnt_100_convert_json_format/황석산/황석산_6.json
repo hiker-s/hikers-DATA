@@ -1,5 +1,7 @@
 {
   "max_ele": 1343.5,
+  "total_length_km": "8.4km",
+  "total_time": "1시간 45분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 127.793686
         }
       ],
-      "color": "#7e535e",
+      "color": "#8a468a",
       "start_name": "금원산 관리사무소 / 금원산 자연휴양림 매점",
       "length_meter": 440.8,
       "time_minute": 7
@@ -30,10 +32,10 @@
           "lng": 127.7892
         }
       ],
-      "color": "#657f7d",
+      "color": "#835f96",
       "start_name": "문바위",
       "length_meter": 588.0,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 127.787613
         }
       ],
-      "color": "#5a7ba0",
+      "color": "#bab953",
       "start_name": "갈림길",
       "length_meter": 144.0,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 3,
@@ -64,10 +66,10 @@
           "lng": 127.784622
         }
       ],
-      "color": "#7212b3",
+      "color": "#b0b47e",
       "start_name": "지재미쉼터",
       "length_meter": 286.9,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 127.778976
         }
       ],
-      "color": "#4e3701",
+      "color": "#300d77",
       "start_name": "갈림길",
       "length_meter": 521.0,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 127.770348
         }
       ],
-      "color": "#abc12a",
+      "color": "#724a0f",
       "start_name": "금원산 등산안내도",
       "length_meter": 805.7,
-      "time_minute": 13
+      "time_minute": 10
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 127.76207
         }
       ],
-      "color": "#745f7d",
+      "color": "#a73503",
       "start_name": "갈림길",
       "length_meter": 1572.2,
-      "time_minute": 26
+      "time_minute": 19
     },
     {
       "path_id": 7,
@@ -132,7 +134,7 @@
           "lng": 127.762695
         }
       ],
-      "color": "#5a764d",
+      "color": "#c36e3e",
       "start_name": "정자 / 갈림길",
       "length_meter": 105.3,
       "time_minute": 1
@@ -149,10 +151,10 @@
           "lng": 127.778526
         }
       ],
-      "color": "#56be64",
+      "color": "#8290a7",
       "start_name": "샘터",
       "length_meter": 1526.8,
-      "time_minute": 25
+      "time_minute": 19
     },
     {
       "path_id": 9,
@@ -166,7 +168,7 @@
           "lng": 127.782265
         }
       ],
-      "color": "#64b8a8",
+      "color": "#59c315",
       "start_name": "금원산 등산안내도 / 갈림길",
       "length_meter": 342.7,
       "time_minute": 5
@@ -183,7 +185,7 @@
           "lng": 127.782791
         }
       ],
-      "color": "#9ac350",
+      "color": "#0a1348",
       "start_name": "금원산 생태수목원 / 금원산 생태수목원 안내도",
       "length_meter": 50.8,
       "time_minute": 0
@@ -196,68 +198,34 @@
           "lng": 127.782791
         },
         {
-          "lat": 35.722576,
-          "lng": 127.783524
+          "lat": 35.722672,
+          "lng": 127.78421
         }
       ],
-      "color": "#454daf",
-      "start_name": "수목원 화장실",
-      "length_meter": 66.2,
+      "color": "#4690b6",
+      "start_name": "수목원 화장실 / 갈림길",
+      "length_meter": 129.1,
       "time_minute": 1
     },
     {
       "path_id": 12,
       "path": [
         {
-          "lat": 35.722576,
-          "lng": 127.783524
-        },
-        {
           "lat": 35.722672,
           "lng": 127.78421
-        }
-      ],
-      "color": "#94004e",
-      "start_name": "갈림길",
-      "length_meter": 62.8,
-      "time_minute": 1
-    },
-    {
-      "path_id": 13,
-      "path": [
-        {
-          "lat": 35.722672,
-          "lng": 127.78421
-        },
-        {
-          "lat": 35.722881,
-          "lng": 127.784874
-        }
-      ],
-      "color": "#736e7d",
-      "start_name": "만병초테마정원",
-      "length_meter": 64.3,
-      "time_minute": 1
-    },
-    {
-      "path_id": 14,
-      "path": [
-        {
-          "lat": 35.722881,
-          "lng": 127.784874
         },
         {
           "lat": 35.728695,
           "lng": 127.790291
         }
       ],
-      "color": "#1c2c02",
-      "start_name": "갈림길",
-      "length_meter": 810.6,
-      "time_minute": 13
+      "color": "#75a64f",
+      "start_name": "만병초테마정원 / 갈림길",
+      "length_meter": 874.9,
+      "time_minute": 14
     },
     {
-      "path_id": 15,
+      "path_id": 13,
       "path": [
         {
           "lat": 35.728695,
@@ -268,13 +236,13 @@
           "lng": 127.792305
         }
       ],
-      "color": "#4018a6",
+      "color": "#3d9300",
       "start_name": "숲속의집",
       "length_meter": 223.6,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 16,
+      "path_id": 14,
       "path": [
         {
           "lat": 35.727524,
@@ -285,13 +253,13 @@
           "lng": 127.795494
         }
       ],
-      "color": "#6f9f88",
+      "color": "#c71e32",
       "start_name": "자운폭포",
       "length_meter": 290.0,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 17,
+      "path_id": 15,
       "path": [
         {
           "lat": 35.727207,
@@ -302,10 +270,10 @@
           "lng": 127.798225
         }
       ],
-      "color": "#466840",
+      "color": "#bac33a",
       "start_name": "갈림길",
       "length_meter": 523.6,
-      "time_minute": 8
+      "time_minute": 6
     }
   ]
 }

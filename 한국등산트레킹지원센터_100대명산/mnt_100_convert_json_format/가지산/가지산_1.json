@@ -1,5 +1,7 @@
 {
   "max_ele": 1262.584,
+  "total_length_km": "8.1km",
+  "total_time": "1시간 41분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 129.02774
         }
       ],
-      "color": "#bc363c",
+      "color": "#c24b10",
       "start_name": "공비토벌작전기념비 / 영남알프스 2구간둘레길",
       "length_meter": 1069.9,
       "time_minute": 17
@@ -30,10 +32,10 @@
           "lng": 129.021927
         }
       ],
-      "color": "#146965",
+      "color": "#c2b3c1",
       "start_name": "멋진 소나무",
       "length_meter": 526.7,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 129.018021
         }
       ],
-      "color": "#3a0517",
+      "color": "#302fc1",
       "start_name": "갈림길",
       "length_meter": 425.8,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 3,
@@ -64,10 +66,10 @@
           "lng": 129.01236
         }
       ],
-      "color": "#717d78",
+      "color": "#8c0b51",
       "start_name": "쌀바위",
       "length_meter": 514.4,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 129.007248
         }
       ],
-      "color": "#9e819d",
+      "color": "#6ba004",
       "start_name": "갈림길",
       "length_meter": 464.4,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 129.005463
         }
       ],
-      "color": "#0e054a",
+      "color": "#784064",
       "start_name": "중봉",
       "length_meter": 315.8,
-      "time_minute": 5
+      "time_minute": 3
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 129.003143
         }
       ],
-      "color": "#133533",
+      "color": "#4112bc",
       "start_name": "갈림길",
       "length_meter": 285.6,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 7,
@@ -132,7 +134,7 @@
           "lng": 129.002869
         }
       ],
-      "color": "#892798",
+      "color": "#8c0693",
       "start_name": "가지산에서 쌀바위 조망 / 갈림길 / 가지산 / 가지산에서 북봉 방면 / 가지산에서 운문산방면 / 가지산에서",
       "length_meter": 73.4,
       "time_minute": 1
@@ -149,10 +151,10 @@
           "lng": 129.007202
         }
       ],
-      "color": "#7419b8",
+      "color": "#387aab",
       "start_name": "가지산",
       "length_meter": 828.7,
-      "time_minute": 13
+      "time_minute": 10
     },
     {
       "path_id": 9,
@@ -166,7 +168,7 @@
           "lng": 129.010712
         }
       ],
-      "color": "#861a76",
+      "color": "#2d1c83",
       "start_name": "학심이골 방향 / 갈림길",
       "length_meter": 415.1,
       "time_minute": 6
@@ -183,7 +185,7 @@
           "lng": 129.01091
         }
       ],
-      "color": "#32a213",
+      "color": "#c21770",
       "start_name": "쌀바위에서 / 쌀바위 / 쌀바위 전설",
       "length_meter": 68.9,
       "time_minute": 1
@@ -200,10 +202,10 @@
           "lng": 129.011566
         }
       ],
-      "color": "#c2b311",
+      "color": "#753a34",
       "start_name": "쌀바위 석수 / 쌀바위 대피소",
       "length_meter": 64.7,
-      "time_minute": 1
+      "time_minute": 0
     },
     {
       "path_id": 12,
@@ -213,53 +215,36 @@
           "lng": 129.011566
         },
         {
-          "lat": 35.628986,
-          "lng": 129.012421
+          "lat": 35.620953,
+          "lng": 129.022507
         }
       ],
-      "color": "#71c632",
-      "start_name": "쌀바위 화장실",
-      "length_meter": 79.4,
-      "time_minute": 1
+      "color": "#af98a8",
+      "start_name": "쌀바위 화장실 / 갈림길",
+      "length_meter": 1355.7,
+      "time_minute": 22
     },
     {
       "path_id": 13,
       "path": [
         {
-          "lat": 35.628986,
-          "lng": 129.012421
-        },
-        {
           "lat": 35.620953,
           "lng": 129.022507
+        },
+        {
+          "lat": 35.620674,
+          "lng": 129.031631
         }
       ],
-      "color": "#9393bc",
-      "start_name": "갈림길",
-      "length_meter": 1276.3,
-      "time_minute": 21
+      "color": "#29980e",
+      "start_name": "석남사계곡",
+      "length_meter": 825.3,
+      "time_minute": 10
     },
     {
       "path_id": 14,
       "path": [
         {
-          "lat": 35.620953,
-          "lng": 129.022507
-        },
-        {
-          "lat": 35.620674,
-          "lng": 129.031631
-        }
-      ],
-      "color": "#0f0b66",
-      "start_name": "석남사계곡",
-      "length_meter": 825.3,
-      "time_minute": 13
-    },
-    {
-      "path_id": 15,
-      "path": [
-        {
           "lat": 35.620674,
           "lng": 129.031631
         },
@@ -268,47 +253,30 @@
           "lng": 129.032318
         }
       ],
-      "color": "#5fa771",
+      "color": "#392bc0",
       "start_name": "석남사 계곡 / 석남사 화장실",
       "length_meter": 86.6,
       "time_minute": 1
     },
     {
-      "path_id": 16,
+      "path_id": 15,
       "path": [
         {
           "lat": 35.621113,
           "lng": 129.032318
-        },
-        {
-          "lat": 35.620914,
-          "lng": 129.032181
-        }
-      ],
-      "color": "#a06ea9",
-      "start_name": "석남사 / 삼층 석가 사리탑 / 석남사 삼층석탑",
-      "length_meter": 60.6,
-      "time_minute": 1
-    },
-    {
-      "path_id": 17,
-      "path": [
-        {
-          "lat": 35.620914,
-          "lng": 129.032181
         },
         {
           "lat": 35.620941,
           "lng": 129.033524
         }
       ],
-      "color": "#95b933",
-      "start_name": "석남사 수조",
-      "length_meter": 121.4,
+      "color": "#1b5159",
+      "start_name": "석남사 / 삼층 석가 사리탑 / 석남사 삼층석탑 / 석남사 수조",
+      "length_meter": 182.0,
       "time_minute": 2
     },
     {
-      "path_id": 18,
+      "path_id": 16,
       "path": [
         {
           "lat": 35.620941,
@@ -319,13 +287,13 @@
           "lng": 129.034424
         }
       ],
-      "color": "#209ac2",
+      "color": "#2e954e",
       "start_name": "석남사 계곡 / 석남사 종합안내도",
       "length_meter": 108.0,
       "time_minute": 1
     },
     {
-      "path_id": 19,
+      "path_id": 17,
       "path": [
         {
           "lat": 35.620312,
@@ -336,13 +304,13 @@
           "lng": 129.035278
         }
       ],
-      "color": "#0a0481",
+      "color": "#790597",
       "start_name": "청운각 / 공중화장실",
       "length_meter": 104.1,
       "time_minute": 1
     },
     {
-      "path_id": 20,
+      "path_id": 18,
       "path": [
         {
           "lat": 35.619686,
@@ -353,13 +321,13 @@
           "lng": 129.036224
         }
       ],
-      "color": "#990537",
+      "color": "#559927",
       "start_name": "쉼터",
       "length_meter": 89.2,
       "time_minute": 1
     },
     {
-      "path_id": 21,
+      "path_id": 19,
       "path": [
         {
           "lat": 35.619457,
@@ -370,13 +338,13 @@
           "lng": 129.038895
         }
       ],
-      "color": "#7c1823",
+      "color": "#a175c2",
       "start_name": "석남사 계곡",
       "length_meter": 272.7,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
-      "path_id": 22,
+      "path_id": 20,
       "path": [
         {
           "lat": 35.618317,
@@ -387,7 +355,7 @@
           "lng": 129.039093
         }
       ],
-      "color": "#58a419",
+      "color": "#0322ba",
       "start_name": "가지산 석남사 / 매표소",
       "length_meter": 22.7,
       "time_minute": 0

@@ -1,5 +1,7 @@
 {
   "max_ele": 777.6,
+  "total_length_km": "8.8km",
+  "total_time": "1시간 50분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 127.265083
         }
       ],
-      "color": "#b5c1a7",
+      "color": "#a97e89",
       "start_name": "갈림길",
       "length_meter": 468.8,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 1,
@@ -30,10 +32,10 @@
           "lng": 127.263344
         }
       ],
-      "color": "#7a9378",
+      "color": "#2c2b29",
       "start_name": "삼각점",
       "length_meter": 201.5,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 2,
@@ -47,7 +49,7 @@
           "lng": 127.262779
         }
       ],
-      "color": "#c70a2c",
+      "color": "#8b7260",
       "start_name": "자연쉼터 / 스카장 상단부",
       "length_meter": 80.6,
       "time_minute": 1
@@ -64,10 +66,10 @@
           "lng": 127.261536
         }
       ],
-      "color": "#6eaf2e",
+      "color": "#aa81ac",
       "start_name": "스키장 상단조망3 / 스키장 상단 쉼터",
       "length_meter": 120.5,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 4,
@@ -81,7 +83,7 @@
           "lng": 127.261467
         }
       ],
-      "color": "#6ca275",
+      "color": "#9e5b9d",
       "start_name": "능선위 조망터",
       "length_meter": 6.1,
       "time_minute": 0
@@ -98,10 +100,10 @@
           "lng": 127.26329
         }
       ],
-      "color": "#3e4b7b",
+      "color": "#67507d",
       "start_name": "능선위 쉼터",
       "length_meter": 837.6,
-      "time_minute": 13
+      "time_minute": 10
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 127.263398
         }
       ],
-      "color": "#78af3c",
+      "color": "#239290",
       "start_name": "갈림길 / 안부 쉼터",
       "length_meter": 181.9,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 7,
@@ -132,7 +134,7 @@
           "lng": 127.264709
         }
       ],
-      "color": "#968e3d",
+      "color": "#786fbb",
       "start_name": "웨이포인트 17 / 위치안내판",
       "length_meter": 291.8,
       "time_minute": 4
@@ -149,7 +151,7 @@
           "lng": 127.264824
         }
       ],
-      "color": "#7d0395",
+      "color": "#5328bf",
       "start_name": "암릉",
       "length_meter": 98.0,
       "time_minute": 1
@@ -166,7 +168,7 @@
           "lng": 127.265533
         }
       ],
-      "color": "#a9751b",
+      "color": "#92c5c1",
       "start_name": "정상 오름길 전 쉼터",
       "length_meter": 103.6,
       "time_minute": 1
@@ -183,10 +185,10 @@
           "lng": 127.267776
         }
       ],
-      "color": "#b21927",
+      "color": "#c7055e",
       "start_name": "위치번호",
       "length_meter": 350.3,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
       "path_id": 11,
@@ -196,31 +198,31 @@
           "lng": 127.267776
         },
         {
-          "lat": 37.6777,
-          "lng": 127.26825
+          "lat": 37.677414,
+          "lng": 127.268173
         }
       ],
-      "color": "#5fb382",
-      "start_name": "정상 급경사 / 위치번호 / 정상전 암릉",
-      "length_meter": 61.3,
+      "color": "#b27039",
+      "start_name": "정상 급경사 / 위치번호 / 정상전 암릉 / 암릉위 조망",
+      "length_meter": 93.8,
       "time_minute": 1
     },
     {
       "path_id": 12,
       "path": [
         {
-          "lat": 37.6777,
-          "lng": 127.26825
+          "lat": 37.677414,
+          "lng": 127.268173
         },
         {
           "lat": 37.678478,
           "lng": 127.271065
         }
       ],
-      "color": "#012472",
-      "start_name": "암릉위 조망 / 노송",
-      "length_meter": 313.2,
-      "time_minute": 5
+      "color": "#9a9a41",
+      "start_name": "노송",
+      "length_meter": 280.7,
+      "time_minute": 3
     },
     {
       "path_id": 13,
@@ -234,7 +236,7 @@
           "lng": 127.271873
         }
       ],
-      "color": "#a5230b",
+      "color": "#269781",
       "start_name": "위치번호",
       "length_meter": 88.2,
       "time_minute": 1
@@ -251,7 +253,7 @@
           "lng": 127.271576
         }
       ],
-      "color": "#9e9495",
+      "color": "#a3374b",
       "start_name": "정상직전 암릉 / 갈림길",
       "length_meter": 299.4,
       "time_minute": 4
@@ -268,10 +270,10 @@
           "lng": 127.2705
         }
       ],
-      "color": "#6aa8bb",
+      "color": "#7754ae",
       "start_name": "중간 쉼터",
       "length_meter": 137.1,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 16,
@@ -285,10 +287,10 @@
           "lng": 127.256538
         }
       ],
-      "color": "#4c50b7",
+      "color": "#179d21",
       "start_name": "옹달샘 쉼터",
       "length_meter": 1234.9,
-      "time_minute": 20
+      "time_minute": 15
     },
     {
       "path_id": 17,
@@ -302,10 +304,10 @@
           "lng": 127.250107
         }
       ],
-      "color": "#06a0a9",
+      "color": "#af934c",
       "start_name": "청정계곡",
       "length_meter": 613.1,
-      "time_minute": 10
+      "time_minute": 7
     },
     {
       "path_id": 18,
@@ -319,10 +321,10 @@
           "lng": 127.230415
         }
       ],
-      "color": "#7c9498",
+      "color": "#6b6a58",
       "start_name": "무명소",
       "length_meter": 1929.3,
-      "time_minute": 32
+      "time_minute": 24
     },
     {
       "path_id": 19,
@@ -336,10 +338,10 @@
           "lng": 127.225098
         }
       ],
-      "color": "#be031a",
+      "color": "#017a5c",
       "start_name": "오남호수공원 체육시설및 쉼터",
       "length_meter": 540.2,
-      "time_minute": 9
+      "time_minute": 6
     },
     {
       "path_id": 20,
@@ -353,10 +355,10 @@
           "lng": 127.223549
         }
       ],
-      "color": "#4a5ead",
+      "color": "#941441",
       "start_name": "오남호수공원",
       "length_meter": 183.3,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 21,
@@ -370,7 +372,7 @@
           "lng": 127.222649
         }
       ],
-      "color": "#a30594",
+      "color": "#2db0ba",
       "start_name": "오남호수공원 쉼터 / 오남호수공원 화장실",
       "length_meter": 87.7,
       "time_minute": 1
@@ -387,10 +389,10 @@
           "lng": 127.221275
         }
       ],
-      "color": "#4c0531",
+      "color": "#7c1e61",
       "start_name": "다송 한식 카페 브레드포레",
       "length_meter": 133.2,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 23,
@@ -404,7 +406,7 @@
           "lng": 127.218575
         }
       ],
-      "color": "#05700a",
+      "color": "#26abaa",
       "start_name": "시골청국장 / 오남호수공원 / 공원 중간 쉼터",
       "length_meter": 282.2,
       "time_minute": 4
@@ -417,31 +419,31 @@
           "lng": 127.218575
         },
         {
-          "lat": 37.696228,
-          "lng": 127.217865
+          "lat": 37.695892,
+          "lng": 127.217468
         }
       ],
-      "color": "#86c45e",
-      "start_name": "오남호수공원",
-      "length_meter": 69.2,
+      "color": "#2047b4",
+      "start_name": "오남호수공원 / 오남호수공원 화장실",
+      "length_meter": 120.3,
       "time_minute": 1
     },
     {
       "path_id": 25,
       "path": [
         {
-          "lat": 37.696228,
-          "lng": 127.217865
+          "lat": 37.695892,
+          "lng": 127.217468
         },
         {
           "lat": 37.69566,
           "lng": 127.217178
         }
       ],
-      "color": "#afabab",
-      "start_name": "오남호수공원 화장실 / 오남호수공원 공연장",
-      "length_meter": 87.4,
-      "time_minute": 1
+      "color": "#1c4500",
+      "start_name": "오남호수공원 공연장",
+      "length_meter": 36.3,
+      "time_minute": 0
     }
   ]
 }

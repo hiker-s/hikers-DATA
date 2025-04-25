@@ -1,5 +1,7 @@
 {
   "max_ele": 670.0,
+  "total_length_km": "4.7km",
+  "total_time": "0시간 58분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 126.963081
         }
       ],
-      "color": "#4e6735",
+      "color": "#270a5b",
       "start_name": "갈림길",
       "length_meter": 1068.6,
-      "time_minute": 17
+      "time_minute": 13
     },
     {
       "path_id": 1,
@@ -30,10 +32,10 @@
           "lng": 126.962601
         }
       ],
-      "color": "#96105b",
+      "color": "#490449",
       "start_name": "보리암과 돌탑",
       "length_meter": 71.1,
-      "time_minute": 1
+      "time_minute": 0
     },
     {
       "path_id": 2,
@@ -47,10 +49,10 @@
           "lng": 126.963776
         }
       ],
-      "color": "#c3739e",
+      "color": "#876c7d",
       "start_name": "보리암입구",
       "length_meter": 137.3,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 3,
@@ -64,10 +66,10 @@
           "lng": 126.965866
         }
       ],
-      "color": "#7d078c",
+      "color": "#b5c3b8",
       "start_name": "갈림길",
       "length_meter": 197.0,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 4,
@@ -81,7 +83,7 @@
           "lng": 126.967239
         }
       ],
-      "color": "#42b36c",
+      "color": "#1892b8",
       "start_name": "바위문 / 저수지경관 / 1",
       "length_meter": 145.9,
       "time_minute": 2
@@ -98,7 +100,7 @@
           "lng": 126.968262
         }
       ],
-      "color": "#9b9881",
+      "color": "#01a8ba",
       "start_name": "장군봉",
       "length_meter": 89.9,
       "time_minute": 1
@@ -115,10 +117,10 @@
           "lng": 126.965034
         }
       ],
-      "color": "#bfb553",
+      "color": "#0f3229",
       "start_name": "갈림길",
       "length_meter": 460.5,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 7,
@@ -132,7 +134,7 @@
           "lng": 126.956825
         }
       ],
-      "color": "#1b7d04",
+      "color": "#0a04ab",
       "start_name": "까치봉 / 전망대",
       "length_meter": 777.5,
       "time_minute": 12
@@ -149,10 +151,10 @@
           "lng": 126.954933
         }
       ],
-      "color": "#721e3f",
+      "color": "#95bbb5",
       "start_name": "쉼터",
       "length_meter": 181.8,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 9,
@@ -166,7 +168,7 @@
           "lng": 126.949608
         }
       ],
-      "color": "#7c92c0",
+      "color": "#5714c0",
       "start_name": "사방댐 / 사방댐계곡",
       "length_meter": 475.7,
       "time_minute": 7
@@ -179,31 +181,31 @@
           "lng": 126.949608
         },
         {
-          "lat": 37.939056,
-          "lng": 126.949303
+          "lat": 37.939251,
+          "lng": 126.949394
         }
       ],
-      "color": "#169937",
-      "start_name": "쉼터",
-      "length_meter": 67.9,
+      "color": "#66583b",
+      "start_name": "쉼터 / 출렁다리 / 운계폭포",
+      "length_meter": 96.4,
       "time_minute": 1
     },
     {
       "path_id": 11,
       "path": [
         {
-          "lat": 37.939056,
-          "lng": 126.949303
+          "lat": 37.939251,
+          "lng": 126.949394
         },
         {
           "lat": 37.938309,
           "lng": 126.952019
         }
       ],
-      "color": "#846f9d",
-      "start_name": "출렁다리 / 운계폭포 / 전망대",
-      "length_meter": 281.5,
-      "time_minute": 4
+      "color": "#6caaa1",
+      "start_name": "전망대",
+      "length_meter": 252.9,
+      "time_minute": 3
     },
     {
       "path_id": 12,
@@ -217,10 +219,10 @@
           "lng": 126.949959
         }
       ],
-      "color": "#b81ca4",
+      "color": "#7556bc",
       "start_name": "범륜사",
       "length_meter": 181.4,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 13,
@@ -234,7 +236,7 @@
           "lng": 126.949471
         }
       ],
-      "color": "#4e5754",
+      "color": "#36b25e",
       "start_name": "1 / 운계폭포",
       "length_meter": 92.3,
       "time_minute": 1
@@ -251,10 +253,10 @@
           "lng": 126.947983
         }
       ],
-      "color": "#1bbc75",
+      "color": "#824a8a",
       "start_name": "1",
       "length_meter": 142.2,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 15,
@@ -268,7 +270,7 @@
           "lng": 126.945419
         }
       ],
-      "color": "#321a65",
+      "color": "#214606",
       "start_name": "갈림길 / 출렁다리",
       "length_meter": 336.4,
       "time_minute": 5

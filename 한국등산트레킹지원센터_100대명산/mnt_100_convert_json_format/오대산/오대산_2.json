@@ -1,5 +1,7 @@
 {
   "max_ele": 1200.168,
+  "total_length_km": "9.6km",
+  "total_time": "1시간 59분",
   "track": [
     {
       "path_id": 0,
@@ -13,7 +15,7 @@
           "lng": 128.566788
         }
       ],
-      "color": "#51376f",
+      "color": "#9e21aa",
       "start_name": "오대산국립공원상원사탐방지원센터 / 상원사주차장화장실 / 상원사주차장",
       "length_meter": 70.2,
       "time_minute": 1
@@ -30,7 +32,7 @@
           "lng": 128.567123
         }
       ],
-      "color": "#bf1e17",
+      "color": "#ae463d",
       "start_name": "펑창시내버스종점",
       "length_meter": 49.2,
       "time_minute": 0
@@ -47,7 +49,7 @@
           "lng": 128.55809
         }
       ],
-      "color": "#305c43",
+      "color": "#135801",
       "start_name": "소풍가 / 갈림길",
       "length_meter": 845.1,
       "time_minute": 14
@@ -64,10 +66,10 @@
           "lng": 128.557373
         }
       ],
-      "color": "#b3c182",
+      "color": "#1c9e76",
       "start_name": "중대화장실",
       "length_meter": 249.1,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 4,
@@ -81,7 +83,7 @@
           "lng": 128.556976
         }
       ],
-      "color": "#36309b",
+      "color": "#b50750",
       "start_name": "갈림길 / 사자암",
       "length_meter": 324.0,
       "time_minute": 5
@@ -98,7 +100,7 @@
           "lng": 128.55629
         }
       ],
-      "color": "#b44a8c",
+      "color": "#0c65a5",
       "start_name": "적멸보궁 / 비로봉 등산로",
       "length_meter": 71.5,
       "time_minute": 1
@@ -111,36 +113,19 @@
           "lng": 128.55629
         },
         {
-          "lat": 37.790051,
-          "lng": 128.556976
+          "lat": 37.785637,
+          "lng": 128.563263
         }
       ],
-      "color": "#903b2f",
-      "start_name": "비로봉 적멸보궁",
-      "length_meter": 67.0,
-      "time_minute": 1
+      "color": "#7a4287",
+      "start_name": "비로봉 적멸보궁 / 갈림길",
+      "length_meter": 806.1,
+      "time_minute": 13
     },
     {
       "path_id": 7,
       "path": [
         {
-          "lat": 37.790051,
-          "lng": 128.556976
-        },
-        {
-          "lat": 37.785637,
-          "lng": 128.563263
-        }
-      ],
-      "color": "#b4b44c",
-      "start_name": "갈림길",
-      "length_meter": 739.0,
-      "time_minute": 12
-    },
-    {
-      "path_id": 8,
-      "path": [
-        {
           "lat": 37.785637,
           "lng": 128.563263
         },
@@ -149,13 +134,13 @@
           "lng": 128.563492
         }
       ],
-      "color": "#a93303",
+      "color": "#146767",
       "start_name": "상원사화장실",
       "length_meter": 21.7,
       "time_minute": 0
     },
     {
-      "path_id": 9,
+      "path_id": 8,
       "path": [
         {
           "lat": 37.785709,
@@ -166,13 +151,13 @@
           "lng": 128.562668
         }
       ],
-      "color": "#75416a",
+      "color": "#439b73",
       "start_name": "상원사",
       "length_meter": 101.3,
       "time_minute": 1
     },
     {
-      "path_id": 10,
+      "path_id": 9,
       "path": [
         {
           "lat": 37.785072,
@@ -183,13 +168,13 @@
           "lng": 128.568115
         }
       ],
-      "color": "#1848c5",
+      "color": "#9a8a79",
       "start_name": "갈림길",
       "length_meter": 514.4,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
-      "path_id": 11,
+      "path_id": 10,
       "path": [
         {
           "lat": 37.786766,
@@ -200,13 +185,13 @@
           "lng": 128.577713
         }
       ],
-      "color": "#14b177",
+      "color": "#554e3a",
       "start_name": "선재길",
       "length_meter": 2444.9,
-      "time_minute": 40
+      "time_minute": 30
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 37.766129,
@@ -217,47 +202,30 @@
           "lng": 128.585663
         }
       ],
-      "color": "#3e3345",
+      "color": "#986f28",
       "start_name": "올빼미정원 / 선재길 주차장",
       "length_meter": 3127.1,
-      "time_minute": 52
+      "time_minute": 51
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 37.73888,
           "lng": 128.585663
-        },
-        {
-          "lat": 37.738232,
-          "lng": 128.585938
-        }
-      ],
-      "color": "#291850",
-      "start_name": "선재길화장실",
-      "length_meter": 76.0,
-      "time_minute": 1
-    },
-    {
-      "path_id": 14,
-      "path": [
-        {
-          "lat": 37.738232,
-          "lng": 128.585938
         },
         {
           "lat": 37.73119,
           "lng": 128.590485
         }
       ],
-      "color": "#90b906",
-      "start_name": "갈림길",
-      "length_meter": 879.2,
-      "time_minute": 14
+      "color": "#1a93c2",
+      "start_name": "선재길화장실 / 갈림길",
+      "length_meter": 955.2,
+      "time_minute": 15
     },
     {
-      "path_id": 15,
+      "path_id": 13,
       "path": [
         {
           "lat": 37.73119,
@@ -268,7 +236,7 @@
           "lng": 128.590469
         }
       ],
-      "color": "#660463",
+      "color": "#1a9368",
       "start_name": "월정사",
       "length_meter": 4.1,
       "time_minute": 0

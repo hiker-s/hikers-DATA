@@ -1,5 +1,7 @@
 {
   "max_ele": 777.0,
+  "total_length_km": "6.4km",
+  "total_time": "1시간 20분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 128.504929
         }
       ],
-      "color": "#950695",
+      "color": "#693c66",
       "start_name": "창화사",
       "length_meter": 577.7,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
       "path_id": 1,
@@ -26,31 +28,31 @@
           "lng": 128.504929
         },
         {
-          "lat": 35.546803,
-          "lng": 128.504959
+          "lat": 35.546677,
+          "lng": 128.504395
         }
       ],
-      "color": "#0a1336",
-      "start_name": "교동고분군(들머리)",
-      "length_meter": 74.3,
+      "color": "#49c600",
+      "start_name": "교동고분군(들머리) / 창녕박물관 주차장",
+      "length_meter": 127.2,
       "time_minute": 1
     },
     {
       "path_id": 2,
       "path": [
         {
-          "lat": 35.546803,
-          "lng": 128.504959
+          "lat": 35.546677,
+          "lng": 128.504395
         },
         {
           "lat": 35.54797,
           "lng": 128.512253
         }
       ],
-      "color": "#872574",
-      "start_name": "창녕박물관 주차장 / 창녕교동고분군",
-      "length_meter": 778.2,
-      "time_minute": 12
+      "color": "#115987",
+      "start_name": "창녕교동고분군",
+      "length_meter": 725.3,
+      "time_minute": 9
     },
     {
       "path_id": 3,
@@ -64,10 +66,10 @@
           "lng": 128.516891
         }
       ],
-      "color": "#bc567f",
+      "color": "#8a580a",
       "start_name": "목마산성",
       "length_meter": 452.6,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 128.537704
         }
       ],
-      "color": "#30ab5b",
+      "color": "#5cb59a",
       "start_name": "돌탑",
       "length_meter": 1885.0,
-      "time_minute": 31
+      "time_minute": 23
     },
     {
       "path_id": 5,
@@ -98,10 +100,10 @@
           "lng": 128.533798
         }
       ],
-      "color": "#a53857",
+      "color": "#165d26",
       "start_name": "갈림길",
       "length_meter": 353.5,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
       "path_id": 6,
@@ -115,10 +117,10 @@
           "lng": 128.530533
         }
       ],
-      "color": "#b78277",
+      "color": "#a6776f",
       "start_name": "화왕산성",
       "length_meter": 346.3,
-      "time_minute": 5
+      "time_minute": 4
     },
     {
       "path_id": 7,
@@ -132,10 +134,10 @@
           "lng": 128.525787
         }
       ],
-      "color": "#9c177d",
+      "color": "#7b3764",
       "start_name": "쉼터",
       "length_meter": 437.1,
-      "time_minute": 7
+      "time_minute": 5
     },
     {
       "path_id": 8,
@@ -149,7 +151,7 @@
           "lng": 128.525757
         }
       ],
-      "color": "#5f0434",
+      "color": "#20af65",
       "start_name": "갈림길",
       "length_meter": 3.4,
       "time_minute": 0
@@ -166,10 +168,10 @@
           "lng": 128.52388
         }
       ],
-      "color": "#590b46",
+      "color": "#2b4649",
       "start_name": "쉼터",
       "length_meter": 181.8,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
       "path_id": 10,
@@ -183,7 +185,7 @@
           "lng": 128.522552
         }
       ],
-      "color": "#30ae24",
+      "color": "#ba3d5b",
       "start_name": "갈림길 / 쉼터 / 체육공원겸 쉼터",
       "length_meter": 127.5,
       "time_minute": 2
@@ -196,34 +198,17 @@
           "lng": 128.522552
         },
         {
-          "lat": 35.542519,
-          "lng": 128.521851
-        }
-      ],
-      "color": "#771ac5",
-      "start_name": "쉼터",
-      "length_meter": 63.8,
-      "time_minute": 1
-    },
-    {
-      "path_id": 12,
-      "path": [
-        {
-          "lat": 35.542519,
-          "lng": 128.521851
-        },
-        {
           "lat": 35.542191,
           "lng": 128.519577
         }
       ],
-      "color": "#4a9704",
-      "start_name": "갈림길",
-      "length_meter": 209.0,
-      "time_minute": 3
+      "color": "#9262a6",
+      "start_name": "쉼터 / 갈림길",
+      "length_meter": 272.8,
+      "time_minute": 4
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 35.542191,
@@ -234,10 +219,10 @@
           "lng": 128.509338
         }
       ],
-      "color": "#1a03b7",
+      "color": "#5c9c34",
       "start_name": "쉼터",
       "length_meter": 928.7,
-      "time_minute": 15
+      "time_minute": 11
     }
   ]
 }

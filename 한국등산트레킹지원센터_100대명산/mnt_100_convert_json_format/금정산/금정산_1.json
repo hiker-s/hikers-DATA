@@ -1,5 +1,7 @@
 {
   "max_ele": 814.0,
+  "total_length_km": "2.5km",
+  "total_time": "0시간 30분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 129.051544
         }
       ],
-      "color": "#1317b5",
+      "color": "#3b9c15",
       "start_name": "갈림길",
       "length_meter": 2239.7,
-      "time_minute": 37
+      "time_minute": 27
     },
     {
       "path_id": 1,
@@ -30,7 +32,7 @@
           "lng": 129.050827
         }
       ],
-      "color": "#1f1e47",
+      "color": "#045791",
       "start_name": "고당샘 / 갈림길",
       "length_meter": 108.5,
       "time_minute": 1
@@ -47,7 +49,7 @@
           "lng": 129.050583
         }
       ],
-      "color": "#89bd1e",
+      "color": "#c270a7",
       "start_name": "고당봉전망대",
       "length_meter": 37.8,
       "time_minute": 0
@@ -64,10 +66,10 @@
           "lng": 129.050552
         }
       ],
-      "color": "#494b55",
+      "color": "#15629d",
       "start_name": "고당봉",
       "length_meter": 76.0,
-      "time_minute": 1
+      "time_minute": 0
     }
   ]
 }

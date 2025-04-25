@@ -1,5 +1,7 @@
 {
   "max_ele": 988.029,
+  "total_length_km": "3.5km",
+  "total_time": "0시간 44분",
   "track": [
     {
       "path_id": 0,
@@ -9,34 +11,17 @@
           "lng": 127.454338
         },
         {
-          "lat": 37.904419,
-          "lng": 127.453545
-        }
-      ],
-      "color": "#79923e",
-      "start_name": "백둔봉 입구",
-      "length_meter": 73.0,
-      "time_minute": 1
-    },
-    {
-      "path_id": 1,
-      "path": [
-        {
-          "lat": 37.904419,
-          "lng": 127.453545
-        },
-        {
           "lat": 37.914268,
           "lng": 127.457283
         }
       ],
-      "color": "#a32202",
-      "start_name": "갈림길",
-      "length_meter": 1143.2,
+      "color": "#c52b04",
+      "start_name": "백둔봉 입구 / 갈림길",
+      "length_meter": 1216.2,
       "time_minute": 19
     },
     {
-      "path_id": 2,
+      "path_id": 1,
       "path": [
         {
           "lat": 37.914268,
@@ -47,13 +32,13 @@
           "lng": 127.45768
         }
       ],
-      "color": "#5795c7",
+      "color": "#6d140d",
       "start_name": "능선 위에 멋진 소나무",
       "length_meter": 573.7,
-      "time_minute": 9
+      "time_minute": 7
     },
     {
-      "path_id": 3,
+      "path_id": 2,
       "path": [
         {
           "lat": 37.919418,
@@ -64,13 +49,13 @@
           "lng": 127.451256
         }
       ],
-      "color": "#1fc09f",
+      "color": "#584c8b",
       "start_name": "갈림길",
       "length_meter": 763.3,
-      "time_minute": 12
+      "time_minute": 9
     },
     {
-      "path_id": 4,
+      "path_id": 3,
       "path": [
         {
           "lat": 37.924049,
@@ -81,13 +66,13 @@
           "lng": 127.449844
         }
       ],
-      "color": "#855ea3",
+      "color": "#af93a7",
       "start_name": "백둔봉",
       "length_meter": 125.9,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 5,
+      "path_id": 4,
       "path": [
         {
           "lat": 37.923847,
@@ -98,10 +83,10 @@
           "lng": 127.441475
         }
       ],
-      "color": "#235546",
+      "color": "#5b6b24",
       "start_name": "헬기장",
       "length_meter": 847.8,
-      "time_minute": 14
+      "time_minute": 10
     }
   ]
 }

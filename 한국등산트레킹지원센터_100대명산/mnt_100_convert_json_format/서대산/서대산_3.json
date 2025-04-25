@@ -1,5 +1,7 @@
 {
   "max_ele": 749.461,
+  "total_length_km": "4.6km",
+  "total_time": "0시간 58분",
   "track": [
     {
       "path_id": 0,
@@ -13,10 +15,10 @@
           "lng": 127.555496
         }
       ],
-      "color": "#15ba16",
+      "color": "#c29ea5",
       "start_name": "벛꽃길 상곡교",
       "length_meter": 1087.2,
-      "time_minute": 18
+      "time_minute": 13
     },
     {
       "path_id": 1,
@@ -30,7 +32,7 @@
           "lng": 127.554443
         }
       ],
-      "color": "#0a044e",
+      "color": "#6b35ad",
       "start_name": "갈림길 / 웨이포인트 4",
       "length_meter": 99.9,
       "time_minute": 1
@@ -47,7 +49,7 @@
           "lng": 127.552979
         }
       ],
-      "color": "#369871",
+      "color": "#29ae8f",
       "start_name": "선문사",
       "length_meter": 174.3,
       "time_minute": 2
@@ -64,10 +66,10 @@
           "lng": 127.551709
         }
       ],
-      "color": "#3f6dbb",
+      "color": "#7963b6",
       "start_name": "황새목길좌측(식용식물군락지)",
       "length_meter": 250.0,
-      "time_minute": 4
+      "time_minute": 3
     },
     {
       "path_id": 4,
@@ -81,10 +83,10 @@
           "lng": 127.550636
         }
       ],
-      "color": "#176c0f",
+      "color": "#119058",
       "start_name": "웨이포인트 6",
       "length_meter": 128.7,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
       "path_id": 5,
@@ -98,7 +100,7 @@
           "lng": 127.548996
         }
       ],
-      "color": "#7a5206",
+      "color": "#657733",
       "start_name": "흥국사로 적송 / 황새목길(흥국사 입구)",
       "length_meter": 164.6,
       "time_minute": 2
@@ -111,34 +113,17 @@
           "lng": 127.548996
         },
         {
-          "lat": 36.222088,
-          "lng": 127.548241
-        }
-      ],
-      "color": "#9fc31e",
-      "start_name": "황새목길(흥국사 올라가는 등산로)",
-      "length_meter": 68.8,
-      "time_minute": 1
-    },
-    {
-      "path_id": 7,
-      "path": [
-        {
-          "lat": 36.222088,
-          "lng": 127.548241
-        },
-        {
           "lat": 36.227634,
           "lng": 127.54245
         }
       ],
-      "color": "#8a4cc1",
-      "start_name": "흥국사",
-      "length_meter": 806.3,
-      "time_minute": 13
+      "color": "#6bad75",
+      "start_name": "황새목길(흥국사 올라가는 등산로) / 흥국사",
+      "length_meter": 875.2,
+      "time_minute": 14
     },
     {
-      "path_id": 8,
+      "path_id": 7,
       "path": [
         {
           "lat": 36.227634,
@@ -149,13 +134,13 @@
           "lng": 127.541527
         }
       ],
-      "color": "#b9bd08",
+      "color": "#99367b",
       "start_name": "신선바위",
       "length_meter": 198.0,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 9,
+      "path_id": 8,
       "path": [
         {
           "lat": 36.229252,
@@ -166,13 +151,13 @@
           "lng": 127.53994
         }
       ],
-      "color": "#3d877c",
+      "color": "#275ac2",
       "start_name": "바위심터",
       "length_meter": 158.3,
-      "time_minute": 2
+      "time_minute": 1
     },
     {
-      "path_id": 10,
+      "path_id": 9,
       "path": [
         {
           "lat": 36.229874,
@@ -183,13 +168,13 @@
           "lng": 127.538536
         }
       ],
-      "color": "#0c007d",
+      "color": "#5ebc77",
       "start_name": "마당바위",
       "length_meter": 215.7,
-      "time_minute": 3
+      "time_minute": 2
     },
     {
-      "path_id": 11,
+      "path_id": 10,
       "path": [
         {
           "lat": 36.231449,
@@ -200,13 +185,13 @@
           "lng": 127.5327
         }
       ],
-      "color": "#b70554",
+      "color": "#be7344",
       "start_name": "서대산전적비 / 갈림길",
       "length_meter": 676.3,
       "time_minute": 11
     },
     {
-      "path_id": 12,
+      "path_id": 11,
       "path": [
         {
           "lat": 36.235271,
@@ -217,13 +202,13 @@
           "lng": 127.529358
         }
       ],
-      "color": "#0c8f52",
+      "color": "#4e4a42",
       "start_name": "드림리조트주차장",
       "length_meter": 526.1,
-      "time_minute": 8
+      "time_minute": 6
     },
     {
-      "path_id": 13,
+      "path_id": 12,
       "path": [
         {
           "lat": 36.239159,
@@ -234,7 +219,7 @@
           "lng": 127.528412
         }
       ],
-      "color": "#756a23",
+      "color": "#786e99",
       "start_name": "서대산청포도식당",
       "length_meter": 87.0,
       "time_minute": 1
