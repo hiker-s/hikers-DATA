@@ -1,0 +1,121 @@
+[
+  {
+    "path_id": 0,
+    "path": [
+      {
+        "lat": 34.496376,
+        "lng": 126.625214
+      },
+      {
+        "lat": 34.49754,
+        "lng": 126.617058
+      }
+    ],
+    "color": "#595096",
+    "start_name": "케이블카  승강장",
+    "length_meter": 758.6,
+    "time_minute": 12
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 34.49754,
+        "lng": 126.617058
+      },
+      {
+        "lat": 34.496735,
+        "lng": 126.616959
+      }
+    ],
+    "color": "#7fa20f",
+    "start_name": "대중교통 승강장",
+    "length_meter": 90.0,
+    "time_minute": 1
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 34.496735,
+        "lng": 126.616959
+      },
+      {
+        "lat": 34.496075,
+        "lng": 126.61689
+      }
+    ],
+    "color": "#86a28f",
+    "start_name": "두륜산 상가촌",
+    "length_meter": 73.7,
+    "time_minute": 1
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 34.496075,
+        "lng": 126.61689
+      },
+      {
+        "lat": 34.495186,
+        "lng": 126.617012
+      }
+    ],
+    "color": "#1aac8c",
+    "start_name": "상가촌 쉼터",
+    "length_meter": 99.5,
+    "time_minute": 1
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 34.495186,
+        "lng": 126.617012
+      },
+      {
+        "lat": 34.494164,
+        "lng": 126.617279
+      }
+    ],
+    "color": "#c6bd70",
+    "start_name": "상가촌 주차장 / 두륜산 입구 화장실 / 대흥사 매표소",
+    "length_meter": 124.9,
+    "time_minute": 2
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 34.494164,
+        "lng": 126.617279
+      },
+      {
+        "lat": 34.489563,
+        "lng": 126.614784
+      }
+    ],
+    "color": "#778618",
+    "start_name": "대흥사 입구 건축물",
+    "length_meter": 560.4,
+    "time_minute": 9
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 34.489563,
+        "lng": 126.614784
+      },
+      {
+        "lat": 34.462109,
+        "lng": 126.613495
+      }
+    ],
+    "color": "#aaae70",
+    "start_name": "산책로화장실",
+    "length_meter": 3055.0,
+    "time_minute": 50
+  }
+]

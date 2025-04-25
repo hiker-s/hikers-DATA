@@ -1,0 +1,121 @@
+[
+  {
+    "path_id": 0,
+    "path": [
+      {
+        "lat": 37.612511,
+        "lng": 126.448242
+      },
+      {
+        "lat": 37.608868,
+        "lng": 126.443642
+      }
+    ],
+    "color": "#c10369",
+    "start_name": "갈림길",
+    "length_meter": 573.0,
+    "time_minute": 9
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 37.608868,
+        "lng": 126.443642
+      },
+      {
+        "lat": 37.609665,
+        "lng": 126.441025
+      }
+    ],
+    "color": "#b97a67",
+    "start_name": "사랑의하트석 / 갈림길",
+    "length_meter": 275.5,
+    "time_minute": 4
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 37.609665,
+        "lng": 126.441025
+      },
+      {
+        "lat": 37.612125,
+        "lng": 126.438034
+      }
+    ],
+    "color": "#0a8bc0",
+    "start_name": "미끄럼주의",
+    "length_meter": 379.8,
+    "time_minute": 6
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 37.612125,
+        "lng": 126.438034
+      },
+      {
+        "lat": 37.612679,
+        "lng": 126.44519
+      }
+    ],
+    "color": "#392c4f",
+    "start_name": "추락사고위험구간 / 갈림길",
+    "length_meter": 640.5,
+    "time_minute": 10
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 37.612679,
+        "lng": 126.44519
+      },
+      {
+        "lat": 37.612789,
+        "lng": 126.446022
+      }
+    ],
+    "color": "#b96490",
+    "start_name": "추락사고위험",
+    "length_meter": 74.3,
+    "time_minute": 1
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 37.612789,
+        "lng": 126.446022
+      },
+      {
+        "lat": 37.612789,
+        "lng": 126.447151
+      }
+    ],
+    "color": "#3763a7",
+    "start_name": "함허동천계곡 / 야영장쉼터",
+    "length_meter": 128.2,
+    "time_minute": 2
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 37.612789,
+        "lng": 126.447151
+      },
+      {
+        "lat": 37.61272,
+        "lng": 126.447533
+      }
+    ],
+    "color": "#2961a3",
+    "start_name": "야영장 쉼터",
+    "length_meter": 34.5,
+    "time_minute": 0
+  }
+]

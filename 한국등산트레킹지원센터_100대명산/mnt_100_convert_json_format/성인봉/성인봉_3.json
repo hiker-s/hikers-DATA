@@ -1,0 +1,121 @@
+[
+  {
+    "path_id": 0,
+    "path": [
+      {
+        "lat": 37.52232,
+        "lng": 130.854422
+      },
+      {
+        "lat": 37.523819,
+        "lng": 130.854599
+      }
+    ],
+    "color": "#2c9481",
+    "start_name": "웨이포인트 1",
+    "length_meter": 167.4,
+    "time_minute": 2
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 37.523819,
+        "lng": 130.854599
+      },
+      {
+        "lat": 37.525398,
+        "lng": 130.856339
+      }
+    ],
+    "color": "#2d7853",
+    "start_name": "갈림길",
+    "length_meter": 233.2,
+    "time_minute": 3
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 37.525398,
+        "lng": 130.856339
+      },
+      {
+        "lat": 37.524406,
+        "lng": 130.857437
+      }
+    ],
+    "color": "#519374",
+    "start_name": "원시림관리안내소",
+    "length_meter": 146.8,
+    "time_minute": 2
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 37.524406,
+        "lng": 130.857437
+      },
+      {
+        "lat": 37.523827,
+        "lng": 130.857529
+      }
+    ],
+    "color": "#b2a922",
+    "start_name": "갈림길",
+    "length_meter": 64.9,
+    "time_minute": 1
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 37.523827,
+        "lng": 130.857529
+      },
+      {
+        "lat": 37.521832,
+        "lng": 130.863998
+      }
+    ],
+    "color": "#6f4e48",
+    "start_name": "용출소",
+    "length_meter": 612.1,
+    "time_minute": 10
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 37.521832,
+        "lng": 130.863998
+      },
+      {
+        "lat": 37.519684,
+        "lng": 130.861389
+      }
+    ],
+    "color": "#72873c",
+    "start_name": "섬말나리동산 / 갈림길",
+    "length_meter": 382.2,
+    "time_minute": 6
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 37.519684,
+        "lng": 130.861389
+      },
+      {
+        "lat": 37.51936,
+        "lng": 130.859589
+      }
+    ],
+    "color": "#8930c0",
+    "start_name": "알봉아래쉼터",
+    "length_meter": 162.8,
+    "time_minute": 2
+  }
+]

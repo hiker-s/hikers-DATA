@@ -1,0 +1,87 @@
+[
+  {
+    "path_id": 0,
+    "path": [
+      {
+        "lat": 35.733219,
+        "lng": 127.802238
+      },
+      {
+        "lat": 35.734909,
+        "lng": 127.801292
+      }
+    ],
+    "color": "#8e527f",
+    "start_name": "갈림길",
+    "length_meter": 206.4,
+    "time_minute": 3
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 35.734909,
+        "lng": 127.801292
+      },
+      {
+        "lat": 35.738029,
+        "lng": 127.800591
+      }
+    ],
+    "color": "#8a8d9a",
+    "start_name": "벤치2개",
+    "length_meter": 352.7,
+    "time_minute": 5
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 35.738029,
+        "lng": 127.800591
+      },
+      {
+        "lat": 35.743237,
+        "lng": 127.795052
+      }
+    ],
+    "color": "#608c4e",
+    "start_name": "현성산 암릉",
+    "length_meter": 765.0,
+    "time_minute": 12
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 35.743237,
+        "lng": 127.795052
+      },
+      {
+        "lat": 35.731987,
+        "lng": 127.799919
+      }
+    ],
+    "color": "#611845",
+    "start_name": "현성산 / 갈림길",
+    "length_meter": 1364.8,
+    "time_minute": 22
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 35.731987,
+        "lng": 127.799919
+      },
+      {
+        "lat": 35.731888,
+        "lng": 127.800156
+      }
+    ],
+    "color": "#9b5407",
+    "start_name": "선녀담",
+    "length_meter": 24.1,
+    "time_minute": 0
+  }
+]

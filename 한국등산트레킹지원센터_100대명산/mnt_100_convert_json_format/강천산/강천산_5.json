@@ -1,0 +1,53 @@
+[
+  {
+    "path_id": 0,
+    "path": [
+      {
+        "lat": 35.391811,
+        "lng": 127.041412
+      },
+      {
+        "lat": 35.39098,
+        "lng": 127.045746
+      }
+    ],
+    "color": "#1c446a",
+    "start_name": "갈림길",
+    "length_meter": 403.6,
+    "time_minute": 6
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 35.39098,
+        "lng": 127.045746
+      },
+      {
+        "lat": 35.384838,
+        "lng": 127.055862
+      }
+    ],
+    "color": "#272aac",
+    "start_name": "자연경관",
+    "length_meter": 1143.4,
+    "time_minute": 19
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 35.384838,
+        "lng": 127.055862
+      },
+      {
+        "lat": 35.389336,
+        "lng": 127.051704
+      }
+    ],
+    "color": "#752ab7",
+    "start_name": "갈림길",
+    "length_meter": 626.3,
+    "time_minute": 10
+  }
+]

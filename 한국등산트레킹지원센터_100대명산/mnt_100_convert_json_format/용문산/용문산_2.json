@@ -1,0 +1,53 @@
+[
+  {
+    "path_id": 0,
+    "path": [
+      {
+        "lat": 37.546921,
+        "lng": 127.584457
+      },
+      {
+        "lat": 37.563431,
+        "lng": 127.567665
+      }
+    ],
+    "color": "#b3c647",
+    "start_name": "용문봉 등산로 입구",
+    "length_meter": 2358.3,
+    "time_minute": 39
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 37.563431,
+        "lng": 127.567665
+      },
+      {
+        "lat": 37.566113,
+        "lng": 127.557632
+      }
+    ],
+    "color": "#041c24",
+    "start_name": "용문봉",
+    "length_meter": 933.2,
+    "time_minute": 15
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 37.566113,
+        "lng": 127.557632
+      },
+      {
+        "lat": 37.559906,
+        "lng": 127.561028
+      }
+    ],
+    "color": "#2a7475",
+    "start_name": "갈림길",
+    "length_meter": 752.3,
+    "time_minute": 12
+  }
+]
