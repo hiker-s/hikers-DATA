@@ -1,121 +1,124 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 36.357903,
-        "lng": 127.236877
-      },
-      {
-        "lat": 36.358437,
-        "lng": 127.236053
-      }
-    ],
-    "color": "#729836",
-    "start_name": "갈림길",
-    "length_meter": 94.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 36.358437,
-        "lng": 127.236053
-      },
-      {
-        "lat": 36.358624,
-        "lng": 127.235527
-      }
-    ],
-    "color": "#56bd82",
-    "start_name": "순 마트 / 천정탐방로 입구 / 천정탐방지원센터",
-    "length_meter": 68.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 36.358624,
-        "lng": 127.235527
-      },
-      {
-        "lat": 36.358692,
-        "lng": 127.234749
-      }
-    ],
-    "color": "#2f3d6b",
-    "start_name": "천정탐방지원센터  입구",
-    "length_meter": 70.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 36.358692,
-        "lng": 127.234749
-      },
-      {
-        "lat": 36.3587,
-        "lng": 127.233795
-      }
-    ],
-    "color": "#b60318",
-    "start_name": "천정탐방지원센터",
-    "length_meter": 85.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 36.3587,
-        "lng": 127.233795
-      },
-      {
-        "lat": 36.358727,
-        "lng": 127.233582
-      }
-    ],
-    "color": "#09341a",
-    "start_name": "천정탐방지원센터  코스",
-    "length_meter": 19.3,
-    "time_minute": 0
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 36.358727,
-        "lng": 127.233582
-      },
-      {
-        "lat": 36.361336,
-        "lng": 127.23188
-      }
-    ],
-    "color": "#85c2a4",
-    "start_name": "천정탐방지원센터  계곡",
-    "length_meter": 327.7,
-    "time_minute": 5
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 36.361336,
-        "lng": 127.23188
-      },
-      {
-        "lat": 36.36311,
-        "lng": 127.2314
-      }
-    ],
-    "color": "#a3c0b4",
-    "start_name": "갈림길",
-    "length_meter": 201.9,
-    "time_minute": 3
-  }
-]
+{
+  "max_ele": 325.0,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 36.357903,
+          "lng": 127.236877
+        },
+        {
+          "lat": 36.358437,
+          "lng": 127.236053
+        }
+      ],
+      "color": "#69a17f",
+      "start_name": "갈림길",
+      "length_meter": 94.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 36.358437,
+          "lng": 127.236053
+        },
+        {
+          "lat": 36.358624,
+          "lng": 127.235527
+        }
+      ],
+      "color": "#388b6a",
+      "start_name": "순 마트 / 천정탐방로 입구 / 천정탐방지원센터",
+      "length_meter": 68.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 36.358624,
+          "lng": 127.235527
+        },
+        {
+          "lat": 36.358692,
+          "lng": 127.234749
+        }
+      ],
+      "color": "#ba79b2",
+      "start_name": "천정탐방지원센터  입구",
+      "length_meter": 70.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 36.358692,
+          "lng": 127.234749
+        },
+        {
+          "lat": 36.3587,
+          "lng": 127.233795
+        }
+      ],
+      "color": "#73506e",
+      "start_name": "천정탐방지원센터",
+      "length_meter": 85.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 36.3587,
+          "lng": 127.233795
+        },
+        {
+          "lat": 36.358727,
+          "lng": 127.233582
+        }
+      ],
+      "color": "#1a6b15",
+      "start_name": "천정탐방지원센터  코스",
+      "length_meter": 19.3,
+      "time_minute": 0
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 36.358727,
+          "lng": 127.233582
+        },
+        {
+          "lat": 36.361336,
+          "lng": 127.23188
+        }
+      ],
+      "color": "#071941",
+      "start_name": "천정탐방지원센터  계곡",
+      "length_meter": 327.7,
+      "time_minute": 5
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 36.361336,
+          "lng": 127.23188
+        },
+        {
+          "lat": 36.36311,
+          "lng": 127.2314
+        }
+      ],
+      "color": "#0b6a3f",
+      "start_name": "갈림길",
+      "length_meter": 201.9,
+      "time_minute": 3
+    }
+  ]
+}

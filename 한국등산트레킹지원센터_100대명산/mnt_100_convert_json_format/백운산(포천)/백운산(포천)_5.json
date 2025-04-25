@@ -1,512 +1,515 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 38.101768,
-        "lng": 127.443611
-      },
-      {
-        "lat": 38.102497,
-        "lng": 127.443405
-      }
-    ],
-    "color": "#95054d",
-    "start_name": "광덕고개 / 산장가든",
-    "length_meter": 86.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 38.102497,
-        "lng": 127.443405
-      },
-      {
-        "lat": 38.104446,
-        "lng": 127.442604
-      }
-    ],
-    "color": "#5fbe4a",
-    "start_name": "공용 / 카폐주차장",
-    "length_meter": 256.0,
-    "time_minute": 4
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 38.104446,
-        "lng": 127.442604
-      },
-      {
-        "lat": 38.106236,
-        "lng": 127.443893
-      }
-    ],
-    "color": "#6d9525",
-    "start_name": "운암밸리 / 갈림길",
-    "length_meter": 228.9,
-    "time_minute": 3
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 38.106236,
-        "lng": 127.443893
-      },
-      {
-        "lat": 38.106911,
-        "lng": 127.443977
-      }
-    ],
-    "color": "#283788",
-    "start_name": "편의점 / 산속가든",
-    "length_meter": 75.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 38.106911,
-        "lng": 127.443977
-      },
-      {
-        "lat": 38.119938,
-        "lng": 127.446953
-      }
-    ],
-    "color": "#89b047",
-    "start_name": "산속가든앞",
-    "length_meter": 1471.7,
-    "time_minute": 24
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 38.119938,
-        "lng": 127.446953
-      },
-      {
-        "lat": 38.120457,
-        "lng": 127.446289
-      }
-    ],
-    "color": "#93a59b",
-    "start_name": "갈림길",
-    "length_meter": 81.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 38.120457,
-        "lng": 127.446289
-      },
-      {
-        "lat": 38.122086,
-        "lng": 127.444183
-      }
-    ],
-    "color": "#41963a",
-    "start_name": "관측소",
-    "length_meter": 258.4,
-    "time_minute": 4
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 38.122086,
-        "lng": 127.444183
-      },
-      {
-        "lat": 38.122486,
-        "lng": 127.440735
-      }
-    ],
-    "color": "#9d311d",
-    "start_name": "광덕산1",
-    "length_meter": 304.9,
-    "time_minute": 5
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 38.122486,
-        "lng": 127.440735
-      },
-      {
-        "lat": 38.124249,
-        "lng": 127.440269
-      }
-    ],
-    "color": "#a54c41",
-    "start_name": "상고대",
-    "length_meter": 200.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 38.124249,
-        "lng": 127.440269
-      },
-      {
-        "lat": 38.124474,
-        "lng": 127.440575
-      }
-    ],
-    "color": "#b4bd75",
-    "start_name": "갈림길 / 광덕산 2 / 유해발굴장소",
-    "length_meter": 48.8,
-    "time_minute": 0
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 38.124474,
-        "lng": 127.440575
-      },
-      {
-        "lat": 38.125954,
-        "lng": 127.44075
-      }
-    ],
-    "color": "#8b221f",
-    "start_name": "상해봉조망",
-    "length_meter": 165.3,
-    "time_minute": 2
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 38.125954,
-        "lng": 127.44075
-      },
-      {
-        "lat": 38.127098,
-        "lng": 127.440552
-      }
-    ],
-    "color": "#884874",
-    "start_name": "갈림길",
-    "length_meter": 128.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 38.127098,
-        "lng": 127.440552
-      },
-      {
-        "lat": 38.124294,
-        "lng": 127.440178
-      }
-    ],
-    "color": "#8f908a",
-    "start_name": "의자1개 / 갈림길",
-    "length_meter": 352.2,
-    "time_minute": 5
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 38.124294,
-        "lng": 127.440178
-      },
-      {
-        "lat": 38.122803,
-        "lng": 127.438148
-      }
-    ],
-    "color": "#2b4327",
-    "start_name": "군시설",
-    "length_meter": 242.9,
-    "time_minute": 4
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 38.122803,
-        "lng": 127.438148
-      },
-      {
-        "lat": 38.119125,
-        "lng": 127.433754
-      }
-    ],
-    "color": "#8b29b0",
-    "start_name": "상해봉조망",
-    "length_meter": 561.3,
-    "time_minute": 9
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 38.119125,
-        "lng": 127.433754
-      },
-      {
-        "lat": 38.118279,
-        "lng": 127.433754
-      }
-    ],
-    "color": "#030d92",
-    "start_name": "천문대",
-    "length_meter": 94.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 38.118279,
-        "lng": 127.433754
-      },
-      {
-        "lat": 38.117874,
-        "lng": 127.433609
-      }
-    ],
-    "color": "#af1d7c",
-    "start_name": "인근능선 / 천문재배경 / 기상관측소",
-    "length_meter": 72.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 38.117874,
-        "lng": 127.433609
-      },
-      {
-        "lat": 38.11536,
-        "lng": 127.430908
-      }
-    ],
-    "color": "#bb213c",
-    "start_name": "6.25  전투 현장 / 광덕산3",
-    "length_meter": 370.4,
-    "time_minute": 6
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 38.11536,
-        "lng": 127.430908
-      },
-      {
-        "lat": 38.114239,
-        "lng": 127.429321
-      }
-    ],
-    "color": "#25ac4c",
-    "start_name": "광덕산 / 갈림길",
-    "length_meter": 187.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 38.114239,
-        "lng": 127.429321
-      },
-      {
-        "lat": 38.110519,
-        "lng": 127.424515
-      }
-    ],
-    "color": "#8f231a",
-    "start_name": "광덕산",
-    "length_meter": 589.8,
-    "time_minute": 9
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 38.110519,
-        "lng": 127.424515
-      },
-      {
-        "lat": 38.110363,
-        "lng": 127.423767
-      }
-    ],
-    "color": "#440eab",
-    "start_name": "갈림길 / 광덕산",
-    "length_meter": 68.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 38.110363,
-        "lng": 127.423767
-      },
-      {
-        "lat": 38.107117,
-        "lng": 127.421249
-      }
-    ],
-    "color": "#2b2d58",
-    "start_name": "119구급함",
-    "length_meter": 422.9,
-    "time_minute": 7
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 38.107117,
-        "lng": 127.421249
-      },
-      {
-        "lat": 38.101448,
-        "lng": 127.413986
-      }
-    ],
-    "color": "#60676d",
-    "start_name": "광덕산",
-    "length_meter": 895.1,
-    "time_minute": 14
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 38.101448,
-        "lng": 127.413986
-      },
-      {
-        "lat": 38.098106,
-        "lng": 127.413643
-      }
-    ],
-    "color": "#bf2b60",
-    "start_name": "갈림길",
-    "length_meter": 372.8,
-    "time_minute": 6
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 38.098106,
-        "lng": 127.413643
-      },
-      {
-        "lat": 38.093872,
-        "lng": 127.414322
-      }
-    ],
-    "color": "#85bcb9",
-    "start_name": "광덕산",
-    "length_meter": 474.5,
-    "time_minute": 7
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 38.093872,
-        "lng": 127.414322
-      },
-      {
-        "lat": 38.091434,
-        "lng": 127.414299
-      }
-    ],
-    "color": "#08aec7",
-    "start_name": "각흘산 조망 / 광덕고개능선",
-    "length_meter": 280.5,
-    "time_minute": 4
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 38.091434,
-        "lng": 127.414299
-      },
-      {
-        "lat": 38.090897,
-        "lng": 127.414383
-      }
-    ],
-    "color": "#c54813",
-    "start_name": "백운산 조망 / 백운산 능선",
-    "length_meter": 60.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 38.090897,
-        "lng": 127.414383
-      },
-      {
-        "lat": 38.085495,
-        "lng": 127.411407
-      }
-    ],
-    "color": "#aa70a6",
-    "start_name": "각흘산",
-    "length_meter": 654.7,
-    "time_minute": 10
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 38.085495,
-        "lng": 127.411407
-      },
-      {
-        "lat": 38.079655,
-        "lng": 127.414063
-      }
-    ],
-    "color": "#129f40",
-    "start_name": "광덕안",
-    "length_meter": 689.7,
-    "time_minute": 11
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 38.079655,
-        "lng": 127.414063
-      },
-      {
-        "lat": 38.073311,
-        "lng": 127.411819
-      }
-    ],
-    "color": "#09858a",
-    "start_name": "광덕산",
-    "length_meter": 732.3,
-    "time_minute": 12
-  }
-]
+{
+  "max_ele": 1071.731,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 38.101768,
+          "lng": 127.443611
+        },
+        {
+          "lat": 38.102497,
+          "lng": 127.443405
+        }
+      ],
+      "color": "#c49425",
+      "start_name": "광덕고개 / 산장가든",
+      "length_meter": 86.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 38.102497,
+          "lng": 127.443405
+        },
+        {
+          "lat": 38.104446,
+          "lng": 127.442604
+        }
+      ],
+      "color": "#2c0005",
+      "start_name": "공용 / 카폐주차장",
+      "length_meter": 256.0,
+      "time_minute": 4
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 38.104446,
+          "lng": 127.442604
+        },
+        {
+          "lat": 38.106236,
+          "lng": 127.443893
+        }
+      ],
+      "color": "#c3abb0",
+      "start_name": "운암밸리 / 갈림길",
+      "length_meter": 228.9,
+      "time_minute": 3
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 38.106236,
+          "lng": 127.443893
+        },
+        {
+          "lat": 38.106911,
+          "lng": 127.443977
+        }
+      ],
+      "color": "#7e7f42",
+      "start_name": "편의점 / 산속가든",
+      "length_meter": 75.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 38.106911,
+          "lng": 127.443977
+        },
+        {
+          "lat": 38.119938,
+          "lng": 127.446953
+        }
+      ],
+      "color": "#852533",
+      "start_name": "산속가든앞",
+      "length_meter": 1471.7,
+      "time_minute": 24
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 38.119938,
+          "lng": 127.446953
+        },
+        {
+          "lat": 38.120457,
+          "lng": 127.446289
+        }
+      ],
+      "color": "#22865a",
+      "start_name": "갈림길",
+      "length_meter": 81.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 38.120457,
+          "lng": 127.446289
+        },
+        {
+          "lat": 38.122086,
+          "lng": 127.444183
+        }
+      ],
+      "color": "#003b75",
+      "start_name": "관측소",
+      "length_meter": 258.4,
+      "time_minute": 4
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 38.122086,
+          "lng": 127.444183
+        },
+        {
+          "lat": 38.122486,
+          "lng": 127.440735
+        }
+      ],
+      "color": "#b41b1b",
+      "start_name": "광덕산1",
+      "length_meter": 304.9,
+      "time_minute": 5
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 38.122486,
+          "lng": 127.440735
+        },
+        {
+          "lat": 38.124249,
+          "lng": 127.440269
+        }
+      ],
+      "color": "#35b671",
+      "start_name": "상고대",
+      "length_meter": 200.2,
+      "time_minute": 3
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 38.124249,
+          "lng": 127.440269
+        },
+        {
+          "lat": 38.124474,
+          "lng": 127.440575
+        }
+      ],
+      "color": "#4cb673",
+      "start_name": "갈림길 / 광덕산 2 / 유해발굴장소",
+      "length_meter": 48.8,
+      "time_minute": 0
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 38.124474,
+          "lng": 127.440575
+        },
+        {
+          "lat": 38.125954,
+          "lng": 127.44075
+        }
+      ],
+      "color": "#528a17",
+      "start_name": "상해봉조망",
+      "length_meter": 165.3,
+      "time_minute": 2
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 38.125954,
+          "lng": 127.44075
+        },
+        {
+          "lat": 38.127098,
+          "lng": 127.440552
+        }
+      ],
+      "color": "#99a58b",
+      "start_name": "갈림길",
+      "length_meter": 128.4,
+      "time_minute": 2
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 38.127098,
+          "lng": 127.440552
+        },
+        {
+          "lat": 38.124294,
+          "lng": 127.440178
+        }
+      ],
+      "color": "#589457",
+      "start_name": "의자1개 / 갈림길",
+      "length_meter": 352.2,
+      "time_minute": 5
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 38.124294,
+          "lng": 127.440178
+        },
+        {
+          "lat": 38.122803,
+          "lng": 127.438148
+        }
+      ],
+      "color": "#9b0a52",
+      "start_name": "군시설",
+      "length_meter": 242.9,
+      "time_minute": 4
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 38.122803,
+          "lng": 127.438148
+        },
+        {
+          "lat": 38.119125,
+          "lng": 127.433754
+        }
+      ],
+      "color": "#290366",
+      "start_name": "상해봉조망",
+      "length_meter": 561.3,
+      "time_minute": 9
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 38.119125,
+          "lng": 127.433754
+        },
+        {
+          "lat": 38.118279,
+          "lng": 127.433754
+        }
+      ],
+      "color": "#4d521e",
+      "start_name": "천문대",
+      "length_meter": 94.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 38.118279,
+          "lng": 127.433754
+        },
+        {
+          "lat": 38.117874,
+          "lng": 127.433609
+        }
+      ],
+      "color": "#577580",
+      "start_name": "인근능선 / 천문재배경 / 기상관측소",
+      "length_meter": 72.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 38.117874,
+          "lng": 127.433609
+        },
+        {
+          "lat": 38.11536,
+          "lng": 127.430908
+        }
+      ],
+      "color": "#b3228d",
+      "start_name": "6.25  전투 현장 / 광덕산3",
+      "length_meter": 370.4,
+      "time_minute": 6
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 38.11536,
+          "lng": 127.430908
+        },
+        {
+          "lat": 38.114239,
+          "lng": 127.429321
+        }
+      ],
+      "color": "#6a1309",
+      "start_name": "광덕산 / 갈림길",
+      "length_meter": 187.2,
+      "time_minute": 3
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 38.114239,
+          "lng": 127.429321
+        },
+        {
+          "lat": 38.110519,
+          "lng": 127.424515
+        }
+      ],
+      "color": "#681eb6",
+      "start_name": "광덕산",
+      "length_meter": 589.8,
+      "time_minute": 9
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 38.110519,
+          "lng": 127.424515
+        },
+        {
+          "lat": 38.110363,
+          "lng": 127.423767
+        }
+      ],
+      "color": "#7585c2",
+      "start_name": "갈림길 / 광덕산",
+      "length_meter": 68.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 21,
+      "path": [
+        {
+          "lat": 38.110363,
+          "lng": 127.423767
+        },
+        {
+          "lat": 38.107117,
+          "lng": 127.421249
+        }
+      ],
+      "color": "#ab6396",
+      "start_name": "119구급함",
+      "length_meter": 422.9,
+      "time_minute": 7
+    },
+    {
+      "path_id": 22,
+      "path": [
+        {
+          "lat": 38.107117,
+          "lng": 127.421249
+        },
+        {
+          "lat": 38.101448,
+          "lng": 127.413986
+        }
+      ],
+      "color": "#835636",
+      "start_name": "광덕산",
+      "length_meter": 895.1,
+      "time_minute": 14
+    },
+    {
+      "path_id": 23,
+      "path": [
+        {
+          "lat": 38.101448,
+          "lng": 127.413986
+        },
+        {
+          "lat": 38.098106,
+          "lng": 127.413643
+        }
+      ],
+      "color": "#1273a7",
+      "start_name": "갈림길",
+      "length_meter": 372.8,
+      "time_minute": 6
+    },
+    {
+      "path_id": 24,
+      "path": [
+        {
+          "lat": 38.098106,
+          "lng": 127.413643
+        },
+        {
+          "lat": 38.093872,
+          "lng": 127.414322
+        }
+      ],
+      "color": "#168b4f",
+      "start_name": "광덕산",
+      "length_meter": 474.5,
+      "time_minute": 7
+    },
+    {
+      "path_id": 25,
+      "path": [
+        {
+          "lat": 38.093872,
+          "lng": 127.414322
+        },
+        {
+          "lat": 38.091434,
+          "lng": 127.414299
+        }
+      ],
+      "color": "#a03e17",
+      "start_name": "각흘산 조망 / 광덕고개능선",
+      "length_meter": 280.5,
+      "time_minute": 4
+    },
+    {
+      "path_id": 26,
+      "path": [
+        {
+          "lat": 38.091434,
+          "lng": 127.414299
+        },
+        {
+          "lat": 38.090897,
+          "lng": 127.414383
+        }
+      ],
+      "color": "#8e6628",
+      "start_name": "백운산 조망 / 백운산 능선",
+      "length_meter": 60.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 27,
+      "path": [
+        {
+          "lat": 38.090897,
+          "lng": 127.414383
+        },
+        {
+          "lat": 38.085495,
+          "lng": 127.411407
+        }
+      ],
+      "color": "#840e7d",
+      "start_name": "각흘산",
+      "length_meter": 654.7,
+      "time_minute": 10
+    },
+    {
+      "path_id": 28,
+      "path": [
+        {
+          "lat": 38.085495,
+          "lng": 127.411407
+        },
+        {
+          "lat": 38.079655,
+          "lng": 127.414063
+        }
+      ],
+      "color": "#0cb94d",
+      "start_name": "광덕안",
+      "length_meter": 689.7,
+      "time_minute": 11
+    },
+    {
+      "path_id": 29,
+      "path": [
+        {
+          "lat": 38.079655,
+          "lng": 127.414063
+        },
+        {
+          "lat": 38.073311,
+          "lng": 127.411819
+        }
+      ],
+      "color": "#54a424",
+      "start_name": "광덕산",
+      "length_meter": 732.3,
+      "time_minute": 12
+    }
+  ]
+}

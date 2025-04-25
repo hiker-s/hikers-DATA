@@ -1,138 +1,141 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.578575,
-        "lng": 129.027924
-      },
-      {
-        "lat": 35.569218,
-        "lng": 129.023926
-      }
-    ],
-    "color": "#b95a66",
-    "start_name": "주차장간판 / 쉼터",
-    "length_meter": 1102.2,
-    "time_minute": 18
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.569218,
-        "lng": 129.023926
-      },
-      {
-        "lat": 35.568687,
-        "lng": 129.023758
-      }
-    ],
-    "color": "#682783",
-    "start_name": "식당 / 사계절식당 메뉴판",
-    "length_meter": 61.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.568687,
-        "lng": 129.023758
-      },
-      {
-        "lat": 35.567806,
-        "lng": 129.023132
-      }
-    ],
-    "color": "#43b092",
-    "start_name": "간판",
-    "length_meter": 113.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.567806,
-        "lng": 129.023132
-      },
-      {
-        "lat": 35.566948,
-        "lng": 129.022781
-      }
-    ],
-    "color": "#0c4ebb",
-    "start_name": "배내2주차장 / 소문난김치집",
-    "length_meter": 101.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.566948,
-        "lng": 129.022781
-      },
-      {
-        "lat": 35.566422,
-        "lng": 129.022568
-      }
-    ],
-    "color": "#759a50",
-    "start_name": "식당",
-    "length_meter": 61.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.566422,
-        "lng": 129.022568
-      },
-      {
-        "lat": 35.56802,
-        "lng": 129.023376
-      }
-    ],
-    "color": "#6ea701",
-    "start_name": "버스",
-    "length_meter": 192.1,
-    "time_minute": 3
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.56802,
-        "lng": 129.023376
-      },
-      {
-        "lat": 35.564747,
-        "lng": 129.029022
-      }
-    ],
-    "color": "#002593",
-    "start_name": "식당간판 / 신불산들머리 / 공터",
-    "length_meter": 655.3,
-    "time_minute": 10
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.564747,
-        "lng": 129.029022
-      },
-      {
-        "lat": 35.568565,
-        "lng": 129.023636
-      }
-    ],
-    "color": "#5e1902",
-    "start_name": "쉼터",
-    "length_meter": 646.2,
-    "time_minute": 10
-  }
-]
+{
+  "max_ele": 936.059,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.578575,
+          "lng": 129.027924
+        },
+        {
+          "lat": 35.569218,
+          "lng": 129.023926
+        }
+      ],
+      "color": "#832782",
+      "start_name": "주차장간판 / 쉼터",
+      "length_meter": 1102.2,
+      "time_minute": 18
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.569218,
+          "lng": 129.023926
+        },
+        {
+          "lat": 35.568687,
+          "lng": 129.023758
+        }
+      ],
+      "color": "#449796",
+      "start_name": "식당 / 사계절식당 메뉴판",
+      "length_meter": 61.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.568687,
+          "lng": 129.023758
+        },
+        {
+          "lat": 35.567806,
+          "lng": 129.023132
+        }
+      ],
+      "color": "#8caa84",
+      "start_name": "간판",
+      "length_meter": 113.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.567806,
+          "lng": 129.023132
+        },
+        {
+          "lat": 35.566948,
+          "lng": 129.022781
+        }
+      ],
+      "color": "#bdbe2e",
+      "start_name": "배내2주차장 / 소문난김치집",
+      "length_meter": 101.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 35.566948,
+          "lng": 129.022781
+        },
+        {
+          "lat": 35.566422,
+          "lng": 129.022568
+        }
+      ],
+      "color": "#6a4759",
+      "start_name": "식당",
+      "length_meter": 61.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 35.566422,
+          "lng": 129.022568
+        },
+        {
+          "lat": 35.56802,
+          "lng": 129.023376
+        }
+      ],
+      "color": "#05845e",
+      "start_name": "버스",
+      "length_meter": 192.1,
+      "time_minute": 3
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 35.56802,
+          "lng": 129.023376
+        },
+        {
+          "lat": 35.564747,
+          "lng": 129.029022
+        }
+      ],
+      "color": "#03573d",
+      "start_name": "식당간판 / 신불산들머리 / 공터",
+      "length_meter": 655.3,
+      "time_minute": 10
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 35.564747,
+          "lng": 129.029022
+        },
+        {
+          "lat": 35.568565,
+          "lng": 129.023636
+        }
+      ],
+      "color": "#0405bf",
+      "start_name": "쉼터",
+      "length_meter": 646.2,
+      "time_minute": 10
+    }
+  ]
+}

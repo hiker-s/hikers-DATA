@@ -1,172 +1,175 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 38.005058,
-        "lng": 127.739769
-      },
-      {
-        "lat": 38.008465,
-        "lng": 127.739914
-      }
-    ],
-    "color": "#68530a",
-    "start_name": "용화산 등산로 안내도",
-    "length_meter": 379.1,
-    "time_minute": 6
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 38.008465,
-        "lng": 127.739914
-      },
-      {
-        "lat": 38.024818,
-        "lng": 127.740166
-      }
-    ],
-    "color": "#804cb4",
-    "start_name": "용화산 양통 주차장",
-    "length_meter": 1818.5,
-    "time_minute": 30
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 38.024818,
-        "lng": 127.740166
-      },
-      {
-        "lat": 38.03484,
-        "lng": 127.74054
-      }
-    ],
-    "color": "#240c89",
-    "start_name": "갈림길",
-    "length_meter": 1114.9,
-    "time_minute": 18
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 38.03484,
-        "lng": 127.74054
-      },
-      {
-        "lat": 38.037216,
-        "lng": 127.740669
-      }
-    ],
-    "color": "#259653",
-    "start_name": "쉼터 / 갈림길",
-    "length_meter": 277.8,
-    "time_minute": 4
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 38.037216,
-        "lng": 127.740669
-      },
-      {
-        "lat": 38.037708,
-        "lng": 127.739876
-      }
-    ],
-    "color": "#030a12",
-    "start_name": "쉼터",
-    "length_meter": 88.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 38.037708,
-        "lng": 127.739876
-      },
-      {
-        "lat": 38.0392,
-        "lng": 127.739876
-      }
-    ],
-    "color": "#b64f12",
-    "start_name": "정자",
-    "length_meter": 165.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 38.0392,
-        "lng": 127.739876
-      },
-      {
-        "lat": 38.0383,
-        "lng": 127.741394
-      }
-    ],
-    "color": "#8f2625",
-    "start_name": "큰고개 주차장 / 갈림길",
-    "length_meter": 168.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 38.0383,
-        "lng": 127.741394
-      },
-      {
-        "lat": 38.038109,
-        "lng": 127.743858
-      }
-    ],
-    "color": "#742249",
-    "start_name": "추락주의구간",
-    "length_meter": 216.8,
-    "time_minute": 3
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 38.038109,
-        "lng": 127.743858
-      },
-      {
-        "lat": 38.038269,
-        "lng": 127.742073
-      }
-    ],
-    "color": "#c28c03",
-    "start_name": "하늘벽 촛대바위 포토존",
-    "length_meter": 157.3,
-    "time_minute": 2
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 38.038269,
-        "lng": 127.742073
-      },
-      {
-        "lat": 38.037239,
-        "lng": 127.740921
-      }
-    ],
-    "color": "#b62916",
-    "start_name": "갈림길",
-    "length_meter": 152.6,
-    "time_minute": 2
-  }
-]
+{
+  "max_ele": 798.432,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 38.005058,
+          "lng": 127.739769
+        },
+        {
+          "lat": 38.008465,
+          "lng": 127.739914
+        }
+      ],
+      "color": "#9b792a",
+      "start_name": "용화산 등산로 안내도",
+      "length_meter": 379.1,
+      "time_minute": 6
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 38.008465,
+          "lng": 127.739914
+        },
+        {
+          "lat": 38.024818,
+          "lng": 127.740166
+        }
+      ],
+      "color": "#428457",
+      "start_name": "용화산 양통 주차장",
+      "length_meter": 1818.5,
+      "time_minute": 30
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 38.024818,
+          "lng": 127.740166
+        },
+        {
+          "lat": 38.03484,
+          "lng": 127.74054
+        }
+      ],
+      "color": "#8d0f87",
+      "start_name": "갈림길",
+      "length_meter": 1114.9,
+      "time_minute": 18
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 38.03484,
+          "lng": 127.74054
+        },
+        {
+          "lat": 38.037216,
+          "lng": 127.740669
+        }
+      ],
+      "color": "#0a2981",
+      "start_name": "쉼터 / 갈림길",
+      "length_meter": 277.8,
+      "time_minute": 4
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 38.037216,
+          "lng": 127.740669
+        },
+        {
+          "lat": 38.037708,
+          "lng": 127.739876
+        }
+      ],
+      "color": "#2b873c",
+      "start_name": "쉼터",
+      "length_meter": 88.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 38.037708,
+          "lng": 127.739876
+        },
+        {
+          "lat": 38.0392,
+          "lng": 127.739876
+        }
+      ],
+      "color": "#79471d",
+      "start_name": "정자",
+      "length_meter": 165.9,
+      "time_minute": 2
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 38.0392,
+          "lng": 127.739876
+        },
+        {
+          "lat": 38.0383,
+          "lng": 127.741394
+        }
+      ],
+      "color": "#0e200e",
+      "start_name": "큰고개 주차장 / 갈림길",
+      "length_meter": 168.4,
+      "time_minute": 2
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 38.0383,
+          "lng": 127.741394
+        },
+        {
+          "lat": 38.038109,
+          "lng": 127.743858
+        }
+      ],
+      "color": "#4b1145",
+      "start_name": "추락주의구간",
+      "length_meter": 216.8,
+      "time_minute": 3
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 38.038109,
+          "lng": 127.743858
+        },
+        {
+          "lat": 38.038269,
+          "lng": 127.742073
+        }
+      ],
+      "color": "#bb27c6",
+      "start_name": "하늘벽 촛대바위 포토존",
+      "length_meter": 157.3,
+      "time_minute": 2
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 38.038269,
+          "lng": 127.742073
+        },
+        {
+          "lat": 38.037239,
+          "lng": 127.740921
+        }
+      ],
+      "color": "#3e9724",
+      "start_name": "갈림길",
+      "length_meter": 152.6,
+      "time_minute": 2
+    }
+  ]
+}

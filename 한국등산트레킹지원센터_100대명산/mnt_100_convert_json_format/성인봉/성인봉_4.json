@@ -1,36 +1,39 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.509937,
-        "lng": 130.859589
-      },
-      {
-        "lat": 37.520512,
-        "lng": 130.849686
-      }
-    ],
-    "color": "#81bc6b",
-    "start_name": "갈림길",
-    "length_meter": 1464.8,
-    "time_minute": 24
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.520512,
-        "lng": 130.849686
-      },
-      {
-        "lat": 37.523117,
-        "lng": 130.850525
-      }
-    ],
-    "color": "#228a94",
-    "start_name": "깃대봉아래쉼터",
-    "length_meter": 299.0,
-    "time_minute": 4
-  }
-]
+{
+  "max_ele": 636.241,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.509937,
+          "lng": 130.859589
+        },
+        {
+          "lat": 37.520512,
+          "lng": 130.849686
+        }
+      ],
+      "color": "#984878",
+      "start_name": "갈림길",
+      "length_meter": 1464.8,
+      "time_minute": 24
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.520512,
+          "lng": 130.849686
+        },
+        {
+          "lat": 37.523117,
+          "lng": 130.850525
+        }
+      ],
+      "color": "#0e9526",
+      "start_name": "깃대봉아래쉼터",
+      "length_meter": 299.0,
+      "time_minute": 4
+    }
+  ]
+}

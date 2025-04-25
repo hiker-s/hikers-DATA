@@ -1,240 +1,243 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.491016,
-        "lng": 126.905899
-      },
-      {
-        "lat": 35.492863,
-        "lng": 126.906052
-      }
-    ],
-    "color": "#a0a3b8",
-    "start_name": "나무의 혹",
-    "length_meter": 205.8,
-    "time_minute": 3
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.492863,
-        "lng": 126.906052
-      },
-      {
-        "lat": 35.494247,
-        "lng": 126.90641
-      }
-    ],
-    "color": "#823f60",
-    "start_name": "백련암  화장실 / 백련암",
-    "length_meter": 158.3,
-    "time_minute": 2
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.494247,
-        "lng": 126.90641
-      },
-      {
-        "lat": 35.497593,
-        "lng": 126.903374
-      }
-    ],
-    "color": "#79c449",
-    "start_name": "석란정지",
-    "length_meter": 462.6,
-    "time_minute": 7
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.497593,
-        "lng": 126.903374
-      },
-      {
-        "lat": 35.498432,
-        "lng": 126.902039
-      }
-    ],
-    "color": "#7bc04d",
-    "start_name": "서래봉 / 갈림길",
-    "length_meter": 152.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.498432,
-        "lng": 126.902039
-      },
-      {
-        "lat": 35.498711,
-        "lng": 126.902069
-      }
-    ],
-    "color": "#6ab4b2",
-    "start_name": "안전사고주의",
-    "length_meter": 31.1,
-    "time_minute": 0
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.498711,
-        "lng": 126.902069
-      },
-      {
-        "lat": 35.498672,
-        "lng": 126.888786
-      }
-    ],
-    "color": "#600a17",
-    "start_name": "급경사지[낙석] 위험지역 / 갈림길",
-    "length_meter": 1205.2,
-    "time_minute": 20
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.498672,
-        "lng": 126.888786
-      },
-      {
-        "lat": 35.497726,
-        "lng": 126.879539
-      }
-    ],
-    "color": "#31863a",
-    "start_name": "추락위험",
-    "length_meter": 843.7,
-    "time_minute": 14
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.497726,
-        "lng": 126.879539
-      },
-      {
-        "lat": 35.493515,
-        "lng": 126.878853
-      }
-    ],
-    "color": "#94891e",
-    "start_name": "망해봉",
-    "length_meter": 472.3,
-    "time_minute": 7
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.493515,
-        "lng": 126.878853
-      },
-      {
-        "lat": 35.478283,
-        "lng": 126.888969
-      }
-    ],
-    "color": "#6f75b8",
-    "start_name": "연지봉",
-    "length_meter": 1925.5,
-    "time_minute": 32
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.478283,
-        "lng": 126.888969
-      },
-      {
-        "lat": 35.479862,
-        "lng": 126.892548
-      }
-    ],
-    "color": "#54bfc7",
-    "start_name": "신선봉",
-    "length_meter": 368.6,
-    "time_minute": 6
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.479862,
-        "lng": 126.892548
-      },
-      {
-        "lat": 35.48035,
-        "lng": 126.898979
-      }
-    ],
-    "color": "#32903f",
-    "start_name": "갈림길",
-    "length_meter": 584.8,
-    "time_minute": 9
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.48035,
-        "lng": 126.898979
-      },
-      {
-        "lat": 35.479767,
-        "lng": 126.89975
-      }
-    ],
-    "color": "#0c9a77",
-    "start_name": "연자봉",
-    "length_meter": 95.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.479767,
-        "lng": 126.89975
-      },
-      {
-        "lat": 35.477703,
-        "lng": 126.915359
-      }
-    ],
-    "color": "#769b40",
-    "start_name": "장군봉",
-    "length_meter": 1431.9,
-    "time_minute": 23
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.477703,
-        "lng": 126.915359
-      },
-      {
-        "lat": 35.48534,
-        "lng": 126.915253
-      }
-    ],
-    "color": "#b81d3c",
-    "start_name": "유군치",
-    "length_meter": 849.2,
-    "time_minute": 14
-  }
-]
+{
+  "max_ele": 786.672,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.491016,
+          "lng": 126.905899
+        },
+        {
+          "lat": 35.492863,
+          "lng": 126.906052
+        }
+      ],
+      "color": "#b78342",
+      "start_name": "나무의 혹",
+      "length_meter": 205.8,
+      "time_minute": 3
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.492863,
+          "lng": 126.906052
+        },
+        {
+          "lat": 35.494247,
+          "lng": 126.90641
+        }
+      ],
+      "color": "#3bb55f",
+      "start_name": "백련암  화장실 / 백련암",
+      "length_meter": 158.3,
+      "time_minute": 2
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.494247,
+          "lng": 126.90641
+        },
+        {
+          "lat": 35.497593,
+          "lng": 126.903374
+        }
+      ],
+      "color": "#08620a",
+      "start_name": "석란정지",
+      "length_meter": 462.6,
+      "time_minute": 7
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.497593,
+          "lng": 126.903374
+        },
+        {
+          "lat": 35.498432,
+          "lng": 126.902039
+        }
+      ],
+      "color": "#00a339",
+      "start_name": "서래봉 / 갈림길",
+      "length_meter": 152.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 35.498432,
+          "lng": 126.902039
+        },
+        {
+          "lat": 35.498711,
+          "lng": 126.902069
+        }
+      ],
+      "color": "#550069",
+      "start_name": "안전사고주의",
+      "length_meter": 31.1,
+      "time_minute": 0
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 35.498711,
+          "lng": 126.902069
+        },
+        {
+          "lat": 35.498672,
+          "lng": 126.888786
+        }
+      ],
+      "color": "#c6a64d",
+      "start_name": "급경사지[낙석] 위험지역 / 갈림길",
+      "length_meter": 1205.2,
+      "time_minute": 20
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 35.498672,
+          "lng": 126.888786
+        },
+        {
+          "lat": 35.497726,
+          "lng": 126.879539
+        }
+      ],
+      "color": "#08b44d",
+      "start_name": "추락위험",
+      "length_meter": 843.7,
+      "time_minute": 14
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 35.497726,
+          "lng": 126.879539
+        },
+        {
+          "lat": 35.493515,
+          "lng": 126.878853
+        }
+      ],
+      "color": "#593a55",
+      "start_name": "망해봉",
+      "length_meter": 472.3,
+      "time_minute": 7
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 35.493515,
+          "lng": 126.878853
+        },
+        {
+          "lat": 35.478283,
+          "lng": 126.888969
+        }
+      ],
+      "color": "#6d1308",
+      "start_name": "연지봉",
+      "length_meter": 1925.5,
+      "time_minute": 32
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 35.478283,
+          "lng": 126.888969
+        },
+        {
+          "lat": 35.479862,
+          "lng": 126.892548
+        }
+      ],
+      "color": "#66b425",
+      "start_name": "신선봉",
+      "length_meter": 368.6,
+      "time_minute": 6
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 35.479862,
+          "lng": 126.892548
+        },
+        {
+          "lat": 35.48035,
+          "lng": 126.898979
+        }
+      ],
+      "color": "#80632d",
+      "start_name": "갈림길",
+      "length_meter": 584.8,
+      "time_minute": 9
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 35.48035,
+          "lng": 126.898979
+        },
+        {
+          "lat": 35.479767,
+          "lng": 126.89975
+        }
+      ],
+      "color": "#0f8d12",
+      "start_name": "연자봉",
+      "length_meter": 95.3,
+      "time_minute": 1
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 35.479767,
+          "lng": 126.89975
+        },
+        {
+          "lat": 35.477703,
+          "lng": 126.915359
+        }
+      ],
+      "color": "#be77a3",
+      "start_name": "장군봉",
+      "length_meter": 1431.9,
+      "time_minute": 23
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 35.477703,
+          "lng": 126.915359
+        },
+        {
+          "lat": 35.48534,
+          "lng": 126.915253
+        }
+      ],
+      "color": "#a12e43",
+      "start_name": "유군치",
+      "length_meter": 849.2,
+      "time_minute": 14
+    }
+  ]
+}

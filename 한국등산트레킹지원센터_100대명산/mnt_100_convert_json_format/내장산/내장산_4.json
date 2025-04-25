@@ -1,648 +1,651 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.492275,
-        "lng": 126.928215
-      },
-      {
-        "lat": 35.489124,
-        "lng": 126.926613
-      }
-    ],
-    "color": "#2db04d",
-    "start_name": "내장산 국립공원 유료주차장",
-    "length_meter": 379.2,
-    "time_minute": 6
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.489124,
-        "lng": 126.926613
-      },
-      {
-        "lat": 35.48769,
-        "lng": 126.90799
-      }
-    ],
-    "color": "#294da8",
-    "start_name": "순환버스 매표소",
-    "length_meter": 1693.6,
-    "time_minute": 28
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.48769,
-        "lng": 126.90799
-      },
-      {
-        "lat": 35.488475,
-        "lng": 126.906905
-      }
-    ],
-    "color": "#028c1b",
-    "start_name": "셔틀버스 승강장 / 내장산 국립공원 탐방안내소 / 탐방안내소 화장실",
-    "length_meter": 140.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.488475,
-        "lng": 126.906905
-      },
-      {
-        "lat": 35.490562,
-        "lng": 126.906059
-      }
-    ],
-    "color": "#502c81",
-    "start_name": "자연관찰로 탐방 안내",
-    "length_meter": 244.4,
-    "time_minute": 4
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.490562,
-        "lng": 126.906059
-      },
-      {
-        "lat": 35.492596,
-        "lng": 126.905792
-      }
-    ],
-    "color": "#b57598",
-    "start_name": "쉼터",
-    "length_meter": 227.5,
-    "time_minute": 3
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.492596,
-        "lng": 126.905792
-      },
-      {
-        "lat": 35.492867,
-        "lng": 126.905144
-      }
-    ],
-    "color": "#483903",
-    "start_name": "갈림길 / 서래봉 구간 탐방 예약제 안내",
-    "length_meter": 77.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.492867,
-        "lng": 126.905144
-      },
-      {
-        "lat": 35.493881,
-        "lng": 126.902679
-      }
-    ],
-    "color": "#46a8a3",
-    "start_name": "백련암 / 백련암에서 바라본 서래봉",
-    "length_meter": 250.0,
-    "time_minute": 4
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.493881,
-        "lng": 126.902679
-      },
-      {
-        "lat": 35.494728,
-        "lng": 126.89624
-      }
-    ],
-    "color": "#978b76",
-    "start_name": "위치번호 내장06-02",
-    "length_meter": 590.5,
-    "time_minute": 9
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.494728,
-        "lng": 126.89624
-      },
-      {
-        "lat": 35.49469,
-        "lng": 126.895058
-      }
-    ],
-    "color": "#78917f",
-    "start_name": "쉼터",
-    "length_meter": 107.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.49469,
-        "lng": 126.895058
-      },
-      {
-        "lat": 35.495625,
-        "lng": 126.894943
-      }
-    ],
-    "color": "#966d29",
-    "start_name": "갈림길",
-    "length_meter": 104.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.495625,
-        "lng": 126.894943
-      },
-      {
-        "lat": 35.497612,
-        "lng": 126.894974
-      }
-    ],
-    "color": "#c6656f",
-    "start_name": "미끄럼 주의",
-    "length_meter": 221.0,
-    "time_minute": 3
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.497612,
-        "lng": 126.894974
-      },
-      {
-        "lat": 35.498882,
-        "lng": 126.894402
-      }
-    ],
-    "color": "#6960b0",
-    "start_name": "추락위험 / 위치번호 03-01",
-    "length_meter": 154.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.498882,
-        "lng": 126.894402
-      },
-      {
-        "lat": 35.499378,
-        "lng": 126.893532
-      }
-    ],
-    "color": "#03a583",
-    "start_name": "미끄럼 주의",
-    "length_meter": 96.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.499378,
-        "lng": 126.893532
-      },
-      {
-        "lat": 35.499573,
-        "lng": 126.892868
-      }
-    ],
-    "color": "#c7846c",
-    "start_name": "불출암지",
-    "length_meter": 63.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.499573,
-        "lng": 126.892868
-      },
-      {
-        "lat": 35.499703,
-        "lng": 126.893163
-      }
-    ],
-    "color": "#32432e",
-    "start_name": "갈림길 / 불출봉 / 불출봉에서 바라본 전망1 / 불출봉에서 바라본 전망2",
-    "length_meter": 47.4,
-    "time_minute": 0
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.499703,
-        "lng": 126.893163
-      },
-      {
-        "lat": 35.494736,
-        "lng": 126.895119
-      }
-    ],
-    "color": "#627c72",
-    "start_name": "불출봉에서 바라본 전망3",
-    "length_meter": 580.0,
-    "time_minute": 9
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.494736,
-        "lng": 126.895119
-      },
-      {
-        "lat": 35.494953,
-        "lng": 126.894043
-      }
-    ],
-    "color": "#50507e",
-    "start_name": "갈림길 / 국립공원 특별  보호구 안내 / 입산시간 제한 안내",
-    "length_meter": 103.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.494953,
-        "lng": 126.894043
-      },
-      {
-        "lat": 35.494953,
-        "lng": 126.894043
-      }
-    ],
-    "color": "#a0938c",
-    "start_name": "원적암에서 바라본 불출봉",
-    "length_meter": 0.0,
-    "time_minute": 0
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 35.494953,
-        "lng": 126.894043
-      },
-      {
-        "lat": 35.494305,
-        "lng": 126.893738
-      }
-    ],
-    "color": "#16c712",
-    "start_name": "원적암",
-    "length_meter": 77.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 35.494305,
-        "lng": 126.893738
-      },
-      {
-        "lat": 35.493523,
-        "lng": 126.893593
-      }
-    ],
-    "color": "#6319a1",
-    "start_name": "갈림길",
-    "length_meter": 87.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 35.493523,
-        "lng": 126.893593
-      },
-      {
-        "lat": 35.492981,
-        "lng": 126.895767
-      }
-    ],
-    "color": "#aa8402",
-    "start_name": "탐방로 안내 / 쉼터",
-    "length_meter": 208.0,
-    "time_minute": 3
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 35.492981,
-        "lng": 126.895767
-      },
-      {
-        "lat": 35.492676,
-        "lng": 126.897324
-      }
-    ],
-    "color": "#a20c28",
-    "start_name": "원적3교",
-    "length_meter": 145.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 35.492676,
-        "lng": 126.897324
-      },
-      {
-        "lat": 35.492183,
-        "lng": 126.899691
-      }
-    ],
-    "color": "#5f14c3",
-    "start_name": "원적2교",
-    "length_meter": 221.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 35.492183,
-        "lng": 126.899691
-      },
-      {
-        "lat": 35.491524,
-        "lng": 126.901138
-      }
-    ],
-    "color": "#623a94",
-    "start_name": "내장산 단풍 / 매점",
-    "length_meter": 150.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 35.491524,
-        "lng": 126.901138
-      },
-      {
-        "lat": 35.489899,
-        "lng": 126.902374
-      }
-    ],
-    "color": "#54ae49",
-    "start_name": "쉼터",
-    "length_meter": 212.5,
-    "time_minute": 3
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 35.489899,
-        "lng": 126.902374
-      },
-      {
-        "lat": 35.489353,
-        "lng": 126.903496
-      }
-    ],
-    "color": "#c77632",
-    "start_name": "내장사 / 내장사 화장실",
-    "length_meter": 124.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 35.489353,
-        "lng": 126.903496
-      },
-      {
-        "lat": 35.486797,
-        "lng": 126.908499
-      }
-    ],
-    "color": "#50a92f",
-    "start_name": "스님 사리함 / 쉼터",
-    "length_meter": 534.7,
-    "time_minute": 8
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 35.486797,
-        "lng": 126.908499
-      },
-      {
-        "lat": 35.486726,
-        "lng": 126.908594
-      }
-    ],
-    "color": "#9a77ae",
-    "start_name": "케이블카 앞에서 바라본 내장산 단풍",
-    "length_meter": 11.7,
-    "time_minute": 0
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 35.486726,
-        "lng": 126.908594
-      },
-      {
-        "lat": 35.484711,
-        "lng": 126.901779
-      }
-    ],
-    "color": "#973a78",
-    "start_name": "케이블카 운행시간",
-    "length_meter": 656.5,
-    "time_minute": 10
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 35.484711,
-        "lng": 126.901779
-      },
-      {
-        "lat": 35.486366,
-        "lng": 126.903053
-      }
-    ],
-    "color": "#4aaab0",
-    "start_name": "갈림길 / 굴거리나무 군락지",
-    "length_meter": 221.8,
-    "time_minute": 3
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 35.486366,
-        "lng": 126.903053
-      },
-      {
-        "lat": 35.486909,
-        "lng": 126.903388
-      }
-    ],
-    "color": "#1c96a6",
-    "start_name": "매점 가는길 / 매점 / 전망대",
-    "length_meter": 68.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 35.486909,
-        "lng": 126.903388
-      },
-      {
-        "lat": 35.486923,
-        "lng": 126.903389
-      }
-    ],
-    "color": "#7407a5",
-    "start_name": "전망대에서 바라본 서래봉과 백련암 / 전망대에서 바라본 월영봉",
-    "length_meter": 1.6,
-    "time_minute": 0
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 35.486923,
-        "lng": 126.903389
-      },
-      {
-        "lat": 35.486683,
-        "lng": 126.903229
-      }
-    ],
-    "color": "#5c78bc",
-    "start_name": "전망대에서 바라본 연지봉,망해봉.불출봉,서래봉 / 갈림길",
-    "length_meter": 42.9,
-    "time_minute": 0
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 35.486683,
-        "lng": 126.903229
-      },
-      {
-        "lat": 35.488625,
-        "lng": 126.901321
-      }
-    ],
-    "color": "#194445",
-    "start_name": "전망대 화장실",
-    "length_meter": 276.5,
-    "time_minute": 4
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 35.488625,
-        "lng": 126.901321
-      },
-      {
-        "lat": 35.489071,
-        "lng": 126.90271
-      }
-    ],
-    "color": "#806bb0",
-    "start_name": "갈림길",
-    "length_meter": 135.2,
-    "time_minute": 2
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 35.489071,
-        "lng": 126.90271
-      },
-      {
-        "lat": 35.489014,
-        "lng": 126.903923
-      }
-    ],
-    "color": "#066662",
-    "start_name": "매점 / 내장산 단풍",
-    "length_meter": 112.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 35.489014,
-        "lng": 126.903923
-      },
-      {
-        "lat": 35.488489,
-        "lng": 126.906688
-      }
-    ],
-    "color": "#677aaf",
-    "start_name": "실록교 / 내장산 단풍",
-    "length_meter": 258.3,
-    "time_minute": 4
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 35.488489,
-        "lng": 126.906688
-      },
-      {
-        "lat": 35.488317,
-        "lng": 126.907095
-      }
-    ],
-    "color": "#9293ac",
-    "start_name": "내장사 단풍터널 입구 / 갈림길",
-    "length_meter": 46.5,
-    "time_minute": 0
-  }
-]
+{
+  "max_ele": 644.531,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.492275,
+          "lng": 126.928215
+        },
+        {
+          "lat": 35.489124,
+          "lng": 126.926613
+        }
+      ],
+      "color": "#562ca2",
+      "start_name": "내장산 국립공원 유료주차장",
+      "length_meter": 379.2,
+      "time_minute": 6
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.489124,
+          "lng": 126.926613
+        },
+        {
+          "lat": 35.48769,
+          "lng": 126.90799
+        }
+      ],
+      "color": "#2ea612",
+      "start_name": "순환버스 매표소",
+      "length_meter": 1693.6,
+      "time_minute": 28
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.48769,
+          "lng": 126.90799
+        },
+        {
+          "lat": 35.488475,
+          "lng": 126.906905
+        }
+      ],
+      "color": "#6e0e94",
+      "start_name": "셔틀버스 승강장 / 내장산 국립공원 탐방안내소 / 탐방안내소 화장실",
+      "length_meter": 140.9,
+      "time_minute": 2
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.488475,
+          "lng": 126.906905
+        },
+        {
+          "lat": 35.490562,
+          "lng": 126.906059
+        }
+      ],
+      "color": "#0a443e",
+      "start_name": "자연관찰로 탐방 안내",
+      "length_meter": 244.4,
+      "time_minute": 4
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 35.490562,
+          "lng": 126.906059
+        },
+        {
+          "lat": 35.492596,
+          "lng": 126.905792
+        }
+      ],
+      "color": "#647551",
+      "start_name": "쉼터",
+      "length_meter": 227.5,
+      "time_minute": 3
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 35.492596,
+          "lng": 126.905792
+        },
+        {
+          "lat": 35.492867,
+          "lng": 126.905144
+        }
+      ],
+      "color": "#4e35be",
+      "start_name": "갈림길 / 서래봉 구간 탐방 예약제 안내",
+      "length_meter": 77.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 35.492867,
+          "lng": 126.905144
+        },
+        {
+          "lat": 35.493881,
+          "lng": 126.902679
+        }
+      ],
+      "color": "#20b178",
+      "start_name": "백련암 / 백련암에서 바라본 서래봉",
+      "length_meter": 250.0,
+      "time_minute": 4
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 35.493881,
+          "lng": 126.902679
+        },
+        {
+          "lat": 35.494728,
+          "lng": 126.89624
+        }
+      ],
+      "color": "#33b920",
+      "start_name": "위치번호 내장06-02",
+      "length_meter": 590.5,
+      "time_minute": 9
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 35.494728,
+          "lng": 126.89624
+        },
+        {
+          "lat": 35.49469,
+          "lng": 126.895058
+        }
+      ],
+      "color": "#6b6486",
+      "start_name": "쉼터",
+      "length_meter": 107.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 35.49469,
+          "lng": 126.895058
+        },
+        {
+          "lat": 35.495625,
+          "lng": 126.894943
+        }
+      ],
+      "color": "#a04649",
+      "start_name": "갈림길",
+      "length_meter": 104.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 35.495625,
+          "lng": 126.894943
+        },
+        {
+          "lat": 35.497612,
+          "lng": 126.894974
+        }
+      ],
+      "color": "#a54853",
+      "start_name": "미끄럼 주의",
+      "length_meter": 221.0,
+      "time_minute": 3
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 35.497612,
+          "lng": 126.894974
+        },
+        {
+          "lat": 35.498882,
+          "lng": 126.894402
+        }
+      ],
+      "color": "#778c1d",
+      "start_name": "추락위험 / 위치번호 03-01",
+      "length_meter": 154.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 35.498882,
+          "lng": 126.894402
+        },
+        {
+          "lat": 35.499378,
+          "lng": 126.893532
+        }
+      ],
+      "color": "#4732a7",
+      "start_name": "미끄럼 주의",
+      "length_meter": 96.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 35.499378,
+          "lng": 126.893532
+        },
+        {
+          "lat": 35.499573,
+          "lng": 126.892868
+        }
+      ],
+      "color": "#860457",
+      "start_name": "불출암지",
+      "length_meter": 63.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 35.499573,
+          "lng": 126.892868
+        },
+        {
+          "lat": 35.499703,
+          "lng": 126.893163
+        }
+      ],
+      "color": "#5c92a4",
+      "start_name": "갈림길 / 불출봉 / 불출봉에서 바라본 전망1 / 불출봉에서 바라본 전망2",
+      "length_meter": 47.4,
+      "time_minute": 0
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 35.499703,
+          "lng": 126.893163
+        },
+        {
+          "lat": 35.494736,
+          "lng": 126.895119
+        }
+      ],
+      "color": "#3273bf",
+      "start_name": "불출봉에서 바라본 전망3",
+      "length_meter": 580.0,
+      "time_minute": 9
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 35.494736,
+          "lng": 126.895119
+        },
+        {
+          "lat": 35.494953,
+          "lng": 126.894043
+        }
+      ],
+      "color": "#c6592e",
+      "start_name": "갈림길 / 국립공원 특별  보호구 안내 / 입산시간 제한 안내",
+      "length_meter": 103.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 35.494953,
+          "lng": 126.894043
+        },
+        {
+          "lat": 35.494953,
+          "lng": 126.894043
+        }
+      ],
+      "color": "#b8553d",
+      "start_name": "원적암에서 바라본 불출봉",
+      "length_meter": 0.0,
+      "time_minute": 0
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 35.494953,
+          "lng": 126.894043
+        },
+        {
+          "lat": 35.494305,
+          "lng": 126.893738
+        }
+      ],
+      "color": "#528068",
+      "start_name": "원적암",
+      "length_meter": 77.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 35.494305,
+          "lng": 126.893738
+        },
+        {
+          "lat": 35.493523,
+          "lng": 126.893593
+        }
+      ],
+      "color": "#ac4213",
+      "start_name": "갈림길",
+      "length_meter": 87.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 35.493523,
+          "lng": 126.893593
+        },
+        {
+          "lat": 35.492981,
+          "lng": 126.895767
+        }
+      ],
+      "color": "#6c8d88",
+      "start_name": "탐방로 안내 / 쉼터",
+      "length_meter": 208.0,
+      "time_minute": 3
+    },
+    {
+      "path_id": 21,
+      "path": [
+        {
+          "lat": 35.492981,
+          "lng": 126.895767
+        },
+        {
+          "lat": 35.492676,
+          "lng": 126.897324
+        }
+      ],
+      "color": "#5e3b39",
+      "start_name": "원적3교",
+      "length_meter": 145.0,
+      "time_minute": 2
+    },
+    {
+      "path_id": 22,
+      "path": [
+        {
+          "lat": 35.492676,
+          "lng": 126.897324
+        },
+        {
+          "lat": 35.492183,
+          "lng": 126.899691
+        }
+      ],
+      "color": "#802b11",
+      "start_name": "원적2교",
+      "length_meter": 221.2,
+      "time_minute": 3
+    },
+    {
+      "path_id": 23,
+      "path": [
+        {
+          "lat": 35.492183,
+          "lng": 126.899691
+        },
+        {
+          "lat": 35.491524,
+          "lng": 126.901138
+        }
+      ],
+      "color": "#4c2485",
+      "start_name": "내장산 단풍 / 매점",
+      "length_meter": 150.1,
+      "time_minute": 2
+    },
+    {
+      "path_id": 24,
+      "path": [
+        {
+          "lat": 35.491524,
+          "lng": 126.901138
+        },
+        {
+          "lat": 35.489899,
+          "lng": 126.902374
+        }
+      ],
+      "color": "#3e7a06",
+      "start_name": "쉼터",
+      "length_meter": 212.5,
+      "time_minute": 3
+    },
+    {
+      "path_id": 25,
+      "path": [
+        {
+          "lat": 35.489899,
+          "lng": 126.902374
+        },
+        {
+          "lat": 35.489353,
+          "lng": 126.903496
+        }
+      ],
+      "color": "#6b3c4a",
+      "start_name": "내장사 / 내장사 화장실",
+      "length_meter": 124.8,
+      "time_minute": 2
+    },
+    {
+      "path_id": 26,
+      "path": [
+        {
+          "lat": 35.489353,
+          "lng": 126.903496
+        },
+        {
+          "lat": 35.486797,
+          "lng": 126.908499
+        }
+      ],
+      "color": "#21503b",
+      "start_name": "스님 사리함 / 쉼터",
+      "length_meter": 534.7,
+      "time_minute": 8
+    },
+    {
+      "path_id": 27,
+      "path": [
+        {
+          "lat": 35.486797,
+          "lng": 126.908499
+        },
+        {
+          "lat": 35.486726,
+          "lng": 126.908594
+        }
+      ],
+      "color": "#01b609",
+      "start_name": "케이블카 앞에서 바라본 내장산 단풍",
+      "length_meter": 11.7,
+      "time_minute": 0
+    },
+    {
+      "path_id": 28,
+      "path": [
+        {
+          "lat": 35.486726,
+          "lng": 126.908594
+        },
+        {
+          "lat": 35.484711,
+          "lng": 126.901779
+        }
+      ],
+      "color": "#988c39",
+      "start_name": "케이블카 운행시간",
+      "length_meter": 656.5,
+      "time_minute": 10
+    },
+    {
+      "path_id": 29,
+      "path": [
+        {
+          "lat": 35.484711,
+          "lng": 126.901779
+        },
+        {
+          "lat": 35.486366,
+          "lng": 126.903053
+        }
+      ],
+      "color": "#b0a224",
+      "start_name": "갈림길 / 굴거리나무 군락지",
+      "length_meter": 221.8,
+      "time_minute": 3
+    },
+    {
+      "path_id": 30,
+      "path": [
+        {
+          "lat": 35.486366,
+          "lng": 126.903053
+        },
+        {
+          "lat": 35.486909,
+          "lng": 126.903388
+        }
+      ],
+      "color": "#7a3238",
+      "start_name": "매점 가는길 / 매점 / 전망대",
+      "length_meter": 68.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 31,
+      "path": [
+        {
+          "lat": 35.486909,
+          "lng": 126.903388
+        },
+        {
+          "lat": 35.486923,
+          "lng": 126.903389
+        }
+      ],
+      "color": "#091b40",
+      "start_name": "전망대에서 바라본 서래봉과 백련암 / 전망대에서 바라본 월영봉",
+      "length_meter": 1.6,
+      "time_minute": 0
+    },
+    {
+      "path_id": 32,
+      "path": [
+        {
+          "lat": 35.486923,
+          "lng": 126.903389
+        },
+        {
+          "lat": 35.486683,
+          "lng": 126.903229
+        }
+      ],
+      "color": "#381c2d",
+      "start_name": "전망대에서 바라본 연지봉,망해봉.불출봉,서래봉 / 갈림길",
+      "length_meter": 42.9,
+      "time_minute": 0
+    },
+    {
+      "path_id": 33,
+      "path": [
+        {
+          "lat": 35.486683,
+          "lng": 126.903229
+        },
+        {
+          "lat": 35.488625,
+          "lng": 126.901321
+        }
+      ],
+      "color": "#ad4430",
+      "start_name": "전망대 화장실",
+      "length_meter": 276.5,
+      "time_minute": 4
+    },
+    {
+      "path_id": 34,
+      "path": [
+        {
+          "lat": 35.488625,
+          "lng": 126.901321
+        },
+        {
+          "lat": 35.489071,
+          "lng": 126.90271
+        }
+      ],
+      "color": "#944536",
+      "start_name": "갈림길",
+      "length_meter": 135.2,
+      "time_minute": 2
+    },
+    {
+      "path_id": 35,
+      "path": [
+        {
+          "lat": 35.489071,
+          "lng": 126.90271
+        },
+        {
+          "lat": 35.489014,
+          "lng": 126.903923
+        }
+      ],
+      "color": "#b79a3f",
+      "start_name": "매점 / 내장산 단풍",
+      "length_meter": 112.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 36,
+      "path": [
+        {
+          "lat": 35.489014,
+          "lng": 126.903923
+        },
+        {
+          "lat": 35.488489,
+          "lng": 126.906688
+        }
+      ],
+      "color": "#7c7683",
+      "start_name": "실록교 / 내장산 단풍",
+      "length_meter": 258.3,
+      "time_minute": 4
+    },
+    {
+      "path_id": 37,
+      "path": [
+        {
+          "lat": 35.488489,
+          "lng": 126.906688
+        },
+        {
+          "lat": 35.488317,
+          "lng": 126.907095
+        }
+      ],
+      "color": "#8b0244",
+      "start_name": "내장사 단풍터널 입구 / 갈림길",
+      "length_meter": 46.5,
+      "time_minute": 0
+    }
+  ]
+}

@@ -1,240 +1,243 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.793415,
-        "lng": 128.094452
-      },
-      {
-        "lat": 35.795212,
-        "lng": 128.094147
-      }
-    ],
-    "color": "#a90665",
-    "start_name": "해인사주차장",
-    "length_meter": 201.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.795212,
-        "lng": 128.094147
-      },
-      {
-        "lat": 35.796276,
-        "lng": 128.09494
-      }
-    ],
-    "color": "#ad2b76",
-    "start_name": "허덕교 화장실",
-    "length_meter": 138.2,
-    "time_minute": 2
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.796276,
-        "lng": 128.09494
-      },
-      {
-        "lat": 35.79628,
-        "lng": 128.094955
-      }
-    ],
-    "color": "#b54b3e",
-    "start_name": "갈림길",
-    "length_meter": 1.4,
-    "time_minute": 0
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.79628,
-        "lng": 128.094955
-      },
-      {
-        "lat": 35.796978,
-        "lng": 128.09549
-      }
-    ],
-    "color": "#5f2e30",
-    "start_name": "카페",
-    "length_meter": 91.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.796978,
-        "lng": 128.09549
-      },
-      {
-        "lat": 35.799023,
-        "lng": 128.096451
-      }
-    ],
-    "color": "#71ba11",
-    "start_name": "갈림길",
-    "length_meter": 243.4,
-    "time_minute": 4
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.799023,
-        "lng": 128.096451
-      },
-      {
-        "lat": 35.799713,
-        "lng": 128.096207
-      }
-    ],
-    "color": "#4dad23",
-    "start_name": "일주문주차장",
-    "length_meter": 79.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.799713,
-        "lng": 128.096207
-      },
-      {
-        "lat": 35.802166,
-        "lng": 128.097092
-      }
-    ],
-    "color": "#5c924e",
-    "start_name": "갈림길",
-    "length_meter": 284.2,
-    "time_minute": 4
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.802166,
-        "lng": 128.097092
-      },
-      {
-        "lat": 35.821159,
-        "lng": 128.116852
-      }
-    ],
-    "color": "#2f620d",
-    "start_name": "토신골탐방로입구",
-    "length_meter": 2763.2,
-    "time_minute": 46
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.821159,
-        "lng": 128.116852
-      },
-      {
-        "lat": 35.821861,
-        "lng": 128.117126
-      }
-    ],
-    "color": "#70220a",
-    "start_name": "갈림길",
-    "length_meter": 81.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.821861,
-        "lng": 128.117126
-      },
-      {
-        "lat": 35.823547,
-        "lng": 128.120499
-      }
-    ],
-    "color": "#1d7b42",
-    "start_name": "자연경관 / 너럭바위 조망 / 암벽",
-    "length_meter": 367.4,
-    "time_minute": 6
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.823547,
-        "lng": 128.120499
-      },
-      {
-        "lat": 35.822807,
-        "lng": 128.11998
-      }
-    ],
-    "color": "#855a84",
-    "start_name": "가야산 우두봉(상왕봉) / 갈림길",
-    "length_meter": 98.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.822807,
-        "lng": 128.11998
-      },
-      {
-        "lat": 35.808575,
-        "lng": 128.102707
-      }
-    ],
-    "color": "#4a4b3c",
-    "start_name": "봉천대",
-    "length_meter": 2220.4,
-    "time_minute": 37
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.808575,
-        "lng": 128.102707
-      },
-      {
-        "lat": 35.800396,
-        "lng": 128.095917
-      }
-    ],
-    "color": "#24c007",
-    "start_name": "밴치",
-    "length_meter": 1096.4,
-    "time_minute": 18
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.800396,
-        "lng": 128.095917
-      },
-      {
-        "lat": 35.798485,
-        "lng": 128.096466
-      }
-    ],
-    "color": "#2b4fa8",
-    "start_name": "수다라카페",
-    "length_meter": 218.2,
-    "time_minute": 3
-  }
-]
+{
+  "max_ele": 1446.64,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.793415,
+          "lng": 128.094452
+        },
+        {
+          "lat": 35.795212,
+          "lng": 128.094147
+        }
+      ],
+      "color": "#9112bf",
+      "start_name": "해인사주차장",
+      "length_meter": 201.7,
+      "time_minute": 3
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.795212,
+          "lng": 128.094147
+        },
+        {
+          "lat": 35.796276,
+          "lng": 128.09494
+        }
+      ],
+      "color": "#b18e24",
+      "start_name": "허덕교 화장실",
+      "length_meter": 138.2,
+      "time_minute": 2
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.796276,
+          "lng": 128.09494
+        },
+        {
+          "lat": 35.79628,
+          "lng": 128.094955
+        }
+      ],
+      "color": "#9b8609",
+      "start_name": "갈림길",
+      "length_meter": 1.4,
+      "time_minute": 0
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.79628,
+          "lng": 128.094955
+        },
+        {
+          "lat": 35.796978,
+          "lng": 128.09549
+        }
+      ],
+      "color": "#8b1a40",
+      "start_name": "카페",
+      "length_meter": 91.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 35.796978,
+          "lng": 128.09549
+        },
+        {
+          "lat": 35.799023,
+          "lng": 128.096451
+        }
+      ],
+      "color": "#c38234",
+      "start_name": "갈림길",
+      "length_meter": 243.4,
+      "time_minute": 4
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 35.799023,
+          "lng": 128.096451
+        },
+        {
+          "lat": 35.799713,
+          "lng": 128.096207
+        }
+      ],
+      "color": "#3dc692",
+      "start_name": "일주문주차장",
+      "length_meter": 79.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 35.799713,
+          "lng": 128.096207
+        },
+        {
+          "lat": 35.802166,
+          "lng": 128.097092
+        }
+      ],
+      "color": "#07b776",
+      "start_name": "갈림길",
+      "length_meter": 284.2,
+      "time_minute": 4
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 35.802166,
+          "lng": 128.097092
+        },
+        {
+          "lat": 35.821159,
+          "lng": 128.116852
+        }
+      ],
+      "color": "#b37f0b",
+      "start_name": "토신골탐방로입구",
+      "length_meter": 2763.2,
+      "time_minute": 46
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 35.821159,
+          "lng": 128.116852
+        },
+        {
+          "lat": 35.821861,
+          "lng": 128.117126
+        }
+      ],
+      "color": "#6aac84",
+      "start_name": "갈림길",
+      "length_meter": 81.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 35.821861,
+          "lng": 128.117126
+        },
+        {
+          "lat": 35.823547,
+          "lng": 128.120499
+        }
+      ],
+      "color": "#202675",
+      "start_name": "자연경관 / 너럭바위 조망 / 암벽",
+      "length_meter": 367.4,
+      "time_minute": 6
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 35.823547,
+          "lng": 128.120499
+        },
+        {
+          "lat": 35.822807,
+          "lng": 128.11998
+        }
+      ],
+      "color": "#b51e75",
+      "start_name": "가야산 우두봉(상왕봉) / 갈림길",
+      "length_meter": 98.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 35.822807,
+          "lng": 128.11998
+        },
+        {
+          "lat": 35.808575,
+          "lng": 128.102707
+        }
+      ],
+      "color": "#82559f",
+      "start_name": "봉천대",
+      "length_meter": 2220.4,
+      "time_minute": 37
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 35.808575,
+          "lng": 128.102707
+        },
+        {
+          "lat": 35.800396,
+          "lng": 128.095917
+        }
+      ],
+      "color": "#bf0155",
+      "start_name": "밴치",
+      "length_meter": 1096.4,
+      "time_minute": 18
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 35.800396,
+          "lng": 128.095917
+        },
+        {
+          "lat": 35.798485,
+          "lng": 128.096466
+        }
+      ],
+      "color": "#1b1796",
+      "start_name": "수다라카페",
+      "length_meter": 218.2,
+      "time_minute": 3
+    }
+  ]
+}

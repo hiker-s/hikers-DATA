@@ -1,189 +1,192 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.841179,
-        "lng": 127.674217
-      },
-      {
-        "lat": 37.841908,
-        "lng": 127.673637
-      }
-    ],
-    "color": "#506a80",
-    "start_name": "의암매표소 / 매표소 화장실 / 삼악산삼악산장매표소등산로입구 / 의암매표소 유료주차장 / 상원사 정류장 (ID2156)",
-    "length_meter": 127.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.841908,
-        "lng": 127.673637
-      },
-      {
-        "lat": 37.841381,
-        "lng": 127.670349
-      }
-    ],
-    "color": "#9c46bc",
-    "start_name": "붕어섬",
-    "length_meter": 294.6,
-    "time_minute": 4
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.841381,
-        "lng": 127.670349
-      },
-      {
-        "lat": 37.841183,
-        "lng": 127.669777
-      }
-    ],
-    "color": "#af0d8d",
-    "start_name": "작은폭포 / 상원사",
-    "length_meter": 58.1,
-    "time_minute": 0
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.841183,
-        "lng": 127.669777
-      },
-      {
-        "lat": 37.83971,
-        "lng": 127.668022
-      }
-    ],
-    "color": "#574847",
-    "start_name": "상원사 약수 / 갈림길",
-    "length_meter": 227.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.83971,
-        "lng": 127.668022
-      },
-      {
-        "lat": 37.839252,
-        "lng": 127.665596
-      }
-    ],
-    "color": "#5b9916",
-    "start_name": "실족사고, 낙석주의",
-    "length_meter": 219.0,
-    "time_minute": 3
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.839252,
-        "lng": 127.665596
-      },
-      {
-        "lat": 37.840061,
-        "lng": 127.662811
-      }
-    ],
-    "color": "#9a8ab5",
-    "start_name": "붕어섬2 / 소양강 조망",
-    "length_meter": 283.2,
-    "time_minute": 4
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.840061,
-        "lng": 127.662811
-      },
-      {
-        "lat": 37.840172,
-        "lng": 127.662109
-      }
-    ],
-    "color": "#185326",
-    "start_name": "붕어섬과 함께 포토존 / 삼악산 전망대",
-    "length_meter": 63.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.840172,
-        "lng": 127.662109
-      },
-      {
-        "lat": 37.840157,
-        "lng": 127.661453
-      }
-    ],
-    "color": "#5f4a75",
-    "start_name": "소양강과 붕어섬",
-    "length_meter": 57.6,
-    "time_minute": 0
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.840157,
-        "lng": 127.661453
-      },
-      {
-        "lat": 37.839725,
-        "lng": 127.660408
-      }
-    ],
-    "color": "#253979",
-    "start_name": "실족사고, 낙석주의",
-    "length_meter": 103.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.839725,
-        "lng": 127.660408
-      },
-      {
-        "lat": 37.837795,
-        "lng": 127.653175
-      }
-    ],
-    "color": "#69569f",
-    "start_name": "갈림길",
-    "length_meter": 670.4,
-    "time_minute": 11
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.837795,
-        "lng": 127.653175
-      },
-      {
-        "lat": 37.837372,
-        "lng": 127.653679
-      }
-    ],
-    "color": "#356bbd",
-    "start_name": "등산로폐쇄",
-    "length_meter": 64.6,
-    "time_minute": 1
-  }
-]
+{
+  "max_ele": 657.24,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.841179,
+          "lng": 127.674217
+        },
+        {
+          "lat": 37.841908,
+          "lng": 127.673637
+        }
+      ],
+      "color": "#a2a26d",
+      "start_name": "의암매표소 / 매표소 화장실 / 삼악산삼악산장매표소등산로입구 / 의암매표소 유료주차장 / 상원사 정류장 (ID2156)",
+      "length_meter": 127.0,
+      "time_minute": 2
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.841908,
+          "lng": 127.673637
+        },
+        {
+          "lat": 37.841381,
+          "lng": 127.670349
+        }
+      ],
+      "color": "#8943a2",
+      "start_name": "붕어섬",
+      "length_meter": 294.6,
+      "time_minute": 4
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.841381,
+          "lng": 127.670349
+        },
+        {
+          "lat": 37.841183,
+          "lng": 127.669777
+        }
+      ],
+      "color": "#501e89",
+      "start_name": "작은폭포 / 상원사",
+      "length_meter": 58.1,
+      "time_minute": 0
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.841183,
+          "lng": 127.669777
+        },
+        {
+          "lat": 37.83971,
+          "lng": 127.668022
+        }
+      ],
+      "color": "#b713a3",
+      "start_name": "상원사 약수 / 갈림길",
+      "length_meter": 227.7,
+      "time_minute": 3
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.83971,
+          "lng": 127.668022
+        },
+        {
+          "lat": 37.839252,
+          "lng": 127.665596
+        }
+      ],
+      "color": "#6559b9",
+      "start_name": "실족사고, 낙석주의",
+      "length_meter": 219.0,
+      "time_minute": 3
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.839252,
+          "lng": 127.665596
+        },
+        {
+          "lat": 37.840061,
+          "lng": 127.662811
+        }
+      ],
+      "color": "#003178",
+      "start_name": "붕어섬2 / 소양강 조망",
+      "length_meter": 283.2,
+      "time_minute": 4
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.840061,
+          "lng": 127.662811
+        },
+        {
+          "lat": 37.840172,
+          "lng": 127.662109
+        }
+      ],
+      "color": "#5573b8",
+      "start_name": "붕어섬과 함께 포토존 / 삼악산 전망대",
+      "length_meter": 63.3,
+      "time_minute": 1
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.840172,
+          "lng": 127.662109
+        },
+        {
+          "lat": 37.840157,
+          "lng": 127.661453
+        }
+      ],
+      "color": "#07816e",
+      "start_name": "소양강과 붕어섬",
+      "length_meter": 57.6,
+      "time_minute": 0
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 37.840157,
+          "lng": 127.661453
+        },
+        {
+          "lat": 37.839725,
+          "lng": 127.660408
+        }
+      ],
+      "color": "#7706c3",
+      "start_name": "실족사고, 낙석주의",
+      "length_meter": 103.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 37.839725,
+          "lng": 127.660408
+        },
+        {
+          "lat": 37.837795,
+          "lng": 127.653175
+        }
+      ],
+      "color": "#131496",
+      "start_name": "갈림길",
+      "length_meter": 670.4,
+      "time_minute": 11
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 37.837795,
+          "lng": 127.653175
+        },
+        {
+          "lat": 37.837372,
+          "lng": 127.653679
+        }
+      ],
+      "color": "#7d4a4c",
+      "start_name": "등산로폐쇄",
+      "length_meter": 64.6,
+      "time_minute": 1
+    }
+  ]
+}

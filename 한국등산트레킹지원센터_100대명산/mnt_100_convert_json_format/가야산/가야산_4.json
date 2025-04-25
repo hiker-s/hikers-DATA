@@ -1,70 +1,73 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.789528,
-        "lng": 128.086868
-      },
-      {
-        "lat": 35.781429,
-        "lng": 128.08754
-      }
-    ],
-    "color": "#347534",
-    "start_name": "돼지골탐방지원센터주차장 / 해인관광호텔 / 돼지골 탐방지원센터",
-    "length_meter": 906.8,
-    "time_minute": 15
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.781429,
-        "lng": 128.08754
-      },
-      {
-        "lat": 35.776581,
-        "lng": 128.089294
-      }
-    ],
-    "color": "#92c0c1",
-    "start_name": "멧돼지 주의",
-    "length_meter": 561.8,
-    "time_minute": 9
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.776581,
-        "lng": 128.089294
-      },
-      {
-        "lat": 35.773438,
-        "lng": 128.094711
-      }
-    ],
-    "color": "#924e48",
-    "start_name": "안전사고 다발구간",
-    "length_meter": 600.8,
-    "time_minute": 10
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.773438,
-        "lng": 128.094711
-      },
-      {
-        "lat": 35.772648,
-        "lng": 128.095154
-      }
-    ],
-    "color": "#301b25",
-    "start_name": "자연경관",
-    "length_meter": 96.5,
-    "time_minute": 1
-  }
-]
+{
+  "max_ele": 1061.516,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.789528,
+          "lng": 128.086868
+        },
+        {
+          "lat": 35.781429,
+          "lng": 128.08754
+        }
+      ],
+      "color": "#a1ac2c",
+      "start_name": "돼지골탐방지원센터주차장 / 해인관광호텔 / 돼지골 탐방지원센터",
+      "length_meter": 906.8,
+      "time_minute": 15
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.781429,
+          "lng": 128.08754
+        },
+        {
+          "lat": 35.776581,
+          "lng": 128.089294
+        }
+      ],
+      "color": "#6493ad",
+      "start_name": "멧돼지 주의",
+      "length_meter": 561.8,
+      "time_minute": 9
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.776581,
+          "lng": 128.089294
+        },
+        {
+          "lat": 35.773438,
+          "lng": 128.094711
+        }
+      ],
+      "color": "#828001",
+      "start_name": "안전사고 다발구간",
+      "length_meter": 600.8,
+      "time_minute": 10
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.773438,
+          "lng": 128.094711
+        },
+        {
+          "lat": 35.772648,
+          "lng": 128.095154
+        }
+      ],
+      "color": "#841c83",
+      "start_name": "자연경관",
+      "length_meter": 96.5,
+      "time_minute": 1
+    }
+  ]
+}

@@ -1,223 +1,226 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.755405,
-        "lng": 127.314644
-      },
-      {
-        "lat": 37.755524,
-        "lng": 127.314865
-      }
-    ],
-    "color": "#012714",
-    "start_name": "축령산휴양림 / 휴양림주차장",
-    "length_meter": 23.7,
-    "time_minute": 0
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.755524,
-        "lng": 127.314865
-      },
-      {
-        "lat": 37.757511,
-        "lng": 127.317299
-      }
-    ],
-    "color": "#8e300a",
-    "start_name": "산림휴양관",
-    "length_meter": 307.6,
-    "time_minute": 5
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.757511,
-        "lng": 127.317299
-      },
-      {
-        "lat": 37.756908,
-        "lng": 127.32576
-      }
-    ],
-    "color": "#a9528b",
-    "start_name": "갈림길",
-    "length_meter": 746.8,
-    "time_minute": 12
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.756908,
-        "lng": 127.32576
-      },
-      {
-        "lat": 37.756729,
-        "lng": 127.32962
-      }
-    ],
-    "color": "#6d736f",
-    "start_name": "전나무숲",
-    "length_meter": 339.9,
-    "time_minute": 5
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.756729,
-        "lng": 127.32962
-      },
-      {
-        "lat": 37.759907,
-        "lng": 127.327591
-      }
-    ],
-    "color": "#7d0993",
-    "start_name": "갈림길",
-    "length_meter": 395.8,
-    "time_minute": 6
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.759907,
-        "lng": 127.327591
-      },
-      {
-        "lat": 37.76395,
-        "lng": 127.312477
-      }
-    ],
-    "color": "#8ea5b6",
-    "start_name": "서리산헬기장대피소",
-    "length_meter": 1402.6,
-    "time_minute": 23
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.76395,
-        "lng": 127.312477
-      },
-      {
-        "lat": 37.756367,
-        "lng": 127.312462
-      }
-    ],
-    "color": "#8c8111",
-    "start_name": "갈림길",
-    "length_meter": 843.2,
-    "time_minute": 14
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.756367,
-        "lng": 127.312462
-      },
-      {
-        "lat": 37.754623,
-        "lng": 127.313049
-      }
-    ],
-    "color": "#4f65c6",
-    "start_name": "전나무군락지",
-    "length_meter": 200.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.754623,
-        "lng": 127.313049
-      },
-      {
-        "lat": 37.754204,
-        "lng": 127.312019
-      }
-    ],
-    "color": "#6e5e5a",
-    "start_name": "휴양림관리사무소",
-    "length_meter": 101.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.754204,
-        "lng": 127.312019
-      },
-      {
-        "lat": 37.753773,
-        "lng": 127.311348
-      }
-    ],
-    "color": "#645c4e",
-    "start_name": "휴양림제2주차장 / 제2주차장 화장실",
-    "length_meter": 78.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.753773,
-        "lng": 127.311348
-      },
-      {
-        "lat": 37.753586,
-        "lng": 127.311081
-      }
-    ],
-    "color": "#af1a80",
-    "start_name": "버스전용조차장 / 축령산휴양림 검문소",
-    "length_meter": 32.2,
-    "time_minute": 0
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.753586,
-        "lng": 127.311081
-      },
-      {
-        "lat": 37.754715,
-        "lng": 127.313721
-      }
-    ],
-    "color": "#b32533",
-    "start_name": "휴양림주차장 / 갈림길",
-    "length_meter": 263.9,
-    "time_minute": 4
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.754715,
-        "lng": 127.313721
-      },
-      {
-        "lat": 37.755405,
-        "lng": 127.314461
-      }
-    ],
-    "color": "#af57bf",
-    "start_name": "휴양림 숲속의집",
-    "length_meter": 100.6,
-    "time_minute": 1
-  }
-]
+{
+  "max_ele": 718.244,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.755405,
+          "lng": 127.314644
+        },
+        {
+          "lat": 37.755524,
+          "lng": 127.314865
+        }
+      ],
+      "color": "#b753ba",
+      "start_name": "축령산휴양림 / 휴양림주차장",
+      "length_meter": 23.7,
+      "time_minute": 0
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.755524,
+          "lng": 127.314865
+        },
+        {
+          "lat": 37.757511,
+          "lng": 127.317299
+        }
+      ],
+      "color": "#1211c3",
+      "start_name": "산림휴양관",
+      "length_meter": 307.6,
+      "time_minute": 5
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.757511,
+          "lng": 127.317299
+        },
+        {
+          "lat": 37.756908,
+          "lng": 127.32576
+        }
+      ],
+      "color": "#414a0a",
+      "start_name": "갈림길",
+      "length_meter": 746.8,
+      "time_minute": 12
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.756908,
+          "lng": 127.32576
+        },
+        {
+          "lat": 37.756729,
+          "lng": 127.32962
+        }
+      ],
+      "color": "#b0b785",
+      "start_name": "전나무숲",
+      "length_meter": 339.9,
+      "time_minute": 5
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.756729,
+          "lng": 127.32962
+        },
+        {
+          "lat": 37.759907,
+          "lng": 127.327591
+        }
+      ],
+      "color": "#0f5a17",
+      "start_name": "갈림길",
+      "length_meter": 395.8,
+      "time_minute": 6
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.759907,
+          "lng": 127.327591
+        },
+        {
+          "lat": 37.76395,
+          "lng": 127.312477
+        }
+      ],
+      "color": "#a8b269",
+      "start_name": "서리산헬기장대피소",
+      "length_meter": 1402.6,
+      "time_minute": 23
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.76395,
+          "lng": 127.312477
+        },
+        {
+          "lat": 37.756367,
+          "lng": 127.312462
+        }
+      ],
+      "color": "#517d67",
+      "start_name": "갈림길",
+      "length_meter": 843.2,
+      "time_minute": 14
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.756367,
+          "lng": 127.312462
+        },
+        {
+          "lat": 37.754623,
+          "lng": 127.313049
+        }
+      ],
+      "color": "#5e5337",
+      "start_name": "전나무군락지",
+      "length_meter": 200.7,
+      "time_minute": 3
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 37.754623,
+          "lng": 127.313049
+        },
+        {
+          "lat": 37.754204,
+          "lng": 127.312019
+        }
+      ],
+      "color": "#277f18",
+      "start_name": "휴양림관리사무소",
+      "length_meter": 101.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 37.754204,
+          "lng": 127.312019
+        },
+        {
+          "lat": 37.753773,
+          "lng": 127.311348
+        }
+      ],
+      "color": "#271898",
+      "start_name": "휴양림제2주차장 / 제2주차장 화장실",
+      "length_meter": 78.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 37.753773,
+          "lng": 127.311348
+        },
+        {
+          "lat": 37.753586,
+          "lng": 127.311081
+        }
+      ],
+      "color": "#c6571d",
+      "start_name": "버스전용조차장 / 축령산휴양림 검문소",
+      "length_meter": 32.2,
+      "time_minute": 0
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 37.753586,
+          "lng": 127.311081
+        },
+        {
+          "lat": 37.754715,
+          "lng": 127.313721
+        }
+      ],
+      "color": "#8c6e82",
+      "start_name": "휴양림주차장 / 갈림길",
+      "length_meter": 263.9,
+      "time_minute": 4
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 37.754715,
+          "lng": 127.313721
+        },
+        {
+          "lat": 37.755405,
+          "lng": 127.314461
+        }
+      ],
+      "color": "#8526bf",
+      "start_name": "휴양림 숲속의집",
+      "length_meter": 100.6,
+      "time_minute": 1
+    }
+  ]
+}

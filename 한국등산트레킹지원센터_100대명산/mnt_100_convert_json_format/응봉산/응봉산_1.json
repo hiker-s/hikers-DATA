@@ -1,478 +1,481 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.081387,
-        "lng": 129.279404
-      },
-      {
-        "lat": 37.08252,
-        "lng": 129.272171
-      }
-    ],
-    "color": "#232fad",
-    "start_name": "옛능선길  등산로 안내소 / 옛능선길 출발점  주차장 / 옛능선길 출발지점 화장실",
-    "length_meter": 694.6,
-    "time_minute": 11
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.08252,
-        "lng": 129.272171
-      },
-      {
-        "lat": 37.082226,
-        "lng": 129.267151
-      }
-    ],
-    "color": "#22bd27",
-    "start_name": "꼬리진달래 군락지",
-    "length_meter": 446.5,
-    "time_minute": 7
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.082226,
-        "lng": 129.267151
-      },
-      {
-        "lat": 37.081005,
-        "lng": 129.256729
-      }
-    ],
-    "color": "#653620",
-    "start_name": "갈림길",
-    "length_meter": 934.4,
-    "time_minute": 15
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.081005,
-        "lng": 129.256729
-      },
-      {
-        "lat": 37.079956,
-        "lng": 129.255157
-      }
-    ],
-    "color": "#723889",
-    "start_name": "제1헬기장",
-    "length_meter": 181.8,
-    "time_minute": 3
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.079956,
-        "lng": 129.255157
-      },
-      {
-        "lat": 37.079266,
-        "lng": 129.253693
-      }
-    ],
-    "color": "#9a8115",
-    "start_name": "금강소나무",
-    "length_meter": 150.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.079266,
-        "lng": 129.253693
-      },
-      {
-        "lat": 37.079399,
-        "lng": 129.252701
-      }
-    ],
-    "color": "#39beba",
-    "start_name": "금강송 군락지",
-    "length_meter": 89.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.079399,
-        "lng": 129.252701
-      },
-      {
-        "lat": 37.079048,
-        "lng": 129.25174
-      }
-    ],
-    "color": "#396693",
-    "start_name": "금강소나무",
-    "length_meter": 93.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.079048,
-        "lng": 129.25174
-      },
-      {
-        "lat": 37.080166,
-        "lng": 129.239594
-      }
-    ],
-    "color": "#334565",
-    "start_name": "꼬리진달래 군락지",
-    "length_meter": 1084.6,
-    "time_minute": 18
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.080166,
-        "lng": 129.239594
-      },
-      {
-        "lat": 37.077415,
-        "lng": 129.231766
-      }
-    ],
-    "color": "#2d3a6c",
-    "start_name": "제2헬기장",
-    "length_meter": 758.8,
-    "time_minute": 12
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.077415,
-        "lng": 129.231766
-      },
-      {
-        "lat": 37.076607,
-        "lng": 129.230545
-      }
-    ],
-    "color": "#5a1f25",
-    "start_name": "산앵도나무  군락지",
-    "length_meter": 140.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.076607,
-        "lng": 129.230545
-      },
-      {
-        "lat": 37.074615,
-        "lng": 129.23262
-      }
-    ],
-    "color": "#296cb8",
-    "start_name": "응봉산 정상 / 갈림길 / 응봉산 정상 헬기장",
-    "length_meter": 294.9,
-    "time_minute": 4
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.074615,
-        "lng": 129.23262
-      },
-      {
-        "lat": 37.073669,
-        "lng": 129.235291
-      }
-    ],
-    "color": "#6214a6",
-    "start_name": "금강소나무",
-    "length_meter": 259.3,
-    "time_minute": 4
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.073669,
-        "lng": 129.235291
-      },
-      {
-        "lat": 37.073509,
-        "lng": 129.238739
-      }
-    ],
-    "color": "#4b2a50",
-    "start_name": "금강소나무길",
-    "length_meter": 306.4,
-    "time_minute": 5
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.073509,
-        "lng": 129.238739
-      },
-      {
-        "lat": 37.073521,
-        "lng": 129.241074
-      }
-    ],
-    "color": "#3d4034",
-    "start_name": "금강소나무",
-    "length_meter": 207.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 37.073521,
-        "lng": 129.241074
-      },
-      {
-        "lat": 37.071346,
-        "lng": 129.250336
-      }
-    ],
-    "color": "#48ad3c",
-    "start_name": "전망대 / 울진군 동해바다 방향 전망대 / 전망대",
-    "length_meter": 865.2,
-    "time_minute": 14
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.071346,
-        "lng": 129.250336
-      },
-      {
-        "lat": 37.072247,
-        "lng": 129.251694
-      }
-    ],
-    "color": "#367ea6",
-    "start_name": "서어나무 군락지",
-    "length_meter": 156.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 37.072247,
-        "lng": 129.251694
-      },
-      {
-        "lat": 37.074867,
-        "lng": 129.255447
-      }
-    ],
-    "color": "#7c1450",
-    "start_name": "쉼터 / 족욕탕 / 성황당",
-    "length_meter": 443.2,
-    "time_minute": 7
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 37.074867,
-        "lng": 129.255447
-      },
-      {
-        "lat": 37.076435,
-        "lng": 129.25737
-      }
-    ],
-    "color": "#b5369b",
-    "start_name": "정자 / 계곡  조망장소",
-    "length_meter": 244.0,
-    "time_minute": 4
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 37.076435,
-        "lng": 129.25737
-      },
-      {
-        "lat": 37.078491,
-        "lng": 129.260132
-      }
-    ],
-    "color": "#753c34",
-    "start_name": "효자샘,신선샘",
-    "length_meter": 335.1,
-    "time_minute": 5
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 37.078491,
-        "lng": 129.260132
-      },
-      {
-        "lat": 37.080795,
-        "lng": 129.263931
-      }
-    ],
-    "color": "#014f21",
-    "start_name": "연리지",
-    "length_meter": 423.3,
-    "time_minute": 7
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 37.080795,
-        "lng": 129.263931
-      },
-      {
-        "lat": 37.080875,
-        "lng": 129.264023
-      }
-    ],
-    "color": "#be156d",
-    "start_name": "갈림길",
-    "length_meter": 12.1,
-    "time_minute": 0
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 37.080875,
-        "lng": 129.264023
-      },
-      {
-        "lat": 37.080372,
-        "lng": 129.26709
-      }
-    ],
-    "color": "#07a6bc",
-    "start_name": "계곡 홍수 방송탑 / 갈림길",
-    "length_meter": 278.7,
-    "time_minute": 4
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 37.080372,
-        "lng": 129.26709
-      },
-      {
-        "lat": 37.080105,
-        "lng": 129.269638
-      }
-    ],
-    "color": "#395b52",
-    "start_name": "암반폭포",
-    "length_meter": 228.0,
-    "time_minute": 3
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 37.080105,
-        "lng": 129.269638
-      },
-      {
-        "lat": 37.079502,
-        "lng": 129.27034
-      }
-    ],
-    "color": "#a91a2f",
-    "start_name": "용소폭포 / 무늬 암석",
-    "length_meter": 92.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 37.079502,
-        "lng": 129.27034
-      },
-      {
-        "lat": 37.078148,
-        "lng": 129.281296
-      }
-    ],
-    "color": "#74beb8",
-    "start_name": "선녀탕",
-    "length_meter": 983.5,
-    "time_minute": 16
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 37.078148,
-        "lng": 129.281296
-      },
-      {
-        "lat": 37.078323,
-        "lng": 129.281754
-      }
-    ],
-    "color": "#781847",
-    "start_name": "등산로 안내소 / 삼겹살 광장",
-    "length_meter": 61.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 37.078323,
-        "lng": 129.281754
-      },
-      {
-        "lat": 37.078564,
-        "lng": 129.282181
-      }
-    ],
-    "color": "#287874",
-    "start_name": "콘도 주차장 / 편의점",
-    "length_meter": 64.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 37.078564,
-        "lng": 129.282181
-      },
-      {
-        "lat": 37.078556,
-        "lng": 129.282516
-      }
-    ],
-    "color": "#b89662",
-    "start_name": "능선길 산불 감시 안내소",
-    "length_meter": 29.7,
-    "time_minute": 0
-  }
-]
+{
+  "max_ele": 1003.611,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.081387,
+          "lng": 129.279404
+        },
+        {
+          "lat": 37.08252,
+          "lng": 129.272171
+        }
+      ],
+      "color": "#8409aa",
+      "start_name": "옛능선길  등산로 안내소 / 옛능선길 출발점  주차장 / 옛능선길 출발지점 화장실",
+      "length_meter": 694.6,
+      "time_minute": 11
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.08252,
+          "lng": 129.272171
+        },
+        {
+          "lat": 37.082226,
+          "lng": 129.267151
+        }
+      ],
+      "color": "#88a3c4",
+      "start_name": "꼬리진달래 군락지",
+      "length_meter": 446.5,
+      "time_minute": 7
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.082226,
+          "lng": 129.267151
+        },
+        {
+          "lat": 37.081005,
+          "lng": 129.256729
+        }
+      ],
+      "color": "#9a20ac",
+      "start_name": "갈림길",
+      "length_meter": 934.4,
+      "time_minute": 15
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.081005,
+          "lng": 129.256729
+        },
+        {
+          "lat": 37.079956,
+          "lng": 129.255157
+        }
+      ],
+      "color": "#aa4759",
+      "start_name": "제1헬기장",
+      "length_meter": 181.8,
+      "time_minute": 3
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.079956,
+          "lng": 129.255157
+        },
+        {
+          "lat": 37.079266,
+          "lng": 129.253693
+        }
+      ],
+      "color": "#839e78",
+      "start_name": "금강소나무",
+      "length_meter": 150.8,
+      "time_minute": 2
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.079266,
+          "lng": 129.253693
+        },
+        {
+          "lat": 37.079399,
+          "lng": 129.252701
+        }
+      ],
+      "color": "#b017ab",
+      "start_name": "금강송 군락지",
+      "length_meter": 89.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.079399,
+          "lng": 129.252701
+        },
+        {
+          "lat": 37.079048,
+          "lng": 129.25174
+        }
+      ],
+      "color": "#591964",
+      "start_name": "금강소나무",
+      "length_meter": 93.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.079048,
+          "lng": 129.25174
+        },
+        {
+          "lat": 37.080166,
+          "lng": 129.239594
+        }
+      ],
+      "color": "#49b5c4",
+      "start_name": "꼬리진달래 군락지",
+      "length_meter": 1084.6,
+      "time_minute": 18
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 37.080166,
+          "lng": 129.239594
+        },
+        {
+          "lat": 37.077415,
+          "lng": 129.231766
+        }
+      ],
+      "color": "#6c429a",
+      "start_name": "제2헬기장",
+      "length_meter": 758.8,
+      "time_minute": 12
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 37.077415,
+          "lng": 129.231766
+        },
+        {
+          "lat": 37.076607,
+          "lng": 129.230545
+        }
+      ],
+      "color": "#69127b",
+      "start_name": "산앵도나무  군락지",
+      "length_meter": 140.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 37.076607,
+          "lng": 129.230545
+        },
+        {
+          "lat": 37.074615,
+          "lng": 129.23262
+        }
+      ],
+      "color": "#255c36",
+      "start_name": "응봉산 정상 / 갈림길 / 응봉산 정상 헬기장",
+      "length_meter": 294.9,
+      "time_minute": 4
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 37.074615,
+          "lng": 129.23262
+        },
+        {
+          "lat": 37.073669,
+          "lng": 129.235291
+        }
+      ],
+      "color": "#91a570",
+      "start_name": "금강소나무",
+      "length_meter": 259.3,
+      "time_minute": 4
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 37.073669,
+          "lng": 129.235291
+        },
+        {
+          "lat": 37.073509,
+          "lng": 129.238739
+        }
+      ],
+      "color": "#8e6633",
+      "start_name": "금강소나무길",
+      "length_meter": 306.4,
+      "time_minute": 5
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 37.073509,
+          "lng": 129.238739
+        },
+        {
+          "lat": 37.073521,
+          "lng": 129.241074
+        }
+      ],
+      "color": "#3e4a72",
+      "start_name": "금강소나무",
+      "length_meter": 207.2,
+      "time_minute": 3
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 37.073521,
+          "lng": 129.241074
+        },
+        {
+          "lat": 37.071346,
+          "lng": 129.250336
+        }
+      ],
+      "color": "#249b1e",
+      "start_name": "전망대 / 울진군 동해바다 방향 전망대 / 전망대",
+      "length_meter": 865.2,
+      "time_minute": 14
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 37.071346,
+          "lng": 129.250336
+        },
+        {
+          "lat": 37.072247,
+          "lng": 129.251694
+        }
+      ],
+      "color": "#2c4f6c",
+      "start_name": "서어나무 군락지",
+      "length_meter": 156.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 37.072247,
+          "lng": 129.251694
+        },
+        {
+          "lat": 37.074867,
+          "lng": 129.255447
+        }
+      ],
+      "color": "#8d5abc",
+      "start_name": "쉼터 / 족욕탕 / 성황당",
+      "length_meter": 443.2,
+      "time_minute": 7
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 37.074867,
+          "lng": 129.255447
+        },
+        {
+          "lat": 37.076435,
+          "lng": 129.25737
+        }
+      ],
+      "color": "#4b6fb2",
+      "start_name": "정자 / 계곡  조망장소",
+      "length_meter": 244.0,
+      "time_minute": 4
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 37.076435,
+          "lng": 129.25737
+        },
+        {
+          "lat": 37.078491,
+          "lng": 129.260132
+        }
+      ],
+      "color": "#3e13c1",
+      "start_name": "효자샘,신선샘",
+      "length_meter": 335.1,
+      "time_minute": 5
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 37.078491,
+          "lng": 129.260132
+        },
+        {
+          "lat": 37.080795,
+          "lng": 129.263931
+        }
+      ],
+      "color": "#170ca8",
+      "start_name": "연리지",
+      "length_meter": 423.3,
+      "time_minute": 7
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 37.080795,
+          "lng": 129.263931
+        },
+        {
+          "lat": 37.080875,
+          "lng": 129.264023
+        }
+      ],
+      "color": "#b0c533",
+      "start_name": "갈림길",
+      "length_meter": 12.1,
+      "time_minute": 0
+    },
+    {
+      "path_id": 21,
+      "path": [
+        {
+          "lat": 37.080875,
+          "lng": 129.264023
+        },
+        {
+          "lat": 37.080372,
+          "lng": 129.26709
+        }
+      ],
+      "color": "#877878",
+      "start_name": "계곡 홍수 방송탑 / 갈림길",
+      "length_meter": 278.7,
+      "time_minute": 4
+    },
+    {
+      "path_id": 22,
+      "path": [
+        {
+          "lat": 37.080372,
+          "lng": 129.26709
+        },
+        {
+          "lat": 37.080105,
+          "lng": 129.269638
+        }
+      ],
+      "color": "#618819",
+      "start_name": "암반폭포",
+      "length_meter": 228.0,
+      "time_minute": 3
+    },
+    {
+      "path_id": 23,
+      "path": [
+        {
+          "lat": 37.080105,
+          "lng": 129.269638
+        },
+        {
+          "lat": 37.079502,
+          "lng": 129.27034
+        }
+      ],
+      "color": "#5e9067",
+      "start_name": "용소폭포 / 무늬 암석",
+      "length_meter": 92.3,
+      "time_minute": 1
+    },
+    {
+      "path_id": 24,
+      "path": [
+        {
+          "lat": 37.079502,
+          "lng": 129.27034
+        },
+        {
+          "lat": 37.078148,
+          "lng": 129.281296
+        }
+      ],
+      "color": "#a31556",
+      "start_name": "선녀탕",
+      "length_meter": 983.5,
+      "time_minute": 16
+    },
+    {
+      "path_id": 25,
+      "path": [
+        {
+          "lat": 37.078148,
+          "lng": 129.281296
+        },
+        {
+          "lat": 37.078323,
+          "lng": 129.281754
+        }
+      ],
+      "color": "#b01d03",
+      "start_name": "등산로 안내소 / 삼겹살 광장",
+      "length_meter": 61.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 26,
+      "path": [
+        {
+          "lat": 37.078323,
+          "lng": 129.281754
+        },
+        {
+          "lat": 37.078564,
+          "lng": 129.282181
+        }
+      ],
+      "color": "#1e989f",
+      "start_name": "콘도 주차장 / 편의점",
+      "length_meter": 64.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 27,
+      "path": [
+        {
+          "lat": 37.078564,
+          "lng": 129.282181
+        },
+        {
+          "lat": 37.078556,
+          "lng": 129.282516
+        }
+      ],
+      "color": "#a21260",
+      "start_name": "능선길 산불 감시 안내소",
+      "length_meter": 29.7,
+      "time_minute": 0
+    }
+  ]
+}

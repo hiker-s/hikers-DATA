@@ -1,121 +1,124 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 36.59544,
-        "lng": 127.815231
-      },
-      {
-        "lat": 36.594322,
-        "lng": 127.815048
-      }
-    ],
-    "color": "#084898",
-    "start_name": "묘봉두부마을",
-    "length_meter": 125.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 36.594322,
-        "lng": 127.815048
-      },
-      {
-        "lat": 36.579685,
-        "lng": 127.817337
-      }
-    ],
-    "color": "#739fba",
-    "start_name": "운흥1리마을지도 / 탐방예약제",
-    "length_meter": 1645.4,
-    "time_minute": 27
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 36.579685,
-        "lng": 127.817337
-      },
-      {
-        "lat": 36.579075,
-        "lng": 127.817146
-      }
-    ],
-    "color": "#511ac1",
-    "start_name": "토끼굴",
-    "length_meter": 69.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 36.579075,
-        "lng": 127.817146
-      },
-      {
-        "lat": 36.578064,
-        "lng": 127.816383
-      }
-    ],
-    "color": "#051354",
-    "start_name": "토끼봉",
-    "length_meter": 131.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 36.578064,
-        "lng": 127.816383
-      },
-      {
-        "lat": 36.574059,
-        "lng": 127.820961
-      }
-    ],
-    "color": "#93309e",
-    "start_name": "통천문",
-    "length_meter": 604.5,
-    "time_minute": 10
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 36.574059,
-        "lng": 127.820961
-      },
-      {
-        "lat": 36.570675,
-        "lng": 127.824394
-      }
-    ],
-    "color": "#225c95",
-    "start_name": "상학봉",
-    "length_meter": 485.4,
-    "time_minute": 8
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 36.570675,
-        "lng": 127.824394
-      },
-      {
-        "lat": 36.573952,
-        "lng": 127.829231
-      }
-    ],
-    "color": "#17b20e",
-    "start_name": "묘봉(암릉)",
-    "length_meter": 565.1,
-    "time_minute": 9
-  }
-]
+{
+  "max_ele": 882.037,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 36.59544,
+          "lng": 127.815231
+        },
+        {
+          "lat": 36.594322,
+          "lng": 127.815048
+        }
+      ],
+      "color": "#481141",
+      "start_name": "묘봉두부마을",
+      "length_meter": 125.4,
+      "time_minute": 2
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 36.594322,
+          "lng": 127.815048
+        },
+        {
+          "lat": 36.579685,
+          "lng": 127.817337
+        }
+      ],
+      "color": "#0150a7",
+      "start_name": "운흥1리마을지도 / 탐방예약제",
+      "length_meter": 1645.4,
+      "time_minute": 27
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 36.579685,
+          "lng": 127.817337
+        },
+        {
+          "lat": 36.579075,
+          "lng": 127.817146
+        }
+      ],
+      "color": "#2b6c56",
+      "start_name": "토끼굴",
+      "length_meter": 69.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 36.579075,
+          "lng": 127.817146
+        },
+        {
+          "lat": 36.578064,
+          "lng": 127.816383
+        }
+      ],
+      "color": "#956600",
+      "start_name": "토끼봉",
+      "length_meter": 131.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 36.578064,
+          "lng": 127.816383
+        },
+        {
+          "lat": 36.574059,
+          "lng": 127.820961
+        }
+      ],
+      "color": "#4e1b02",
+      "start_name": "통천문",
+      "length_meter": 604.5,
+      "time_minute": 10
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 36.574059,
+          "lng": 127.820961
+        },
+        {
+          "lat": 36.570675,
+          "lng": 127.824394
+        }
+      ],
+      "color": "#5581a5",
+      "start_name": "상학봉",
+      "length_meter": 485.4,
+      "time_minute": 8
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 36.570675,
+          "lng": 127.824394
+        },
+        {
+          "lat": 36.573952,
+          "lng": 127.829231
+        }
+      ],
+      "color": "#c201bf",
+      "start_name": "묘봉(암릉)",
+      "length_meter": 565.1,
+      "time_minute": 9
+    }
+  ]
+}

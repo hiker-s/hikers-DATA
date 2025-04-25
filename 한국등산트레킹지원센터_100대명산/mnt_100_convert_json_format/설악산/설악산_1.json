@@ -1,240 +1,243 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 38.077477,
-        "lng": 128.451645
-      },
-      {
-        "lat": 38.077686,
-        "lng": 128.443024
-      }
-    ],
-    "color": "#6906a1",
-    "start_name": "오색주차장 / 오색분소",
-    "length_meter": 758.5,
-    "time_minute": 12
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 38.077686,
-        "lng": 128.443024
-      },
-      {
-        "lat": 38.076241,
-        "lng": 128.440018
-      }
-    ],
-    "color": "#6e7706",
-    "start_name": "다리",
-    "length_meter": 308.3,
-    "time_minute": 5
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 38.076241,
-        "lng": 128.440018
-      },
-      {
-        "lat": 38.077206,
-        "lng": 128.438538
-      }
-    ],
-    "color": "#b04f58",
-    "start_name": "성국사 / 양양 오색리 삼층석탑",
-    "length_meter": 171.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 38.077206,
-        "lng": 128.438538
-      },
-      {
-        "lat": 38.080803,
-        "lng": 128.434647
-      }
-    ],
-    "color": "#25aa43",
-    "start_name": "독주암",
-    "length_meter": 525.3,
-    "time_minute": 8
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 38.080803,
-        "lng": 128.434647
-      },
-      {
-        "lat": 38.08202,
-        "lng": 128.432465
-      }
-    ],
-    "color": "#4b594d",
-    "start_name": "선녀교",
-    "length_meter": 234.1,
-    "time_minute": 3
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 38.08202,
-        "lng": 128.432465
-      },
-      {
-        "lat": 38.082916,
-        "lng": 128.431686
-      }
-    ],
-    "color": "#22127f",
-    "start_name": "전망대교",
-    "length_meter": 120.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 38.082916,
-        "lng": 128.431686
-      },
-      {
-        "lat": 38.083012,
-        "lng": 128.430969
-      }
-    ],
-    "color": "#b76348",
-    "start_name": "금강문교",
-    "length_meter": 63.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 38.083012,
-        "lng": 128.430969
-      },
-      {
-        "lat": 38.083168,
-        "lng": 128.430115
-      }
-    ],
-    "color": "#bb2c69",
-    "start_name": "금강문",
-    "length_meter": 76.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 38.083168,
-        "lng": 128.430115
-      },
-      {
-        "lat": 38.083851,
-        "lng": 128.430161
-      }
-    ],
-    "color": "#0d0c6b",
-    "start_name": "전나무교 / 갈림길",
-    "length_meter": 78.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 38.083851,
-        "lng": 128.430161
-      },
-      {
-        "lat": 38.085579,
-        "lng": 128.433624
-      }
-    ],
-    "color": "#34b3a5",
-    "start_name": "용소출렁교 / 용소폭포",
-    "length_meter": 372.5,
-    "time_minute": 6
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 38.085579,
-        "lng": 128.433624
-      },
-      {
-        "lat": 38.081001,
-        "lng": 128.440125
-      }
-    ],
-    "color": "#658092",
-    "start_name": "만경대길",
-    "length_meter": 763.5,
-    "time_minute": 12
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 38.081001,
-        "lng": 128.440125
-      },
-      {
-        "lat": 38.080475,
-        "lng": 128.438934
-      }
-    ],
-    "color": "#223b1d",
-    "start_name": "갈림길",
-    "length_meter": 119.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 38.080475,
-        "lng": 128.438934
-      },
-      {
-        "lat": 38.077957,
-        "lng": 128.446503
-      }
-    ],
-    "color": "#bf7f4f",
-    "start_name": "만경대",
-    "length_meter": 719.2,
-    "time_minute": 11
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 38.077957,
-        "lng": 128.446503
-      },
-      {
-        "lat": 38.077385,
-        "lng": 128.447769
-      }
-    ],
-    "color": "#7a670d",
-    "start_name": "갈림길 / 오색약수",
-    "length_meter": 163.2,
-    "time_minute": 2
-  }
-]
+{
+  "max_ele": 618.996,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 38.077477,
+          "lng": 128.451645
+        },
+        {
+          "lat": 38.077686,
+          "lng": 128.443024
+        }
+      ],
+      "color": "#2d5b65",
+      "start_name": "오색주차장 / 오색분소",
+      "length_meter": 758.5,
+      "time_minute": 12
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 38.077686,
+          "lng": 128.443024
+        },
+        {
+          "lat": 38.076241,
+          "lng": 128.440018
+        }
+      ],
+      "color": "#6b3314",
+      "start_name": "다리",
+      "length_meter": 308.3,
+      "time_minute": 5
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 38.076241,
+          "lng": 128.440018
+        },
+        {
+          "lat": 38.077206,
+          "lng": 128.438538
+        }
+      ],
+      "color": "#08a655",
+      "start_name": "성국사 / 양양 오색리 삼층석탑",
+      "length_meter": 171.8,
+      "time_minute": 2
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 38.077206,
+          "lng": 128.438538
+        },
+        {
+          "lat": 38.080803,
+          "lng": 128.434647
+        }
+      ],
+      "color": "#213e53",
+      "start_name": "독주암",
+      "length_meter": 525.3,
+      "time_minute": 8
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 38.080803,
+          "lng": 128.434647
+        },
+        {
+          "lat": 38.08202,
+          "lng": 128.432465
+        }
+      ],
+      "color": "#0c9966",
+      "start_name": "선녀교",
+      "length_meter": 234.1,
+      "time_minute": 3
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 38.08202,
+          "lng": 128.432465
+        },
+        {
+          "lat": 38.082916,
+          "lng": 128.431686
+        }
+      ],
+      "color": "#a85340",
+      "start_name": "전망대교",
+      "length_meter": 120.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 38.082916,
+          "lng": 128.431686
+        },
+        {
+          "lat": 38.083012,
+          "lng": 128.430969
+        }
+      ],
+      "color": "#5539ab",
+      "start_name": "금강문교",
+      "length_meter": 63.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 38.083012,
+          "lng": 128.430969
+        },
+        {
+          "lat": 38.083168,
+          "lng": 128.430115
+        }
+      ],
+      "color": "#3915ab",
+      "start_name": "금강문",
+      "length_meter": 76.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 38.083168,
+          "lng": 128.430115
+        },
+        {
+          "lat": 38.083851,
+          "lng": 128.430161
+        }
+      ],
+      "color": "#a04203",
+      "start_name": "전나무교 / 갈림길",
+      "length_meter": 78.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 38.083851,
+          "lng": 128.430161
+        },
+        {
+          "lat": 38.085579,
+          "lng": 128.433624
+        }
+      ],
+      "color": "#12246a",
+      "start_name": "용소출렁교 / 용소폭포",
+      "length_meter": 372.5,
+      "time_minute": 6
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 38.085579,
+          "lng": 128.433624
+        },
+        {
+          "lat": 38.081001,
+          "lng": 128.440125
+        }
+      ],
+      "color": "#8e0d15",
+      "start_name": "만경대길",
+      "length_meter": 763.5,
+      "time_minute": 12
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 38.081001,
+          "lng": 128.440125
+        },
+        {
+          "lat": 38.080475,
+          "lng": 128.438934
+        }
+      ],
+      "color": "#013c6d",
+      "start_name": "갈림길",
+      "length_meter": 119.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 38.080475,
+          "lng": 128.438934
+        },
+        {
+          "lat": 38.077957,
+          "lng": 128.446503
+        }
+      ],
+      "color": "#274f8f",
+      "start_name": "만경대",
+      "length_meter": 719.2,
+      "time_minute": 11
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 38.077957,
+          "lng": 128.446503
+        },
+        {
+          "lat": 38.077385,
+          "lng": 128.447769
+        }
+      ],
+      "color": "#349920",
+      "start_name": "갈림길 / 오색약수",
+      "length_meter": 163.2,
+      "time_minute": 2
+    }
+  ]
+}

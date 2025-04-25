@@ -115,8 +115,14 @@ for mountain_folder in os.listdir(json_path):
                     os.makedirs(output_mountain_dir, exist_ok=True)
                     output_file_path = os.path.join(output_mountain_dir, filename)
 
+                    # 최종 JSON 데이터 구성
+                    output_data = {
+                        "max_ele": data["max_ele"],
+                        "track": sections
+                    }
+
                     with open(output_file_path, 'w', encoding='utf-8') as f:
-                        json.dump(sections, f, ensure_ascii=False, indent=2)
+                        json.dump(output_data, f, ensure_ascii=False, indent=2)
 
                 except Exception as e:
                     print(f"❌ {mountain_folder}/{filename} 오류 발생: {e}")

@@ -1,988 +1,991 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.503616,
-        "lng": 126.586433
-      },
-      {
-        "lat": 35.503338,
-        "lng": 126.58696
-      }
-    ],
-    "color": "#c26cc7",
-    "start_name": "소형주차장 / 전기자동차충전 / 대형주차장",
-    "length_meter": 61.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.503338,
-        "lng": 126.58696
-      },
-      {
-        "lat": 35.502808,
-        "lng": 126.58712
-      }
-    ],
-    "color": "#280f7a",
-    "start_name": "버스정류장 / cu편의점 / 선운산버스터미널",
-    "length_meter": 64.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.502808,
-        "lng": 126.58712
-      },
-      {
-        "lat": 35.502415,
-        "lng": 126.586807
-      }
-    ],
-    "color": "#7e0d82",
-    "start_name": "전라북도 관광 안내도 / 버스시간표 / 버스터비널 옆쉼터 / 쉼터광장 / 점자안내판 / 쉼터옆 화장실 / 관광안내소 / 문화 생태탐방로",
-    "length_meter": 68.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.502415,
-        "lng": 126.586807
-      },
-      {
-        "lat": 35.50185,
-        "lng": 126.586761
-      }
-    ],
-    "color": "#7b918d",
-    "start_name": "고창군관광안내도 / 선운산 도립 공원 등산 안내도 / 송악 - 천년기념물 367호 / 송악  -  천년기념물367호",
-    "length_meter": 75.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.50185,
-        "lng": 126.586761
-      },
-      {
-        "lat": 35.501255,
-        "lng": 126.58593
-      }
-    ],
-    "color": "#bdc43e",
-    "start_name": "꽃무릇위 송악",
-    "length_meter": 100.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.501255,
-        "lng": 126.58593
-      },
-      {
-        "lat": 35.500679,
-        "lng": 126.585342
-      }
-    ],
-    "color": "#87c7b4",
-    "start_name": "벚나무 좌판가게",
-    "length_meter": 83.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.500679,
-        "lng": 126.585342
-      },
-      {
-        "lat": 35.50021,
-        "lng": 126.584831
-      }
-    ],
-    "color": "#c12431",
-    "start_name": "꽃무릇길 / 길가벤치",
-    "length_meter": 69.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.50021,
-        "lng": 126.584831
-      },
-      {
-        "lat": 35.499626,
-        "lng": 126.584244
-      }
-    ],
-    "color": "#c21d31",
-    "start_name": "생태숲 / 꽃무릇길",
-    "length_meter": 84.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.499626,
-        "lng": 126.584244
-      },
-      {
-        "lat": 35.498814,
-        "lng": 126.583534
-      }
-    ],
-    "color": "#af776b",
-    "start_name": "도솔천",
-    "length_meter": 110.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.498814,
-        "lng": 126.583534
-      },
-      {
-        "lat": 35.498371,
-        "lng": 126.582512
-      }
-    ],
-    "color": "#010b17",
-    "start_name": "꽃무릇 / 미당 서정주시비",
-    "length_meter": 105.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.498371,
-        "lng": 126.582512
-      },
-      {
-        "lat": 35.498093,
-        "lng": 126.582268
-      }
-    ],
-    "color": "#820a69",
-    "start_name": "도솔산 선운사",
-    "length_meter": 38.0,
-    "time_minute": 0
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.498093,
-        "lng": 126.582268
-      },
-      {
-        "lat": 35.497814,
-        "lng": 126.581886
-      }
-    ],
-    "color": "#914d1e",
-    "start_name": "공중화장실 / 갈림길",
-    "length_meter": 46.5,
-    "time_minute": 0
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.497814,
-        "lng": 126.581886
-      },
-      {
-        "lat": 35.497364,
-        "lng": 126.580086
-      }
-    ],
-    "color": "#c04509",
-    "start_name": "꽃무릇",
-    "length_meter": 170.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.497364,
-        "lng": 126.580086
-      },
-      {
-        "lat": 35.498123,
-        "lng": 126.579399
-      }
-    ],
-    "color": "#580612",
-    "start_name": "갈림길 / 쉼터광장",
-    "length_meter": 107.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.498123,
-        "lng": 126.579399
-      },
-      {
-        "lat": 35.498806,
-        "lng": 126.578484
-      }
-    ],
-    "color": "#121d98",
-    "start_name": "차문화 체험관",
-    "length_meter": 112.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.498806,
-        "lng": 126.578484
-      },
-      {
-        "lat": 35.499416,
-        "lng": 126.578094
-      }
-    ],
-    "color": "#56099b",
-    "start_name": "선운골 생태마을 / 차밭과 꽃무릇 / 차밭에서 박새",
-    "length_meter": 76.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.499416,
-        "lng": 126.578094
-      },
-      {
-        "lat": 35.501026,
-        "lng": 126.575005
-      }
-    ],
-    "color": "#0d667c",
-    "start_name": "차밭",
-    "length_meter": 332.0,
-    "time_minute": 5
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.501026,
-        "lng": 126.575005
-      },
-      {
-        "lat": 35.501076,
-        "lng": 126.574913
-      }
-    ],
-    "color": "#4ec321",
-    "start_name": "갈림길 / 석상암",
-    "length_meter": 100.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 35.501076,
-        "lng": 126.574913
-      },
-      {
-        "lat": 35.501099,
-        "lng": 126.573814
-      }
-    ],
-    "color": "#15b6c5",
-    "start_name": "꽃 / 꽃무릇",
-    "length_meter": 101.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 35.501099,
-        "lng": 126.573814
-      },
-      {
-        "lat": 35.502594,
-        "lng": 126.570038
-      }
-    ],
-    "color": "#265fa1",
-    "start_name": "자릿대군락",
-    "length_meter": 380.1,
-    "time_minute": 6
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 35.502594,
-        "lng": 126.570038
-      },
-      {
-        "lat": 35.5037,
-        "lng": 126.56826
-      }
-    ],
-    "color": "#3f6088",
-    "start_name": "야생화",
-    "length_meter": 202.6,
-    "time_minute": 3
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 35.5037,
-        "lng": 126.56826
-      },
-      {
-        "lat": 35.498787,
-        "lng": 126.569092
-      }
-    ],
-    "color": "#60494c",
-    "start_name": "갈림길 / 등산위치알림판 / 테이블쉼터",
-    "length_meter": 553.5,
-    "time_minute": 9
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 35.498787,
-        "lng": 126.569092
-      },
-      {
-        "lat": 35.498219,
-        "lng": 126.568604
-      }
-    ],
-    "color": "#0f3a0e",
-    "start_name": "테이블 / 선운산(도솔산) 수리봉 / 변산반도와 곰소항",
-    "length_meter": 77.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 35.498219,
-        "lng": 126.568604
-      },
-      {
-        "lat": 35.49752,
-        "lng": 126.568336
-      }
-    ],
-    "color": "#64c45c",
-    "start_name": "여로",
-    "length_meter": 81.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 35.49752,
-        "lng": 126.568336
-      },
-      {
-        "lat": 35.496162,
-        "lng": 126.568604
-      }
-    ],
-    "color": "#6b758e",
-    "start_name": "갈림길",
-    "length_meter": 152.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 35.496162,
-        "lng": 126.568604
-      },
-      {
-        "lat": 35.495342,
-        "lng": 126.568428
-      }
-    ],
-    "color": "#099206",
-    "start_name": "도솔제",
-    "length_meter": 92.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 35.495342,
-        "lng": 126.568428
-      },
-      {
-        "lat": 35.494843,
-        "lng": 126.568474
-      }
-    ],
-    "color": "#4d6e4d",
-    "start_name": "집단시설지구 선운사 / 도솔제주변 능선 / 선운사집단시설지구와 선우사 주변 능선",
-    "length_meter": 60.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 35.494843,
-        "lng": 126.568474
-      },
-      {
-        "lat": 35.493954,
-        "lng": 126.568069
-      }
-    ],
-    "color": "#2c706e",
-    "start_name": "도솔제 / 포갠바위",
-    "length_meter": 106.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 35.493954,
-        "lng": 126.568069
-      },
-      {
-        "lat": 35.493862,
-        "lng": 126.568069
-      }
-    ],
-    "color": "#c2451a",
-    "start_name": "너럭바위 / 선운산도립공원내 능선들",
-    "length_meter": 10.8,
-    "time_minute": 0
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 35.493862,
-        "lng": 126.568069
-      },
-      {
-        "lat": 35.492153,
-        "lng": 126.56752
-      }
-    ],
-    "color": "#69496c",
-    "start_name": "층꽃",
-    "length_meter": 196.4,
-    "time_minute": 3
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 35.492153,
-        "lng": 126.56752
-      },
-      {
-        "lat": 35.489361,
-        "lng": 126.570396
-      }
-    ],
-    "color": "#877326",
-    "start_name": "갈림길",
-    "length_meter": 405.2,
-    "time_minute": 6
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 35.489361,
-        "lng": 126.570396
-      },
-      {
-        "lat": 35.490078,
-        "lng": 126.571793
-      }
-    ],
-    "color": "#895130",
-    "start_name": "탑",
-    "length_meter": 149.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 35.490078,
-        "lng": 126.571793
-      },
-      {
-        "lat": 35.490906,
-        "lng": 126.573425
-      }
-    ],
-    "color": "#228944",
-    "start_name": "테이블과 벤치",
-    "length_meter": 174.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 35.490906,
-        "lng": 126.573425
-      },
-      {
-        "lat": 35.491062,
-        "lng": 126.574799
-      }
-    ],
-    "color": "#a06a5e",
-    "start_name": "꽃무릇 군락지",
-    "length_meter": 125.6,
-    "time_minute": 2
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 35.491062,
-        "lng": 126.574799
-      },
-      {
-        "lat": 35.491161,
-        "lng": 126.575005
-      }
-    ],
-    "color": "#28714e",
-    "start_name": "템플스테이 / 선운사 연수원",
-    "length_meter": 21.7,
-    "time_minute": 0
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 35.491161,
-        "lng": 126.575005
-      },
-      {
-        "lat": 35.491707,
-        "lng": 126.57486
-      }
-    ],
-    "color": "#463397",
-    "start_name": "탐방로 / 갈림길",
-    "length_meter": 62.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 35.491707,
-        "lng": 126.57486
-      },
-      {
-        "lat": 35.494469,
-        "lng": 126.574936
-      }
-    ],
-    "color": "#624486",
-    "start_name": "정자와 벤치 / 도솔천",
-    "length_meter": 307.2,
-    "time_minute": 5
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 35.494469,
-        "lng": 126.574936
-      },
-      {
-        "lat": 35.495102,
-        "lng": 126.575813
-      }
-    ],
-    "color": "#78a4ac",
-    "start_name": "도솔천 건너 차밭 / 도솔천 식생 / 도솔천과 탕방로",
-    "length_meter": 106.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 38,
-    "path": [
-      {
-        "lat": 35.495102,
-        "lng": 126.575813
-      },
-      {
-        "lat": 35.49654,
-        "lng": 126.578659
-      }
-    ],
-    "color": "#892098",
-    "start_name": "도솔천 주변 꽃무릇 / 도솔천이 검게 보이는 이유:타닌성분",
-    "length_meter": 306.9,
-    "time_minute": 5
-  },
-  {
-    "path_id": 39,
-    "path": [
-      {
-        "lat": 35.49654,
-        "lng": 126.578659
-      },
-      {
-        "lat": 35.497105,
-        "lng": 126.578278
-      }
-    ],
-    "color": "#487b12",
-    "start_name": "만세루 / 영산전과 명부전일대",
-    "length_meter": 77.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 40,
-    "path": [
-      {
-        "lat": 35.497105,
-        "lng": 126.578278
-      },
-      {
-        "lat": 35.496983,
-        "lng": 126.577599
-      }
-    ],
-    "color": "#1d07bb",
-    "start_name": "육층석탑 / 대웅보전과 육층석탑 / 좌상",
-    "length_meter": 81.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 41,
-    "path": [
-      {
-        "lat": 35.496983,
-        "lng": 126.577599
-      },
-      {
-        "lat": 35.497158,
-        "lng": 126.577759
-      }
-    ],
-    "color": "#c25d6c",
-    "start_name": "대웅보전과 만세루 / 영산전 / 마실수 있는문",
-    "length_meter": 68.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 42,
-    "path": [
-      {
-        "lat": 35.497158,
-        "lng": 126.577759
-      },
-      {
-        "lat": 35.497166,
-        "lng": 126.577744
-      }
-    ],
-    "color": "#33329f",
-    "start_name": "팔상전과 산신각 / 동백숲",
-    "length_meter": 97.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 43,
-    "path": [
-      {
-        "lat": 35.497166,
-        "lng": 126.577744
-      },
-      {
-        "lat": 35.496601,
-        "lng": 126.578316
-      }
-    ],
-    "color": "#b90d6d",
-    "start_name": "꽃무릇과 동백숲",
-    "length_meter": 81.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 44,
-    "path": [
-      {
-        "lat": 35.496601,
-        "lng": 126.578316
-      },
-      {
-        "lat": 35.497173,
-        "lng": 126.578529
-      }
-    ],
-    "color": "#420516",
-    "start_name": "범종 / 배롱나무와 만세루",
-    "length_meter": 67.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 45,
-    "path": [
-      {
-        "lat": 35.497173,
-        "lng": 126.578529
-      },
-      {
-        "lat": 35.497261,
-        "lng": 126.578873
-      }
-    ],
-    "color": "#a77906",
-    "start_name": "지장보살전 / 금동보살자살 / 동백숲 -천년기념물184호",
-    "length_meter": 87.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 46,
-    "path": [
-      {
-        "lat": 35.497261,
-        "lng": 126.578873
-      },
-      {
-        "lat": 35.496689,
-        "lng": 126.578529
-      }
-    ],
-    "color": "#c6a862",
-    "start_name": "선운사 / 테이블벤치 / 선운사 / 해우소",
-    "length_meter": 84.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 47,
-    "path": [
-      {
-        "lat": 35.496689,
-        "lng": 126.578529
-      },
-      {
-        "lat": 35.496929,
-        "lng": 126.579369
-      }
-    ],
-    "color": "#8c5258",
-    "start_name": "배롱나무 / 인경봉 / 선운사 천왕문",
-    "length_meter": 104.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 48,
-    "path": [
-      {
-        "lat": 35.496929,
-        "lng": 126.579369
-      },
-      {
-        "lat": 35.49762,
-        "lng": 126.580833
-      }
-    ],
-    "color": "#4f1275",
-    "start_name": "선운사 옆 자연쉼터 / 도솔천",
-    "length_meter": 153.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 49,
-    "path": [
-      {
-        "lat": 35.49762,
-        "lng": 126.580833
-      },
-      {
-        "lat": 35.498455,
-        "lng": 126.582718
-      }
-    ],
-    "color": "#8d8934",
-    "start_name": "부도군",
-    "length_meter": 194.3,
-    "time_minute": 3
-  },
-  {
-    "path_id": 50,
-    "path": [
-      {
-        "lat": 35.498455,
-        "lng": 126.582718
-      },
-      {
-        "lat": 35.498898,
-        "lng": 126.583382
-      }
-    ],
-    "color": "#641ca6",
-    "start_name": "매표소 / 선운산가비",
-    "length_meter": 77.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 51,
-    "path": [
-      {
-        "lat": 35.498898,
-        "lng": 126.583382
-      },
-      {
-        "lat": 35.499355,
-        "lng": 126.583786
-      }
-    ],
-    "color": "#6d9975",
-    "start_name": "정자",
-    "length_meter": 62.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 52,
-    "path": [
-      {
-        "lat": 35.499355,
-        "lng": 126.583786
-      },
-      {
-        "lat": 35.499882,
-        "lng": 126.584297
-      }
-    ],
-    "color": "#a2337e",
-    "start_name": "꽃무릇군락",
-    "length_meter": 74.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 53,
-    "path": [
-      {
-        "lat": 35.499882,
-        "lng": 126.584297
-      },
-      {
-        "lat": 35.501698,
-        "lng": 126.584702
-      }
-    ],
-    "color": "#b7bb8d",
-    "start_name": "노점커피 / 등나무벤치 / 생태숲",
-    "length_meter": 213.1,
-    "time_minute": 3
-  },
-  {
-    "path_id": 54,
-    "path": [
-      {
-        "lat": 35.501698,
-        "lng": 126.584702
-      },
-      {
-        "lat": 35.501514,
-        "lng": 126.585518
-      }
-    ],
-    "color": "#002eb0",
-    "start_name": "생태숲방문자센터 / 비학산 / 정자와벤치",
-    "length_meter": 84.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 55,
-    "path": [
-      {
-        "lat": 35.501514,
-        "lng": 126.585518
-      },
-      {
-        "lat": 35.501949,
-        "lng": 126.586243
-      }
-    ],
-    "color": "#2cc573",
-    "start_name": "선운산생태숲 / 생태숲 안내도",
-    "length_meter": 101.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 56,
-    "path": [
-      {
-        "lat": 35.501949,
-        "lng": 126.586243
-      },
-      {
-        "lat": 35.502552,
-        "lng": 126.586441
-      }
-    ],
-    "color": "#5899a6",
-    "start_name": "까페 / 매점 및 농협",
-    "length_meter": 72.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 57,
-    "path": [
-      {
-        "lat": 35.502552,
-        "lng": 126.586441
-      },
-      {
-        "lat": 35.503052,
-        "lng": 126.58625
-      }
-    ],
-    "color": "#92234a",
-    "start_name": "선운초서문화관 / 쉼터광장",
-    "length_meter": 58.3,
-    "time_minute": 0
-  }
-]
+{
+  "max_ele": 360.475,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.503616,
+          "lng": 126.586433
+        },
+        {
+          "lat": 35.503338,
+          "lng": 126.58696
+        }
+      ],
+      "color": "#6a5c88",
+      "start_name": "소형주차장 / 전기자동차충전 / 대형주차장",
+      "length_meter": 61.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.503338,
+          "lng": 126.58696
+        },
+        {
+          "lat": 35.502808,
+          "lng": 126.58712
+        }
+      ],
+      "color": "#604079",
+      "start_name": "버스정류장 / cu편의점 / 선운산버스터미널",
+      "length_meter": 64.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.502808,
+          "lng": 126.58712
+        },
+        {
+          "lat": 35.502415,
+          "lng": 126.586807
+        }
+      ],
+      "color": "#720946",
+      "start_name": "전라북도 관광 안내도 / 버스시간표 / 버스터비널 옆쉼터 / 쉼터광장 / 점자안내판 / 쉼터옆 화장실 / 관광안내소 / 문화 생태탐방로",
+      "length_meter": 68.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.502415,
+          "lng": 126.586807
+        },
+        {
+          "lat": 35.50185,
+          "lng": 126.586761
+        }
+      ],
+      "color": "#8028a9",
+      "start_name": "고창군관광안내도 / 선운산 도립 공원 등산 안내도 / 송악 - 천년기념물 367호 / 송악  -  천년기념물367호",
+      "length_meter": 75.0,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 35.50185,
+          "lng": 126.586761
+        },
+        {
+          "lat": 35.501255,
+          "lng": 126.58593
+        }
+      ],
+      "color": "#b97c8d",
+      "start_name": "꽃무릇위 송악",
+      "length_meter": 100.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 35.501255,
+          "lng": 126.58593
+        },
+        {
+          "lat": 35.500679,
+          "lng": 126.585342
+        }
+      ],
+      "color": "#4096b3",
+      "start_name": "벚나무 좌판가게",
+      "length_meter": 83.3,
+      "time_minute": 1
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 35.500679,
+          "lng": 126.585342
+        },
+        {
+          "lat": 35.50021,
+          "lng": 126.584831
+        }
+      ],
+      "color": "#320a79",
+      "start_name": "꽃무릇길 / 길가벤치",
+      "length_meter": 69.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 35.50021,
+          "lng": 126.584831
+        },
+        {
+          "lat": 35.499626,
+          "lng": 126.584244
+        }
+      ],
+      "color": "#09b24c",
+      "start_name": "생태숲 / 꽃무릇길",
+      "length_meter": 84.0,
+      "time_minute": 1
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 35.499626,
+          "lng": 126.584244
+        },
+        {
+          "lat": 35.498814,
+          "lng": 126.583534
+        }
+      ],
+      "color": "#374d21",
+      "start_name": "도솔천",
+      "length_meter": 110.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 35.498814,
+          "lng": 126.583534
+        },
+        {
+          "lat": 35.498371,
+          "lng": 126.582512
+        }
+      ],
+      "color": "#0f304f",
+      "start_name": "꽃무릇 / 미당 서정주시비",
+      "length_meter": 105.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 35.498371,
+          "lng": 126.582512
+        },
+        {
+          "lat": 35.498093,
+          "lng": 126.582268
+        }
+      ],
+      "color": "#8d165b",
+      "start_name": "도솔산 선운사",
+      "length_meter": 38.0,
+      "time_minute": 0
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 35.498093,
+          "lng": 126.582268
+        },
+        {
+          "lat": 35.497814,
+          "lng": 126.581886
+        }
+      ],
+      "color": "#8dc248",
+      "start_name": "공중화장실 / 갈림길",
+      "length_meter": 46.5,
+      "time_minute": 0
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 35.497814,
+          "lng": 126.581886
+        },
+        {
+          "lat": 35.497364,
+          "lng": 126.580086
+        }
+      ],
+      "color": "#bb38ba",
+      "start_name": "꽃무릇",
+      "length_meter": 170.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 35.497364,
+          "lng": 126.580086
+        },
+        {
+          "lat": 35.498123,
+          "lng": 126.579399
+        }
+      ],
+      "color": "#76b708",
+      "start_name": "갈림길 / 쉼터광장",
+      "length_meter": 107.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 35.498123,
+          "lng": 126.579399
+        },
+        {
+          "lat": 35.498806,
+          "lng": 126.578484
+        }
+      ],
+      "color": "#1f204a",
+      "start_name": "차문화 체험관",
+      "length_meter": 112.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 35.498806,
+          "lng": 126.578484
+        },
+        {
+          "lat": 35.499416,
+          "lng": 126.578094
+        }
+      ],
+      "color": "#107974",
+      "start_name": "선운골 생태마을 / 차밭과 꽃무릇 / 차밭에서 박새",
+      "length_meter": 76.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 35.499416,
+          "lng": 126.578094
+        },
+        {
+          "lat": 35.501026,
+          "lng": 126.575005
+        }
+      ],
+      "color": "#3d3028",
+      "start_name": "차밭",
+      "length_meter": 332.0,
+      "time_minute": 5
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 35.501026,
+          "lng": 126.575005
+        },
+        {
+          "lat": 35.501076,
+          "lng": 126.574913
+        }
+      ],
+      "color": "#2f40c1",
+      "start_name": "갈림길 / 석상암",
+      "length_meter": 100.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 35.501076,
+          "lng": 126.574913
+        },
+        {
+          "lat": 35.501099,
+          "lng": 126.573814
+        }
+      ],
+      "color": "#598563",
+      "start_name": "꽃 / 꽃무릇",
+      "length_meter": 101.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 35.501099,
+          "lng": 126.573814
+        },
+        {
+          "lat": 35.502594,
+          "lng": 126.570038
+        }
+      ],
+      "color": "#b4b97a",
+      "start_name": "자릿대군락",
+      "length_meter": 380.1,
+      "time_minute": 6
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 35.502594,
+          "lng": 126.570038
+        },
+        {
+          "lat": 35.5037,
+          "lng": 126.56826
+        }
+      ],
+      "color": "#c002a0",
+      "start_name": "야생화",
+      "length_meter": 202.6,
+      "time_minute": 3
+    },
+    {
+      "path_id": 21,
+      "path": [
+        {
+          "lat": 35.5037,
+          "lng": 126.56826
+        },
+        {
+          "lat": 35.498787,
+          "lng": 126.569092
+        }
+      ],
+      "color": "#487d61",
+      "start_name": "갈림길 / 등산위치알림판 / 테이블쉼터",
+      "length_meter": 553.5,
+      "time_minute": 9
+    },
+    {
+      "path_id": 22,
+      "path": [
+        {
+          "lat": 35.498787,
+          "lng": 126.569092
+        },
+        {
+          "lat": 35.498219,
+          "lng": 126.568604
+        }
+      ],
+      "color": "#ba5dac",
+      "start_name": "테이블 / 선운산(도솔산) 수리봉 / 변산반도와 곰소항",
+      "length_meter": 77.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 23,
+      "path": [
+        {
+          "lat": 35.498219,
+          "lng": 126.568604
+        },
+        {
+          "lat": 35.49752,
+          "lng": 126.568336
+        }
+      ],
+      "color": "#64431e",
+      "start_name": "여로",
+      "length_meter": 81.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 24,
+      "path": [
+        {
+          "lat": 35.49752,
+          "lng": 126.568336
+        },
+        {
+          "lat": 35.496162,
+          "lng": 126.568604
+        }
+      ],
+      "color": "#a30640",
+      "start_name": "갈림길",
+      "length_meter": 152.9,
+      "time_minute": 2
+    },
+    {
+      "path_id": 25,
+      "path": [
+        {
+          "lat": 35.496162,
+          "lng": 126.568604
+        },
+        {
+          "lat": 35.495342,
+          "lng": 126.568428
+        }
+      ],
+      "color": "#a8bbbe",
+      "start_name": "도솔제",
+      "length_meter": 92.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 26,
+      "path": [
+        {
+          "lat": 35.495342,
+          "lng": 126.568428
+        },
+        {
+          "lat": 35.494843,
+          "lng": 126.568474
+        }
+      ],
+      "color": "#3d289b",
+      "start_name": "집단시설지구 선운사 / 도솔제주변 능선 / 선운사집단시설지구와 선우사 주변 능선",
+      "length_meter": 60.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 27,
+      "path": [
+        {
+          "lat": 35.494843,
+          "lng": 126.568474
+        },
+        {
+          "lat": 35.493954,
+          "lng": 126.568069
+        }
+      ],
+      "color": "#345c91",
+      "start_name": "도솔제 / 포갠바위",
+      "length_meter": 106.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 28,
+      "path": [
+        {
+          "lat": 35.493954,
+          "lng": 126.568069
+        },
+        {
+          "lat": 35.493862,
+          "lng": 126.568069
+        }
+      ],
+      "color": "#27a48d",
+      "start_name": "너럭바위 / 선운산도립공원내 능선들",
+      "length_meter": 10.8,
+      "time_minute": 0
+    },
+    {
+      "path_id": 29,
+      "path": [
+        {
+          "lat": 35.493862,
+          "lng": 126.568069
+        },
+        {
+          "lat": 35.492153,
+          "lng": 126.56752
+        }
+      ],
+      "color": "#927eb7",
+      "start_name": "층꽃",
+      "length_meter": 196.4,
+      "time_minute": 3
+    },
+    {
+      "path_id": 30,
+      "path": [
+        {
+          "lat": 35.492153,
+          "lng": 126.56752
+        },
+        {
+          "lat": 35.489361,
+          "lng": 126.570396
+        }
+      ],
+      "color": "#99a15f",
+      "start_name": "갈림길",
+      "length_meter": 405.2,
+      "time_minute": 6
+    },
+    {
+      "path_id": 31,
+      "path": [
+        {
+          "lat": 35.489361,
+          "lng": 126.570396
+        },
+        {
+          "lat": 35.490078,
+          "lng": 126.571793
+        }
+      ],
+      "color": "#3b463a",
+      "start_name": "탑",
+      "length_meter": 149.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 32,
+      "path": [
+        {
+          "lat": 35.490078,
+          "lng": 126.571793
+        },
+        {
+          "lat": 35.490906,
+          "lng": 126.573425
+        }
+      ],
+      "color": "#849f0a",
+      "start_name": "테이블과 벤치",
+      "length_meter": 174.1,
+      "time_minute": 2
+    },
+    {
+      "path_id": 33,
+      "path": [
+        {
+          "lat": 35.490906,
+          "lng": 126.573425
+        },
+        {
+          "lat": 35.491062,
+          "lng": 126.574799
+        }
+      ],
+      "color": "#393a88",
+      "start_name": "꽃무릇 군락지",
+      "length_meter": 125.6,
+      "time_minute": 2
+    },
+    {
+      "path_id": 34,
+      "path": [
+        {
+          "lat": 35.491062,
+          "lng": 126.574799
+        },
+        {
+          "lat": 35.491161,
+          "lng": 126.575005
+        }
+      ],
+      "color": "#2b2052",
+      "start_name": "템플스테이 / 선운사 연수원",
+      "length_meter": 21.7,
+      "time_minute": 0
+    },
+    {
+      "path_id": 35,
+      "path": [
+        {
+          "lat": 35.491161,
+          "lng": 126.575005
+        },
+        {
+          "lat": 35.491707,
+          "lng": 126.57486
+        }
+      ],
+      "color": "#679e75",
+      "start_name": "탐방로 / 갈림길",
+      "length_meter": 62.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 36,
+      "path": [
+        {
+          "lat": 35.491707,
+          "lng": 126.57486
+        },
+        {
+          "lat": 35.494469,
+          "lng": 126.574936
+        }
+      ],
+      "color": "#8b915e",
+      "start_name": "정자와 벤치 / 도솔천",
+      "length_meter": 307.2,
+      "time_minute": 5
+    },
+    {
+      "path_id": 37,
+      "path": [
+        {
+          "lat": 35.494469,
+          "lng": 126.574936
+        },
+        {
+          "lat": 35.495102,
+          "lng": 126.575813
+        }
+      ],
+      "color": "#9c5675",
+      "start_name": "도솔천 건너 차밭 / 도솔천 식생 / 도솔천과 탕방로",
+      "length_meter": 106.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 38,
+      "path": [
+        {
+          "lat": 35.495102,
+          "lng": 126.575813
+        },
+        {
+          "lat": 35.49654,
+          "lng": 126.578659
+        }
+      ],
+      "color": "#76aa08",
+      "start_name": "도솔천 주변 꽃무릇 / 도솔천이 검게 보이는 이유:타닌성분",
+      "length_meter": 306.9,
+      "time_minute": 5
+    },
+    {
+      "path_id": 39,
+      "path": [
+        {
+          "lat": 35.49654,
+          "lng": 126.578659
+        },
+        {
+          "lat": 35.497105,
+          "lng": 126.578278
+        }
+      ],
+      "color": "#267ab6",
+      "start_name": "만세루 / 영산전과 명부전일대",
+      "length_meter": 77.3,
+      "time_minute": 1
+    },
+    {
+      "path_id": 40,
+      "path": [
+        {
+          "lat": 35.497105,
+          "lng": 126.578278
+        },
+        {
+          "lat": 35.496983,
+          "lng": 126.577599
+        }
+      ],
+      "color": "#197590",
+      "start_name": "육층석탑 / 대웅보전과 육층석탑 / 좌상",
+      "length_meter": 81.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 41,
+      "path": [
+        {
+          "lat": 35.496983,
+          "lng": 126.577599
+        },
+        {
+          "lat": 35.497158,
+          "lng": 126.577759
+        }
+      ],
+      "color": "#696e51",
+      "start_name": "대웅보전과 만세루 / 영산전 / 마실수 있는문",
+      "length_meter": 68.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 42,
+      "path": [
+        {
+          "lat": 35.497158,
+          "lng": 126.577759
+        },
+        {
+          "lat": 35.497166,
+          "lng": 126.577744
+        }
+      ],
+      "color": "#a13634",
+      "start_name": "팔상전과 산신각 / 동백숲",
+      "length_meter": 97.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 43,
+      "path": [
+        {
+          "lat": 35.497166,
+          "lng": 126.577744
+        },
+        {
+          "lat": 35.496601,
+          "lng": 126.578316
+        }
+      ],
+      "color": "#9896b4",
+      "start_name": "꽃무릇과 동백숲",
+      "length_meter": 81.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 44,
+      "path": [
+        {
+          "lat": 35.496601,
+          "lng": 126.578316
+        },
+        {
+          "lat": 35.497173,
+          "lng": 126.578529
+        }
+      ],
+      "color": "#75505b",
+      "start_name": "범종 / 배롱나무와 만세루",
+      "length_meter": 67.3,
+      "time_minute": 1
+    },
+    {
+      "path_id": 45,
+      "path": [
+        {
+          "lat": 35.497173,
+          "lng": 126.578529
+        },
+        {
+          "lat": 35.497261,
+          "lng": 126.578873
+        }
+      ],
+      "color": "#4e832a",
+      "start_name": "지장보살전 / 금동보살자살 / 동백숲 -천년기념물184호",
+      "length_meter": 87.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 46,
+      "path": [
+        {
+          "lat": 35.497261,
+          "lng": 126.578873
+        },
+        {
+          "lat": 35.496689,
+          "lng": 126.578529
+        }
+      ],
+      "color": "#9c2324",
+      "start_name": "선운사 / 테이블벤치 / 선운사 / 해우소",
+      "length_meter": 84.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 47,
+      "path": [
+        {
+          "lat": 35.496689,
+          "lng": 126.578529
+        },
+        {
+          "lat": 35.496929,
+          "lng": 126.579369
+        }
+      ],
+      "color": "#2f3d8b",
+      "start_name": "배롱나무 / 인경봉 / 선운사 천왕문",
+      "length_meter": 104.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 48,
+      "path": [
+        {
+          "lat": 35.496929,
+          "lng": 126.579369
+        },
+        {
+          "lat": 35.49762,
+          "lng": 126.580833
+        }
+      ],
+      "color": "#b09e45",
+      "start_name": "선운사 옆 자연쉼터 / 도솔천",
+      "length_meter": 153.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 49,
+      "path": [
+        {
+          "lat": 35.49762,
+          "lng": 126.580833
+        },
+        {
+          "lat": 35.498455,
+          "lng": 126.582718
+        }
+      ],
+      "color": "#7b3b6f",
+      "start_name": "부도군",
+      "length_meter": 194.3,
+      "time_minute": 3
+    },
+    {
+      "path_id": 50,
+      "path": [
+        {
+          "lat": 35.498455,
+          "lng": 126.582718
+        },
+        {
+          "lat": 35.498898,
+          "lng": 126.583382
+        }
+      ],
+      "color": "#49a77c",
+      "start_name": "매표소 / 선운산가비",
+      "length_meter": 77.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 51,
+      "path": [
+        {
+          "lat": 35.498898,
+          "lng": 126.583382
+        },
+        {
+          "lat": 35.499355,
+          "lng": 126.583786
+        }
+      ],
+      "color": "#0974b2",
+      "start_name": "정자",
+      "length_meter": 62.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 52,
+      "path": [
+        {
+          "lat": 35.499355,
+          "lng": 126.583786
+        },
+        {
+          "lat": 35.499882,
+          "lng": 126.584297
+        }
+      ],
+      "color": "#2a5d8c",
+      "start_name": "꽃무릇군락",
+      "length_meter": 74.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 53,
+      "path": [
+        {
+          "lat": 35.499882,
+          "lng": 126.584297
+        },
+        {
+          "lat": 35.501698,
+          "lng": 126.584702
+        }
+      ],
+      "color": "#6a2021",
+      "start_name": "노점커피 / 등나무벤치 / 생태숲",
+      "length_meter": 213.1,
+      "time_minute": 3
+    },
+    {
+      "path_id": 54,
+      "path": [
+        {
+          "lat": 35.501698,
+          "lng": 126.584702
+        },
+        {
+          "lat": 35.501514,
+          "lng": 126.585518
+        }
+      ],
+      "color": "#540623",
+      "start_name": "생태숲방문자센터 / 비학산 / 정자와벤치",
+      "length_meter": 84.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 55,
+      "path": [
+        {
+          "lat": 35.501514,
+          "lng": 126.585518
+        },
+        {
+          "lat": 35.501949,
+          "lng": 126.586243
+        }
+      ],
+      "color": "#2e326d",
+      "start_name": "선운산생태숲 / 생태숲 안내도",
+      "length_meter": 101.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 56,
+      "path": [
+        {
+          "lat": 35.501949,
+          "lng": 126.586243
+        },
+        {
+          "lat": 35.502552,
+          "lng": 126.586441
+        }
+      ],
+      "color": "#69b524",
+      "start_name": "까페 / 매점 및 농협",
+      "length_meter": 72.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 57,
+      "path": [
+        {
+          "lat": 35.502552,
+          "lng": 126.586441
+        },
+        {
+          "lat": 35.503052,
+          "lng": 126.58625
+        }
+      ],
+      "color": "#4a30bb",
+      "start_name": "선운초서문화관 / 쉼터광장",
+      "length_meter": 58.3,
+      "time_minute": 0
+    }
+  ]
+}

@@ -1,461 +1,464 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 36.965378,
-        "lng": 128.420624
-      },
-      {
-        "lat": 36.965065,
-        "lng": 128.420868
-      }
-    ],
-    "color": "#03be16",
-    "start_name": "다리안관광지 주차장",
-    "length_meter": 41.0,
-    "time_minute": 0
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 36.965065,
-        "lng": 128.420868
-      },
-      {
-        "lat": 36.964375,
-        "lng": 128.421631
-      }
-    ],
-    "color": "#056a54",
-    "start_name": "소백산 매점",
-    "length_meter": 102.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 36.964375,
-        "lng": 128.421631
-      },
-      {
-        "lat": 36.963333,
-        "lng": 128.422882
-      }
-    ],
-    "color": "#238004",
-    "start_name": "갈림길",
-    "length_meter": 160.6,
-    "time_minute": 2
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 36.963333,
-        "lng": 128.422882
-      },
-      {
-        "lat": 36.962311,
-        "lng": 128.423477
-      }
-    ],
-    "color": "#399209",
-    "start_name": "천동탐방지원센터 소백산 등산로 입구 / 낙석위험지역",
-    "length_meter": 142.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 36.962311,
-        "lng": 128.423477
-      },
-      {
-        "lat": 36.960381,
-        "lng": 128.426422
-      }
-    ],
-    "color": "#c385b9",
-    "start_name": "쉼터",
-    "length_meter": 338.4,
-    "time_minute": 5
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 36.960381,
-        "lng": 128.426422
-      },
-      {
-        "lat": 36.959827,
-        "lng": 128.427826
-      }
-    ],
-    "color": "#988458",
-    "start_name": "낙석위험지역",
-    "length_meter": 139.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 36.959827,
-        "lng": 128.427826
-      },
-      {
-        "lat": 36.957905,
-        "lng": 128.434875
-      }
-    ],
-    "color": "#908b5c",
-    "start_name": "탐방안내소 쉼터",
-    "length_meter": 661.8,
-    "time_minute": 11
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 36.957905,
-        "lng": 128.434875
-      },
-      {
-        "lat": 36.959694,
-        "lng": 128.461777
-      }
-    ],
-    "color": "#1c4071",
-    "start_name": "쉼터",
-    "length_meter": 2398.6,
-    "time_minute": 39
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 36.959694,
-        "lng": 128.461777
-      },
-      {
-        "lat": 36.959858,
-        "lng": 128.46286
-      }
-    ],
-    "color": "#99464f",
-    "start_name": "천동쉼터",
-    "length_meter": 97.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 36.959858,
-        "lng": 128.46286
-      },
-      {
-        "lat": 36.960136,
-        "lng": 128.467377
-      }
-    ],
-    "color": "#651666",
-    "start_name": "쉼터",
-    "length_meter": 402.5,
-    "time_minute": 6
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 36.960136,
-        "lng": 128.467377
-      },
-      {
-        "lat": 36.959412,
-        "lng": 128.475815
-      }
-    ],
-    "color": "#0607b6",
-    "start_name": "샘터",
-    "length_meter": 754.0,
-    "time_minute": 12
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 36.959412,
-        "lng": 128.475815
-      },
-      {
-        "lat": 36.959053,
-        "lng": 128.476257
-      }
-    ],
-    "color": "#0886c7",
-    "start_name": "주목 / 쉼터",
-    "length_meter": 56.1,
-    "time_minute": 0
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 36.959053,
-        "lng": 128.476257
-      },
-      {
-        "lat": 36.957855,
-        "lng": 128.478622
-      }
-    ],
-    "color": "#20be05",
-    "start_name": "소백산 주목군락",
-    "length_meter": 248.8,
-    "time_minute": 4
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 36.957855,
-        "lng": 128.478622
-      },
-      {
-        "lat": 36.958378,
-        "lng": 128.480453
-      }
-    ],
-    "color": "#7a0300",
-    "start_name": "갈림길 / 조망쉼터",
-    "length_meter": 176.3,
-    "time_minute": 2
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 36.958378,
-        "lng": 128.480453
-      },
-      {
-        "lat": 36.958111,
-        "lng": 128.481369
-      }
-    ],
-    "color": "#165e47",
-    "start_name": "주목감시초소",
-    "length_meter": 86.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 36.958111,
-        "lng": 128.481369
-      },
-      {
-        "lat": 36.95797,
-        "lng": 128.483109
-      }
-    ],
-    "color": "#517e5f",
-    "start_name": "조망쉼터 / 쉼터 / 주목군락",
-    "length_meter": 166.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 36.95797,
-        "lng": 128.483109
-      },
-      {
-        "lat": 36.957561,
-        "lng": 128.484879
-      }
-    ],
-    "color": "#89a8b0",
-    "start_name": "쉼터",
-    "length_meter": 163.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 36.957561,
-        "lng": 128.484879
-      },
-      {
-        "lat": 36.957443,
-        "lng": 128.484726
-      }
-    ],
-    "color": "#090d50",
-    "start_name": "갈림길",
-    "length_meter": 18.9,
-    "time_minute": 0
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 36.957443,
-        "lng": 128.484726
-      },
-      {
-        "lat": 36.957977,
-        "lng": 128.478851
-      }
-    ],
-    "color": "#0e29b9",
-    "start_name": "소백산 비로봉",
-    "length_meter": 525.4,
-    "time_minute": 8
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 36.957977,
-        "lng": 128.478851
-      },
-      {
-        "lat": 36.960167,
-        "lng": 128.463348
-      }
-    ],
-    "color": "#201849",
-    "start_name": "갈림길",
-    "length_meter": 1398.8,
-    "time_minute": 23
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 36.960167,
-        "lng": 128.463348
-      },
-      {
-        "lat": 36.959774,
-        "lng": 128.42746
-      }
-    ],
-    "color": "#8d657a",
-    "start_name": "민백이 대궐터",
-    "length_meter": 3189.0,
-    "time_minute": 53
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 36.959774,
-        "lng": 128.42746
-      },
-      {
-        "lat": 36.963184,
-        "lng": 128.422775
-      }
-    ],
-    "color": "#591118",
-    "start_name": "천동탐방안내소",
-    "length_meter": 563.1,
-    "time_minute": 9
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 36.963184,
-        "lng": 128.422775
-      },
-      {
-        "lat": 36.963009,
-        "lng": 128.422195
-      }
-    ],
-    "color": "#13c721",
-    "start_name": "갈림길 / 다리안폭포",
-    "length_meter": 100.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 36.963009,
-        "lng": 128.422195
-      },
-      {
-        "lat": 36.963074,
-        "lng": 128.42131
-      }
-    ],
-    "color": "#1a8b67",
-    "start_name": "거북이바위?",
-    "length_meter": 79.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 36.963074,
-        "lng": 128.42131
-      },
-      {
-        "lat": 36.963383,
-        "lng": 128.420456
-      }
-    ],
-    "color": "#945570",
-    "start_name": "다리안 야영장",
-    "length_meter": 83.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 36.963383,
-        "lng": 128.420456
-      },
-      {
-        "lat": 36.965347,
-        "lng": 128.420593
-      }
-    ],
-    "color": "#5591bc",
-    "start_name": "야영장",
-    "length_meter": 218.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 36.965347,
-        "lng": 128.420593
-      },
-      {
-        "lat": 36.965275,
-        "lng": 128.420593
-      }
-    ],
-    "color": "#05749e",
-    "start_name": "갈림길",
-    "length_meter": 8.0,
-    "time_minute": 0
-  }
-]
+{
+  "max_ele": 1470.184,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 36.965378,
+          "lng": 128.420624
+        },
+        {
+          "lat": 36.965065,
+          "lng": 128.420868
+        }
+      ],
+      "color": "#5798c3",
+      "start_name": "다리안관광지 주차장",
+      "length_meter": 41.0,
+      "time_minute": 0
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 36.965065,
+          "lng": 128.420868
+        },
+        {
+          "lat": 36.964375,
+          "lng": 128.421631
+        }
+      ],
+      "color": "#a377a0",
+      "start_name": "소백산 매점",
+      "length_meter": 102.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 36.964375,
+          "lng": 128.421631
+        },
+        {
+          "lat": 36.963333,
+          "lng": 128.422882
+        }
+      ],
+      "color": "#4e2042",
+      "start_name": "갈림길",
+      "length_meter": 160.6,
+      "time_minute": 2
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 36.963333,
+          "lng": 128.422882
+        },
+        {
+          "lat": 36.962311,
+          "lng": 128.423477
+        }
+      ],
+      "color": "#59402f",
+      "start_name": "천동탐방지원센터 소백산 등산로 입구 / 낙석위험지역",
+      "length_meter": 142.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 36.962311,
+          "lng": 128.423477
+        },
+        {
+          "lat": 36.960381,
+          "lng": 128.426422
+        }
+      ],
+      "color": "#71af44",
+      "start_name": "쉼터",
+      "length_meter": 338.4,
+      "time_minute": 5
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 36.960381,
+          "lng": 128.426422
+        },
+        {
+          "lat": 36.959827,
+          "lng": 128.427826
+        }
+      ],
+      "color": "#420cae",
+      "start_name": "낙석위험지역",
+      "length_meter": 139.1,
+      "time_minute": 2
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 36.959827,
+          "lng": 128.427826
+        },
+        {
+          "lat": 36.957905,
+          "lng": 128.434875
+        }
+      ],
+      "color": "#7db48b",
+      "start_name": "탐방안내소 쉼터",
+      "length_meter": 661.8,
+      "time_minute": 11
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 36.957905,
+          "lng": 128.434875
+        },
+        {
+          "lat": 36.959694,
+          "lng": 128.461777
+        }
+      ],
+      "color": "#ba1811",
+      "start_name": "쉼터",
+      "length_meter": 2398.6,
+      "time_minute": 39
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 36.959694,
+          "lng": 128.461777
+        },
+        {
+          "lat": 36.959858,
+          "lng": 128.46286
+        }
+      ],
+      "color": "#8a5d5e",
+      "start_name": "천동쉼터",
+      "length_meter": 97.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 36.959858,
+          "lng": 128.46286
+        },
+        {
+          "lat": 36.960136,
+          "lng": 128.467377
+        }
+      ],
+      "color": "#b92e6d",
+      "start_name": "쉼터",
+      "length_meter": 402.5,
+      "time_minute": 6
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 36.960136,
+          "lng": 128.467377
+        },
+        {
+          "lat": 36.959412,
+          "lng": 128.475815
+        }
+      ],
+      "color": "#437f2d",
+      "start_name": "샘터",
+      "length_meter": 754.0,
+      "time_minute": 12
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 36.959412,
+          "lng": 128.475815
+        },
+        {
+          "lat": 36.959053,
+          "lng": 128.476257
+        }
+      ],
+      "color": "#c155a5",
+      "start_name": "주목 / 쉼터",
+      "length_meter": 56.1,
+      "time_minute": 0
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 36.959053,
+          "lng": 128.476257
+        },
+        {
+          "lat": 36.957855,
+          "lng": 128.478622
+        }
+      ],
+      "color": "#a53f6e",
+      "start_name": "소백산 주목군락",
+      "length_meter": 248.8,
+      "time_minute": 4
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 36.957855,
+          "lng": 128.478622
+        },
+        {
+          "lat": 36.958378,
+          "lng": 128.480453
+        }
+      ],
+      "color": "#9f2f28",
+      "start_name": "갈림길 / 조망쉼터",
+      "length_meter": 176.3,
+      "time_minute": 2
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 36.958378,
+          "lng": 128.480453
+        },
+        {
+          "lat": 36.958111,
+          "lng": 128.481369
+        }
+      ],
+      "color": "#29369a",
+      "start_name": "주목감시초소",
+      "length_meter": 86.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 36.958111,
+          "lng": 128.481369
+        },
+        {
+          "lat": 36.95797,
+          "lng": 128.483109
+        }
+      ],
+      "color": "#2dbb31",
+      "start_name": "조망쉼터 / 쉼터 / 주목군락",
+      "length_meter": 166.0,
+      "time_minute": 2
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 36.95797,
+          "lng": 128.483109
+        },
+        {
+          "lat": 36.957561,
+          "lng": 128.484879
+        }
+      ],
+      "color": "#45232e",
+      "start_name": "쉼터",
+      "length_meter": 163.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 36.957561,
+          "lng": 128.484879
+        },
+        {
+          "lat": 36.957443,
+          "lng": 128.484726
+        }
+      ],
+      "color": "#48613b",
+      "start_name": "갈림길",
+      "length_meter": 18.9,
+      "time_minute": 0
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 36.957443,
+          "lng": 128.484726
+        },
+        {
+          "lat": 36.957977,
+          "lng": 128.478851
+        }
+      ],
+      "color": "#8a34c0",
+      "start_name": "소백산 비로봉",
+      "length_meter": 525.4,
+      "time_minute": 8
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 36.957977,
+          "lng": 128.478851
+        },
+        {
+          "lat": 36.960167,
+          "lng": 128.463348
+        }
+      ],
+      "color": "#a09472",
+      "start_name": "갈림길",
+      "length_meter": 1398.8,
+      "time_minute": 23
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 36.960167,
+          "lng": 128.463348
+        },
+        {
+          "lat": 36.959774,
+          "lng": 128.42746
+        }
+      ],
+      "color": "#3f571c",
+      "start_name": "민백이 대궐터",
+      "length_meter": 3189.0,
+      "time_minute": 53
+    },
+    {
+      "path_id": 21,
+      "path": [
+        {
+          "lat": 36.959774,
+          "lng": 128.42746
+        },
+        {
+          "lat": 36.963184,
+          "lng": 128.422775
+        }
+      ],
+      "color": "#46bab0",
+      "start_name": "천동탐방안내소",
+      "length_meter": 563.1,
+      "time_minute": 9
+    },
+    {
+      "path_id": 22,
+      "path": [
+        {
+          "lat": 36.963184,
+          "lng": 128.422775
+        },
+        {
+          "lat": 36.963009,
+          "lng": 128.422195
+        }
+      ],
+      "color": "#acab65",
+      "start_name": "갈림길 / 다리안폭포",
+      "length_meter": 100.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 23,
+      "path": [
+        {
+          "lat": 36.963009,
+          "lng": 128.422195
+        },
+        {
+          "lat": 36.963074,
+          "lng": 128.42131
+        }
+      ],
+      "color": "#288a80",
+      "start_name": "거북이바위?",
+      "length_meter": 79.0,
+      "time_minute": 1
+    },
+    {
+      "path_id": 24,
+      "path": [
+        {
+          "lat": 36.963074,
+          "lng": 128.42131
+        },
+        {
+          "lat": 36.963383,
+          "lng": 128.420456
+        }
+      ],
+      "color": "#243f80",
+      "start_name": "다리안 야영장",
+      "length_meter": 83.3,
+      "time_minute": 1
+    },
+    {
+      "path_id": 25,
+      "path": [
+        {
+          "lat": 36.963383,
+          "lng": 128.420456
+        },
+        {
+          "lat": 36.965347,
+          "lng": 128.420593
+        }
+      ],
+      "color": "#0ba3a6",
+      "start_name": "야영장",
+      "length_meter": 218.7,
+      "time_minute": 3
+    },
+    {
+      "path_id": 26,
+      "path": [
+        {
+          "lat": 36.965347,
+          "lng": 128.420593
+        },
+        {
+          "lat": 36.965275,
+          "lng": 128.420593
+        }
+      ],
+      "color": "#9c5ec7",
+      "start_name": "갈림길",
+      "length_meter": 8.0,
+      "time_minute": 0
+    }
+  ]
+}

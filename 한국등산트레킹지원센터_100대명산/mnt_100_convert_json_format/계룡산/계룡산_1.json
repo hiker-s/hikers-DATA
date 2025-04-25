@@ -1,427 +1,430 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 36.371922,
-        "lng": 127.257866
-      },
-      {
-        "lat": 36.371876,
-        "lng": 127.255363
-      }
-    ],
-    "color": "#72873f",
-    "start_name": "병사골 입구 / 탐방로 안내판",
-    "length_meter": 254.2,
-    "time_minute": 4
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 36.371876,
-        "lng": 127.255363
-      },
-      {
-        "lat": 36.373089,
-        "lng": 127.253181
-      }
-    ],
-    "color": "#021633",
-    "start_name": "안내표지(이정표)",
-    "length_meter": 237.4,
-    "time_minute": 3
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 36.373089,
-        "lng": 127.253181
-      },
-      {
-        "lat": 36.373123,
-        "lng": 127.252258
-      }
-    ],
-    "color": "#c5aec5",
-    "start_name": "장군봉 오름길",
-    "length_meter": 82.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 36.373123,
-        "lng": 127.252258
-      },
-      {
-        "lat": 36.371403,
-        "lng": 127.247757
-      }
-    ],
-    "color": "#67ba2d",
-    "start_name": "안내 표지(이정표)",
-    "length_meter": 446.1,
-    "time_minute": 7
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 36.371403,
-        "lng": 127.247757
-      },
-      {
-        "lat": 36.371021,
-        "lng": 127.245514
-      }
-    ],
-    "color": "#141a6a",
-    "start_name": "안내표지(이정표) / 장군봉 조망점 / 장군봉",
-    "length_meter": 227.3,
-    "time_minute": 3
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 36.371021,
-        "lng": 127.245514
-      },
-      {
-        "lat": 36.370476,
-        "lng": 127.243927
-      }
-    ],
-    "color": "#629114",
-    "start_name": "안내표지(이정표)",
-    "length_meter": 154.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 36.370476,
-        "lng": 127.243927
-      },
-      {
-        "lat": 36.369461,
-        "lng": 127.239922
-      }
-    ],
-    "color": "#758664",
-    "start_name": "계룡산국립공원 위치번호",
-    "length_meter": 375.9,
-    "time_minute": 6
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 36.369461,
-        "lng": 127.239922
-      },
-      {
-        "lat": 36.368526,
-        "lng": 127.23674
-      }
-    ],
-    "color": "#89816b",
-    "start_name": "계룡산 국립공원 위치표시",
-    "length_meter": 303.3,
-    "time_minute": 5
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 36.368526,
-        "lng": 127.23674
-      },
-      {
-        "lat": 36.367992,
-        "lng": 127.234215
-      }
-    ],
-    "color": "#c01236",
-    "start_name": "안내표지(이정표)",
-    "length_meter": 233.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 36.367992,
-        "lng": 127.234215
-      },
-      {
-        "lat": 36.367966,
-        "lng": 127.234215
-      }
-    ],
-    "color": "#20a858",
-    "start_name": "갈림길",
-    "length_meter": 2.9,
-    "time_minute": 0
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 36.367966,
-        "lng": 127.234215
-      },
-      {
-        "lat": 36.366245,
-        "lng": 127.234344
-      }
-    ],
-    "color": "#982f08",
-    "start_name": "갓바위 삼거리 쉼터",
-    "length_meter": 191.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 36.366245,
-        "lng": 127.234344
-      },
-      {
-        "lat": 36.367001,
-        "lng": 127.229919
-      }
-    ],
-    "color": "#7307be",
-    "start_name": "갈림길 / 안내표지(이정표)",
-    "length_meter": 409.2,
-    "time_minute": 6
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 36.367001,
-        "lng": 127.229919
-      },
-      {
-        "lat": 36.366428,
-        "lng": 127.226433
-      }
-    ],
-    "color": "#026e68",
-    "start_name": "계룡산국립공원 위치표시",
-    "length_meter": 318.6,
-    "time_minute": 5
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 36.366428,
-        "lng": 127.226433
-      },
-      {
-        "lat": 36.366112,
-        "lng": 127.222359
-      }
-    ],
-    "color": "#ad1c78",
-    "start_name": "갈림길 / 안내표지(이정표)",
-    "length_meter": 366.7,
-    "time_minute": 6
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 36.366112,
-        "lng": 127.222359
-      },
-      {
-        "lat": 36.366108,
-        "lng": 127.217453
-      }
-    ],
-    "color": "#769b97",
-    "start_name": "쉼터 / 계룡산국립공원 위치표시",
-    "length_meter": 439.4,
-    "time_minute": 7
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 36.366108,
-        "lng": 127.217453
-      },
-      {
-        "lat": 36.366077,
-        "lng": 127.217461
-      }
-    ],
-    "color": "#9bc624",
-    "start_name": "계룡산국립공원위치표시",
-    "length_meter": 3.5,
-    "time_minute": 0
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 36.366077,
-        "lng": 127.217461
-      },
-      {
-        "lat": 36.366135,
-        "lng": 127.217499
-      }
-    ],
-    "color": "#b65b06",
-    "start_name": "큰배재 쉼터 / 갈림길",
-    "length_meter": 11.3,
-    "time_minute": 0
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 36.366135,
-        "lng": 127.217499
-      },
-      {
-        "lat": 36.365913,
-        "lng": 127.216888
-      }
-    ],
-    "color": "#8f1487",
-    "start_name": "안내표지(이정표)",
-    "length_meter": 60.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 36.365913,
-        "lng": 127.216888
-      },
-      {
-        "lat": 36.364304,
-        "lng": 127.215874
-      }
-    ],
-    "color": "#578c26",
-    "start_name": "갈림길 / 안내표지(이정표)",
-    "length_meter": 200.6,
-    "time_minute": 3
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 36.364304,
-        "lng": 127.215874
-      },
-      {
-        "lat": 36.363018,
-        "lng": 127.214401
-      }
-    ],
-    "color": "#809d07",
-    "start_name": "계룡산국립공원위치표시",
-    "length_meter": 194.5,
-    "time_minute": 3
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 36.363018,
-        "lng": 127.214401
-      },
-      {
-        "lat": 36.362743,
-        "lng": 127.213799
-      }
-    ],
-    "color": "#292cb2",
-    "start_name": "갈림길 / 안내표지(이정표) / 남매탑",
-    "length_meter": 65.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 36.362743,
-        "lng": 127.213799
-      },
-      {
-        "lat": 36.362896,
-        "lng": 127.21315
-      }
-    ],
-    "color": "#826803",
-    "start_name": "안내표지(이정표) / 남매탑 쉼터 / 계룡산국립공원위치표시",
-    "length_meter": 79.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 36.362896,
-        "lng": 127.21315
-      },
-      {
-        "lat": 36.3624,
-        "lng": 127.21154
-      }
-    ],
-    "color": "#5c515b",
-    "start_name": "급경사(낙석)위험지역",
-    "length_meter": 154.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 36.3624,
-        "lng": 127.21154
-      },
-      {
-        "lat": 36.362419,
-        "lng": 127.211502
-      }
-    ],
-    "color": "#5b948c",
-    "start_name": "갈림길 / 안내표지( 이정표) / 계룡산국립공원위치표시",
-    "length_meter": 8.9,
-    "time_minute": 0
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 36.362419,
-        "lng": 127.211502
-      },
-      {
-        "lat": 36.362228,
-        "lng": 127.211433
-      }
-    ],
-    "color": "#8e8a5e",
-    "start_name": "삼불봉고개 쉼터",
-    "length_meter": 22.1,
-    "time_minute": 0
-  }
-]
+{
+  "max_ele": 736.924,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 36.371922,
+          "lng": 127.257866
+        },
+        {
+          "lat": 36.371876,
+          "lng": 127.255363
+        }
+      ],
+      "color": "#2a6906",
+      "start_name": "병사골 입구 / 탐방로 안내판",
+      "length_meter": 254.2,
+      "time_minute": 4
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 36.371876,
+          "lng": 127.255363
+        },
+        {
+          "lat": 36.373089,
+          "lng": 127.253181
+        }
+      ],
+      "color": "#838ab7",
+      "start_name": "안내표지(이정표)",
+      "length_meter": 237.4,
+      "time_minute": 3
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 36.373089,
+          "lng": 127.253181
+        },
+        {
+          "lat": 36.373123,
+          "lng": 127.252258
+        }
+      ],
+      "color": "#2cb01e",
+      "start_name": "장군봉 오름길",
+      "length_meter": 82.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 36.373123,
+          "lng": 127.252258
+        },
+        {
+          "lat": 36.371403,
+          "lng": 127.247757
+        }
+      ],
+      "color": "#b47106",
+      "start_name": "안내 표지(이정표)",
+      "length_meter": 446.1,
+      "time_minute": 7
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 36.371403,
+          "lng": 127.247757
+        },
+        {
+          "lat": 36.371021,
+          "lng": 127.245514
+        }
+      ],
+      "color": "#92c5a1",
+      "start_name": "안내표지(이정표) / 장군봉 조망점 / 장군봉",
+      "length_meter": 227.3,
+      "time_minute": 3
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 36.371021,
+          "lng": 127.245514
+        },
+        {
+          "lat": 36.370476,
+          "lng": 127.243927
+        }
+      ],
+      "color": "#65026e",
+      "start_name": "안내표지(이정표)",
+      "length_meter": 154.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 36.370476,
+          "lng": 127.243927
+        },
+        {
+          "lat": 36.369461,
+          "lng": 127.239922
+        }
+      ],
+      "color": "#8a318c",
+      "start_name": "계룡산국립공원 위치번호",
+      "length_meter": 375.9,
+      "time_minute": 6
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 36.369461,
+          "lng": 127.239922
+        },
+        {
+          "lat": 36.368526,
+          "lng": 127.23674
+        }
+      ],
+      "color": "#9eb7b0",
+      "start_name": "계룡산 국립공원 위치표시",
+      "length_meter": 303.3,
+      "time_minute": 5
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 36.368526,
+          "lng": 127.23674
+        },
+        {
+          "lat": 36.367992,
+          "lng": 127.234215
+        }
+      ],
+      "color": "#0f4034",
+      "start_name": "안내표지(이정표)",
+      "length_meter": 233.7,
+      "time_minute": 3
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 36.367992,
+          "lng": 127.234215
+        },
+        {
+          "lat": 36.367966,
+          "lng": 127.234215
+        }
+      ],
+      "color": "#108508",
+      "start_name": "갈림길",
+      "length_meter": 2.9,
+      "time_minute": 0
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 36.367966,
+          "lng": 127.234215
+        },
+        {
+          "lat": 36.366245,
+          "lng": 127.234344
+        }
+      ],
+      "color": "#55c0c6",
+      "start_name": "갓바위 삼거리 쉼터",
+      "length_meter": 191.7,
+      "time_minute": 3
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 36.366245,
+          "lng": 127.234344
+        },
+        {
+          "lat": 36.367001,
+          "lng": 127.229919
+        }
+      ],
+      "color": "#5365bd",
+      "start_name": "갈림길 / 안내표지(이정표)",
+      "length_meter": 409.2,
+      "time_minute": 6
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 36.367001,
+          "lng": 127.229919
+        },
+        {
+          "lat": 36.366428,
+          "lng": 127.226433
+        }
+      ],
+      "color": "#073c67",
+      "start_name": "계룡산국립공원 위치표시",
+      "length_meter": 318.6,
+      "time_minute": 5
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 36.366428,
+          "lng": 127.226433
+        },
+        {
+          "lat": 36.366112,
+          "lng": 127.222359
+        }
+      ],
+      "color": "#40acb3",
+      "start_name": "갈림길 / 안내표지(이정표)",
+      "length_meter": 366.7,
+      "time_minute": 6
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 36.366112,
+          "lng": 127.222359
+        },
+        {
+          "lat": 36.366108,
+          "lng": 127.217453
+        }
+      ],
+      "color": "#866157",
+      "start_name": "쉼터 / 계룡산국립공원 위치표시",
+      "length_meter": 439.4,
+      "time_minute": 7
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 36.366108,
+          "lng": 127.217453
+        },
+        {
+          "lat": 36.366077,
+          "lng": 127.217461
+        }
+      ],
+      "color": "#0e6026",
+      "start_name": "계룡산국립공원위치표시",
+      "length_meter": 3.5,
+      "time_minute": 0
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 36.366077,
+          "lng": 127.217461
+        },
+        {
+          "lat": 36.366135,
+          "lng": 127.217499
+        }
+      ],
+      "color": "#5abd35",
+      "start_name": "큰배재 쉼터 / 갈림길",
+      "length_meter": 11.3,
+      "time_minute": 0
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 36.366135,
+          "lng": 127.217499
+        },
+        {
+          "lat": 36.365913,
+          "lng": 127.216888
+        }
+      ],
+      "color": "#3bbd99",
+      "start_name": "안내표지(이정표)",
+      "length_meter": 60.0,
+      "time_minute": 1
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 36.365913,
+          "lng": 127.216888
+        },
+        {
+          "lat": 36.364304,
+          "lng": 127.215874
+        }
+      ],
+      "color": "#4d9241",
+      "start_name": "갈림길 / 안내표지(이정표)",
+      "length_meter": 200.6,
+      "time_minute": 3
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 36.364304,
+          "lng": 127.215874
+        },
+        {
+          "lat": 36.363018,
+          "lng": 127.214401
+        }
+      ],
+      "color": "#a06317",
+      "start_name": "계룡산국립공원위치표시",
+      "length_meter": 194.5,
+      "time_minute": 3
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 36.363018,
+          "lng": 127.214401
+        },
+        {
+          "lat": 36.362743,
+          "lng": 127.213799
+        }
+      ],
+      "color": "#6683ad",
+      "start_name": "갈림길 / 안내표지(이정표) / 남매탑",
+      "length_meter": 65.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 21,
+      "path": [
+        {
+          "lat": 36.362743,
+          "lng": 127.213799
+        },
+        {
+          "lat": 36.362896,
+          "lng": 127.21315
+        }
+      ],
+      "color": "#48885c",
+      "start_name": "안내표지(이정표) / 남매탑 쉼터 / 계룡산국립공원위치표시",
+      "length_meter": 79.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 22,
+      "path": [
+        {
+          "lat": 36.362896,
+          "lng": 127.21315
+        },
+        {
+          "lat": 36.3624,
+          "lng": 127.21154
+        }
+      ],
+      "color": "#425896",
+      "start_name": "급경사(낙석)위험지역",
+      "length_meter": 154.4,
+      "time_minute": 2
+    },
+    {
+      "path_id": 23,
+      "path": [
+        {
+          "lat": 36.3624,
+          "lng": 127.21154
+        },
+        {
+          "lat": 36.362419,
+          "lng": 127.211502
+        }
+      ],
+      "color": "#420e37",
+      "start_name": "갈림길 / 안내표지( 이정표) / 계룡산국립공원위치표시",
+      "length_meter": 8.9,
+      "time_minute": 0
+    },
+    {
+      "path_id": 24,
+      "path": [
+        {
+          "lat": 36.362419,
+          "lng": 127.211502
+        },
+        {
+          "lat": 36.362228,
+          "lng": 127.211433
+        }
+      ],
+      "color": "#abb9ba",
+      "start_name": "삼불봉고개 쉼터",
+      "length_meter": 22.1,
+      "time_minute": 0
+    }
+  ]
+}

@@ -1,291 +1,294 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.644196,
-        "lng": 127.61631
-      },
-      {
-        "lat": 35.643829,
-        "lng": 127.616257
-      }
-    ],
-    "color": "#6ec589",
-    "start_name": "장안산(들머리 무룡고개)",
-    "length_meter": 41.1,
-    "time_minute": 0
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.643829,
-        "lng": 127.616257
-      },
-      {
-        "lat": 35.643341,
-        "lng": 127.616226
-      }
-    ],
-    "color": "#442c6e",
-    "start_name": "벽계쉼터 / 갈림길",
-    "length_meter": 57.7,
-    "time_minute": 0
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.643341,
-        "lng": 127.616226
-      },
-      {
-        "lat": 35.643585,
-        "lng": 127.613579
-      }
-    ],
-    "color": "#3c8d43",
-    "start_name": "장안산입구",
-    "length_meter": 240.7,
-    "time_minute": 4
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.643585,
-        "lng": 127.613579
-      },
-      {
-        "lat": 35.643448,
-        "lng": 127.612816
-      }
-    ],
-    "color": "#3606a2",
-    "start_name": "갈림길",
-    "length_meter": 70.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.643448,
-        "lng": 127.612816
-      },
-      {
-        "lat": 35.637821,
-        "lng": 127.604355
-      }
-    ],
-    "color": "#726671",
-    "start_name": "쉼터 / 갈림길",
-    "length_meter": 990.0,
-    "time_minute": 16
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.637821,
-        "lng": 127.604355
-      },
-      {
-        "lat": 35.634937,
-        "lng": 127.603676
-      }
-    ],
-    "color": "#520261",
-    "start_name": "쉼터",
-    "length_meter": 326.5,
-    "time_minute": 5
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.634937,
-        "lng": 127.603676
-      },
-      {
-        "lat": 35.629917,
-        "lng": 127.597137
-      }
-    ],
-    "color": "#adb064",
-    "start_name": "조망터",
-    "length_meter": 812.9,
-    "time_minute": 13
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.629917,
-        "lng": 127.597137
-      },
-      {
-        "lat": 35.629219,
-        "lng": 127.595795
-      }
-    ],
-    "color": "#444150",
-    "start_name": "쉼터",
-    "length_meter": 144.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.629219,
-        "lng": 127.595795
-      },
-      {
-        "lat": 35.629162,
-        "lng": 127.595116
-      }
-    ],
-    "color": "#49b57e",
-    "start_name": "데크계단",
-    "length_meter": 61.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.629162,
-        "lng": 127.595116
-      },
-      {
-        "lat": 35.629086,
-        "lng": 127.595222
-      }
-    ],
-    "color": "#10a672",
-    "start_name": "헬리포트 / 갈림길 / 감시카메라",
-    "length_meter": 34.9,
-    "time_minute": 0
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.629086,
-        "lng": 127.595222
-      },
-      {
-        "lat": 35.626667,
-        "lng": 127.593552
-      }
-    ],
-    "color": "#bfb179",
-    "start_name": "장안산",
-    "length_meter": 308.4,
-    "time_minute": 5
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.626667,
-        "lng": 127.593552
-      },
-      {
-        "lat": 35.619705,
-        "lng": 127.590462
-      }
-    ],
-    "color": "#c58a59",
-    "start_name": "갈림길",
-    "length_meter": 823.0,
-    "time_minute": 13
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.619705,
-        "lng": 127.590462
-      },
-      {
-        "lat": 35.619553,
-        "lng": 127.585258
-      }
-    ],
-    "color": "#470078",
-    "start_name": "하봉 / 갈림길",
-    "length_meter": 503.0,
-    "time_minute": 8
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.619553,
-        "lng": 127.585258
-      },
-      {
-        "lat": 35.624043,
-        "lng": 127.575943
-      }
-    ],
-    "color": "#b78155",
-    "start_name": "밧줄구간",
-    "length_meter": 978.9,
-    "time_minute": 16
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.624043,
-        "lng": 127.575943
-      },
-      {
-        "lat": 35.624043,
-        "lng": 127.575386
-      }
-    ],
-    "color": "#2d7015",
-    "start_name": "거리목",
-    "length_meter": 50.3,
-    "time_minute": 0
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.624043,
-        "lng": 127.575386
-      },
-      {
-        "lat": 35.628799,
-        "lng": 127.569244
-      }
-    ],
-    "color": "#8e16bb",
-    "start_name": "쉼터 / 갈림길",
-    "length_meter": 768.4,
-    "time_minute": 12
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.628799,
-        "lng": 127.569244
-      },
-      {
-        "lat": 35.619705,
-        "lng": 127.562256
-      }
-    ],
-    "color": "#780bc6",
-    "start_name": "거리목",
-    "length_meter": 1192.3,
-    "time_minute": 19
-  }
-]
+{
+  "max_ele": 1257.2,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.644196,
+          "lng": 127.61631
+        },
+        {
+          "lat": 35.643829,
+          "lng": 127.616257
+        }
+      ],
+      "color": "#2bc5c6",
+      "start_name": "장안산(들머리 무룡고개)",
+      "length_meter": 41.1,
+      "time_minute": 0
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.643829,
+          "lng": 127.616257
+        },
+        {
+          "lat": 35.643341,
+          "lng": 127.616226
+        }
+      ],
+      "color": "#a98499",
+      "start_name": "벽계쉼터 / 갈림길",
+      "length_meter": 57.7,
+      "time_minute": 0
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.643341,
+          "lng": 127.616226
+        },
+        {
+          "lat": 35.643585,
+          "lng": 127.613579
+        }
+      ],
+      "color": "#542811",
+      "start_name": "장안산입구",
+      "length_meter": 240.7,
+      "time_minute": 4
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.643585,
+          "lng": 127.613579
+        },
+        {
+          "lat": 35.643448,
+          "lng": 127.612816
+        }
+      ],
+      "color": "#a821b1",
+      "start_name": "갈림길",
+      "length_meter": 70.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 35.643448,
+          "lng": 127.612816
+        },
+        {
+          "lat": 35.637821,
+          "lng": 127.604355
+        }
+      ],
+      "color": "#590c5b",
+      "start_name": "쉼터 / 갈림길",
+      "length_meter": 990.0,
+      "time_minute": 16
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 35.637821,
+          "lng": 127.604355
+        },
+        {
+          "lat": 35.634937,
+          "lng": 127.603676
+        }
+      ],
+      "color": "#2c0d3a",
+      "start_name": "쉼터",
+      "length_meter": 326.5,
+      "time_minute": 5
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 35.634937,
+          "lng": 127.603676
+        },
+        {
+          "lat": 35.629917,
+          "lng": 127.597137
+        }
+      ],
+      "color": "#a10dc3",
+      "start_name": "조망터",
+      "length_meter": 812.9,
+      "time_minute": 13
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 35.629917,
+          "lng": 127.597137
+        },
+        {
+          "lat": 35.629219,
+          "lng": 127.595795
+        }
+      ],
+      "color": "#872545",
+      "start_name": "쉼터",
+      "length_meter": 144.0,
+      "time_minute": 2
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 35.629219,
+          "lng": 127.595795
+        },
+        {
+          "lat": 35.629162,
+          "lng": 127.595116
+        }
+      ],
+      "color": "#943703",
+      "start_name": "데크계단",
+      "length_meter": 61.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 35.629162,
+          "lng": 127.595116
+        },
+        {
+          "lat": 35.629086,
+          "lng": 127.595222
+        }
+      ],
+      "color": "#7a5547",
+      "start_name": "헬리포트 / 갈림길 / 감시카메라",
+      "length_meter": 34.9,
+      "time_minute": 0
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 35.629086,
+          "lng": 127.595222
+        },
+        {
+          "lat": 35.626667,
+          "lng": 127.593552
+        }
+      ],
+      "color": "#ab088b",
+      "start_name": "장안산",
+      "length_meter": 308.4,
+      "time_minute": 5
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 35.626667,
+          "lng": 127.593552
+        },
+        {
+          "lat": 35.619705,
+          "lng": 127.590462
+        }
+      ],
+      "color": "#798d5c",
+      "start_name": "갈림길",
+      "length_meter": 823.0,
+      "time_minute": 13
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 35.619705,
+          "lng": 127.590462
+        },
+        {
+          "lat": 35.619553,
+          "lng": 127.585258
+        }
+      ],
+      "color": "#902ba4",
+      "start_name": "하봉 / 갈림길",
+      "length_meter": 503.0,
+      "time_minute": 8
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 35.619553,
+          "lng": 127.585258
+        },
+        {
+          "lat": 35.624043,
+          "lng": 127.575943
+        }
+      ],
+      "color": "#80732f",
+      "start_name": "밧줄구간",
+      "length_meter": 978.9,
+      "time_minute": 16
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 35.624043,
+          "lng": 127.575943
+        },
+        {
+          "lat": 35.624043,
+          "lng": 127.575386
+        }
+      ],
+      "color": "#2e12bd",
+      "start_name": "거리목",
+      "length_meter": 50.3,
+      "time_minute": 0
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 35.624043,
+          "lng": 127.575386
+        },
+        {
+          "lat": 35.628799,
+          "lng": 127.569244
+        }
+      ],
+      "color": "#523994",
+      "start_name": "쉼터 / 갈림길",
+      "length_meter": 768.4,
+      "time_minute": 12
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 35.628799,
+          "lng": 127.569244
+        },
+        {
+          "lat": 35.619705,
+          "lng": 127.562256
+        }
+      ],
+      "color": "#3aaf1c",
+      "start_name": "거리목",
+      "length_meter": 1192.3,
+      "time_minute": 19
+    }
+  ]
+}

@@ -1,495 +1,498 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.922409,
-        "lng": 127.337723
-      },
-      {
-        "lat": 37.92202,
-        "lng": 127.328773
-      }
-    ],
-    "color": "#94a540",
-    "start_name": "노채고개",
-    "length_meter": 786.2,
-    "time_minute": 13
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.92202,
-        "lng": 127.328773
-      },
-      {
-        "lat": 37.922001,
-        "lng": 127.328766
-      }
-    ],
-    "color": "#7711c4",
-    "start_name": "쉼터",
-    "length_meter": 2.2,
-    "time_minute": 0
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.922001,
-        "lng": 127.328766
-      },
-      {
-        "lat": 37.913689,
-        "lng": 127.328438
-      }
-    ],
-    "color": "#7c4c0c",
-    "start_name": "원통산",
-    "length_meter": 924.7,
-    "time_minute": 15
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.913689,
-        "lng": 127.328438
-      },
-      {
-        "lat": 37.907009,
-        "lng": 127.328995
-      }
-    ],
-    "color": "#0073b2",
-    "start_name": "갈림길",
-    "length_meter": 744.4,
-    "time_minute": 12
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.907009,
-        "lng": 127.328995
-      },
-      {
-        "lat": 37.900539,
-        "lng": 127.327606
-      }
-    ],
-    "color": "#8f4b82",
-    "start_name": "쓰러진 나무",
-    "length_meter": 729.7,
-    "time_minute": 12
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.900539,
-        "lng": 127.327606
-      },
-      {
-        "lat": 37.889118,
-        "lng": 127.323967
-      }
-    ],
-    "color": "#9b0123",
-    "start_name": "한북정맥 표지",
-    "length_meter": 1309.5,
-    "time_minute": 21
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.889118,
-        "lng": 127.323967
-      },
-      {
-        "lat": 37.887966,
-        "lng": 127.32325
-      }
-    ],
-    "color": "#33c4bd",
-    "start_name": "자연쉼터 / 암벽",
-    "length_meter": 144.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.887966,
-        "lng": 127.32325
-      },
-      {
-        "lat": 37.887253,
-        "lng": 127.32325
-      }
-    ],
-    "color": "#634b67",
-    "start_name": "고사목과  소나무 / 선바위",
-    "length_meter": 79.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.887253,
-        "lng": 127.32325
-      },
-      {
-        "lat": 37.886166,
-        "lng": 127.32354
-      }
-    ],
-    "color": "#46757a",
-    "start_name": "구절초",
-    "length_meter": 123.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.886166,
-        "lng": 127.32354
-      },
-      {
-        "lat": 37.884083,
-        "lng": 127.323868
-      }
-    ],
-    "color": "#0fad1e",
-    "start_name": "갈림길 / 운악산 서봉 / 능선조망",
-    "length_meter": 240.3,
-    "time_minute": 4
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.884083,
-        "lng": 127.323868
-      },
-      {
-        "lat": 37.883076,
-        "lng": 127.323746
-      }
-    ],
-    "color": "#316048",
-    "start_name": "급경사 위험 / 암벽지대",
-    "length_meter": 114.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.883076,
-        "lng": 127.323746
-      },
-      {
-        "lat": 37.881702,
-        "lng": 127.324028
-      }
-    ],
-    "color": "#596773",
-    "start_name": "미역취",
-    "length_meter": 154.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.881702,
-        "lng": 127.324028
-      },
-      {
-        "lat": 37.881123,
-        "lng": 127.32383
-      }
-    ],
-    "color": "#b5545f",
-    "start_name": "위치표시",
-    "length_meter": 66.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.881123,
-        "lng": 127.32383
-      },
-      {
-        "lat": 37.880875,
-        "lng": 127.323196
-      }
-    ],
-    "color": "#690e81",
-    "start_name": "병풍바위 / 갈림길",
-    "length_meter": 62.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 37.880875,
-        "lng": 127.323196
-      },
-      {
-        "lat": 37.880074,
-        "lng": 127.322662
-      }
-    ],
-    "color": "#08bb8d",
-    "start_name": "바위",
-    "length_meter": 100.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.880074,
-        "lng": 127.322662
-      },
-      {
-        "lat": 37.878704,
-        "lng": 127.322899
-      }
-    ],
-    "color": "#0aa6a1",
-    "start_name": "갈림길 / 운악산안내도",
-    "length_meter": 153.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 37.878704,
-        "lng": 127.322899
-      },
-      {
-        "lat": 37.879665,
-        "lng": 127.322655
-      }
-    ],
-    "color": "#2f928d",
-    "start_name": "운악산서봉 / 갈림길",
-    "length_meter": 116.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 37.879665,
-        "lng": 127.322655
-      },
-      {
-        "lat": 37.881592,
-        "lng": 127.321884
-      }
-    ],
-    "color": "#021565",
-    "start_name": "쉼터 / 갈림길",
-    "length_meter": 226.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 37.881592,
-        "lng": 127.321884
-      },
-      {
-        "lat": 37.88163,
-        "lng": 127.321037
-      }
-    ],
-    "color": "#0caf83",
-    "start_name": "계단길 조망 / 쉼터 / 한북정맥조망",
-    "length_meter": 91.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 37.88163,
-        "lng": 127.321037
-      },
-      {
-        "lat": 37.881306,
-        "lng": 127.320412
-      }
-    ],
-    "color": "#5d9fa3",
-    "start_name": "쉼터",
-    "length_meter": 65.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 37.881306,
-        "lng": 127.320412
-      },
-      {
-        "lat": 37.881802,
-        "lng": 127.318962
-      }
-    ],
-    "color": "#697d17",
-    "start_name": "철사다리",
-    "length_meter": 138.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 37.881802,
-        "lng": 127.318962
-      },
-      {
-        "lat": 37.881813,
-        "lng": 127.319
-      }
-    ],
-    "color": "#a63f77",
-    "start_name": "대궐터",
-    "length_meter": 3.6,
-    "time_minute": 0
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 37.881813,
-        "lng": 127.319
-      },
-      {
-        "lat": 37.882767,
-        "lng": 127.31649
-      }
-    ],
-    "color": "#7681c7",
-    "start_name": "쉼터",
-    "length_meter": 244.5,
-    "time_minute": 4
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 37.882767,
-        "lng": 127.31649
-      },
-      {
-        "lat": 37.883617,
-        "lng": 127.316223
-      }
-    ],
-    "color": "#a47b21",
-    "start_name": "갈림길",
-    "length_meter": 97.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 37.883617,
-        "lng": 127.316223
-      },
-      {
-        "lat": 37.883579,
-        "lng": 127.315948
-      }
-    ],
-    "color": "#a3b74f",
-    "start_name": "쉼터 / 약수터",
-    "length_meter": 28.9,
-    "time_minute": 0
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 37.883579,
-        "lng": 127.315948
-      },
-      {
-        "lat": 37.884754,
-        "lng": 127.313889
-      }
-    ],
-    "color": "#be0509",
-    "start_name": "물봉선",
-    "length_meter": 223.0,
-    "time_minute": 3
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 37.884754,
-        "lng": 127.313889
-      },
-      {
-        "lat": 37.885143,
-        "lng": 127.311249
-      }
-    ],
-    "color": "#a27066",
-    "start_name": "갈림길",
-    "length_meter": 235.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 37.885143,
-        "lng": 127.311249
-      },
-      {
-        "lat": 37.884426,
-        "lng": 127.304749
-      }
-    ],
-    "color": "#92094b",
-    "start_name": "무치지폭포 / 전망대쉼터",
-    "length_meter": 581.3,
-    "time_minute": 9
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 37.884426,
-        "lng": 127.304749
-      },
-      {
-        "lat": 37.884212,
-        "lng": 127.302505
-      }
-    ],
-    "color": "#08c08e",
-    "start_name": "매점",
-    "length_meter": 198.4,
-    "time_minute": 3
-  }
-]
+{
+  "max_ele": 965.624,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.922409,
+          "lng": 127.337723
+        },
+        {
+          "lat": 37.92202,
+          "lng": 127.328773
+        }
+      ],
+      "color": "#4c753b",
+      "start_name": "노채고개",
+      "length_meter": 786.2,
+      "time_minute": 13
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.92202,
+          "lng": 127.328773
+        },
+        {
+          "lat": 37.922001,
+          "lng": 127.328766
+        }
+      ],
+      "color": "#b83484",
+      "start_name": "쉼터",
+      "length_meter": 2.2,
+      "time_minute": 0
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.922001,
+          "lng": 127.328766
+        },
+        {
+          "lat": 37.913689,
+          "lng": 127.328438
+        }
+      ],
+      "color": "#a889c6",
+      "start_name": "원통산",
+      "length_meter": 924.7,
+      "time_minute": 15
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.913689,
+          "lng": 127.328438
+        },
+        {
+          "lat": 37.907009,
+          "lng": 127.328995
+        }
+      ],
+      "color": "#9481be",
+      "start_name": "갈림길",
+      "length_meter": 744.4,
+      "time_minute": 12
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.907009,
+          "lng": 127.328995
+        },
+        {
+          "lat": 37.900539,
+          "lng": 127.327606
+        }
+      ],
+      "color": "#569077",
+      "start_name": "쓰러진 나무",
+      "length_meter": 729.7,
+      "time_minute": 12
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.900539,
+          "lng": 127.327606
+        },
+        {
+          "lat": 37.889118,
+          "lng": 127.323967
+        }
+      ],
+      "color": "#7b3272",
+      "start_name": "한북정맥 표지",
+      "length_meter": 1309.5,
+      "time_minute": 21
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.889118,
+          "lng": 127.323967
+        },
+        {
+          "lat": 37.887966,
+          "lng": 127.32325
+        }
+      ],
+      "color": "#711ac3",
+      "start_name": "자연쉼터 / 암벽",
+      "length_meter": 144.1,
+      "time_minute": 2
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.887966,
+          "lng": 127.32325
+        },
+        {
+          "lat": 37.887253,
+          "lng": 127.32325
+        }
+      ],
+      "color": "#6cbf2e",
+      "start_name": "고사목과  소나무 / 선바위",
+      "length_meter": 79.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 37.887253,
+          "lng": 127.32325
+        },
+        {
+          "lat": 37.886166,
+          "lng": 127.32354
+        }
+      ],
+      "color": "#62925c",
+      "start_name": "구절초",
+      "length_meter": 123.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 37.886166,
+          "lng": 127.32354
+        },
+        {
+          "lat": 37.884083,
+          "lng": 127.323868
+        }
+      ],
+      "color": "#2e8d40",
+      "start_name": "갈림길 / 운악산 서봉 / 능선조망",
+      "length_meter": 240.3,
+      "time_minute": 4
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 37.884083,
+          "lng": 127.323868
+        },
+        {
+          "lat": 37.883076,
+          "lng": 127.323746
+        }
+      ],
+      "color": "#276b57",
+      "start_name": "급경사 위험 / 암벽지대",
+      "length_meter": 114.0,
+      "time_minute": 1
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 37.883076,
+          "lng": 127.323746
+        },
+        {
+          "lat": 37.881702,
+          "lng": 127.324028
+        }
+      ],
+      "color": "#310367",
+      "start_name": "미역취",
+      "length_meter": 154.8,
+      "time_minute": 2
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 37.881702,
+          "lng": 127.324028
+        },
+        {
+          "lat": 37.881123,
+          "lng": 127.32383
+        }
+      ],
+      "color": "#741829",
+      "start_name": "위치표시",
+      "length_meter": 66.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 37.881123,
+          "lng": 127.32383
+        },
+        {
+          "lat": 37.880875,
+          "lng": 127.323196
+        }
+      ],
+      "color": "#30b83b",
+      "start_name": "병풍바위 / 갈림길",
+      "length_meter": 62.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 37.880875,
+          "lng": 127.323196
+        },
+        {
+          "lat": 37.880074,
+          "lng": 127.322662
+        }
+      ],
+      "color": "#935e4b",
+      "start_name": "바위",
+      "length_meter": 100.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 37.880074,
+          "lng": 127.322662
+        },
+        {
+          "lat": 37.878704,
+          "lng": 127.322899
+        }
+      ],
+      "color": "#882d64",
+      "start_name": "갈림길 / 운악산안내도",
+      "length_meter": 153.8,
+      "time_minute": 2
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 37.878704,
+          "lng": 127.322899
+        },
+        {
+          "lat": 37.879665,
+          "lng": 127.322655
+        }
+      ],
+      "color": "#9c2aa6",
+      "start_name": "운악산서봉 / 갈림길",
+      "length_meter": 116.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 37.879665,
+          "lng": 127.322655
+        },
+        {
+          "lat": 37.881592,
+          "lng": 127.321884
+        }
+      ],
+      "color": "#29ba6b",
+      "start_name": "쉼터 / 갈림길",
+      "length_meter": 226.2,
+      "time_minute": 3
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 37.881592,
+          "lng": 127.321884
+        },
+        {
+          "lat": 37.88163,
+          "lng": 127.321037
+        }
+      ],
+      "color": "#5c7a4e",
+      "start_name": "계단길 조망 / 쉼터 / 한북정맥조망",
+      "length_meter": 91.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 37.88163,
+          "lng": 127.321037
+        },
+        {
+          "lat": 37.881306,
+          "lng": 127.320412
+        }
+      ],
+      "color": "#380d93",
+      "start_name": "쉼터",
+      "length_meter": 65.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 37.881306,
+          "lng": 127.320412
+        },
+        {
+          "lat": 37.881802,
+          "lng": 127.318962
+        }
+      ],
+      "color": "#054124",
+      "start_name": "철사다리",
+      "length_meter": 138.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 21,
+      "path": [
+        {
+          "lat": 37.881802,
+          "lng": 127.318962
+        },
+        {
+          "lat": 37.881813,
+          "lng": 127.319
+        }
+      ],
+      "color": "#5a0eb6",
+      "start_name": "대궐터",
+      "length_meter": 3.6,
+      "time_minute": 0
+    },
+    {
+      "path_id": 22,
+      "path": [
+        {
+          "lat": 37.881813,
+          "lng": 127.319
+        },
+        {
+          "lat": 37.882767,
+          "lng": 127.31649
+        }
+      ],
+      "color": "#1d343f",
+      "start_name": "쉼터",
+      "length_meter": 244.5,
+      "time_minute": 4
+    },
+    {
+      "path_id": 23,
+      "path": [
+        {
+          "lat": 37.882767,
+          "lng": 127.31649
+        },
+        {
+          "lat": 37.883617,
+          "lng": 127.316223
+        }
+      ],
+      "color": "#c42515",
+      "start_name": "갈림길",
+      "length_meter": 97.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 24,
+      "path": [
+        {
+          "lat": 37.883617,
+          "lng": 127.316223
+        },
+        {
+          "lat": 37.883579,
+          "lng": 127.315948
+        }
+      ],
+      "color": "#01b8a3",
+      "start_name": "쉼터 / 약수터",
+      "length_meter": 28.9,
+      "time_minute": 0
+    },
+    {
+      "path_id": 25,
+      "path": [
+        {
+          "lat": 37.883579,
+          "lng": 127.315948
+        },
+        {
+          "lat": 37.884754,
+          "lng": 127.313889
+        }
+      ],
+      "color": "#1c5c9b",
+      "start_name": "물봉선",
+      "length_meter": 223.0,
+      "time_minute": 3
+    },
+    {
+      "path_id": 26,
+      "path": [
+        {
+          "lat": 37.884754,
+          "lng": 127.313889
+        },
+        {
+          "lat": 37.885143,
+          "lng": 127.311249
+        }
+      ],
+      "color": "#9a996d",
+      "start_name": "갈림길",
+      "length_meter": 235.7,
+      "time_minute": 3
+    },
+    {
+      "path_id": 27,
+      "path": [
+        {
+          "lat": 37.885143,
+          "lng": 127.311249
+        },
+        {
+          "lat": 37.884426,
+          "lng": 127.304749
+        }
+      ],
+      "color": "#3e5892",
+      "start_name": "무치지폭포 / 전망대쉼터",
+      "length_meter": 581.3,
+      "time_minute": 9
+    },
+    {
+      "path_id": 28,
+      "path": [
+        {
+          "lat": 37.884426,
+          "lng": 127.304749
+        },
+        {
+          "lat": 37.884212,
+          "lng": 127.302505
+        }
+      ],
+      "color": "#2e2c7a",
+      "start_name": "매점",
+      "length_meter": 198.4,
+      "time_minute": 3
+    }
+  ]
+}

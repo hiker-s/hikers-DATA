@@ -1,240 +1,243 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.633873,
-        "lng": 126.423439
-      },
-      {
-        "lat": 37.633591,
-        "lng": 126.4235
-      }
-    ],
-    "color": "#7b4b96",
-    "start_name": "마니산입구 / 단골식당 / 마니산관광지 무료주차장",
-    "length_meter": 69.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.633591,
-        "lng": 126.4235
-      },
-      {
-        "lat": 37.632526,
-        "lng": 126.423889
-      }
-    ],
-    "color": "#4c56ac",
-    "start_name": "GS25 / 마니산국민관광지 입구",
-    "length_meter": 130.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.632526,
-        "lng": 126.423889
-      },
-      {
-        "lat": 37.631157,
-        "lng": 126.424095
-      }
-    ],
-    "color": "#a63498",
-    "start_name": "마니산입구  매표소",
-    "length_meter": 153.3,
-    "time_minute": 2
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.631157,
-        "lng": 126.424095
-      },
-      {
-        "lat": 37.623241,
-        "lng": 126.42617
-      }
-    ],
-    "color": "#8baa9e",
-    "start_name": "갈림길",
-    "length_meter": 899.0,
-    "time_minute": 14
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.623241,
-        "lng": 126.42617
-      },
-      {
-        "lat": 37.623604,
-        "lng": 126.426567
-      }
-    ],
-    "color": "#69056a",
-    "start_name": "마니산약수터",
-    "length_meter": 53.4,
-    "time_minute": 0
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.623604,
-        "lng": 126.426567
-      },
-      {
-        "lat": 37.615932,
-        "lng": 126.429649
-      }
-    ],
-    "color": "#3e911c",
-    "start_name": "쉼터",
-    "length_meter": 895.2,
-    "time_minute": 14
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.615932,
-        "lng": 126.429649
-      },
-      {
-        "lat": 37.615543,
-        "lng": 126.430779
-      }
-    ],
-    "color": "#65c48d",
-    "start_name": "갈림길 / 참성단",
-    "length_meter": 112.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.615543,
-        "lng": 126.430779
-      },
-      {
-        "lat": 37.615639,
-        "lng": 126.430664
-      }
-    ],
-    "color": "#5d2a4f",
-    "start_name": "정상",
-    "length_meter": 14.7,
-    "time_minute": 0
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.615639,
-        "lng": 126.430664
-      },
-      {
-        "lat": 37.615654,
-        "lng": 126.429047
-      }
-    ],
-    "color": "#451f39",
-    "start_name": "마니산정상 / 갈림길",
-    "length_meter": 142.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.615654,
-        "lng": 126.429047
-      },
-      {
-        "lat": 37.615715,
-        "lng": 126.427917
-      }
-    ],
-    "color": "#443d2b",
-    "start_name": "조망점(갯벌뷰) / 자연경관 / 추락주의,미끄럼주위",
-    "length_meter": 102.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.615715,
-        "lng": 126.427917
-      },
-      {
-        "lat": 37.615658,
-        "lng": 126.427803
-      }
-    ],
-    "color": "#422094",
-    "start_name": "미끄럼 주의",
-    "length_meter": 11.9,
-    "time_minute": 0
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.615658,
-        "lng": 126.427803
-      },
-      {
-        "lat": 37.617226,
-        "lng": 126.42466
-      }
-    ],
-    "color": "#566e35",
-    "start_name": "바다,산,서,뻘",
-    "length_meter": 327.2,
-    "time_minute": 5
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.617226,
-        "lng": 126.42466
-      },
-      {
-        "lat": 37.619675,
-        "lng": 126.419853
-      }
-    ],
-    "color": "#b14931",
-    "start_name": "갈림길",
-    "length_meter": 503.4,
-    "time_minute": 8
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.619675,
-        "lng": 126.419853
-      },
-      {
-        "lat": 37.628201,
-        "lng": 126.422745
-      }
-    ],
-    "color": "#87b654",
-    "start_name": "쉼터",
-    "length_meter": 981.7,
-    "time_minute": 16
-  }
-]
+{
+  "max_ele": 488.028,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.633873,
+          "lng": 126.423439
+        },
+        {
+          "lat": 37.633591,
+          "lng": 126.4235
+        }
+      ],
+      "color": "#5b6146",
+      "start_name": "마니산입구 / 단골식당 / 마니산관광지 무료주차장",
+      "length_meter": 69.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.633591,
+          "lng": 126.4235
+        },
+        {
+          "lat": 37.632526,
+          "lng": 126.423889
+        }
+      ],
+      "color": "#76b012",
+      "start_name": "GS25 / 마니산국민관광지 입구",
+      "length_meter": 130.0,
+      "time_minute": 2
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.632526,
+          "lng": 126.423889
+        },
+        {
+          "lat": 37.631157,
+          "lng": 126.424095
+        }
+      ],
+      "color": "#7d4209",
+      "start_name": "마니산입구  매표소",
+      "length_meter": 153.3,
+      "time_minute": 2
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.631157,
+          "lng": 126.424095
+        },
+        {
+          "lat": 37.623241,
+          "lng": 126.42617
+        }
+      ],
+      "color": "#a25f3c",
+      "start_name": "갈림길",
+      "length_meter": 899.0,
+      "time_minute": 14
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.623241,
+          "lng": 126.42617
+        },
+        {
+          "lat": 37.623604,
+          "lng": 126.426567
+        }
+      ],
+      "color": "#a84967",
+      "start_name": "마니산약수터",
+      "length_meter": 53.4,
+      "time_minute": 0
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.623604,
+          "lng": 126.426567
+        },
+        {
+          "lat": 37.615932,
+          "lng": 126.429649
+        }
+      ],
+      "color": "#685673",
+      "start_name": "쉼터",
+      "length_meter": 895.2,
+      "time_minute": 14
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.615932,
+          "lng": 126.429649
+        },
+        {
+          "lat": 37.615543,
+          "lng": 126.430779
+        }
+      ],
+      "color": "#4794ad",
+      "start_name": "갈림길 / 참성단",
+      "length_meter": 112.7,
+      "time_minute": 1
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.615543,
+          "lng": 126.430779
+        },
+        {
+          "lat": 37.615639,
+          "lng": 126.430664
+        }
+      ],
+      "color": "#966d84",
+      "start_name": "정상",
+      "length_meter": 14.7,
+      "time_minute": 0
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 37.615639,
+          "lng": 126.430664
+        },
+        {
+          "lat": 37.615654,
+          "lng": 126.429047
+        }
+      ],
+      "color": "#5d50a4",
+      "start_name": "마니산정상 / 갈림길",
+      "length_meter": 142.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 37.615654,
+          "lng": 126.429047
+        },
+        {
+          "lat": 37.615715,
+          "lng": 126.427917
+        }
+      ],
+      "color": "#0e534d",
+      "start_name": "조망점(갯벌뷰) / 자연경관 / 추락주의,미끄럼주위",
+      "length_meter": 102.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 37.615715,
+          "lng": 126.427917
+        },
+        {
+          "lat": 37.615658,
+          "lng": 126.427803
+        }
+      ],
+      "color": "#99375c",
+      "start_name": "미끄럼 주의",
+      "length_meter": 11.9,
+      "time_minute": 0
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 37.615658,
+          "lng": 126.427803
+        },
+        {
+          "lat": 37.617226,
+          "lng": 126.42466
+        }
+      ],
+      "color": "#457a35",
+      "start_name": "바다,산,서,뻘",
+      "length_meter": 327.2,
+      "time_minute": 5
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 37.617226,
+          "lng": 126.42466
+        },
+        {
+          "lat": 37.619675,
+          "lng": 126.419853
+        }
+      ],
+      "color": "#c5a5ae",
+      "start_name": "갈림길",
+      "length_meter": 503.4,
+      "time_minute": 8
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 37.619675,
+          "lng": 126.419853
+        },
+        {
+          "lat": 37.628201,
+          "lng": 126.422745
+        }
+      ],
+      "color": "#0e4149",
+      "start_name": "쉼터",
+      "length_meter": 981.7,
+      "time_minute": 16
+    }
+  ]
+}

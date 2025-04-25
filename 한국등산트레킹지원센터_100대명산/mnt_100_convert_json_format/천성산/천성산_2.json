@@ -1,70 +1,73 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.356602,
-        "lng": 128.957657
-      },
-      {
-        "lat": 35.374546,
-        "lng": 128.949966
-      }
-    ],
-    "color": "#0c8e80",
-    "start_name": "용골산",
-    "length_meter": 2113.6,
-    "time_minute": 35
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.374546,
-        "lng": 128.949966
-      },
-      {
-        "lat": 35.37809,
-        "lng": 128.950775
-      }
-    ],
-    "color": "#634c34",
-    "start_name": "갈림길",
-    "length_meter": 400.8,
-    "time_minute": 6
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.37809,
-        "lng": 128.950775
-      },
-      {
-        "lat": 35.378162,
-        "lng": 128.95813
-      }
-    ],
-    "color": "#593192",
-    "start_name": "토곡",
-    "length_meter": 666.9,
-    "time_minute": 11
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.378162,
-        "lng": 128.95813
-      },
-      {
-        "lat": 35.375217,
-        "lng": 128.956161
-      }
-    ],
-    "color": "#339566",
-    "start_name": "갈림길",
-    "length_meter": 373.0,
-    "time_minute": 6
-  }
-]
+{
+  "max_ele": 878.7,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.356602,
+          "lng": 128.957657
+        },
+        {
+          "lat": 35.374546,
+          "lng": 128.949966
+        }
+      ],
+      "color": "#1d6438",
+      "start_name": "용골산",
+      "length_meter": 2113.6,
+      "time_minute": 35
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.374546,
+          "lng": 128.949966
+        },
+        {
+          "lat": 35.37809,
+          "lng": 128.950775
+        }
+      ],
+      "color": "#a36029",
+      "start_name": "갈림길",
+      "length_meter": 400.8,
+      "time_minute": 6
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.37809,
+          "lng": 128.950775
+        },
+        {
+          "lat": 35.378162,
+          "lng": 128.95813
+        }
+      ],
+      "color": "#894c19",
+      "start_name": "토곡",
+      "length_meter": 666.9,
+      "time_minute": 11
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.378162,
+          "lng": 128.95813
+        },
+        {
+          "lat": 35.375217,
+          "lng": 128.956161
+        }
+      ],
+      "color": "#164113",
+      "start_name": "갈림길",
+      "length_meter": 373.0,
+      "time_minute": 6
+    }
+  ]
+}

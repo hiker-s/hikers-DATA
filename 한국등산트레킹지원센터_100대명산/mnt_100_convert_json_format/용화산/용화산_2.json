@@ -1,121 +1,124 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 38.051804,
-        "lng": 127.78759
-      },
-      {
-        "lat": 38.052364,
-        "lng": 127.780136
-      }
-    ],
-    "color": "#6b8280",
-    "start_name": "갈림길",
-    "length_meter": 655.6,
-    "time_minute": 10
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 38.052364,
-        "lng": 127.780136
-      },
-      {
-        "lat": 38.048912,
-        "lng": 127.780739
-      }
-    ],
-    "color": "#6a49a9",
-    "start_name": "산촌생태단지(수불무산 입구)",
-    "length_meter": 387.5,
-    "time_minute": 6
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 38.048912,
-        "lng": 127.780739
-      },
-      {
-        "lat": 38.03495,
-        "lng": 127.777168
-      }
-    ],
-    "color": "#829c1b",
-    "start_name": "쉼터",
-    "length_meter": 1583.7,
-    "time_minute": 26
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 38.03495,
-        "lng": 127.777168
-      },
-      {
-        "lat": 38.034523,
-        "lng": 127.777138
-      }
-    ],
-    "color": "#923978",
-    "start_name": "수불무산 정상 / 수불무산 정상 바위 조망점",
-    "length_meter": 47.9,
-    "time_minute": 0
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 38.034523,
-        "lng": 127.777138
-      },
-      {
-        "lat": 38.038391,
-        "lng": 127.779823
-      }
-    ],
-    "color": "#688d6d",
-    "start_name": "수불무산 정상바위 / 갈림길",
-    "length_meter": 514.1,
-    "time_minute": 8
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 38.038391,
-        "lng": 127.779823
-      },
-      {
-        "lat": 38.03952,
-        "lng": 127.780937
-      }
-    ],
-    "color": "#407455",
-    "start_name": "자연경관",
-    "length_meter": 159.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 38.03952,
-        "lng": 127.780937
-      },
-      {
-        "lat": 38.04232,
-        "lng": 127.78006
-      }
-    ],
-    "color": "#39533d",
-    "start_name": "수불무산 전위봉",
-    "length_meter": 320.7,
-    "time_minute": 5
-  }
-]
+{
+  "max_ele": 772.095,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 38.051804,
+          "lng": 127.78759
+        },
+        {
+          "lat": 38.052364,
+          "lng": 127.780136
+        }
+      ],
+      "color": "#0a41b5",
+      "start_name": "갈림길",
+      "length_meter": 655.6,
+      "time_minute": 10
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 38.052364,
+          "lng": 127.780136
+        },
+        {
+          "lat": 38.048912,
+          "lng": 127.780739
+        }
+      ],
+      "color": "#b74c7d",
+      "start_name": "산촌생태단지(수불무산 입구)",
+      "length_meter": 387.5,
+      "time_minute": 6
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 38.048912,
+          "lng": 127.780739
+        },
+        {
+          "lat": 38.03495,
+          "lng": 127.777168
+        }
+      ],
+      "color": "#48c27f",
+      "start_name": "쉼터",
+      "length_meter": 1583.7,
+      "time_minute": 26
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 38.03495,
+          "lng": 127.777168
+        },
+        {
+          "lat": 38.034523,
+          "lng": 127.777138
+        }
+      ],
+      "color": "#2884c3",
+      "start_name": "수불무산 정상 / 수불무산 정상 바위 조망점",
+      "length_meter": 47.9,
+      "time_minute": 0
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 38.034523,
+          "lng": 127.777138
+        },
+        {
+          "lat": 38.038391,
+          "lng": 127.779823
+        }
+      ],
+      "color": "#ac5b6e",
+      "start_name": "수불무산 정상바위 / 갈림길",
+      "length_meter": 514.1,
+      "time_minute": 8
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 38.038391,
+          "lng": 127.779823
+        },
+        {
+          "lat": 38.03952,
+          "lng": 127.780937
+        }
+      ],
+      "color": "#603654",
+      "start_name": "자연경관",
+      "length_meter": 159.0,
+      "time_minute": 2
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 38.03952,
+          "lng": 127.780937
+        },
+        {
+          "lat": 38.04232,
+          "lng": 127.78006
+        }
+      ],
+      "color": "#0867bb",
+      "start_name": "수불무산 전위봉",
+      "length_meter": 320.7,
+      "time_minute": 5
+    }
+  ]
+}

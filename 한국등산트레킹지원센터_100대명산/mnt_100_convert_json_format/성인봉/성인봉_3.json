@@ -1,138 +1,141 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.52232,
-        "lng": 130.854422
-      },
-      {
-        "lat": 37.523819,
-        "lng": 130.854599
-      }
-    ],
-    "color": "#829c6e",
-    "start_name": "웨이포인트 1",
-    "length_meter": 167.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.523819,
-        "lng": 130.854599
-      },
-      {
-        "lat": 37.525398,
-        "lng": 130.856339
-      }
-    ],
-    "color": "#6a4d8d",
-    "start_name": "갈림길",
-    "length_meter": 233.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.525398,
-        "lng": 130.856339
-      },
-      {
-        "lat": 37.524406,
-        "lng": 130.857437
-      }
-    ],
-    "color": "#2a64bc",
-    "start_name": "원시림관리안내소",
-    "length_meter": 146.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.524406,
-        "lng": 130.857437
-      },
-      {
-        "lat": 37.523827,
-        "lng": 130.857529
-      }
-    ],
-    "color": "#54961c",
-    "start_name": "갈림길",
-    "length_meter": 64.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.523827,
-        "lng": 130.857529
-      },
-      {
-        "lat": 37.52272,
-        "lng": 130.858032
-      }
-    ],
-    "color": "#9eb63e",
-    "start_name": "용출소",
-    "length_meter": 130.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.52272,
-        "lng": 130.858032
-      },
-      {
-        "lat": 37.521832,
-        "lng": 130.863998
-      }
-    ],
-    "color": "#263691",
-    "start_name": "쉼터",
-    "length_meter": 535.3,
-    "time_minute": 8
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.521832,
-        "lng": 130.863998
-      },
-      {
-        "lat": 37.519684,
-        "lng": 130.861389
-      }
-    ],
-    "color": "#0a7dc1",
-    "start_name": "섬말나리동산 / 갈림길",
-    "length_meter": 382.2,
-    "time_minute": 6
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.519684,
-        "lng": 130.861389
-      },
-      {
-        "lat": 37.51936,
-        "lng": 130.859589
-      }
-    ],
-    "color": "#a40649",
-    "start_name": "알봉아래쉼터",
-    "length_meter": 162.8,
-    "time_minute": 2
-  }
-]
+{
+  "max_ele": 545.15,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.52232,
+          "lng": 130.854422
+        },
+        {
+          "lat": 37.523819,
+          "lng": 130.854599
+        }
+      ],
+      "color": "#01c257",
+      "start_name": "웨이포인트 1",
+      "length_meter": 167.4,
+      "time_minute": 2
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.523819,
+          "lng": 130.854599
+        },
+        {
+          "lat": 37.525398,
+          "lng": 130.856339
+        }
+      ],
+      "color": "#9f7f87",
+      "start_name": "갈림길",
+      "length_meter": 233.2,
+      "time_minute": 3
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.525398,
+          "lng": 130.856339
+        },
+        {
+          "lat": 37.524406,
+          "lng": 130.857437
+        }
+      ],
+      "color": "#704d6a",
+      "start_name": "원시림관리안내소",
+      "length_meter": 146.8,
+      "time_minute": 2
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.524406,
+          "lng": 130.857437
+        },
+        {
+          "lat": 37.523827,
+          "lng": 130.857529
+        }
+      ],
+      "color": "#6b3eb8",
+      "start_name": "갈림길",
+      "length_meter": 64.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.523827,
+          "lng": 130.857529
+        },
+        {
+          "lat": 37.52272,
+          "lng": 130.858032
+        }
+      ],
+      "color": "#a43e2b",
+      "start_name": "용출소",
+      "length_meter": 130.8,
+      "time_minute": 2
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.52272,
+          "lng": 130.858032
+        },
+        {
+          "lat": 37.521832,
+          "lng": 130.863998
+        }
+      ],
+      "color": "#185a0f",
+      "start_name": "쉼터",
+      "length_meter": 535.3,
+      "time_minute": 8
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.521832,
+          "lng": 130.863998
+        },
+        {
+          "lat": 37.519684,
+          "lng": 130.861389
+        }
+      ],
+      "color": "#3f01b3",
+      "start_name": "섬말나리동산 / 갈림길",
+      "length_meter": 382.2,
+      "time_minute": 6
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.519684,
+          "lng": 130.861389
+        },
+        {
+          "lat": 37.51936,
+          "lng": 130.859589
+        }
+      ],
+      "color": "#0b6a80",
+      "start_name": "알봉아래쉼터",
+      "length_meter": 162.8,
+      "time_minute": 2
+    }
+  ]
+}

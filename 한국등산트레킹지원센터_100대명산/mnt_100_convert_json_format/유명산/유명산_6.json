@@ -1,274 +1,277 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.545898,
-        "lng": 127.463379
-      },
-      {
-        "lat": 37.555901,
-        "lng": 127.461044
-      }
-    ],
-    "color": "#446c3c",
-    "start_name": "한화콘도삼거리",
-    "length_meter": 1131.2,
-    "time_minute": 18
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.555901,
-        "lng": 127.461044
-      },
-      {
-        "lat": 37.558403,
-        "lng": 127.462601
-      }
-    ],
-    "color": "#72b955",
-    "start_name": "동막골",
-    "length_meter": 310.2,
-    "time_minute": 5
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.558403,
-        "lng": 127.462601
-      },
-      {
-        "lat": 37.558701,
-        "lng": 127.462906
-      }
-    ],
-    "color": "#574a11",
-    "start_name": "패러글라이딩파크",
-    "length_meter": 42.7,
-    "time_minute": 0
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.558701,
-        "lng": 127.462906
-      },
-      {
-        "lat": 37.561031,
-        "lng": 127.469078
-      }
-    ],
-    "color": "#c57130",
-    "start_name": "패러글라이딩 / 갈림길",
-    "length_meter": 602.8,
-    "time_minute": 10
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.561031,
-        "lng": 127.469078
-      },
-      {
-        "lat": 37.561672,
-        "lng": 127.469559
-      }
-    ],
-    "color": "#836e3b",
-    "start_name": "양평청산",
-    "length_meter": 82.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.561672,
-        "lng": 127.469559
-      },
-      {
-        "lat": 37.562313,
-        "lng": 127.469368
-      }
-    ],
-    "color": "#54674a",
-    "start_name": "갈림길",
-    "length_meter": 73.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.562313,
-        "lng": 127.469368
-      },
-      {
-        "lat": 37.566925,
-        "lng": 127.471542
-      }
-    ],
-    "color": "#7d61b6",
-    "start_name": "유명산 임도",
-    "length_meter": 547.5,
-    "time_minute": 9
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.566925,
-        "lng": 127.471542
-      },
-      {
-        "lat": 37.56987,
-        "lng": 127.480095
-      }
-    ],
-    "color": "#565e15",
-    "start_name": "벌채작업",
-    "length_meter": 821.9,
-    "time_minute": 13
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.56987,
-        "lng": 127.480095
-      },
-      {
-        "lat": 37.568363,
-        "lng": 127.482071
-      }
-    ],
-    "color": "#21ad64",
-    "start_name": "등로",
-    "length_meter": 241.7,
-    "time_minute": 4
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.568363,
-        "lng": 127.482071
-      },
-      {
-        "lat": 37.571301,
-        "lng": 127.484322
-      }
-    ],
-    "color": "#2c3db9",
-    "start_name": "패라글라이딩1",
-    "length_meter": 382.2,
-    "time_minute": 6
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.571301,
-        "lng": 127.484322
-      },
-      {
-        "lat": 37.576271,
-        "lng": 127.4869
-      }
-    ],
-    "color": "#af0c84",
-    "start_name": "패러글라이딩2",
-    "length_meter": 597.5,
-    "time_minute": 9
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.576271,
-        "lng": 127.4869
-      },
-      {
-        "lat": 37.587017,
-        "lng": 127.486725
-      }
-    ],
-    "color": "#6d8050",
-    "start_name": "사형제소나무",
-    "length_meter": 1195.0,
-    "time_minute": 19
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.587017,
-        "lng": 127.486725
-      },
-      {
-        "lat": 37.589119,
-        "lng": 127.490685
-      }
-    ],
-    "color": "#292c77",
-    "start_name": "갈림길",
-    "length_meter": 420.0,
-    "time_minute": 6
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.589119,
-        "lng": 127.490685
-      },
-      {
-        "lat": 37.590389,
-        "lng": 127.490578
-      }
-    ],
-    "color": "#9164b0",
-    "start_name": "혼인목 / 갈림길",
-    "length_meter": 151.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 37.590389,
-        "lng": 127.490578
-      },
-      {
-        "lat": 37.591629,
-        "lng": 127.489777
-      }
-    ],
-    "color": "#6083b0",
-    "start_name": "제2매표소입구",
-    "length_meter": 154.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.591629,
-        "lng": 127.489777
-      },
-      {
-        "lat": 37.594837,
-        "lng": 127.490425
-      }
-    ],
-    "color": "#b2828b",
-    "start_name": "2매표소",
-    "length_meter": 361.3,
-    "time_minute": 6
-  }
-]
+{
+  "max_ele": 873.33,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.545898,
+          "lng": 127.463379
+        },
+        {
+          "lat": 37.555901,
+          "lng": 127.461044
+        }
+      ],
+      "color": "#a539b6",
+      "start_name": "한화콘도삼거리",
+      "length_meter": 1131.2,
+      "time_minute": 18
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.555901,
+          "lng": 127.461044
+        },
+        {
+          "lat": 37.558403,
+          "lng": 127.462601
+        }
+      ],
+      "color": "#14460c",
+      "start_name": "동막골",
+      "length_meter": 310.2,
+      "time_minute": 5
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.558403,
+          "lng": 127.462601
+        },
+        {
+          "lat": 37.558701,
+          "lng": 127.462906
+        }
+      ],
+      "color": "#c33063",
+      "start_name": "패러글라이딩파크",
+      "length_meter": 42.7,
+      "time_minute": 0
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.558701,
+          "lng": 127.462906
+        },
+        {
+          "lat": 37.561031,
+          "lng": 127.469078
+        }
+      ],
+      "color": "#45a1ad",
+      "start_name": "패러글라이딩 / 갈림길",
+      "length_meter": 602.8,
+      "time_minute": 10
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.561031,
+          "lng": 127.469078
+        },
+        {
+          "lat": 37.561672,
+          "lng": 127.469559
+        }
+      ],
+      "color": "#680a5e",
+      "start_name": "양평청산",
+      "length_meter": 82.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.561672,
+          "lng": 127.469559
+        },
+        {
+          "lat": 37.562313,
+          "lng": 127.469368
+        }
+      ],
+      "color": "#52640a",
+      "start_name": "갈림길",
+      "length_meter": 73.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.562313,
+          "lng": 127.469368
+        },
+        {
+          "lat": 37.566925,
+          "lng": 127.471542
+        }
+      ],
+      "color": "#c19f63",
+      "start_name": "유명산 임도",
+      "length_meter": 547.5,
+      "time_minute": 9
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.566925,
+          "lng": 127.471542
+        },
+        {
+          "lat": 37.56987,
+          "lng": 127.480095
+        }
+      ],
+      "color": "#6a568c",
+      "start_name": "벌채작업",
+      "length_meter": 821.9,
+      "time_minute": 13
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 37.56987,
+          "lng": 127.480095
+        },
+        {
+          "lat": 37.568363,
+          "lng": 127.482071
+        }
+      ],
+      "color": "#776dc3",
+      "start_name": "등로",
+      "length_meter": 241.7,
+      "time_minute": 4
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 37.568363,
+          "lng": 127.482071
+        },
+        {
+          "lat": 37.571301,
+          "lng": 127.484322
+        }
+      ],
+      "color": "#823795",
+      "start_name": "패라글라이딩1",
+      "length_meter": 382.2,
+      "time_minute": 6
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 37.571301,
+          "lng": 127.484322
+        },
+        {
+          "lat": 37.576271,
+          "lng": 127.4869
+        }
+      ],
+      "color": "#c0b4ae",
+      "start_name": "패러글라이딩2",
+      "length_meter": 597.5,
+      "time_minute": 9
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 37.576271,
+          "lng": 127.4869
+        },
+        {
+          "lat": 37.587017,
+          "lng": 127.486725
+        }
+      ],
+      "color": "#4c639f",
+      "start_name": "사형제소나무",
+      "length_meter": 1195.0,
+      "time_minute": 19
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 37.587017,
+          "lng": 127.486725
+        },
+        {
+          "lat": 37.589119,
+          "lng": 127.490685
+        }
+      ],
+      "color": "#9e476c",
+      "start_name": "갈림길",
+      "length_meter": 420.0,
+      "time_minute": 6
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 37.589119,
+          "lng": 127.490685
+        },
+        {
+          "lat": 37.590389,
+          "lng": 127.490578
+        }
+      ],
+      "color": "#26c78d",
+      "start_name": "혼인목 / 갈림길",
+      "length_meter": 151.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 37.590389,
+          "lng": 127.490578
+        },
+        {
+          "lat": 37.591629,
+          "lng": 127.489777
+        }
+      ],
+      "color": "#b88490",
+      "start_name": "제2매표소입구",
+      "length_meter": 154.9,
+      "time_minute": 2
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 37.591629,
+          "lng": 127.489777
+        },
+        {
+          "lat": 37.594837,
+          "lng": 127.490425
+        }
+      ],
+      "color": "#5e387d",
+      "start_name": "2매표소",
+      "length_meter": 361.3,
+      "time_minute": 6
+    }
+  ]
+}

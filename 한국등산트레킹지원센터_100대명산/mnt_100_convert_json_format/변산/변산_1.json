@@ -1,325 +1,328 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.641109,
-        "lng": 126.580353
-      },
-      {
-        "lat": 35.64098,
-        "lng": 126.580414
-      }
-    ],
-    "color": "#6671b5",
-    "start_name": "내변산주차장",
-    "length_meter": 15.4,
-    "time_minute": 0
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.64098,
-        "lng": 126.580414
-      },
-      {
-        "lat": 35.639881,
-        "lng": 126.580437
-      }
-    ],
-    "color": "#a77207",
-    "start_name": "사자동편의점",
-    "length_meter": 122.2,
-    "time_minute": 2
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.639881,
-        "lng": 126.580437
-      },
-      {
-        "lat": 35.634544,
-        "lng": 126.587135
-      }
-    ],
-    "color": "#4f34af",
-    "start_name": "갈림길",
-    "length_meter": 847.7,
-    "time_minute": 14
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.634544,
-        "lng": 126.587135
-      },
-      {
-        "lat": 35.632008,
-        "lng": 126.587372
-      }
-    ],
-    "color": "#73312f",
-    "start_name": "세봉삼거리전",
-    "length_meter": 282.8,
-    "time_minute": 4
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.632008,
-        "lng": 126.587372
-      },
-      {
-        "lat": 35.629597,
-        "lng": 126.588837
-      }
-    ],
-    "color": "#354655",
-    "start_name": "세봉삼거리전 바위",
-    "length_meter": 299.0,
-    "time_minute": 4
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.629597,
-        "lng": 126.588837
-      },
-      {
-        "lat": 35.628883,
-        "lng": 126.5896
-      }
-    ],
-    "color": "#234580",
-    "start_name": "세봉삼거리전",
-    "length_meter": 105.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.628883,
-        "lng": 126.5896
-      },
-      {
-        "lat": 35.626774,
-        "lng": 126.589806
-      }
-    ],
-    "color": "#327150",
-    "start_name": "인장바위",
-    "length_meter": 235.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.626774,
-        "lng": 126.589806
-      },
-      {
-        "lat": 35.626507,
-        "lng": 126.586334
-      }
-    ],
-    "color": "#4a4540",
-    "start_name": "갈림길 / 세봉삼거리",
-    "length_meter": 319.2,
-    "time_minute": 5
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.626507,
-        "lng": 126.586334
-      },
-      {
-        "lat": 35.623531,
-        "lng": 126.582993
-      }
-    ],
-    "color": "#806b11",
-    "start_name": "세봉 / 세봉50미터",
-    "length_meter": 454.4,
-    "time_minute": 7
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.623531,
-        "lng": 126.582993
-      },
-      {
-        "lat": 35.623219,
-        "lng": 126.582512
-      }
-    ],
-    "color": "#260234",
-    "start_name": "관음봉20m전",
-    "length_meter": 55.6,
-    "time_minute": 0
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.623219,
-        "lng": 126.582512
-      },
-      {
-        "lat": 35.621662,
-        "lng": 126.5802
-      }
-    ],
-    "color": "#4004b2",
-    "start_name": "변산관음봉",
-    "length_meter": 271.4,
-    "time_minute": 4
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.621662,
-        "lng": 126.5802
-      },
-      {
-        "lat": 35.620964,
-        "lng": 126.581284
-      }
-    ],
-    "color": "#41749e",
-    "start_name": "갈림길",
-    "length_meter": 125.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.620964,
-        "lng": 126.581284
-      },
-      {
-        "lat": 35.620087,
-        "lng": 126.582085
-      }
-    ],
-    "color": "#503531",
-    "start_name": "관음봉삼거리50m전 / 곰소배경",
-    "length_meter": 121.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.620087,
-        "lng": 126.582085
-      },
-      {
-        "lat": 35.617027,
-        "lng": 126.58371
-      }
-    ],
-    "color": "#1c7e5e",
-    "start_name": "관음봉배경",
-    "length_meter": 370.6,
-    "time_minute": 6
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.617027,
-        "lng": 126.58371
-      },
-      {
-        "lat": 35.615101,
-        "lng": 126.588028
-      }
-    ],
-    "color": "#bb641f",
-    "start_name": "내소쉄터",
-    "length_meter": 445.2,
-    "time_minute": 7
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.615101,
-        "lng": 126.588028
-      },
-      {
-        "lat": 35.616875,
-        "lng": 126.587738
-      }
-    ],
-    "color": "#425c07",
-    "start_name": "전나무숲 / 갈림길",
-    "length_meter": 270.7,
-    "time_minute": 4
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.616875,
-        "lng": 126.587738
-      },
-      {
-        "lat": 35.613548,
-        "lng": 126.589134
-      }
-    ],
-    "color": "#35824d",
-    "start_name": "내소사",
-    "length_meter": 390.9,
-    "time_minute": 6
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.613548,
-        "lng": 126.589134
-      },
-      {
-        "lat": 35.61274,
-        "lng": 126.589432
-      }
-    ],
-    "color": "#36793e",
-    "start_name": "전나무숲",
-    "length_meter": 93.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 35.61274,
-        "lng": 126.589432
-      },
-      {
-        "lat": 35.611755,
-        "lng": 126.589096
-      }
-    ],
-    "color": "#98a9ba",
-    "start_name": "일주문",
-    "length_meter": 113.7,
-    "time_minute": 1
-  }
-]
+{
+  "max_ele": 452.378,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.641109,
+          "lng": 126.580353
+        },
+        {
+          "lat": 35.64098,
+          "lng": 126.580414
+        }
+      ],
+      "color": "#c3bb2b",
+      "start_name": "내변산주차장",
+      "length_meter": 15.4,
+      "time_minute": 0
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.64098,
+          "lng": 126.580414
+        },
+        {
+          "lat": 35.639881,
+          "lng": 126.580437
+        }
+      ],
+      "color": "#b30e27",
+      "start_name": "사자동편의점",
+      "length_meter": 122.2,
+      "time_minute": 2
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.639881,
+          "lng": 126.580437
+        },
+        {
+          "lat": 35.634544,
+          "lng": 126.587135
+        }
+      ],
+      "color": "#386c97",
+      "start_name": "갈림길",
+      "length_meter": 847.7,
+      "time_minute": 14
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.634544,
+          "lng": 126.587135
+        },
+        {
+          "lat": 35.632008,
+          "lng": 126.587372
+        }
+      ],
+      "color": "#a840b3",
+      "start_name": "세봉삼거리전",
+      "length_meter": 282.8,
+      "time_minute": 4
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 35.632008,
+          "lng": 126.587372
+        },
+        {
+          "lat": 35.629597,
+          "lng": 126.588837
+        }
+      ],
+      "color": "#7d840e",
+      "start_name": "세봉삼거리전 바위",
+      "length_meter": 299.0,
+      "time_minute": 4
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 35.629597,
+          "lng": 126.588837
+        },
+        {
+          "lat": 35.628883,
+          "lng": 126.5896
+        }
+      ],
+      "color": "#6668a1",
+      "start_name": "세봉삼거리전",
+      "length_meter": 105.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 35.628883,
+          "lng": 126.5896
+        },
+        {
+          "lat": 35.626774,
+          "lng": 126.589806
+        }
+      ],
+      "color": "#407d61",
+      "start_name": "인장바위",
+      "length_meter": 235.2,
+      "time_minute": 3
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 35.626774,
+          "lng": 126.589806
+        },
+        {
+          "lat": 35.626507,
+          "lng": 126.586334
+        }
+      ],
+      "color": "#c5280f",
+      "start_name": "갈림길 / 세봉삼거리",
+      "length_meter": 319.2,
+      "time_minute": 5
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 35.626507,
+          "lng": 126.586334
+        },
+        {
+          "lat": 35.623531,
+          "lng": 126.582993
+        }
+      ],
+      "color": "#c71e57",
+      "start_name": "세봉 / 세봉50미터",
+      "length_meter": 454.4,
+      "time_minute": 7
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 35.623531,
+          "lng": 126.582993
+        },
+        {
+          "lat": 35.623219,
+          "lng": 126.582512
+        }
+      ],
+      "color": "#8c86bf",
+      "start_name": "관음봉20m전",
+      "length_meter": 55.6,
+      "time_minute": 0
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 35.623219,
+          "lng": 126.582512
+        },
+        {
+          "lat": 35.621662,
+          "lng": 126.5802
+        }
+      ],
+      "color": "#b15554",
+      "start_name": "변산관음봉",
+      "length_meter": 271.4,
+      "time_minute": 4
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 35.621662,
+          "lng": 126.5802
+        },
+        {
+          "lat": 35.620964,
+          "lng": 126.581284
+        }
+      ],
+      "color": "#082b47",
+      "start_name": "갈림길",
+      "length_meter": 125.0,
+      "time_minute": 2
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 35.620964,
+          "lng": 126.581284
+        },
+        {
+          "lat": 35.620087,
+          "lng": 126.582085
+        }
+      ],
+      "color": "#2c43c7",
+      "start_name": "관음봉삼거리50m전 / 곰소배경",
+      "length_meter": 121.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 35.620087,
+          "lng": 126.582085
+        },
+        {
+          "lat": 35.617027,
+          "lng": 126.58371
+        }
+      ],
+      "color": "#991f8e",
+      "start_name": "관음봉배경",
+      "length_meter": 370.6,
+      "time_minute": 6
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 35.617027,
+          "lng": 126.58371
+        },
+        {
+          "lat": 35.615101,
+          "lng": 126.588028
+        }
+      ],
+      "color": "#39a7b8",
+      "start_name": "내소쉄터",
+      "length_meter": 445.2,
+      "time_minute": 7
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 35.615101,
+          "lng": 126.588028
+        },
+        {
+          "lat": 35.616875,
+          "lng": 126.587738
+        }
+      ],
+      "color": "#88819e",
+      "start_name": "전나무숲 / 갈림길",
+      "length_meter": 270.7,
+      "time_minute": 4
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 35.616875,
+          "lng": 126.587738
+        },
+        {
+          "lat": 35.613548,
+          "lng": 126.589134
+        }
+      ],
+      "color": "#9d038a",
+      "start_name": "내소사",
+      "length_meter": 390.9,
+      "time_minute": 6
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 35.613548,
+          "lng": 126.589134
+        },
+        {
+          "lat": 35.61274,
+          "lng": 126.589432
+        }
+      ],
+      "color": "#c26a05",
+      "start_name": "전나무숲",
+      "length_meter": 93.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 35.61274,
+          "lng": 126.589432
+        },
+        {
+          "lat": 35.611755,
+          "lng": 126.589096
+        }
+      ],
+      "color": "#04c354",
+      "start_name": "일주문",
+      "length_meter": 113.7,
+      "time_minute": 1
+    }
+  ]
+}

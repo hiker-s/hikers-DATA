@@ -1,427 +1,430 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.579224,
-        "lng": 129.028061
-      },
-      {
-        "lat": 35.579929,
-        "lng": 129.028381
-      }
-    ],
-    "color": "#2103ad",
-    "start_name": "버스",
-    "length_meter": 83.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.579929,
-        "lng": 129.028381
-      },
-      {
-        "lat": 35.581112,
-        "lng": 129.026794
-      }
-    ],
-    "color": "#986f71",
-    "start_name": "정자 / 운해",
-    "length_meter": 195.3,
-    "time_minute": 3
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.581112,
-        "lng": 129.026794
-      },
-      {
-        "lat": 35.583763,
-        "lng": 129.024551
-      }
-    ],
-    "color": "#ad0516",
-    "start_name": "야생멧돼지 출몰주의 / 능동산 입구",
-    "length_meter": 362.5,
-    "time_minute": 6
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.583763,
-        "lng": 129.024551
-      },
-      {
-        "lat": 35.584316,
-        "lng": 129.023682
-      }
-    ],
-    "color": "#637052",
-    "start_name": "데크 쉼터",
-    "length_meter": 99.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.584316,
-        "lng": 129.023682
-      },
-      {
-        "lat": 35.584209,
-        "lng": 129.019943
-      }
-    ],
-    "color": "#705652",
-    "start_name": "쉼터",
-    "length_meter": 338.3,
-    "time_minute": 5
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.584209,
-        "lng": 129.019943
-      },
-      {
-        "lat": 35.583649,
-        "lng": 129.018356
-      }
-    ],
-    "color": "#6d4703",
-    "start_name": "갈림길",
-    "length_meter": 156.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.583649,
-        "lng": 129.018356
-      },
-      {
-        "lat": 35.584534,
-        "lng": 129.020279
-      }
-    ],
-    "color": "#621176",
-    "start_name": "능동산",
-    "length_meter": 199.8,
-    "time_minute": 3
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.584534,
-        "lng": 129.020279
-      },
-      {
-        "lat": 35.589939,
-        "lng": 129.022476
-      }
-    ],
-    "color": "#b09e30",
-    "start_name": "쉼터",
-    "length_meter": 633.0,
-    "time_minute": 10
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.589939,
-        "lng": 129.022476
-      },
-      {
-        "lat": 35.592323,
-        "lng": 129.023712
-      }
-    ],
-    "color": "#0393a3",
-    "start_name": "멋진 소나무",
-    "length_meter": 287.7,
-    "time_minute": 4
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.592323,
-        "lng": 129.023712
-      },
-      {
-        "lat": 35.598763,
-        "lng": 129.025269
-      }
-    ],
-    "color": "#194750",
-    "start_name": "소나무",
-    "length_meter": 729.8,
-    "time_minute": 12
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.598763,
-        "lng": 129.025269
-      },
-      {
-        "lat": 35.602299,
-        "lng": 129.02562
-      }
-    ],
-    "color": "#8a8059",
-    "start_name": "격산",
-    "length_meter": 394.5,
-    "time_minute": 6
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.602299,
-        "lng": 129.02562
-      },
-      {
-        "lat": 35.608288,
-        "lng": 129.02298
-      }
-    ],
-    "color": "#61ad6f",
-    "start_name": "입석봉",
-    "length_meter": 707.4,
-    "time_minute": 11
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.608288,
-        "lng": 129.02298
-      },
-      {
-        "lat": 35.608929,
-        "lng": 129.023056
-      }
-    ],
-    "color": "#bcbc6e",
-    "start_name": "갈림길",
-    "length_meter": 71.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.608929,
-        "lng": 129.023056
-      },
-      {
-        "lat": 35.611366,
-        "lng": 129.022034
-      }
-    ],
-    "color": "#bf64bd",
-    "start_name": "중봉 가지산",
-    "length_meter": 286.3,
-    "time_minute": 4
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.611366,
-        "lng": 129.022034
-      },
-      {
-        "lat": 35.612267,
-        "lng": 129.021942
-      }
-    ],
-    "color": "#173c47",
-    "start_name": "갈림길",
-    "length_meter": 100.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.612267,
-        "lng": 129.021942
-      },
-      {
-        "lat": 35.616131,
-        "lng": 129.014145
-      }
-    ],
-    "color": "#576e21",
-    "start_name": "석남터널 위",
-    "length_meter": 825.5,
-    "time_minute": 13
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.616131,
-        "lng": 129.014145
-      },
-      {
-        "lat": 35.619385,
-        "lng": 129.004547
-      }
-    ],
-    "color": "#7b3b74",
-    "start_name": "쉼터",
-    "length_meter": 940.0,
-    "time_minute": 15
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.619385,
-        "lng": 129.004547
-      },
-      {
-        "lat": 35.626816,
-        "lng": 129.007217
-      }
-    ],
-    "color": "#343c7b",
-    "start_name": "쌀바위 상운산 귀바위 / 중봉",
-    "length_meter": 862.1,
-    "time_minute": 14
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 35.626816,
-        "lng": 129.007217
-      },
-      {
-        "lat": 35.633499,
-        "lng": 129.019226
-      }
-    ],
-    "color": "#730b77",
-    "start_name": "조난사고 잦은지역",
-    "length_meter": 1315.4,
-    "time_minute": 21
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 35.633499,
-        "lng": 129.019226
-      },
-      {
-        "lat": 35.635773,
-        "lng": 129.02092
-      }
-    ],
-    "color": "#50324a",
-    "start_name": "갈림길",
-    "length_meter": 295.6,
-    "time_minute": 4
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 35.635773,
-        "lng": 129.02092
-      },
-      {
-        "lat": 35.635857,
-        "lng": 129.024246
-      }
-    ],
-    "color": "#c17667",
-    "start_name": "상운산",
-    "length_meter": 300.7,
-    "time_minute": 5
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 35.635857,
-        "lng": 129.024246
-      },
-      {
-        "lat": 35.635838,
-        "lng": 129.024261
-      }
-    ],
-    "color": "#0c3d65",
-    "start_name": "귀바위",
-    "length_meter": 2.5,
-    "time_minute": 0
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 35.635838,
-        "lng": 129.024261
-      },
-      {
-        "lat": 35.633984,
-        "lng": 129.031555
-      }
-    ],
-    "color": "#bc74c5",
-    "start_name": "영축지맥",
-    "length_meter": 690.7,
-    "time_minute": 11
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 35.633984,
-        "lng": 129.031555
-      },
-      {
-        "lat": 35.618855,
-        "lng": 129.036606
-      }
-    ],
-    "color": "#41bc40",
-    "start_name": "갈림길",
-    "length_meter": 1743.1,
-    "time_minute": 29
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 35.618855,
-        "lng": 129.036606
-      },
-      {
-        "lat": 35.618793,
-        "lng": 129.03743
-      }
-    ],
-    "color": "#882200",
-    "start_name": "부도",
-    "length_meter": 74.8,
-    "time_minute": 1
-  }
-]
+{
+  "max_ele": 1187.76,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.579224,
+          "lng": 129.028061
+        },
+        {
+          "lat": 35.579929,
+          "lng": 129.028381
+        }
+      ],
+      "color": "#12a17c",
+      "start_name": "버스",
+      "length_meter": 83.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.579929,
+          "lng": 129.028381
+        },
+        {
+          "lat": 35.581112,
+          "lng": 129.026794
+        }
+      ],
+      "color": "#557356",
+      "start_name": "정자 / 운해",
+      "length_meter": 195.3,
+      "time_minute": 3
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.581112,
+          "lng": 129.026794
+        },
+        {
+          "lat": 35.583763,
+          "lng": 129.024551
+        }
+      ],
+      "color": "#40a607",
+      "start_name": "야생멧돼지 출몰주의 / 능동산 입구",
+      "length_meter": 362.5,
+      "time_minute": 6
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.583763,
+          "lng": 129.024551
+        },
+        {
+          "lat": 35.584316,
+          "lng": 129.023682
+        }
+      ],
+      "color": "#430244",
+      "start_name": "데크 쉼터",
+      "length_meter": 99.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 35.584316,
+          "lng": 129.023682
+        },
+        {
+          "lat": 35.584209,
+          "lng": 129.019943
+        }
+      ],
+      "color": "#93202a",
+      "start_name": "쉼터",
+      "length_meter": 338.3,
+      "time_minute": 5
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 35.584209,
+          "lng": 129.019943
+        },
+        {
+          "lat": 35.583649,
+          "lng": 129.018356
+        }
+      ],
+      "color": "#ab6b02",
+      "start_name": "갈림길",
+      "length_meter": 156.4,
+      "time_minute": 2
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 35.583649,
+          "lng": 129.018356
+        },
+        {
+          "lat": 35.584534,
+          "lng": 129.020279
+        }
+      ],
+      "color": "#8a8a85",
+      "start_name": "능동산",
+      "length_meter": 199.8,
+      "time_minute": 3
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 35.584534,
+          "lng": 129.020279
+        },
+        {
+          "lat": 35.589939,
+          "lng": 129.022476
+        }
+      ],
+      "color": "#c60923",
+      "start_name": "쉼터",
+      "length_meter": 633.0,
+      "time_minute": 10
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 35.589939,
+          "lng": 129.022476
+        },
+        {
+          "lat": 35.592323,
+          "lng": 129.023712
+        }
+      ],
+      "color": "#695636",
+      "start_name": "멋진 소나무",
+      "length_meter": 287.7,
+      "time_minute": 4
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 35.592323,
+          "lng": 129.023712
+        },
+        {
+          "lat": 35.598763,
+          "lng": 129.025269
+        }
+      ],
+      "color": "#a5a19d",
+      "start_name": "소나무",
+      "length_meter": 729.8,
+      "time_minute": 12
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 35.598763,
+          "lng": 129.025269
+        },
+        {
+          "lat": 35.602299,
+          "lng": 129.02562
+        }
+      ],
+      "color": "#5e9137",
+      "start_name": "격산",
+      "length_meter": 394.5,
+      "time_minute": 6
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 35.602299,
+          "lng": 129.02562
+        },
+        {
+          "lat": 35.608288,
+          "lng": 129.02298
+        }
+      ],
+      "color": "#c6353d",
+      "start_name": "입석봉",
+      "length_meter": 707.4,
+      "time_minute": 11
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 35.608288,
+          "lng": 129.02298
+        },
+        {
+          "lat": 35.608929,
+          "lng": 129.023056
+        }
+      ],
+      "color": "#050913",
+      "start_name": "갈림길",
+      "length_meter": 71.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 35.608929,
+          "lng": 129.023056
+        },
+        {
+          "lat": 35.611366,
+          "lng": 129.022034
+        }
+      ],
+      "color": "#6620af",
+      "start_name": "중봉 가지산",
+      "length_meter": 286.3,
+      "time_minute": 4
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 35.611366,
+          "lng": 129.022034
+        },
+        {
+          "lat": 35.612267,
+          "lng": 129.021942
+        }
+      ],
+      "color": "#65519e",
+      "start_name": "갈림길",
+      "length_meter": 100.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 35.612267,
+          "lng": 129.021942
+        },
+        {
+          "lat": 35.616131,
+          "lng": 129.014145
+        }
+      ],
+      "color": "#5e152f",
+      "start_name": "석남터널 위",
+      "length_meter": 825.5,
+      "time_minute": 13
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 35.616131,
+          "lng": 129.014145
+        },
+        {
+          "lat": 35.619385,
+          "lng": 129.004547
+        }
+      ],
+      "color": "#1393bc",
+      "start_name": "쉼터",
+      "length_meter": 940.0,
+      "time_minute": 15
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 35.619385,
+          "lng": 129.004547
+        },
+        {
+          "lat": 35.626816,
+          "lng": 129.007217
+        }
+      ],
+      "color": "#ac82b8",
+      "start_name": "쌀바위 상운산 귀바위 / 중봉",
+      "length_meter": 862.1,
+      "time_minute": 14
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 35.626816,
+          "lng": 129.007217
+        },
+        {
+          "lat": 35.633499,
+          "lng": 129.019226
+        }
+      ],
+      "color": "#b12f03",
+      "start_name": "조난사고 잦은지역",
+      "length_meter": 1315.4,
+      "time_minute": 21
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 35.633499,
+          "lng": 129.019226
+        },
+        {
+          "lat": 35.635773,
+          "lng": 129.02092
+        }
+      ],
+      "color": "#bc759b",
+      "start_name": "갈림길",
+      "length_meter": 295.6,
+      "time_minute": 4
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 35.635773,
+          "lng": 129.02092
+        },
+        {
+          "lat": 35.635857,
+          "lng": 129.024246
+        }
+      ],
+      "color": "#36422f",
+      "start_name": "상운산",
+      "length_meter": 300.7,
+      "time_minute": 5
+    },
+    {
+      "path_id": 21,
+      "path": [
+        {
+          "lat": 35.635857,
+          "lng": 129.024246
+        },
+        {
+          "lat": 35.635838,
+          "lng": 129.024261
+        }
+      ],
+      "color": "#9f3475",
+      "start_name": "귀바위",
+      "length_meter": 2.5,
+      "time_minute": 0
+    },
+    {
+      "path_id": 22,
+      "path": [
+        {
+          "lat": 35.635838,
+          "lng": 129.024261
+        },
+        {
+          "lat": 35.633984,
+          "lng": 129.031555
+        }
+      ],
+      "color": "#1c154a",
+      "start_name": "영축지맥",
+      "length_meter": 690.7,
+      "time_minute": 11
+    },
+    {
+      "path_id": 23,
+      "path": [
+        {
+          "lat": 35.633984,
+          "lng": 129.031555
+        },
+        {
+          "lat": 35.618855,
+          "lng": 129.036606
+        }
+      ],
+      "color": "#56bc4c",
+      "start_name": "갈림길",
+      "length_meter": 1743.1,
+      "time_minute": 29
+    },
+    {
+      "path_id": 24,
+      "path": [
+        {
+          "lat": 35.618855,
+          "lng": 129.036606
+        },
+        {
+          "lat": 35.618793,
+          "lng": 129.03743
+        }
+      ],
+      "color": "#0fc194",
+      "start_name": "부도",
+      "length_meter": 74.8,
+      "time_minute": 1
+    }
+  ]
+}

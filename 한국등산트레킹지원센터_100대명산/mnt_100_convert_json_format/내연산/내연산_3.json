@@ -1,325 +1,328 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 36.216763,
-        "lng": 129.259689
-      },
-      {
-        "lat": 36.217247,
-        "lng": 129.259323
-      }
-    ],
-    "color": "#741b6e",
-    "start_name": "입구 승용주차장",
-    "length_meter": 63.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 36.217247,
-        "lng": 129.259323
-      },
-      {
-        "lat": 36.218178,
-        "lng": 129.258377
-      }
-    ],
-    "color": "#02b811",
-    "start_name": "장애인전용 주차장",
-    "length_meter": 133.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 36.218178,
-        "lng": 129.258377
-      },
-      {
-        "lat": 36.217659,
-        "lng": 129.260208
-      }
-    ],
-    "color": "#b560b4",
-    "start_name": "수목원 화장실",
-    "length_meter": 174.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 36.217659,
-        "lng": 129.260208
-      },
-      {
-        "lat": 36.216309,
-        "lng": 129.262558
-      }
-    ],
-    "color": "#7170c7",
-    "start_name": "전망대 가는길 입구",
-    "length_meter": 258.8,
-    "time_minute": 4
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 36.216309,
-        "lng": 129.262558
-      },
-      {
-        "lat": 36.217453,
-        "lng": 129.263824
-      }
-    ],
-    "color": "#452911",
-    "start_name": "수목원전망대",
-    "length_meter": 170.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 36.217453,
-        "lng": 129.263824
-      },
-      {
-        "lat": 36.219147,
-        "lng": 129.267319
-      }
-    ],
-    "color": "#a26537",
-    "start_name": "갈림길",
-    "length_meter": 365.8,
-    "time_minute": 6
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 36.219147,
-        "lng": 129.267319
-      },
-      {
-        "lat": 36.225285,
-        "lng": 129.27153
-      }
-    ],
-    "color": "#3e7ab5",
-    "start_name": "삿갓봉 / 갈림길",
-    "length_meter": 781.2,
-    "time_minute": 13
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 36.225285,
-        "lng": 129.27153
-      },
-      {
-        "lat": 36.227318,
-        "lng": 129.270813
-      }
-    ],
-    "color": "#2d84b8",
-    "start_name": "정자쉼터 / 보호수,외솔배기",
-    "length_meter": 235.5,
-    "time_minute": 3
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 36.227318,
-        "lng": 129.270813
-      },
-      {
-        "lat": 36.228905,
-        "lng": 129.27002
-      }
-    ],
-    "color": "#71aa6f",
-    "start_name": "철쭉군락지",
-    "length_meter": 190.3,
-    "time_minute": 3
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 36.228905,
-        "lng": 129.27002
-      },
-      {
-        "lat": 36.238277,
-        "lng": 129.274124
-      }
-    ],
-    "color": "#30826f",
-    "start_name": "참나무군락지",
-    "length_meter": 1105.2,
-    "time_minute": 18
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 36.238277,
-        "lng": 129.274124
-      },
-      {
-        "lat": 36.242138,
-        "lng": 129.277878
-      }
-    ],
-    "color": "#362596",
-    "start_name": "단풍나무군락지",
-    "length_meter": 545.6,
-    "time_minute": 9
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 36.242138,
-        "lng": 129.277878
-      },
-      {
-        "lat": 36.244183,
-        "lng": 129.282364
-      }
-    ],
-    "color": "#b7581d",
-    "start_name": "큰바위와 조망권 / 능선과 벌판 그리고 바위",
-    "length_meter": 467.8,
-    "time_minute": 7
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 36.244183,
-        "lng": 129.282364
-      },
-      {
-        "lat": 36.236198,
-        "lng": 129.269257
-      }
-    ],
-    "color": "#2405a0",
-    "start_name": "우척봉 / 갈림길",
-    "length_meter": 1481.9,
-    "time_minute": 24
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 36.236198,
-        "lng": 129.269257
-      },
-      {
-        "lat": 36.236195,
-        "lng": 129.269196
-      }
-    ],
-    "color": "#596214",
-    "start_name": "쉼터3",
-    "length_meter": 5.5,
-    "time_minute": 0
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 36.236195,
-        "lng": 129.269196
-      },
-      {
-        "lat": 36.230824,
-        "lng": 129.268112
-      }
-    ],
-    "color": "#055183",
-    "start_name": "야생동물 출현",
-    "length_meter": 605.1,
-    "time_minute": 10
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 36.230824,
-        "lng": 129.268112
-      },
-      {
-        "lat": 36.221287,
-        "lng": 129.267776
-      }
-    ],
-    "color": "#a503c6",
-    "start_name": "갈림길",
-    "length_meter": 1060.9,
-    "time_minute": 17
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 36.221287,
-        "lng": 129.267776
-      },
-      {
-        "lat": 36.218876,
-        "lng": 129.26091
-      }
-    ],
-    "color": "#8db66a",
-    "start_name": "정자쉼터 1",
-    "length_meter": 671.7,
-    "time_minute": 11
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 36.218876,
-        "lng": 129.26091
-      },
-      {
-        "lat": 36.21804,
-        "lng": 129.258453
-      }
-    ],
-    "color": "#494b78",
-    "start_name": "정자쉼터",
-    "length_meter": 239.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 36.21804,
-        "lng": 129.258453
-      },
-      {
-        "lat": 36.21735,
-        "lng": 129.259155
-      }
-    ],
-    "color": "#5c7ba3",
-    "start_name": "명상의 숲  쉼터",
-    "length_meter": 99.3,
-    "time_minute": 1
-  }
-]
+{
+  "max_ele": 813.129,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 36.216763,
+          "lng": 129.259689
+        },
+        {
+          "lat": 36.217247,
+          "lng": 129.259323
+        }
+      ],
+      "color": "#7aab2b",
+      "start_name": "입구 승용주차장",
+      "length_meter": 63.0,
+      "time_minute": 1
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 36.217247,
+          "lng": 129.259323
+        },
+        {
+          "lat": 36.218178,
+          "lng": 129.258377
+        }
+      ],
+      "color": "#77c428",
+      "start_name": "장애인전용 주차장",
+      "length_meter": 133.9,
+      "time_minute": 2
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 36.218178,
+          "lng": 129.258377
+        },
+        {
+          "lat": 36.217659,
+          "lng": 129.260208
+        }
+      ],
+      "color": "#9a4158",
+      "start_name": "수목원 화장실",
+      "length_meter": 174.1,
+      "time_minute": 2
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 36.217659,
+          "lng": 129.260208
+        },
+        {
+          "lat": 36.216309,
+          "lng": 129.262558
+        }
+      ],
+      "color": "#291b68",
+      "start_name": "전망대 가는길 입구",
+      "length_meter": 258.8,
+      "time_minute": 4
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 36.216309,
+          "lng": 129.262558
+        },
+        {
+          "lat": 36.217453,
+          "lng": 129.263824
+        }
+      ],
+      "color": "#701141",
+      "start_name": "수목원전망대",
+      "length_meter": 170.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 36.217453,
+          "lng": 129.263824
+        },
+        {
+          "lat": 36.219147,
+          "lng": 129.267319
+        }
+      ],
+      "color": "#6ab097",
+      "start_name": "갈림길",
+      "length_meter": 365.8,
+      "time_minute": 6
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 36.219147,
+          "lng": 129.267319
+        },
+        {
+          "lat": 36.225285,
+          "lng": 129.27153
+        }
+      ],
+      "color": "#ad3b8a",
+      "start_name": "삿갓봉 / 갈림길",
+      "length_meter": 781.2,
+      "time_minute": 13
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 36.225285,
+          "lng": 129.27153
+        },
+        {
+          "lat": 36.227318,
+          "lng": 129.270813
+        }
+      ],
+      "color": "#4d4779",
+      "start_name": "정자쉼터 / 보호수,외솔배기",
+      "length_meter": 235.5,
+      "time_minute": 3
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 36.227318,
+          "lng": 129.270813
+        },
+        {
+          "lat": 36.228905,
+          "lng": 129.27002
+        }
+      ],
+      "color": "#4e69ac",
+      "start_name": "철쭉군락지",
+      "length_meter": 190.3,
+      "time_minute": 3
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 36.228905,
+          "lng": 129.27002
+        },
+        {
+          "lat": 36.238277,
+          "lng": 129.274124
+        }
+      ],
+      "color": "#ad19a3",
+      "start_name": "참나무군락지",
+      "length_meter": 1105.2,
+      "time_minute": 18
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 36.238277,
+          "lng": 129.274124
+        },
+        {
+          "lat": 36.242138,
+          "lng": 129.277878
+        }
+      ],
+      "color": "#063511",
+      "start_name": "단풍나무군락지",
+      "length_meter": 545.6,
+      "time_minute": 9
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 36.242138,
+          "lng": 129.277878
+        },
+        {
+          "lat": 36.244183,
+          "lng": 129.282364
+        }
+      ],
+      "color": "#a01b43",
+      "start_name": "큰바위와 조망권 / 능선과 벌판 그리고 바위",
+      "length_meter": 467.8,
+      "time_minute": 7
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 36.244183,
+          "lng": 129.282364
+        },
+        {
+          "lat": 36.236198,
+          "lng": 129.269257
+        }
+      ],
+      "color": "#138bbc",
+      "start_name": "우척봉 / 갈림길",
+      "length_meter": 1481.9,
+      "time_minute": 24
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 36.236198,
+          "lng": 129.269257
+        },
+        {
+          "lat": 36.236195,
+          "lng": 129.269196
+        }
+      ],
+      "color": "#1d6815",
+      "start_name": "쉼터3",
+      "length_meter": 5.5,
+      "time_minute": 0
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 36.236195,
+          "lng": 129.269196
+        },
+        {
+          "lat": 36.230824,
+          "lng": 129.268112
+        }
+      ],
+      "color": "#06363c",
+      "start_name": "야생동물 출현",
+      "length_meter": 605.1,
+      "time_minute": 10
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 36.230824,
+          "lng": 129.268112
+        },
+        {
+          "lat": 36.221287,
+          "lng": 129.267776
+        }
+      ],
+      "color": "#c69560",
+      "start_name": "갈림길",
+      "length_meter": 1060.9,
+      "time_minute": 17
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 36.221287,
+          "lng": 129.267776
+        },
+        {
+          "lat": 36.218876,
+          "lng": 129.26091
+        }
+      ],
+      "color": "#50b215",
+      "start_name": "정자쉼터 1",
+      "length_meter": 671.7,
+      "time_minute": 11
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 36.218876,
+          "lng": 129.26091
+        },
+        {
+          "lat": 36.21804,
+          "lng": 129.258453
+        }
+      ],
+      "color": "#8abc48",
+      "start_name": "정자쉼터",
+      "length_meter": 239.2,
+      "time_minute": 3
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 36.21804,
+          "lng": 129.258453
+        },
+        {
+          "lat": 36.21735,
+          "lng": 129.259155
+        }
+      ],
+      "color": "#ad4a9a",
+      "start_name": "명상의 숲  쉼터",
+      "length_meter": 99.3,
+      "time_minute": 1
+    }
+  ]
+}

@@ -1,104 +1,107 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.76638,
-        "lng": 128.611435
-      },
-      {
-        "lat": 37.765766,
-        "lng": 128.611771
-      }
-    ],
-    "color": "#b46733",
-    "start_name": "진고개탐방지원센터 / 오대산 진고개훠게소 주차장",
-    "length_meter": 76.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.765766,
-        "lng": 128.611771
-      },
-      {
-        "lat": 37.766354,
-        "lng": 128.61145
-      }
-    ],
-    "color": "#279201",
-    "start_name": "진고개정상휴게소",
-    "length_meter": 71.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.766354,
-        "lng": 128.61145
-      },
-      {
-        "lat": 37.773502,
-        "lng": 128.59903
-      }
-    ],
-    "color": "#620c3a",
-    "start_name": "진고개화장실",
-    "length_meter": 1350.4,
-    "time_minute": 22
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.773502,
-        "lng": 128.59903
-      },
-      {
-        "lat": 37.774097,
-        "lng": 128.599045
-      }
-    ],
-    "color": "#18b5ba",
-    "start_name": "갈림길",
-    "length_meter": 66.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.774097,
-        "lng": 128.599045
-      },
-      {
-        "lat": 37.771961,
-        "lng": 128.58812
-      }
-    ],
-    "color": "#b12a9d",
-    "start_name": "동대산 정상 / 갈림길",
-    "length_meter": 1003.2,
-    "time_minute": 16
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.771961,
-        "lng": 128.58812
-      },
-      {
-        "lat": 37.770325,
-        "lng": 128.577057
-      }
-    ],
-    "color": "#401b5c",
-    "start_name": "오대산 단풍",
-    "length_meter": 989.3,
-    "time_minute": 16
-  }
-]
+{
+  "max_ele": 1457.957,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.76638,
+          "lng": 128.611435
+        },
+        {
+          "lat": 37.765766,
+          "lng": 128.611771
+        }
+      ],
+      "color": "#a2152d",
+      "start_name": "진고개탐방지원센터 / 오대산 진고개훠게소 주차장",
+      "length_meter": 76.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.765766,
+          "lng": 128.611771
+        },
+        {
+          "lat": 37.766354,
+          "lng": 128.61145
+        }
+      ],
+      "color": "#9b9cb1",
+      "start_name": "진고개정상휴게소",
+      "length_meter": 71.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.766354,
+          "lng": 128.61145
+        },
+        {
+          "lat": 37.773502,
+          "lng": 128.59903
+        }
+      ],
+      "color": "#0b4d7c",
+      "start_name": "진고개화장실",
+      "length_meter": 1350.4,
+      "time_minute": 22
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.773502,
+          "lng": 128.59903
+        },
+        {
+          "lat": 37.774097,
+          "lng": 128.599045
+        }
+      ],
+      "color": "#41a075",
+      "start_name": "갈림길",
+      "length_meter": 66.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.774097,
+          "lng": 128.599045
+        },
+        {
+          "lat": 37.771961,
+          "lng": 128.58812
+        }
+      ],
+      "color": "#88184e",
+      "start_name": "동대산 정상 / 갈림길",
+      "length_meter": 1003.2,
+      "time_minute": 16
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.771961,
+          "lng": 128.58812
+        },
+        {
+          "lat": 37.770325,
+          "lng": 128.577057
+        }
+      ],
+      "color": "#b46fbb",
+      "start_name": "오대산 단풍",
+      "length_meter": 989.3,
+      "time_minute": 16
+    }
+  ]
+}

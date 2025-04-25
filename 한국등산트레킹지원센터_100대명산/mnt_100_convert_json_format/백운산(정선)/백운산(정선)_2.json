@@ -1,223 +1,226 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.278713,
-        "lng": 128.57634
-      },
-      {
-        "lat": 37.278931,
-        "lng": 128.576447
-      }
-    ],
-    "color": "#ae7eba",
-    "start_name": "마하(백룡동굴) / 백룡동굴탐방센터 야외 화장실 / 백룡동굴탐방센터 / 백운산 등산안내도",
-    "length_meter": 116.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.278931,
-        "lng": 128.576447
-      },
-      {
-        "lat": 37.279968,
-        "lng": 128.579514
-      }
-    ],
-    "color": "#267c08",
-    "start_name": "문희마을",
-    "length_meter": 294.8,
-    "time_minute": 4
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.279968,
-        "lng": 128.579514
-      },
-      {
-        "lat": 37.285625,
-        "lng": 128.584976
-      }
-    ],
-    "color": "#8ec470",
-    "start_name": "백운산 등산코스 안내도",
-    "length_meter": 793.2,
-    "time_minute": 13
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.285625,
-        "lng": 128.584976
-      },
-      {
-        "lat": 37.289768,
-        "lng": 128.586365
-      }
-    ],
-    "color": "#21899c",
-    "start_name": "사각돌",
-    "length_meter": 476.8,
-    "time_minute": 7
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.289768,
-        "lng": 128.586365
-      },
-      {
-        "lat": 37.289295,
-        "lng": 128.589523
-      }
-    ],
-    "color": "#1dc50b",
-    "start_name": "이정목",
-    "length_meter": 284.3,
-    "time_minute": 4
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.289295,
-        "lng": 128.589523
-      },
-      {
-        "lat": 37.298729,
-        "lng": 128.579163
-      }
-    ],
-    "color": "#647806",
-    "start_name": "갈림길",
-    "length_meter": 1392.9,
-    "time_minute": 23
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.298729,
-        "lng": 128.579163
-      },
-      {
-        "lat": 37.291172,
-        "lng": 128.588837
-      }
-    ],
-    "color": "#78447d",
-    "start_name": "푯대봉 삼각점 / 푯대봉",
-    "length_meter": 1200.0,
-    "time_minute": 19
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.291172,
-        "lng": 128.588837
-      },
-      {
-        "lat": 37.288483,
-        "lng": 128.590073
-      }
-    ],
-    "color": "#57b00d",
-    "start_name": "소나무 군락",
-    "length_meter": 318.4,
-    "time_minute": 5
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.288483,
-        "lng": 128.590073
-      },
-      {
-        "lat": 37.282177,
-        "lng": 128.596298
-      }
-    ],
-    "color": "#a63a0f",
-    "start_name": "잣나무 식립지",
-    "length_meter": 891.6,
-    "time_minute": 14
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.282177,
-        "lng": 128.596298
-      },
-      {
-        "lat": 37.280018,
-        "lng": 128.596085
-      }
-    ],
-    "color": "#24663f",
-    "start_name": "추락위험",
-    "length_meter": 240.8,
-    "time_minute": 4
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.280018,
-        "lng": 128.596085
-      },
-      {
-        "lat": 37.279705,
-        "lng": 128.594208
-      }
-    ],
-    "color": "#87730c",
-    "start_name": "백운산",
-    "length_meter": 169.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.279705,
-        "lng": 128.594208
-      },
-      {
-        "lat": 37.280819,
-        "lng": 128.593018
-      }
-    ],
-    "color": "#a4947e",
-    "start_name": "갈림길",
-    "length_meter": 162.6,
-    "time_minute": 2
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.280819,
-        "lng": 128.593018
-      },
-      {
-        "lat": 37.281342,
-        "lng": 128.582901
-      }
-    ],
-    "color": "#90a447",
-    "start_name": "아정표",
-    "length_meter": 897.0,
-    "time_minute": 14
-  }
-]
+{
+  "max_ele": 988.364,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.278713,
+          "lng": 128.57634
+        },
+        {
+          "lat": 37.278931,
+          "lng": 128.576447
+        }
+      ],
+      "color": "#bd2d22",
+      "start_name": "마하(백룡동굴) / 백룡동굴탐방센터 야외 화장실 / 백룡동굴탐방센터 / 백운산 등산안내도",
+      "length_meter": 116.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.278931,
+          "lng": 128.576447
+        },
+        {
+          "lat": 37.279968,
+          "lng": 128.579514
+        }
+      ],
+      "color": "#843104",
+      "start_name": "문희마을",
+      "length_meter": 294.8,
+      "time_minute": 4
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.279968,
+          "lng": 128.579514
+        },
+        {
+          "lat": 37.285625,
+          "lng": 128.584976
+        }
+      ],
+      "color": "#c5a04c",
+      "start_name": "백운산 등산코스 안내도",
+      "length_meter": 793.2,
+      "time_minute": 13
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.285625,
+          "lng": 128.584976
+        },
+        {
+          "lat": 37.289768,
+          "lng": 128.586365
+        }
+      ],
+      "color": "#28911d",
+      "start_name": "사각돌",
+      "length_meter": 476.8,
+      "time_minute": 7
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.289768,
+          "lng": 128.586365
+        },
+        {
+          "lat": 37.289295,
+          "lng": 128.589523
+        }
+      ],
+      "color": "#778944",
+      "start_name": "이정목",
+      "length_meter": 284.3,
+      "time_minute": 4
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.289295,
+          "lng": 128.589523
+        },
+        {
+          "lat": 37.298729,
+          "lng": 128.579163
+        }
+      ],
+      "color": "#c126a9",
+      "start_name": "갈림길",
+      "length_meter": 1392.9,
+      "time_minute": 23
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.298729,
+          "lng": 128.579163
+        },
+        {
+          "lat": 37.291172,
+          "lng": 128.588837
+        }
+      ],
+      "color": "#72833a",
+      "start_name": "푯대봉 삼각점 / 푯대봉",
+      "length_meter": 1200.0,
+      "time_minute": 19
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.291172,
+          "lng": 128.588837
+        },
+        {
+          "lat": 37.288483,
+          "lng": 128.590073
+        }
+      ],
+      "color": "#74298f",
+      "start_name": "소나무 군락",
+      "length_meter": 318.4,
+      "time_minute": 5
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 37.288483,
+          "lng": 128.590073
+        },
+        {
+          "lat": 37.282177,
+          "lng": 128.596298
+        }
+      ],
+      "color": "#112125",
+      "start_name": "잣나무 식립지",
+      "length_meter": 891.6,
+      "time_minute": 14
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 37.282177,
+          "lng": 128.596298
+        },
+        {
+          "lat": 37.280018,
+          "lng": 128.596085
+        }
+      ],
+      "color": "#355434",
+      "start_name": "추락위험",
+      "length_meter": 240.8,
+      "time_minute": 4
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 37.280018,
+          "lng": 128.596085
+        },
+        {
+          "lat": 37.279705,
+          "lng": 128.594208
+        }
+      ],
+      "color": "#547246",
+      "start_name": "백운산",
+      "length_meter": 169.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 37.279705,
+          "lng": 128.594208
+        },
+        {
+          "lat": 37.280819,
+          "lng": 128.593018
+        }
+      ],
+      "color": "#9eb2a5",
+      "start_name": "갈림길",
+      "length_meter": 162.6,
+      "time_minute": 2
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 37.280819,
+          "lng": 128.593018
+        },
+        {
+          "lat": 37.281342,
+          "lng": 128.582901
+        }
+      ],
+      "color": "#570c33",
+      "start_name": "아정표",
+      "length_meter": 897.0,
+      "time_minute": 14
+    }
+  ]
+}

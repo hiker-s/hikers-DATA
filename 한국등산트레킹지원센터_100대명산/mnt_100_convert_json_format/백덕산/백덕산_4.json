@@ -1,410 +1,413 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.38179,
-        "lng": 128.270859
-      },
-      {
-        "lat": 37.382919,
-        "lng": 128.270416
-      }
-    ],
-    "color": "#008942",
-    "start_name": "영월공영 행복버스 / 간이화장실",
-    "length_meter": 132.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.382919,
-        "lng": 128.270416
-      },
-      {
-        "lat": 37.383118,
-        "lng": 128.271194
-      }
-    ],
-    "color": "#9a208a",
-    "start_name": "흥원사",
-    "length_meter": 72.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.383118,
-        "lng": 128.271194
-      },
-      {
-        "lat": 37.389198,
-        "lng": 128.270813
-      }
-    ],
-    "color": "#779904",
-    "start_name": "백덕산등산로 입구, 흥원사",
-    "length_meter": 676.9,
-    "time_minute": 11
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.389198,
-        "lng": 128.270813
-      },
-      {
-        "lat": 37.390495,
-        "lng": 128.271454
-      }
-    ],
-    "color": "#36ad56",
-    "start_name": "설통바위",
-    "length_meter": 154.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.390495,
-        "lng": 128.271454
-      },
-      {
-        "lat": 37.390942,
-        "lng": 128.272949
-      }
-    ],
-    "color": "#795d26",
-    "start_name": "갈림길",
-    "length_meter": 141.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.390942,
-        "lng": 128.272949
-      },
-      {
-        "lat": 37.394619,
-        "lng": 128.278412
-      }
-    ],
-    "color": "#2a22a8",
-    "start_name": "재단터",
-    "length_meter": 632.5,
-    "time_minute": 10
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.394619,
-        "lng": 128.278412
-      },
-      {
-        "lat": 37.397178,
-        "lng": 128.282506
-      }
-    ],
-    "color": "#7823b4",
-    "start_name": "전망대 / 웨이포인트 9",
-    "length_meter": 462.2,
-    "time_minute": 7
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.397178,
-        "lng": 128.282506
-      },
-      {
-        "lat": 37.397091,
-        "lng": 128.283599
-      }
-    ],
-    "color": "#bec39c",
-    "start_name": "웨이포인트 10",
-    "length_meter": 97.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.397091,
-        "lng": 128.283599
-      },
-      {
-        "lat": 37.396992,
-        "lng": 128.285797
-      }
-    ],
-    "color": "#220815",
-    "start_name": "웨이포인트 11",
-    "length_meter": 194.5,
-    "time_minute": 3
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.396992,
-        "lng": 128.285797
-      },
-      {
-        "lat": 37.397186,
-        "lng": 128.291504
-      }
-    ],
-    "color": "#6e2e0e",
-    "start_name": "낙타바위 전망대",
-    "length_meter": 504.6,
-    "time_minute": 8
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.397186,
-        "lng": 128.291504
-      },
-      {
-        "lat": 37.396717,
-        "lng": 128.291611
-      }
-    ],
-    "color": "#2715bb",
-    "start_name": "용바위",
-    "length_meter": 53.0,
-    "time_minute": 0
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.396717,
-        "lng": 128.291611
-      },
-      {
-        "lat": 37.396553,
-        "lng": 128.29332
-      }
-    ],
-    "color": "#0e5717",
-    "start_name": "백덕산정상  가기 전 바위",
-    "length_meter": 152.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.396553,
-        "lng": 128.29332
-      },
-      {
-        "lat": 37.394449,
-        "lng": 128.294478
-      }
-    ],
-    "color": "#47084a",
-    "start_name": "갈림길 / 백덕산정상",
-    "length_meter": 257.3,
-    "time_minute": 4
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.394449,
-        "lng": 128.294478
-      },
-      {
-        "lat": 37.389374,
-        "lng": 128.297348
-      }
-    ],
-    "color": "#a7a424",
-    "start_name": "웨이포인트 18",
-    "length_meter": 618.7,
-    "time_minute": 10
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 37.389374,
-        "lng": 128.297348
-      },
-      {
-        "lat": 37.389271,
-        "lng": 128.298004
-      }
-    ],
-    "color": "#824e2b",
-    "start_name": "갈림길 / 웨이포인트 20",
-    "length_meter": 59.1,
-    "time_minute": 0
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.389271,
-        "lng": 128.298004
-      },
-      {
-        "lat": 37.388203,
-        "lng": 128.297043
-      }
-    ],
-    "color": "#2024b4",
-    "start_name": "부부바위전망대",
-    "length_meter": 146.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 37.388203,
-        "lng": 128.297043
-      },
-      {
-        "lat": 37.387161,
-        "lng": 128.296616
-      }
-    ],
-    "color": "#b8aa37",
-    "start_name": "갈림길 / 촛대바위",
-    "length_meter": 123.2,
-    "time_minute": 2
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 37.387161,
-        "lng": 128.296616
-      },
-      {
-        "lat": 37.381641,
-        "lng": 128.295441
-      }
-    ],
-    "color": "#7e1b57",
-    "start_name": "급경사",
-    "length_meter": 622.5,
-    "time_minute": 10
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 37.381641,
-        "lng": 128.295441
-      },
-      {
-        "lat": 37.381226,
-        "lng": 128.294876
-      }
-    ],
-    "color": "#8e4403",
-    "start_name": "갈림길",
-    "length_meter": 68.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 37.381226,
-        "lng": 128.294876
-      },
-      {
-        "lat": 37.380932,
-        "lng": 128.294818
-      }
-    ],
-    "color": "#c14598",
-    "start_name": "신선바위가기전 전망대 / 웨이포인트 27 / 위험구간 / 신선바위",
-    "length_meter": 38.6,
-    "time_minute": 0
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 37.380932,
-        "lng": 128.294818
-      },
-      {
-        "lat": 37.380371,
-        "lng": 128.294556
-      }
-    ],
-    "color": "#8e505e",
-    "start_name": "웨이포인트 30",
-    "length_meter": 66.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 37.380371,
-        "lng": 128.294556
-      },
-      {
-        "lat": 37.380817,
-        "lng": 128.281433
-      }
-    ],
-    "color": "#c22f64",
-    "start_name": "갈림길 / 웨이포인트 32",
-    "length_meter": 1162.3,
-    "time_minute": 19
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 37.380817,
-        "lng": 128.281433
-      },
-      {
-        "lat": 37.382191,
-        "lng": 128.271088
-      }
-    ],
-    "color": "#ba3541",
-    "start_name": "흥원사 대략 1Km전",
-    "length_meter": 926.7,
-    "time_minute": 15
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 37.382191,
-        "lng": 128.271088
-      },
-      {
-        "lat": 37.382029,
-        "lng": 128.270746
-      }
-    ],
-    "color": "#541c3b",
-    "start_name": "갈림길 / 백덕산등산로입구, 백년계곡",
-    "length_meter": 40.1,
-    "time_minute": 0
-  }
-]
+{
+  "max_ele": 1359.866,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.38179,
+          "lng": 128.270859
+        },
+        {
+          "lat": 37.382919,
+          "lng": 128.270416
+        }
+      ],
+      "color": "#44604d",
+      "start_name": "영월공영 행복버스 / 간이화장실",
+      "length_meter": 132.1,
+      "time_minute": 2
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.382919,
+          "lng": 128.270416
+        },
+        {
+          "lat": 37.383118,
+          "lng": 128.271194
+        }
+      ],
+      "color": "#8ebc37",
+      "start_name": "흥원사",
+      "length_meter": 72.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.383118,
+          "lng": 128.271194
+        },
+        {
+          "lat": 37.389198,
+          "lng": 128.270813
+        }
+      ],
+      "color": "#7f9a98",
+      "start_name": "백덕산등산로 입구, 흥원사",
+      "length_meter": 676.9,
+      "time_minute": 11
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.389198,
+          "lng": 128.270813
+        },
+        {
+          "lat": 37.390495,
+          "lng": 128.271454
+        }
+      ],
+      "color": "#7759ac",
+      "start_name": "설통바위",
+      "length_meter": 154.9,
+      "time_minute": 2
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.390495,
+          "lng": 128.271454
+        },
+        {
+          "lat": 37.390942,
+          "lng": 128.272949
+        }
+      ],
+      "color": "#759ca2",
+      "start_name": "갈림길",
+      "length_meter": 141.1,
+      "time_minute": 2
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.390942,
+          "lng": 128.272949
+        },
+        {
+          "lat": 37.394619,
+          "lng": 128.278412
+        }
+      ],
+      "color": "#b32c60",
+      "start_name": "재단터",
+      "length_meter": 632.5,
+      "time_minute": 10
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.394619,
+          "lng": 128.278412
+        },
+        {
+          "lat": 37.397178,
+          "lng": 128.282506
+        }
+      ],
+      "color": "#876cb4",
+      "start_name": "전망대 / 웨이포인트 9",
+      "length_meter": 462.2,
+      "time_minute": 7
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.397178,
+          "lng": 128.282506
+        },
+        {
+          "lat": 37.397091,
+          "lng": 128.283599
+        }
+      ],
+      "color": "#787d7b",
+      "start_name": "웨이포인트 10",
+      "length_meter": 97.0,
+      "time_minute": 1
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 37.397091,
+          "lng": 128.283599
+        },
+        {
+          "lat": 37.396992,
+          "lng": 128.285797
+        }
+      ],
+      "color": "#67be00",
+      "start_name": "웨이포인트 11",
+      "length_meter": 194.5,
+      "time_minute": 3
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 37.396992,
+          "lng": 128.285797
+        },
+        {
+          "lat": 37.397186,
+          "lng": 128.291504
+        }
+      ],
+      "color": "#801c4d",
+      "start_name": "낙타바위 전망대",
+      "length_meter": 504.6,
+      "time_minute": 8
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 37.397186,
+          "lng": 128.291504
+        },
+        {
+          "lat": 37.396717,
+          "lng": 128.291611
+        }
+      ],
+      "color": "#b057ba",
+      "start_name": "용바위",
+      "length_meter": 53.0,
+      "time_minute": 0
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 37.396717,
+          "lng": 128.291611
+        },
+        {
+          "lat": 37.396553,
+          "lng": 128.29332
+        }
+      ],
+      "color": "#bf8a0d",
+      "start_name": "백덕산정상  가기 전 바위",
+      "length_meter": 152.1,
+      "time_minute": 2
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 37.396553,
+          "lng": 128.29332
+        },
+        {
+          "lat": 37.394449,
+          "lng": 128.294478
+        }
+      ],
+      "color": "#41bfbd",
+      "start_name": "갈림길 / 백덕산정상",
+      "length_meter": 257.3,
+      "time_minute": 4
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 37.394449,
+          "lng": 128.294478
+        },
+        {
+          "lat": 37.389374,
+          "lng": 128.297348
+        }
+      ],
+      "color": "#1b9991",
+      "start_name": "웨이포인트 18",
+      "length_meter": 618.7,
+      "time_minute": 10
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 37.389374,
+          "lng": 128.297348
+        },
+        {
+          "lat": 37.389271,
+          "lng": 128.298004
+        }
+      ],
+      "color": "#467eb1",
+      "start_name": "갈림길 / 웨이포인트 20",
+      "length_meter": 59.1,
+      "time_minute": 0
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 37.389271,
+          "lng": 128.298004
+        },
+        {
+          "lat": 37.388203,
+          "lng": 128.297043
+        }
+      ],
+      "color": "#1786a3",
+      "start_name": "부부바위전망대",
+      "length_meter": 146.0,
+      "time_minute": 2
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 37.388203,
+          "lng": 128.297043
+        },
+        {
+          "lat": 37.387161,
+          "lng": 128.296616
+        }
+      ],
+      "color": "#b04635",
+      "start_name": "갈림길 / 촛대바위",
+      "length_meter": 123.2,
+      "time_minute": 2
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 37.387161,
+          "lng": 128.296616
+        },
+        {
+          "lat": 37.381641,
+          "lng": 128.295441
+        }
+      ],
+      "color": "#121d4b",
+      "start_name": "급경사",
+      "length_meter": 622.5,
+      "time_minute": 10
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 37.381641,
+          "lng": 128.295441
+        },
+        {
+          "lat": 37.381226,
+          "lng": 128.294876
+        }
+      ],
+      "color": "#611852",
+      "start_name": "갈림길",
+      "length_meter": 68.0,
+      "time_minute": 1
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 37.381226,
+          "lng": 128.294876
+        },
+        {
+          "lat": 37.380932,
+          "lng": 128.294818
+        }
+      ],
+      "color": "#732346",
+      "start_name": "신선바위가기전 전망대 / 웨이포인트 27 / 위험구간 / 신선바위",
+      "length_meter": 38.6,
+      "time_minute": 0
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 37.380932,
+          "lng": 128.294818
+        },
+        {
+          "lat": 37.380371,
+          "lng": 128.294556
+        }
+      ],
+      "color": "#8da804",
+      "start_name": "웨이포인트 30",
+      "length_meter": 66.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 21,
+      "path": [
+        {
+          "lat": 37.380371,
+          "lng": 128.294556
+        },
+        {
+          "lat": 37.380817,
+          "lng": 128.281433
+        }
+      ],
+      "color": "#ac890a",
+      "start_name": "갈림길 / 웨이포인트 32",
+      "length_meter": 1162.3,
+      "time_minute": 19
+    },
+    {
+      "path_id": 22,
+      "path": [
+        {
+          "lat": 37.380817,
+          "lng": 128.281433
+        },
+        {
+          "lat": 37.382191,
+          "lng": 128.271088
+        }
+      ],
+      "color": "#000371",
+      "start_name": "흥원사 대략 1Km전",
+      "length_meter": 926.7,
+      "time_minute": 15
+    },
+    {
+      "path_id": 23,
+      "path": [
+        {
+          "lat": 37.382191,
+          "lng": 128.271088
+        },
+        {
+          "lat": 37.382029,
+          "lng": 128.270746
+        }
+      ],
+      "color": "#74b332",
+      "start_name": "갈림길 / 백덕산등산로입구, 백년계곡",
+      "length_meter": 40.1,
+      "time_minute": 0
+    }
+  ]
+}

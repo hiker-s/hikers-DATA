@@ -1,189 +1,192 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.999935,
-        "lng": 128.685852
-      },
-      {
-        "lat": 36.003117,
-        "lng": 128.689087
-      }
-    ],
-    "color": "#159128",
-    "start_name": "쉼터 / 수릉봉산계 표석",
-    "length_meter": 458.4,
-    "time_minute": 7
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 36.003117,
-        "lng": 128.689087
-      },
-      {
-        "lat": 36.004898,
-        "lng": 128.690155
-      }
-    ],
-    "color": "#8ab22f",
-    "start_name": "쉼터",
-    "length_meter": 220.1,
-    "time_minute": 3
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 36.004898,
-        "lng": 128.690155
-      },
-      {
-        "lat": 36.005848,
-        "lng": 128.690628
-      }
-    ],
-    "color": "#17863b",
-    "start_name": "암벽",
-    "length_meter": 113.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 36.005848,
-        "lng": 128.690628
-      },
-      {
-        "lat": 36.006325,
-        "lng": 128.690399
-      }
-    ],
-    "color": "#093a6c",
-    "start_name": "암벽등반 사고 위험지역 / 갈림길 / 폭포",
-    "length_meter": 62.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 36.006325,
-        "lng": 128.690399
-      },
-      {
-        "lat": 36.007866,
-        "lng": 128.690186
-      }
-    ],
-    "color": "#584a4e",
-    "start_name": "절벽 위험 주의",
-    "length_meter": 172.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 36.007866,
-        "lng": 128.690186
-      },
-      {
-        "lat": 36.011555,
-        "lng": 128.692841
-      }
-    ],
-    "color": "#aa1b78",
-    "start_name": "고목나무 의자",
-    "length_meter": 474.7,
-    "time_minute": 7
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 36.011555,
-        "lng": 128.692841
-      },
-      {
-        "lat": 36.014374,
-        "lng": 128.68869
-      }
-    ],
-    "color": "#472703",
-    "start_name": "갈림길",
-    "length_meter": 487.5,
-    "time_minute": 8
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 36.014374,
-        "lng": 128.68869
-      },
-      {
-        "lat": 36.013855,
-        "lng": 128.672836
-      }
-    ],
-    "color": "#311172",
-    "start_name": "정상이 보이는 곳",
-    "length_meter": 1427.1,
-    "time_minute": 23
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 36.013855,
-        "lng": 128.672836
-      },
-      {
-        "lat": 36.014133,
-        "lng": 128.668472
-      }
-    ],
-    "color": "#a34550",
-    "start_name": "정상이 보이는 자리 / 팔공산 능선",
-    "length_meter": 394.1,
-    "time_minute": 6
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 36.014133,
-        "lng": 128.668472
-      },
-      {
-        "lat": 36.014145,
-        "lng": 128.667938
-      }
-    ],
-    "color": "#b1a1b0",
-    "start_name": "마을 풍경 / 기이암석",
-    "length_meter": 48.1,
-    "time_minute": 0
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 36.014145,
-        "lng": 128.667938
-      },
-      {
-        "lat": 36.0112,
-        "lng": 128.665054
-      }
-    ],
-    "color": "#1c6125",
-    "start_name": "가마바위봉",
-    "length_meter": 417.8,
-    "time_minute": 6
-  }
-]
+{
+  "max_ele": 1147.49,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.999935,
+          "lng": 128.685852
+        },
+        {
+          "lat": 36.003117,
+          "lng": 128.689087
+        }
+      ],
+      "color": "#97b535",
+      "start_name": "쉼터 / 수릉봉산계 표석",
+      "length_meter": 458.4,
+      "time_minute": 7
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 36.003117,
+          "lng": 128.689087
+        },
+        {
+          "lat": 36.004898,
+          "lng": 128.690155
+        }
+      ],
+      "color": "#5bc740",
+      "start_name": "쉼터",
+      "length_meter": 220.1,
+      "time_minute": 3
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 36.004898,
+          "lng": 128.690155
+        },
+        {
+          "lat": 36.005848,
+          "lng": 128.690628
+        }
+      ],
+      "color": "#bc09ae",
+      "start_name": "암벽",
+      "length_meter": 113.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 36.005848,
+          "lng": 128.690628
+        },
+        {
+          "lat": 36.006325,
+          "lng": 128.690399
+        }
+      ],
+      "color": "#2b910d",
+      "start_name": "암벽등반 사고 위험지역 / 갈림길 / 폭포",
+      "length_meter": 62.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 36.006325,
+          "lng": 128.690399
+        },
+        {
+          "lat": 36.007866,
+          "lng": 128.690186
+        }
+      ],
+      "color": "#931361",
+      "start_name": "절벽 위험 주의",
+      "length_meter": 172.4,
+      "time_minute": 2
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 36.007866,
+          "lng": 128.690186
+        },
+        {
+          "lat": 36.011555,
+          "lng": 128.692841
+        }
+      ],
+      "color": "#095876",
+      "start_name": "고목나무 의자",
+      "length_meter": 474.7,
+      "time_minute": 7
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 36.011555,
+          "lng": 128.692841
+        },
+        {
+          "lat": 36.014374,
+          "lng": 128.68869
+        }
+      ],
+      "color": "#6d6135",
+      "start_name": "갈림길",
+      "length_meter": 487.5,
+      "time_minute": 8
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 36.014374,
+          "lng": 128.68869
+        },
+        {
+          "lat": 36.013855,
+          "lng": 128.672836
+        }
+      ],
+      "color": "#57c06d",
+      "start_name": "정상이 보이는 곳",
+      "length_meter": 1427.1,
+      "time_minute": 23
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 36.013855,
+          "lng": 128.672836
+        },
+        {
+          "lat": 36.014133,
+          "lng": 128.668472
+        }
+      ],
+      "color": "#975368",
+      "start_name": "정상이 보이는 자리 / 팔공산 능선",
+      "length_meter": 394.1,
+      "time_minute": 6
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 36.014133,
+          "lng": 128.668472
+        },
+        {
+          "lat": 36.014145,
+          "lng": 128.667938
+        }
+      ],
+      "color": "#747a72",
+      "start_name": "마을 풍경 / 기이암석",
+      "length_meter": 48.1,
+      "time_minute": 0
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 36.014145,
+          "lng": 128.667938
+        },
+        {
+          "lat": 36.0112,
+          "lng": 128.665054
+        }
+      ],
+      "color": "#026ba0",
+      "start_name": "가마바위봉",
+      "length_meter": 417.8,
+      "time_minute": 6
+    }
+  ]
+}

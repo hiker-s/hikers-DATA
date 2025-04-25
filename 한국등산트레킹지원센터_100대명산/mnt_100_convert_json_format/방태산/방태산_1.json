@@ -1,155 +1,158 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 37.914307,
-        "lng": 128.406982
-      },
-      {
-        "lat": 37.910717,
-        "lng": 128.406952
-      }
-    ],
-    "color": "#213178",
-    "start_name": "방태산등산로입구출발",
-    "length_meter": 399.2,
-    "time_minute": 6
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 37.910717,
-        "lng": 128.406952
-      },
-      {
-        "lat": 37.905819,
-        "lng": 128.409714
-      }
-    ],
-    "color": "#b6509e",
-    "start_name": "매봉령",
-    "length_meter": 596.1,
-    "time_minute": 9
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.905819,
-        "lng": 128.409714
-      },
-      {
-        "lat": 37.891502,
-        "lng": 128.419159
-      }
-    ],
-    "color": "#0a448d",
-    "start_name": "갈림길",
-    "length_meter": 1794.8,
-    "time_minute": 29
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.891502,
-        "lng": 128.419159
-      },
-      {
-        "lat": 37.886528,
-        "lng": 128.415115
-      }
-    ],
-    "color": "#7a501d",
-    "start_name": "매봉령",
-    "length_meter": 657.1,
-    "time_minute": 10
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.886528,
-        "lng": 128.415115
-      },
-      {
-        "lat": 37.88369,
-        "lng": 128.408966
-      }
-    ],
-    "color": "#94a894",
-    "start_name": "갈림길",
-    "length_meter": 625.1,
-    "time_minute": 10
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.88369,
-        "lng": 128.408966
-      },
-      {
-        "lat": 37.88377,
-        "lng": 128.407944
-      }
-    ],
-    "color": "#7d5557",
-    "start_name": "구룡덕봉가는길 / 구룡덕봉도착전 헬기장",
-    "length_meter": 90.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.88377,
-        "lng": 128.407944
-      },
-      {
-        "lat": 37.888905,
-        "lng": 128.394241
-      }
-    ],
-    "color": "#b21d35",
-    "start_name": "구룡덕봉전망대",
-    "length_meter": 1331.2,
-    "time_minute": 22
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.888905,
-        "lng": 128.394241
-      },
-      {
-        "lat": 37.888145,
-        "lng": 128.39032
-      }
-    ],
-    "color": "#a42f60",
-    "start_name": "삼거리",
-    "length_meter": 354.3,
-    "time_minute": 5
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.888145,
-        "lng": 128.39032
-      },
-      {
-        "lat": 37.910358,
-        "lng": 128.406952
-      }
-    ],
-    "color": "#330714",
-    "start_name": "방태산주억봉 1,444m",
-    "length_meter": 2868.9,
-    "time_minute": 47
-  }
-]
+{
+  "max_ele": 1444.011,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 37.914307,
+          "lng": 128.406982
+        },
+        {
+          "lat": 37.910717,
+          "lng": 128.406952
+        }
+      ],
+      "color": "#371362",
+      "start_name": "방태산등산로입구출발",
+      "length_meter": 399.2,
+      "time_minute": 6
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 37.910717,
+          "lng": 128.406952
+        },
+        {
+          "lat": 37.905819,
+          "lng": 128.409714
+        }
+      ],
+      "color": "#747066",
+      "start_name": "매봉령",
+      "length_meter": 596.1,
+      "time_minute": 9
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 37.905819,
+          "lng": 128.409714
+        },
+        {
+          "lat": 37.891502,
+          "lng": 128.419159
+        }
+      ],
+      "color": "#857d79",
+      "start_name": "갈림길",
+      "length_meter": 1794.8,
+      "time_minute": 29
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 37.891502,
+          "lng": 128.419159
+        },
+        {
+          "lat": 37.886528,
+          "lng": 128.415115
+        }
+      ],
+      "color": "#048f24",
+      "start_name": "매봉령",
+      "length_meter": 657.1,
+      "time_minute": 10
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 37.886528,
+          "lng": 128.415115
+        },
+        {
+          "lat": 37.88369,
+          "lng": 128.408966
+        }
+      ],
+      "color": "#2fac69",
+      "start_name": "갈림길",
+      "length_meter": 625.1,
+      "time_minute": 10
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 37.88369,
+          "lng": 128.408966
+        },
+        {
+          "lat": 37.88377,
+          "lng": 128.407944
+        }
+      ],
+      "color": "#30662c",
+      "start_name": "구룡덕봉가는길 / 구룡덕봉도착전 헬기장",
+      "length_meter": 90.3,
+      "time_minute": 1
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 37.88377,
+          "lng": 128.407944
+        },
+        {
+          "lat": 37.888905,
+          "lng": 128.394241
+        }
+      ],
+      "color": "#b8804e",
+      "start_name": "구룡덕봉전망대",
+      "length_meter": 1331.2,
+      "time_minute": 22
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 37.888905,
+          "lng": 128.394241
+        },
+        {
+          "lat": 37.888145,
+          "lng": 128.39032
+        }
+      ],
+      "color": "#bc9aac",
+      "start_name": "삼거리",
+      "length_meter": 354.3,
+      "time_minute": 5
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 37.888145,
+          "lng": 128.39032
+        },
+        {
+          "lat": 37.910358,
+          "lng": 128.406952
+        }
+      ],
+      "color": "#7f22b1",
+      "start_name": "방태산주억봉 1,444m",
+      "length_meter": 2868.9,
+      "time_minute": 47
+    }
+  ]
+}

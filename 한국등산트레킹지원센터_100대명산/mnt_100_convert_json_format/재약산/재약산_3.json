@@ -1,104 +1,107 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 35.583685,
-        "lng": 129.01829
-      },
-      {
-        "lat": 35.580381,
-        "lng": 129.008785
-      }
-    ],
-    "color": "#3fa56a",
-    "start_name": "웨이포인트 1 / 웨이포인트 2",
-    "length_meter": 934.8,
-    "time_minute": 15
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.580381,
-        "lng": 129.008785
-      },
-      {
-        "lat": 35.57882,
-        "lng": 129.00791
-      }
-    ],
-    "color": "#9c7009",
-    "start_name": "웨이포인트 3 / 웨이포인트 4",
-    "length_meter": 190.8,
-    "time_minute": 3
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.57882,
-        "lng": 129.00791
-      },
-      {
-        "lat": 35.578329,
-        "lng": 129.007361
-      }
-    ],
-    "color": "#4eb67e",
-    "start_name": "웨이포인트 5",
-    "length_meter": 73.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.578329,
-        "lng": 129.007361
-      },
-      {
-        "lat": 35.572863,
-        "lng": 129.000521
-      }
-    ],
-    "color": "#abb738",
-    "start_name": "웨이포인트 6",
-    "length_meter": 867.2,
-    "time_minute": 14
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.572863,
-        "lng": 129.000521
-      },
-      {
-        "lat": 35.568031,
-        "lng": 128.991792
-      }
-    ],
-    "color": "#a4b881",
-    "start_name": "웨이포인트 7 / 웨이포인트 8 / 웨이포인트 9 / 웨이포인트 10",
-    "length_meter": 955.0,
-    "time_minute": 15
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.568031,
-        "lng": 128.991792
-      },
-      {
-        "lat": 35.568031,
-        "lng": 128.991792
-      }
-    ],
-    "color": "#92bda9",
-    "start_name": "웨이포인트 11",
-    "length_meter": 0.0,
-    "time_minute": 0
-  }
-]
+{
+  "max_ele": 1032.1,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 35.583685,
+          "lng": 129.01829
+        },
+        {
+          "lat": 35.580381,
+          "lng": 129.008785
+        }
+      ],
+      "color": "#1a059b",
+      "start_name": "웨이포인트 1 / 웨이포인트 2",
+      "length_meter": 934.8,
+      "time_minute": 15
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 35.580381,
+          "lng": 129.008785
+        },
+        {
+          "lat": 35.57882,
+          "lng": 129.00791
+        }
+      ],
+      "color": "#a85ac6",
+      "start_name": "웨이포인트 3 / 웨이포인트 4",
+      "length_meter": 190.8,
+      "time_minute": 3
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 35.57882,
+          "lng": 129.00791
+        },
+        {
+          "lat": 35.578329,
+          "lng": 129.007361
+        }
+      ],
+      "color": "#56c07b",
+      "start_name": "웨이포인트 5",
+      "length_meter": 73.8,
+      "time_minute": 1
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 35.578329,
+          "lng": 129.007361
+        },
+        {
+          "lat": 35.572863,
+          "lng": 129.000521
+        }
+      ],
+      "color": "#64b026",
+      "start_name": "웨이포인트 6",
+      "length_meter": 867.2,
+      "time_minute": 14
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 35.572863,
+          "lng": 129.000521
+        },
+        {
+          "lat": 35.568031,
+          "lng": 128.991792
+        }
+      ],
+      "color": "#58b2b3",
+      "start_name": "웨이포인트 7 / 웨이포인트 8 / 웨이포인트 9 / 웨이포인트 10",
+      "length_meter": 955.0,
+      "time_minute": 15
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 35.568031,
+          "lng": 128.991792
+        },
+        {
+          "lat": 35.568031,
+          "lng": 128.991792
+        }
+      ],
+      "color": "#9f3458",
+      "start_name": "웨이포인트 11",
+      "length_meter": 0.0,
+      "time_minute": 0
+    }
+  ]
+}

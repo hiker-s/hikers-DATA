@@ -1,359 +1,362 @@
-[
-  {
-    "path_id": 0,
-    "path": [
-      {
-        "lat": 36.20866,
-        "lng": 127.568146
-      },
-      {
-        "lat": 36.208958,
-        "lng": 127.566544
-      }
-    ],
-    "color": "#510e7a",
-    "start_name": "산꽃로(보광교)",
-    "length_meter": 147.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 36.208958,
-        "lng": 127.566544
-      },
-      {
-        "lat": 36.207855,
-        "lng": 127.554535
-      }
-    ],
-    "color": "#88b122",
-    "start_name": "버스정류장",
-    "length_meter": 1084.4,
-    "time_minute": 18
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 36.207855,
-        "lng": 127.554535
-      },
-      {
-        "lat": 36.211166,
-        "lng": 127.551521
-      }
-    ],
-    "color": "#bdbfc3",
-    "start_name": "갈림길",
-    "length_meter": 456.8,
-    "time_minute": 7
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 36.211166,
-        "lng": 127.551521
-      },
-      {
-        "lat": 36.212439,
-        "lng": 127.550516
-      }
-    ],
-    "color": "#434a6f",
-    "start_name": "안보광리 효심정",
-    "length_meter": 167.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 36.212439,
-        "lng": 127.550516
-      },
-      {
-        "lat": 36.213585,
-        "lng": 127.549461
-      }
-    ],
-    "color": "#9b2fa7",
-    "start_name": "웨이포인트 5",
-    "length_meter": 158.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 36.213585,
-        "lng": 127.549461
-      },
-      {
-        "lat": 36.214382,
-        "lng": 127.5485
-      }
-    ],
-    "color": "#9e6a5c",
-    "start_name": "효심사 덕분스쿨 / 효심사 덕분스쿨 주차장",
-    "length_meter": 131.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 36.214382,
-        "lng": 127.5485
-      },
-      {
-        "lat": 36.215626,
-        "lng": 127.548416
-      }
-    ],
-    "color": "#735c73",
-    "start_name": "효심사",
-    "length_meter": 138.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 36.215626,
-        "lng": 127.548416
-      },
-      {
-        "lat": 36.215664,
-        "lng": 127.547386
-      }
-    ],
-    "color": "#815416",
-    "start_name": "서대산등산 안내도",
-    "length_meter": 92.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 36.215664,
-        "lng": 127.547386
-      },
-      {
-        "lat": 36.216415,
-        "lng": 127.54644
-      }
-    ],
-    "color": "#9d114c",
-    "start_name": "긴급구난표지",
-    "length_meter": 119.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 36.216415,
-        "lng": 127.54644
-      },
-      {
-        "lat": 36.218716,
-        "lng": 127.5438
-      }
-    ],
-    "color": "#3ac41f",
-    "start_name": "긴급구조지표",
-    "length_meter": 348.6,
-    "time_minute": 5
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 36.218716,
-        "lng": 127.5438
-      },
-      {
-        "lat": 36.218891,
-        "lng": 127.542953
-      }
-    ],
-    "color": "#b91378",
-    "start_name": "긴급구난지표 / 선녀바위",
-    "length_meter": 88.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 36.218891,
-        "lng": 127.542953
-      },
-      {
-        "lat": 36.219761,
-        "lng": 127.542076
-      }
-    ],
-    "color": "#050781",
-    "start_name": "긴급구난지표",
-    "length_meter": 124.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 36.219761,
-        "lng": 127.542076
-      },
-      {
-        "lat": 36.220364,
-        "lng": 127.54158
-      }
-    ],
-    "color": "#6d2a54",
-    "start_name": "조망바위 / gps수신 불량",
-    "length_meter": 83.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 36.220364,
-        "lng": 127.54158
-      },
-      {
-        "lat": 36.221359,
-        "lng": 127.536987
-      }
-    ],
-    "color": "#ad1735",
-    "start_name": "긴급구난지표",
-    "length_meter": 426.6,
-    "time_minute": 7
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 36.221359,
-        "lng": 127.536987
-      },
-      {
-        "lat": 36.220665,
-        "lng": 127.537529
-      }
-    ],
-    "color": "#2a6428",
-    "start_name": "등산로쉼터 / 갈림길",
-    "length_meter": 101.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 36.220665,
-        "lng": 127.537529
-      },
-      {
-        "lat": 36.219955,
-        "lng": 127.534393
-      }
-    ],
-    "color": "#9f9a40",
-    "start_name": "옥녀탄금대(옛지명 상암)",
-    "length_meter": 292.2,
-    "time_minute": 4
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 36.219955,
-        "lng": 127.534393
-      },
-      {
-        "lat": 36.218163,
-        "lng": 127.528427
-      }
-    ],
-    "color": "#3b2626",
-    "start_name": "돌무덤 / 조망바위",
-    "length_meter": 572.9,
-    "time_minute": 9
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 36.218163,
-        "lng": 127.528427
-      },
-      {
-        "lat": 36.218098,
-        "lng": 127.527855
-      }
-    ],
-    "color": "#5d6132",
-    "start_name": "서대사(원흥사) / 원흥사",
-    "length_meter": 64.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 36.218098,
-        "lng": 127.527855
-      },
-      {
-        "lat": 36.217651,
-        "lng": 127.527229
-      }
-    ],
-    "color": "#7d0dc1",
-    "start_name": "서대사 주차장 / 서대산추모공원(일불사)",
-    "length_meter": 75.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 36.217651,
-        "lng": 127.527229
-      },
-      {
-        "lat": 36.218235,
-        "lng": 127.525887
-      }
-    ],
-    "color": "#990a38",
-    "start_name": "서대사 안내도 / 커피숖",
-    "length_meter": 137.2,
-    "time_minute": 2
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 36.218235,
-        "lng": 127.525887
-      },
-      {
-        "lat": 36.220253,
-        "lng": 127.516403
-      }
-    ],
-    "color": "#3a3338",
-    "start_name": "일불사입구",
-    "length_meter": 879.9,
-    "time_minute": 14
-  }
-]
+{
+  "max_ele": 887.418,
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 36.20866,
+          "lng": 127.568146
+        },
+        {
+          "lat": 36.208958,
+          "lng": 127.566544
+        }
+      ],
+      "color": "#04712b",
+      "start_name": "산꽃로(보광교)",
+      "length_meter": 147.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 36.208958,
+          "lng": 127.566544
+        },
+        {
+          "lat": 36.207855,
+          "lng": 127.554535
+        }
+      ],
+      "color": "#40c6ba",
+      "start_name": "버스정류장",
+      "length_meter": 1084.4,
+      "time_minute": 18
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 36.207855,
+          "lng": 127.554535
+        },
+        {
+          "lat": 36.211166,
+          "lng": 127.551521
+        }
+      ],
+      "color": "#0d7e64",
+      "start_name": "갈림길",
+      "length_meter": 456.8,
+      "time_minute": 7
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 36.211166,
+          "lng": 127.551521
+        },
+        {
+          "lat": 36.212439,
+          "lng": 127.550516
+        }
+      ],
+      "color": "#74afba",
+      "start_name": "안보광리 효심정",
+      "length_meter": 167.8,
+      "time_minute": 2
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 36.212439,
+          "lng": 127.550516
+        },
+        {
+          "lat": 36.213585,
+          "lng": 127.549461
+        }
+      ],
+      "color": "#5a1299",
+      "start_name": "웨이포인트 5",
+      "length_meter": 158.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 36.213585,
+          "lng": 127.549461
+        },
+        {
+          "lat": 36.214382,
+          "lng": 127.5485
+        }
+      ],
+      "color": "#8d4172",
+      "start_name": "효심사 덕분스쿨 / 효심사 덕분스쿨 주차장",
+      "length_meter": 131.0,
+      "time_minute": 2
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 36.214382,
+          "lng": 127.5485
+        },
+        {
+          "lat": 36.215626,
+          "lng": 127.548416
+        }
+      ],
+      "color": "#5b8e12",
+      "start_name": "효심사",
+      "length_meter": 138.5,
+      "time_minute": 2
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 36.215626,
+          "lng": 127.548416
+        },
+        {
+          "lat": 36.215664,
+          "lng": 127.547386
+        }
+      ],
+      "color": "#8a5718",
+      "start_name": "서대산등산 안내도",
+      "length_meter": 92.5,
+      "time_minute": 1
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 36.215664,
+          "lng": 127.547386
+        },
+        {
+          "lat": 36.216415,
+          "lng": 127.54644
+        }
+      ],
+      "color": "#722763",
+      "start_name": "긴급구난표지",
+      "length_meter": 119.1,
+      "time_minute": 1
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 36.216415,
+          "lng": 127.54644
+        },
+        {
+          "lat": 36.218716,
+          "lng": 127.5438
+        }
+      ],
+      "color": "#699254",
+      "start_name": "긴급구조지표",
+      "length_meter": 348.6,
+      "time_minute": 5
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 36.218716,
+          "lng": 127.5438
+        },
+        {
+          "lat": 36.218891,
+          "lng": 127.542953
+        }
+      ],
+      "color": "#025a28",
+      "start_name": "긴급구난지표 / 선녀바위",
+      "length_meter": 88.2,
+      "time_minute": 1
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 36.218891,
+          "lng": 127.542953
+        },
+        {
+          "lat": 36.219761,
+          "lng": 127.542076
+        }
+      ],
+      "color": "#39199f",
+      "start_name": "긴급구난지표",
+      "length_meter": 124.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 36.219761,
+          "lng": 127.542076
+        },
+        {
+          "lat": 36.220364,
+          "lng": 127.54158
+        }
+      ],
+      "color": "#17c225",
+      "start_name": "조망바위 / gps수신 불량",
+      "length_meter": 83.4,
+      "time_minute": 1
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 36.220364,
+          "lng": 127.54158
+        },
+        {
+          "lat": 36.221359,
+          "lng": 127.536987
+        }
+      ],
+      "color": "#4e5386",
+      "start_name": "긴급구난지표",
+      "length_meter": 426.6,
+      "time_minute": 7
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 36.221359,
+          "lng": 127.536987
+        },
+        {
+          "lat": 36.220665,
+          "lng": 127.537529
+        }
+      ],
+      "color": "#3c6a1c",
+      "start_name": "등산로쉼터 / 갈림길",
+      "length_meter": 101.0,
+      "time_minute": 1
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 36.220665,
+          "lng": 127.537529
+        },
+        {
+          "lat": 36.219955,
+          "lng": 127.534393
+        }
+      ],
+      "color": "#3c2123",
+      "start_name": "옥녀탄금대(옛지명 상암)",
+      "length_meter": 292.2,
+      "time_minute": 4
+    },
+    {
+      "path_id": 16,
+      "path": [
+        {
+          "lat": 36.219955,
+          "lng": 127.534393
+        },
+        {
+          "lat": 36.218163,
+          "lng": 127.528427
+        }
+      ],
+      "color": "#7faba3",
+      "start_name": "돌무덤 / 조망바위",
+      "length_meter": 572.9,
+      "time_minute": 9
+    },
+    {
+      "path_id": 17,
+      "path": [
+        {
+          "lat": 36.218163,
+          "lng": 127.528427
+        },
+        {
+          "lat": 36.218098,
+          "lng": 127.527855
+        }
+      ],
+      "color": "#566347",
+      "start_name": "서대사(원흥사) / 원흥사",
+      "length_meter": 64.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 18,
+      "path": [
+        {
+          "lat": 36.218098,
+          "lng": 127.527855
+        },
+        {
+          "lat": 36.217651,
+          "lng": 127.527229
+        }
+      ],
+      "color": "#8da293",
+      "start_name": "서대사 주차장 / 서대산추모공원(일불사)",
+      "length_meter": 75.6,
+      "time_minute": 1
+    },
+    {
+      "path_id": 19,
+      "path": [
+        {
+          "lat": 36.217651,
+          "lng": 127.527229
+        },
+        {
+          "lat": 36.218235,
+          "lng": 127.525887
+        }
+      ],
+      "color": "#777140",
+      "start_name": "서대사 안내도 / 커피숖",
+      "length_meter": 137.2,
+      "time_minute": 2
+    },
+    {
+      "path_id": 20,
+      "path": [
+        {
+          "lat": 36.218235,
+          "lng": 127.525887
+        },
+        {
+          "lat": 36.220253,
+          "lng": 127.516403
+        }
+      ],
+      "color": "#4c5f37",
+      "start_name": "일불사입구",
+      "length_meter": 879.9,
+      "time_minute": 14
+    }
+  ]
+}
