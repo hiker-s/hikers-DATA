@@ -11,7 +11,7 @@
         "lng": 128.400803
       }
     ],
-    "color": "#154e1c",
+    "color": "#40d1c6",
     "start_name": "달아공원카페 / 국립공원 동부사무소 산양분소 / 화장실",
     "length_meter": 101.1,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.400101
       }
     ],
-    "color": "#72877b",
+    "color": "#0ec8d1",
     "start_name": "정자 / 달아전망대",
     "length_meter": 91.7,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 128.401337
       }
     ],
-    "color": "#0e1f2c",
+    "color": "#2a0e88",
     "start_name": "달아공원 종합안내도",
     "length_meter": 166.9,
     "time_minute": 2
@@ -62,7 +62,7 @@
         "lng": 128.404099
       }
     ],
-    "color": "#31b39d",
+    "color": "#cb3c9e",
     "start_name": "달아공원 시내버스 하차장 / 등산로 입구",
     "length_meter": 547.9,
     "time_minute": 9
@@ -75,34 +75,17 @@
         "lng": 128.404099
       },
       {
-        "lat": 34.775787,
-        "lng": 128.406097
-      }
-    ],
-    "color": "#0e7bb4",
-    "start_name": "달아망산 / 갈림길 11",
-    "length_meter": 269.3,
-    "time_minute": 4
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 34.775787,
-        "lng": 128.406097
-      },
-      {
         "lat": 34.777969,
         "lng": 128.405991
       }
     ],
-    "color": "#9f9835",
-    "start_name": "갈림길 12",
-    "length_meter": 242.8,
-    "time_minute": 4
+    "color": "#451202",
+    "start_name": "달아망산 / 갈림길",
+    "length_meter": 467.4,
+    "time_minute": 7
   },
   {
-    "path_id": 6,
+    "path_id": 5,
     "path": [
       {
         "lat": 34.777969,
@@ -113,13 +96,13 @@
         "lng": 128.403442
       }
     ],
-    "color": "#41b201",
+    "color": "#9bcf9a",
     "start_name": "한려해상 바위조망처",
     "length_meter": 582.2,
     "time_minute": 9
   },
   {
-    "path_id": 7,
+    "path_id": 6,
     "path": [
       {
         "lat": 34.782768,
@@ -130,13 +113,13 @@
         "lng": 128.402313
       }
     ],
-    "color": "#ea2524",
+    "color": "#95af54",
     "start_name": "희망봉 가는길 쉼터",
     "length_meter": 411.9,
     "time_minute": 6
   },
   {
-    "path_id": 8,
+    "path_id": 7,
     "path": [
       {
         "lat": 34.786354,
@@ -147,32 +130,32 @@
         "lng": 128.399719
       }
     ],
-    "color": "#14a587",
+    "color": "#a54f9c",
     "start_name": "대나무숲",
     "length_meter": 319.6,
+    "time_minute": 5
+  },
+  {
+    "path_id": 8,
+    "path": [
+      {
+        "lat": 34.788284,
+        "lng": 128.399719
+      },
+      {
+        "lat": 34.791023,
+        "lng": 128.398056
+      }
+    ],
+    "color": "#70f7aa",
+    "start_name": "멧돼지 흔적",
+    "length_meter": 340.3,
     "time_minute": 5
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 34.788284,
-        "lng": 128.399719
-      },
-      {
-        "lat": 34.791023,
-        "lng": 128.398056
-      }
-    ],
-    "color": "#08aeeb",
-    "start_name": "멧돼지 흔적",
-    "length_meter": 340.3,
-    "time_minute": 5
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
         "lat": 34.791023,
         "lng": 128.398056
       },
@@ -181,47 +164,30 @@
         "lng": 128.396942
       }
     ],
-    "color": "#8893b1",
+    "color": "#69bf43",
     "start_name": "산양읍사무소 1.6KM전 조망처.쉼터",
     "length_meter": 377.5,
     "time_minute": 6
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 34.794292,
         "lng": 128.396942
       },
       {
-        "lat": 34.798183,
-        "lng": 128.397766
-      }
-    ],
-    "color": "#d2ae1b",
-    "start_name": "희망봉 / 갈림길 19",
-    "length_meter": 454.2,
-    "time_minute": 7
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 34.798183,
-        "lng": 128.397766
-      },
-      {
         "lat": 34.800392,
         "lng": 128.396072
       }
     ],
-    "color": "#10cb31",
-    "start_name": "갈림길 20",
-    "length_meter": 290.3,
-    "time_minute": 4
+    "color": "#01a73a",
+    "start_name": "희망봉 / 갈림길",
+    "length_meter": 700.7,
+    "time_minute": 11
   },
   {
-    "path_id": 13,
+    "path_id": 11,
     "path": [
       {
         "lat": 34.800392,
@@ -232,98 +198,64 @@
         "lng": 128.395813
       }
     ],
-    "color": "#dec1fa",
+    "color": "#cc858e",
     "start_name": "화장실",
     "length_meter": 114.0,
     "time_minute": 1
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 34.801395,
         "lng": 128.395813
       },
       {
-        "lat": 34.803089,
-        "lng": 128.39592
+        "lat": 34.803242,
+        "lng": 128.396057
       }
     ],
-    "color": "#bdc4ef",
-    "start_name": "갈림길 22",
-    "length_meter": 188.6,
+    "color": "#64c6d9",
+    "start_name": "갈림길",
+    "length_meter": 206.6,
     "time_minute": 3
   },
   {
-    "path_id": 15,
+    "path_id": 13,
     "path": [
       {
-        "lat": 34.803089,
-        "lng": 128.39592
+        "lat": 34.803242,
+        "lng": 128.396057
       },
       {
         "lat": 34.806057,
         "lng": 128.396011
       }
     ],
-    "color": "#1f444d",
-    "start_name": "갈림길 23 / 산양읍 경유 미륵산종주 능선 등산로 입구",
-    "length_meter": 334.2,
+    "color": "#19fe37",
+    "start_name": "산양읍 경유 미륵산종주 능선 등산로 입구",
+    "length_meter": 313.0,
     "time_minute": 5
   },
   {
-    "path_id": 16,
+    "path_id": 14,
     "path": [
       {
         "lat": 34.806057,
         "lng": 128.396011
-      },
-      {
-        "lat": 34.80822,
-        "lng": 128.395493
-      }
-    ],
-    "color": "#2f5520",
-    "start_name": "갈림길 25",
-    "length_meter": 245.1,
-    "time_minute": 4
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 34.80822,
-        "lng": 128.395493
-      },
-      {
-        "lat": 34.811436,
-        "lng": 128.39537
-      }
-    ],
-    "color": "#a69c51",
-    "start_name": "갈림길 26",
-    "length_meter": 357.8,
-    "time_minute": 5
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 34.811436,
-        "lng": 128.39537
       },
       {
         "lat": 34.812145,
         "lng": 128.396362
       }
     ],
-    "color": "#801d17",
-    "start_name": "갈림길 27",
-    "length_meter": 120.1,
-    "time_minute": 2
+    "color": "#a16bf7",
+    "start_name": "갈림길",
+    "length_meter": 677.7,
+    "time_minute": 11
   },
   {
-    "path_id": 19,
+    "path_id": 15,
     "path": [
       {
         "lat": 34.812145,
@@ -334,13 +266,13 @@
         "lng": 128.398117
       }
     ],
-    "color": "#c4a924",
+    "color": "#1eb23c",
     "start_name": "범왕산 / 범왕산 직전 조망처",
     "length_meter": 493.3,
     "time_minute": 8
   },
   {
-    "path_id": 20,
+    "path_id": 16,
     "path": [
       {
         "lat": 34.816254,
@@ -351,13 +283,13 @@
         "lng": 128.402191
       }
     ],
-    "color": "#5d93f0",
-    "start_name": "갈림길 30",
+    "color": "#d1cd66",
+    "start_name": "갈림길",
     "length_meter": 384.3,
     "time_minute": 6
   },
   {
-    "path_id": 21,
+    "path_id": 17,
     "path": [
       {
         "lat": 34.817123,
@@ -368,13 +300,13 @@
         "lng": 128.392502
       }
     ],
-    "color": "#2da1ff",
+    "color": "#c0224f",
     "start_name": "현금산",
     "length_meter": 945.3,
     "time_minute": 15
   },
   {
-    "path_id": 22,
+    "path_id": 18,
     "path": [
       {
         "lat": 34.820122,
@@ -385,7 +317,7 @@
         "lng": 128.396301
       }
     ],
-    "color": "#1e0c17",
+    "color": "#56b5ea",
     "start_name": "세포마을 등산로 들날머리",
     "length_meter": 425.4,
     "time_minute": 7

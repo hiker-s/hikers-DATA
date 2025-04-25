@@ -11,8 +11,8 @@
         "lng": 127.801292
       }
     ],
-    "color": "#5280a7",
-    "start_name": "갈림길 2",
+    "color": "#3c9117",
+    "start_name": "갈림길",
     "length_meter": 206.4,
     "time_minute": 3
   },
@@ -28,7 +28,7 @@
         "lng": 127.800591
       }
     ],
-    "color": "#684ba5",
+    "color": "#aedcc3",
     "start_name": "벤치2개",
     "length_meter": 352.7,
     "time_minute": 5
@@ -45,7 +45,7 @@
         "lng": 127.795052
       }
     ],
-    "color": "#6f4964",
+    "color": "#b46519",
     "start_name": "현성산 암릉",
     "length_meter": 765.0,
     "time_minute": 12
@@ -58,102 +58,17 @@
         "lng": 127.795052
       },
       {
-        "lat": 35.749256,
-        "lng": 127.789459
-      }
-    ],
-    "color": "#ba3d8e",
-    "start_name": "현성산 / 갈림길 6",
-    "length_meter": 838.3,
-    "time_minute": 13
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.749256,
-        "lng": 127.789459
-      },
-      {
-        "lat": 35.746052,
-        "lng": 127.778023
-      }
-    ],
-    "color": "#86afe6",
-    "start_name": "갈림길 7",
-    "length_meter": 1091.8,
-    "time_minute": 18
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.746052,
-        "lng": 127.778023
-      },
-      {
-        "lat": 35.74379,
-        "lng": 127.773911
-      }
-    ],
-    "color": "#5ff0c9",
-    "start_name": "갈림길 8",
-    "length_meter": 448.3,
-    "time_minute": 7
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.74379,
-        "lng": 127.773911
-      },
-      {
-        "lat": 35.721996,
-        "lng": 127.78891
-      }
-    ],
-    "color": "#652c76",
-    "start_name": "갈림길 9",
-    "length_meter": 2775.9,
-    "time_minute": 46
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.721996,
-        "lng": 127.78891
-      },
-      {
-        "lat": 35.722118,
-        "lng": 127.795036
-      }
-    ],
-    "color": "#b49ec3",
-    "start_name": "갈림길 30",
-    "length_meter": 553.2,
-    "time_minute": 9
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.722118,
-        "lng": 127.795036
-      },
-      {
         "lat": 35.731987,
         "lng": 127.799919
       }
     ],
-    "color": "#7eb139",
-    "start_name": "갈림길 31",
-    "length_meter": 1182.6,
-    "time_minute": 19
+    "color": "#03e932",
+    "start_name": "현성산 / 갈림길",
+    "length_meter": 1364.8,
+    "time_minute": 22
   },
   {
-    "path_id": 9,
+    "path_id": 4,
     "path": [
       {
         "lat": 35.731987,
@@ -164,7 +79,7 @@
         "lng": 127.800156
       }
     ],
-    "color": "#9cef1d",
+    "color": "#08a9e2",
     "start_name": "선녀담",
     "length_meter": 24.1,
     "time_minute": 0

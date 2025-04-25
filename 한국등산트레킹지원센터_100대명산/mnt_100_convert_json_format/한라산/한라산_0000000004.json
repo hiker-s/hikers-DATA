@@ -11,7 +11,7 @@
         "lng": 126.455345
       }
     ],
-    "color": "#e22cdb",
+    "color": "#30652c",
     "start_name": "영실입구 정류소",
     "length_meter": 558.6,
     "time_minute": 9
@@ -28,7 +28,7 @@
         "lng": 126.444435
       }
     ],
-    "color": "#447617",
+    "color": "#f13729",
     "start_name": "보림농장삼거리 진입로",
     "length_meter": 1406.8,
     "time_minute": 23
@@ -45,8 +45,8 @@
         "lng": 126.443054
       }
     ],
-    "color": "#f2fcc4",
-    "start_name": "갈림길 3 / 천아숲길 입출구 / 보림농장삼거리 쉼터",
+    "color": "#c69ff3",
+    "start_name": "갈림길 / 천아숲길 입출구 / 보림농장삼거리 쉼터",
     "length_meter": 203.7,
     "time_minute": 3
   },
@@ -62,7 +62,7 @@
         "lng": 126.441742
       }
     ],
-    "color": "#a890d8",
+    "color": "#c44d4e",
     "start_name": "표고버섯재배장",
     "length_meter": 425.9,
     "time_minute": 7
@@ -79,7 +79,7 @@
         "lng": 126.43763
       }
     ],
-    "color": "#426a99",
+    "color": "#f17ba9",
     "start_name": "천아숲길 바위",
     "length_meter": 385.4,
     "time_minute": 6
@@ -92,34 +92,17 @@
         "lng": 126.43763
       },
       {
-        "lat": 33.354832,
-        "lng": 126.436096
-      }
-    ],
-    "color": "#5801d4",
-    "start_name": "표고버섯재배장 / 갈림길 9 / 갈림길 10",
-    "length_meter": 505.2,
-    "time_minute": 8
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 33.354832,
-        "lng": 126.436096
-      },
-      {
         "lat": 33.361633,
         "lng": 126.436813
       }
     ],
-    "color": "#7d1020",
-    "start_name": "갈림길 11",
-    "length_meter": 759.2,
-    "time_minute": 12
+    "color": "#1b05eb",
+    "start_name": "표고버섯재배장 / 갈림길",
+    "length_meter": 1237.3,
+    "time_minute": 20
   },
   {
-    "path_id": 7,
+    "path_id": 6,
     "path": [
       {
         "lat": 33.361633,
@@ -130,13 +113,13 @@
         "lng": 126.444138
       }
     ],
-    "color": "#56d08e",
+    "color": "#c1cdbe",
     "start_name": "삼나무군락지",
     "length_meter": 984.0,
     "time_minute": 16
   },
   {
-    "path_id": 8,
+    "path_id": 7,
     "path": [
       {
         "lat": 33.368027,
@@ -147,13 +130,13 @@
         "lng": 126.450897
       }
     ],
-    "color": "#9e73eb",
-    "start_name": "갈림길 14",
+    "color": "#cd220d",
+    "start_name": "갈림길",
     "length_meter": 876.6,
     "time_minute": 14
   },
   {
-    "path_id": 9,
+    "path_id": 8,
     "path": [
       {
         "lat": 33.373531,
@@ -164,13 +147,13 @@
         "lng": 126.447578
       }
     ],
-    "color": "#830024",
+    "color": "#e5125b",
     "start_name": "삼나무군락지",
     "length_meter": 513.8,
     "time_minute": 8
   },
   {
-    "path_id": 10,
+    "path_id": 9,
     "path": [
       {
         "lat": 33.377228,
@@ -181,13 +164,13 @@
         "lng": 126.448509
       }
     ],
-    "color": "#39c280",
-    "start_name": "갈림길 17",
+    "color": "#bcc1c2",
+    "start_name": "갈림길",
     "length_meter": 673.2,
     "time_minute": 11
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 33.383232,
@@ -198,13 +181,13 @@
         "lng": 126.451744
       }
     ],
-    "color": "#bfebba",
+    "color": "#19ed59",
     "start_name": "삼나무군락지",
     "length_meter": 390.1,
     "time_minute": 6
   },
   {
-    "path_id": 12,
+    "path_id": 11,
     "path": [
       {
         "lat": 33.385471,
@@ -215,13 +198,13 @@
         "lng": 126.452812
       }
     ],
-    "color": "#3df2a3",
+    "color": "#af261e",
     "start_name": "제주조릿대 / 제주조릿대 관리구역",
     "length_meter": 606.7,
     "time_minute": 10
   },
   {
-    "path_id": 13,
+    "path_id": 12,
     "path": [
       {
         "lat": 33.390854,
@@ -232,13 +215,13 @@
         "lng": 126.458923
       }
     ],
-    "color": "#e815f5",
-    "start_name": "갈림길 20",
+    "color": "#7ccd27",
+    "start_name": "갈림길",
     "length_meter": 742.4,
     "time_minute": 12
   },
   {
-    "path_id": 14,
+    "path_id": 13,
     "path": [
       {
         "lat": 33.395161,
@@ -249,13 +232,13 @@
         "lng": 126.459526
       }
     ],
-    "color": "#696663",
+    "color": "#751723",
     "start_name": "미끄럼주의",
     "length_meter": 180.7,
     "time_minute": 3
   },
   {
-    "path_id": 15,
+    "path_id": 14,
     "path": [
       {
         "lat": 33.396706,
@@ -266,13 +249,13 @@
         "lng": 126.476906
       }
     ],
-    "color": "#5df132",
+    "color": "#e75042",
     "start_name": "천아수원지 화장실 / 천아수원지  주차장 / 천아수원지 방향 입출구 / 천아수원지 방향 천아숲길 입출구",
     "length_meter": 2189.9,
     "time_minute": 36
   },
   {
-    "path_id": 16,
+    "path_id": 15,
     "path": [
       {
         "lat": 33.409359,
@@ -283,7 +266,7 @@
         "lng": 126.477066
       }
     ],
-    "color": "#718418",
+    "color": "#3af1c5",
     "start_name": "천아수원지 둘레길 입출구",
     "length_meter": 24.5,
     "time_minute": 0

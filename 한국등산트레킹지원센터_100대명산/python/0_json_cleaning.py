@@ -15,9 +15,24 @@ elements_to_remove = [
 ]
 
 # 불필요한 요소를 제거하는 함수
+# 이름에 "갈림길"을 표현하고 있으면 뒤에 숫자를 제거하고 "갈림길"만으로 수정
+    # ex) "갈림길 11", "갈림길 13", -> "갈림길"
 def remove_element(json_data):
     if isinstance(json_data, list):
-        json_data = [item for item in json_data if item["name"] not in elements_to_remove]
+        cleaned = []
+        for item in json_data:
+            name = item.get("name", "")
+            
+            # 제거 조건: elements_to_remove에 포함되면 제외
+            if name in elements_to_remove:
+                continue
+            
+            # 이름 수정 조건: "갈림길"이 이름에 포함되어 있다면 이름을 "갈림길"로 변경
+            if "갈림길" in name:
+                item["name"] = "갈림길"
+            
+            cleaned.append(item)
+        return cleaned
     return json_data
 
 def process_json_file(input_file):

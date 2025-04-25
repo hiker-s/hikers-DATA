@@ -11,7 +11,7 @@
         "lng": 128.260452
       }
     ],
-    "color": "#716976",
+    "color": "#aa3e76",
     "start_name": "옥천소류지 주차장 / 연화산 도립공원 등산안내도 / 옥천소류지",
     "length_meter": 62.4,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.256866
       }
     ],
-    "color": "#80155a",
+    "color": "#fc37be",
     "start_name": "연화1봉 가는길",
     "length_meter": 618.6,
     "time_minute": 10
@@ -45,8 +45,8 @@
         "lng": 128.254959
       }
     ],
-    "color": "#bfa892",
-    "start_name": "갈림길 6",
+    "color": "#a467e4",
+    "start_name": "갈림길",
     "length_meter": 252.7,
     "time_minute": 4
   },
@@ -62,8 +62,8 @@
         "lng": 128.253891
       }
     ],
-    "color": "#7451fd",
-    "start_name": "연화1봉 / 갈림길 8 / 갈림길 9 / 평상1개",
+    "color": "#e3d966",
+    "start_name": "연화1봉 / 갈림길 / 평상1개",
     "length_meter": 107.3,
     "time_minute": 1
   },
@@ -79,7 +79,7 @@
         "lng": 128.238815
       }
     ],
-    "color": "#ee6cb4",
+    "color": "#6988d1",
     "start_name": "연화2봉 가는길",
     "length_meter": 1436.4,
     "time_minute": 23
@@ -96,7 +96,7 @@
         "lng": 128.237167
       }
     ],
-    "color": "#4620d3",
+    "color": "#0ff0a3",
     "start_name": "연화2봉",
     "length_meter": 167.1,
     "time_minute": 2
@@ -113,7 +113,7 @@
         "lng": 128.238815
       }
     ],
-    "color": "#2ac0ac",
+    "color": "#fc70da",
     "start_name": "봉화대",
     "length_meter": 167.1,
     "time_minute": 2
@@ -130,7 +130,7 @@
         "lng": 128.254929
       }
     ],
-    "color": "#0b4ff6",
+    "color": "#d539e6",
     "start_name": "연화2봉",
     "length_meter": 1519.6,
     "time_minute": 25
@@ -143,87 +143,53 @@
         "lng": 128.254929
       },
       {
-        "lat": 35.073902,
-        "lng": 128.258209
+        "lat": 35.073162,
+        "lng": 128.259048
       }
     ],
-    "color": "#ee74ec",
-    "start_name": "갈림길 9",
-    "length_meter": 612.5,
-    "time_minute": 10
+    "color": "#c5449a",
+    "start_name": "갈림길",
+    "length_meter": 722.0,
+    "time_minute": 12
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.073902,
-        "lng": 128.258209
+        "lat": 35.073162,
+        "lng": 128.259048
       },
       {
-        "lat": 35.07317,
-        "lng": 128.258942
+        "lat": 35.067818,
+        "lng": 128.260147
       }
     ],
-    "color": "#b354b7",
-    "start_name": "갈림길 14",
-    "length_meter": 105.2,
-    "time_minute": 1
+    "color": "#2452a5",
+    "start_name": "편백쉼터",
+    "length_meter": 602.6,
+    "time_minute": 10
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.07317,
-        "lng": 128.258942
-      },
-      {
         "lat": 35.067818,
         "lng": 128.260147
+      },
+      {
+        "lat": 35.070946,
+        "lng": 128.26503
       }
     ],
-    "color": "#53ea0a",
-    "start_name": "갈림길 15 / 편백쉼터",
-    "length_meter": 612.3,
-    "time_minute": 10
+    "color": "#3c1e36",
+    "start_name": "갈림길",
+    "length_meter": 564.3,
+    "time_minute": 9
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.067818,
-        "lng": 128.260147
-      },
-      {
-        "lat": 35.06818,
-        "lng": 128.260788
-      }
-    ],
-    "color": "#5bd966",
-    "start_name": "갈림길 17",
-    "length_meter": 70.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.06818,
-        "lng": 128.260788
-      },
-      {
-        "lat": 35.070946,
-        "lng": 128.26503
-      }
-    ],
-    "color": "#69c9e3",
-    "start_name": "갈림길 18",
-    "length_meter": 493.6,
-    "time_minute": 8
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
         "lat": 35.070946,
         "lng": 128.26503
       },
@@ -232,64 +198,30 @@
         "lng": 128.265625
       }
     ],
-    "color": "#7299f2",
+    "color": "#b44471",
     "start_name": "연화산",
     "length_meter": 323.9,
     "time_minute": 5
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.073818,
         "lng": 128.265625
       },
       {
-        "lat": 35.075523,
-        "lng": 128.264236
-      }
-    ],
-    "color": "#b7a163",
-    "start_name": "갈림길 21 / 갈림길 22",
-    "length_meter": 242.6,
-    "time_minute": 4
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.075523,
-        "lng": 128.264236
-      },
-      {
-        "lat": 35.0784,
-        "lng": 128.262756
-      }
-    ],
-    "color": "#f606c6",
-    "start_name": "갈림길 23",
-    "length_meter": 347.1,
-    "time_minute": 5
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.0784,
-        "lng": 128.262756
-      },
-      {
         "lat": 35.079525,
         "lng": 128.263931
       }
     ],
-    "color": "#62061b",
-    "start_name": "갈림길 24",
-    "length_meter": 164.6,
-    "time_minute": 2
+    "color": "#dfeb02",
+    "start_name": "갈림길",
+    "length_meter": 653.0,
+    "time_minute": 10
   },
   {
-    "path_id": 17,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.079525,
@@ -300,43 +232,26 @@
         "lng": 128.262833
       }
     ],
-    "color": "#1eaeff",
+    "color": "#233953",
     "start_name": "백련암",
     "length_meter": 190.3,
     "time_minute": 3
   },
   {
-    "path_id": 18,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.080982,
         "lng": 128.262833
-      },
-      {
-        "lat": 35.084782,
-        "lng": 128.260803
-      }
-    ],
-    "color": "#1f3758",
-    "start_name": "옥천사 / 갈림길 27",
-    "length_meter": 465.9,
-    "time_minute": 7
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 35.084782,
-        "lng": 128.260803
       },
       {
         "lat": 35.085537,
         "lng": 128.261108
       }
     ],
-    "color": "#eb7f98",
-    "start_name": "갈림길 28",
-    "length_meter": 88.4,
-    "time_minute": 1
+    "color": "#661788",
+    "start_name": "옥천사 / 갈림길",
+    "length_meter": 532.6,
+    "time_minute": 8
   }
 ]

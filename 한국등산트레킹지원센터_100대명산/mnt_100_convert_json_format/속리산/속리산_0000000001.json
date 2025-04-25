@@ -11,7 +11,7 @@
         "lng": 127.827721
       }
     ],
-    "color": "#740d94",
+    "color": "#e2fbb1",
     "start_name": "식당골목",
     "length_meter": 510.5,
     "time_minute": 8
@@ -28,7 +28,7 @@
         "lng": 127.829819
       }
     ],
-    "color": "#eb3daa",
+    "color": "#eab4e7",
     "start_name": "연꽃화장싵 / 매표소",
     "length_meter": 409.4,
     "time_minute": 6
@@ -45,8 +45,8 @@
         "lng": 127.835587
       }
     ],
-    "color": "#382df9",
-    "start_name": "갈림길 4",
+    "color": "#bc2bf4",
+    "start_name": "갈림길",
     "length_meter": 554.1,
     "time_minute": 9
   },
@@ -62,7 +62,7 @@
         "lng": 127.843216
       }
     ],
-    "color": "#8c7347",
+    "color": "#bb431b",
     "start_name": "남산화장실",
     "length_meter": 711.2,
     "time_minute": 11
@@ -79,7 +79,7 @@
         "lng": 127.846542
       }
     ],
-    "color": "#d72146",
+    "color": "#d36497",
     "start_name": "매점",
     "length_meter": 530.1,
     "time_minute": 8
@@ -92,51 +92,34 @@
         "lng": 127.846542
       },
       {
-        "lat": 36.547489,
-        "lng": 127.853043
+        "lat": 36.547794,
+        "lng": 127.853149
       }
     ],
-    "color": "#226338",
-    "start_name": "간이화장실 / 탈골암화장실 / 갈림길 9",
-    "length_meter": 838.1,
-    "time_minute": 13
+    "color": "#1c872b",
+    "start_name": "간이화장실 / 탈골암화장실 / 갈림길",
+    "length_meter": 869.3,
+    "time_minute": 14
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 36.547489,
-        "lng": 127.853043
-      },
-      {
-        "lat": 36.548233,
-        "lng": 127.853218
-      }
-    ],
-    "color": "#b69586",
-    "start_name": "갈림길 10 / 세심정",
-    "length_meter": 84.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 36.548233,
-        "lng": 127.853218
+        "lat": 36.547794,
+        "lng": 127.853149
       },
       {
         "lat": 36.553207,
         "lng": 127.851959
       }
     ],
-    "color": "#86c150",
-    "start_name": "세심정화장실",
-    "length_meter": 564.4,
-    "time_minute": 9
+    "color": "#cc341c",
+    "start_name": "세심정 / 세심정화장실",
+    "length_meter": 613.6,
+    "time_minute": 10
   },
   {
-    "path_id": 8,
+    "path_id": 7,
     "path": [
       {
         "lat": 36.553207,
@@ -147,13 +130,13 @@
         "lng": 127.850754
       }
     ],
-    "color": "#c4f89e",
+    "color": "#c3c6c7",
     "start_name": "매점",
     "length_meter": 497.9,
     "time_minute": 8
   },
   {
-    "path_id": 9,
+    "path_id": 8,
     "path": [
       {
         "lat": 36.557579,
@@ -164,13 +147,13 @@
         "lng": 127.852943
       }
     ],
-    "color": "#f37ea7",
+    "color": "#c4ca8f",
     "start_name": "보현재 휴게소",
     "length_meter": 282.3,
     "time_minute": 4
   },
   {
-    "path_id": 10,
+    "path_id": 9,
     "path": [
       {
         "lat": 36.55941,
@@ -181,13 +164,13 @@
         "lng": 127.853661
       }
     ],
-    "color": "#7167fe",
+    "color": "#420f07",
     "start_name": "낙석위험지역",
     "length_meter": 113.6,
     "time_minute": 1
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 36.560253,
@@ -198,32 +181,32 @@
         "lng": 127.856514
       }
     ],
-    "color": "#f7dc25",
-    "start_name": "갈림길 16",
+    "color": "#901888",
+    "start_name": "갈림길",
     "length_meter": 257.1,
+    "time_minute": 4
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 36.559944,
+        "lng": 127.856514
+      },
+      {
+        "lat": 36.561436,
+        "lng": 127.859055
+      }
+    ],
+    "color": "#0e0aee",
+    "start_name": "낙석주의",
+    "length_meter": 281.1,
     "time_minute": 4
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 36.559944,
-        "lng": 127.856514
-      },
-      {
-        "lat": 36.561436,
-        "lng": 127.859055
-      }
-    ],
-    "color": "#5ca9a7",
-    "start_name": "낙석주의",
-    "length_meter": 281.1,
-    "time_minute": 4
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
         "lat": 36.561436,
         "lng": 127.859055
       },
@@ -232,13 +215,13 @@
         "lng": 127.862663
       }
     ],
-    "color": "#07ec7d",
+    "color": "#c987f0",
     "start_name": "냉천골 휴게소",
     "length_meter": 589.9,
     "time_minute": 9
   },
   {
-    "path_id": 14,
+    "path_id": 13,
     "path": [
       {
         "lat": 36.56588,
@@ -249,49 +232,49 @@
         "lng": 127.862366
       }
     ],
-    "color": "#7ad6bd",
+    "color": "#41ac09",
     "start_name": "낙뢰다발지역 / 안내판",
     "length_meter": 167.7,
+    "time_minute": 2
+  },
+  {
+    "path_id": 14,
+    "path": [
+      {
+        "lat": 36.567348,
+        "lng": 127.862366
+      },
+      {
+        "lat": 36.566193,
+        "lng": 127.862762
+      }
+    ],
+    "color": "#221c28",
+    "start_name": "문장대",
+    "length_meter": 133.2,
     "time_minute": 2
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 36.567348,
-        "lng": 127.862366
-      },
-      {
         "lat": 36.566193,
         "lng": 127.862762
+      },
+      {
+        "lat": 36.560333,
+        "lng": 127.869499
       }
     ],
-    "color": "#e6bd08",
-    "start_name": "문장대",
-    "length_meter": 133.2,
-    "time_minute": 2
+    "color": "#20effb",
+    "start_name": "갈림길",
+    "length_meter": 886.9,
+    "time_minute": 14
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 36.566193,
-        "lng": 127.862762
-      },
-      {
-        "lat": 36.560333,
-        "lng": 127.869499
-      }
-    ],
-    "color": "#82af07",
-    "start_name": "갈림길 24",
-    "length_meter": 886.9,
-    "time_minute": 14
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
         "lat": 36.560333,
         "lng": 127.869499
       },
@@ -300,13 +283,13 @@
         "lng": 127.870705
       }
     ],
-    "color": "#2a18b6",
+    "color": "#22cb10",
     "start_name": "신선대휴게소",
     "length_meter": 173.2,
     "time_minute": 2
   },
   {
-    "path_id": 18,
+    "path_id": 17,
     "path": [
       {
         "lat": 36.559113,
@@ -317,13 +300,13 @@
         "lng": 127.871712
       }
     ],
-    "color": "#c225fc",
-    "start_name": "갈림길 26",
+    "color": "#a16a73",
+    "start_name": "갈림길",
     "length_meter": 995.0,
     "time_minute": 16
   },
   {
-    "path_id": 19,
+    "path_id": 18,
     "path": [
       {
         "lat": 36.550201,
@@ -334,47 +317,30 @@
         "lng": 127.871735
       }
     ],
-    "color": "#65b67a",
+    "color": "#7c51b0",
     "start_name": "자연경관",
     "length_meter": 269.3,
     "time_minute": 4
   },
   {
-    "path_id": 20,
+    "path_id": 19,
     "path": [
       {
         "lat": 36.547779,
         "lng": 127.871735
       },
       {
-        "lat": 36.545689,
-        "lng": 127.872162
-      }
-    ],
-    "color": "#a5486e",
-    "start_name": "갈림길 28",
-    "length_meter": 235.5,
-    "time_minute": 3
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 36.545689,
-        "lng": 127.872162
-      },
-      {
         "lat": 36.543209,
         "lng": 127.870796
       }
     ],
-    "color": "#784d89",
-    "start_name": "갈림길 29",
-    "length_meter": 301.6,
-    "time_minute": 5
+    "color": "#e64b98",
+    "start_name": "갈림길",
+    "length_meter": 515.0,
+    "time_minute": 8
   },
   {
-    "path_id": 22,
+    "path_id": 20,
     "path": [
       {
         "lat": 36.543209,
@@ -385,47 +351,30 @@
         "lng": 127.867653
       }
     ],
-    "color": "#08a6b0",
+    "color": "#826cfc",
     "start_name": "천왕봉",
     "length_meter": 800.0,
     "time_minute": 13
   },
   {
-    "path_id": 23,
+    "path_id": 21,
     "path": [
       {
         "lat": 36.549946,
         "lng": 127.867653
       },
       {
-        "lat": 36.549953,
-        "lng": 127.866722
-      }
-    ],
-    "color": "#1fe091",
-    "start_name": "갈림길 31",
-    "length_meter": 83.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 36.549953,
-        "lng": 127.866722
-      },
-      {
         "lat": 36.547451,
         "lng": 127.861305
       }
     ],
-    "color": "#84dd3c",
-    "start_name": "갈림길 32",
-    "length_meter": 558.2,
-    "time_minute": 9
+    "color": "#03c5bc",
+    "start_name": "갈림길",
+    "length_meter": 631.3,
+    "time_minute": 10
   },
   {
-    "path_id": 25,
+    "path_id": 22,
     "path": [
       {
         "lat": 36.547451,
@@ -436,26 +385,9 @@
         "lng": 127.859398
       }
     ],
-    "color": "#771b2d",
+    "color": "#c233c5",
     "start_name": "상황석문",
     "length_meter": 174.8,
     "time_minute": 2
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 36.5471,
-        "lng": 127.859398
-      },
-      {
-        "lat": 36.548805,
-        "lng": 127.855286
-      }
-    ],
-    "color": "#4785df",
-    "start_name": "갈림길 34",
-    "length_meter": 413.4,
-    "time_minute": 6
   }
 ]

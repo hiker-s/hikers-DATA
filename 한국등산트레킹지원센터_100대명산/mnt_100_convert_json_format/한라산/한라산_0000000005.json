@@ -11,7 +11,7 @@
         "lng": 126.626442
       }
     ],
-    "color": "#cd5834",
+    "color": "#be03b1",
     "start_name": "사려니숲길 정류소",
     "length_meter": 81.7,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 126.626511
       }
     ],
-    "color": "#2fc7ec",
+    "color": "#382110",
     "start_name": "사려니숲길 입구 쉼터 / 사려니숲길 입구 화장실",
     "length_meter": 84.9,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 126.626381
       }
     ],
-    "color": "#7f747c",
+    "color": "#5e5e70",
     "start_name": "사려니숲길 탐방안내소",
     "length_meter": 139.6,
     "time_minute": 2
@@ -58,34 +58,17 @@
         "lng": 126.626381
       },
       {
-        "lat": 33.419743,
-        "lng": 126.628723
-      }
-    ],
-    "color": "#2171d2",
-    "start_name": "갈림길 5",
-    "length_meter": 277.5,
-    "time_minute": 4
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 33.419743,
-        "lng": 126.628723
-      },
-      {
         "lat": 33.417751,
         "lng": 126.634567
       }
     ],
-    "color": "#a6dbca",
-    "start_name": "갈림길 8 / 갈림길 9",
-    "length_meter": 591.5,
-    "time_minute": 9
+    "color": "#11a452",
+    "start_name": "갈림길",
+    "length_meter": 855.9,
+    "time_minute": 14
   },
   {
-    "path_id": 5,
+    "path_id": 4,
     "path": [
       {
         "lat": 33.417751,
@@ -96,13 +79,13 @@
         "lng": 126.63826
       }
     ],
-    "color": "#e80130",
+    "color": "#198a07",
     "start_name": "천미천 / 천미천앞 화장실",
     "length_meter": 353.1,
     "time_minute": 5
   },
   {
-    "path_id": 6,
+    "path_id": 5,
     "path": [
       {
         "lat": 33.417244,
@@ -113,32 +96,32 @@
         "lng": 126.642761
       }
     ],
-    "color": "#b86ce2",
+    "color": "#3ff8ee",
     "start_name": "서어나무",
     "length_meter": 450.3,
+    "time_minute": 7
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 33.415733,
+        "lng": 126.642761
+      },
+      {
+        "lat": 33.413013,
+        "lng": 126.646225
+      }
+    ],
+    "color": "#c44579",
+    "start_name": "이나무",
+    "length_meter": 441.4,
     "time_minute": 7
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 33.415733,
-        "lng": 126.642761
-      },
-      {
-        "lat": 33.413013,
-        "lng": 126.646225
-      }
-    ],
-    "color": "#eb160d",
-    "start_name": "이나무",
-    "length_meter": 441.4,
-    "time_minute": 7
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
         "lat": 33.413013,
         "lng": 126.646225
       },
@@ -147,13 +130,13 @@
         "lng": 126.646439
       }
     ],
-    "color": "#e3d319",
+    "color": "#5dda5f",
     "start_name": "개서어나무",
     "length_meter": 120.0,
     "time_minute": 1
   },
   {
-    "path_id": 9,
+    "path_id": 8,
     "path": [
       {
         "lat": 33.411949,
@@ -164,13 +147,13 @@
         "lng": 126.646088
       }
     ],
-    "color": "#cb12d4",
+    "color": "#3ba3ea",
     "start_name": "누리장나무 / 산악기상관측장비",
     "length_meter": 1271.7,
     "time_minute": 21
   },
   {
-    "path_id": 10,
+    "path_id": 9,
     "path": [
       {
         "lat": 33.400517,
@@ -181,13 +164,13 @@
         "lng": 126.626511
       }
     ],
-    "color": "#cef5ba",
+    "color": "#829ef3",
     "start_name": "조릿대",
     "length_meter": 3049.9,
     "time_minute": 50
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 33.422546,
@@ -198,13 +181,13 @@
         "lng": 126.644745
       }
     ],
-    "color": "#df7cac",
+    "color": "#1446b9",
     "start_name": "사려니숲길 탐방안내소/사려니숲길 입구",
     "length_meter": 3477.5,
     "time_minute": 57
   },
   {
-    "path_id": 12,
+    "path_id": 11,
     "path": [
       {
         "lat": 33.395226,
@@ -215,13 +198,13 @@
         "lng": 126.644318
       }
     ],
-    "color": "#302322",
+    "color": "#e623ce",
     "start_name": "멧돼지출몰지역 / 물찻오름 / 물찻오름 안내소 / 물찻오름 앞 쉼터",
     "length_meter": 82.8,
     "time_minute": 1
   },
   {
-    "path_id": 13,
+    "path_id": 12,
     "path": [
       {
         "lat": 33.39468,
@@ -232,13 +215,13 @@
         "lng": 126.646477
       }
     ],
-    "color": "#805e2e",
+    "color": "#fb676e",
     "start_name": "물찻오름 입구 앞 화장실 / 물찻오름 입구",
     "length_meter": 462.7,
     "time_minute": 7
   },
   {
-    "path_id": 14,
+    "path_id": 13,
     "path": [
       {
         "lat": 33.391506,
@@ -249,13 +232,13 @@
         "lng": 126.65271
       }
     ],
-    "color": "#31f3b8",
+    "color": "#7063da",
     "start_name": "꽝꽝나무",
     "length_meter": 598.3,
     "time_minute": 9
   },
   {
-    "path_id": 15,
+    "path_id": 14,
     "path": [
       {
         "lat": 33.390141,
@@ -266,13 +249,13 @@
         "lng": 126.653816
       }
     ],
-    "color": "#363d9d",
+    "color": "#8cfed4",
     "start_name": "화장실",
     "length_meter": 107.7,
     "time_minute": 1
   },
   {
-    "path_id": 16,
+    "path_id": 15,
     "path": [
       {
         "lat": 33.390434,
@@ -283,13 +266,13 @@
         "lng": 126.65564
       }
     ],
-    "color": "#afcfbc",
+    "color": "#f7f38e",
     "start_name": "산림세라피",
     "length_meter": 196.3,
     "time_minute": 3
   },
   {
-    "path_id": 17,
+    "path_id": 16,
     "path": [
       {
         "lat": 33.391327,
@@ -300,13 +283,13 @@
         "lng": 126.660973
       }
     ],
-    "color": "#a9bef6",
-    "start_name": "갈림길 40 / 월든삼거리 쉼터 / 월든삼거리 삼나무숲",
+    "color": "#b46365",
+    "start_name": "갈림길 / 월든삼거리 쉼터 / 월든삼거리 삼나무숲",
     "length_meter": 640.3,
     "time_minute": 10
   },
   {
-    "path_id": 18,
+    "path_id": 17,
     "path": [
       {
         "lat": 33.394665,
@@ -317,13 +300,13 @@
         "lng": 126.676308
       }
     ],
-    "color": "#534acb",
-    "start_name": "갈림길 45 / 가친오름 입구 쉼터",
+    "color": "#525630",
+    "start_name": "갈림길 / 가친오름 입구 쉼터",
     "length_meter": 1433.8,
     "time_minute": 23
   },
   {
-    "path_id": 19,
+    "path_id": 18,
     "path": [
       {
         "lat": 33.393158,
@@ -334,13 +317,13 @@
         "lng": 126.679161
       }
     ],
-    "color": "#bd7244",
-    "start_name": "갈림길 51 / 가수기목",
+    "color": "#4cf2e1",
+    "start_name": "갈림길 / 가수기목",
     "length_meter": 287.7,
     "time_minute": 4
   },
   {
-    "path_id": 20,
+    "path_id": 19,
     "path": [
       {
         "lat": 33.392227,
@@ -351,13 +334,13 @@
         "lng": 126.679726
       }
     ],
-    "color": "#30a5c6",
+    "color": "#671059",
     "start_name": "삼나무숲길 포토존",
     "length_meter": 64.9,
     "time_minute": 1
   },
   {
-    "path_id": 21,
+    "path_id": 20,
     "path": [
       {
         "lat": 33.39257,
@@ -368,13 +351,13 @@
         "lng": 126.679161
       }
     ],
-    "color": "#5fffe8",
+    "color": "#882a01",
     "start_name": "삼나무숲길 포토존2",
     "length_meter": 64.9,
     "time_minute": 1
   },
   {
-    "path_id": 22,
+    "path_id": 21,
     "path": [
       {
         "lat": 33.392227,
@@ -385,13 +368,13 @@
         "lng": 126.680328
       }
     ],
-    "color": "#564ab4",
+    "color": "#1565db",
     "start_name": "삼나무숲길 포토존1",
     "length_meter": 144.7,
     "time_minute": 2
   },
   {
-    "path_id": 23,
+    "path_id": 22,
     "path": [
       {
         "lat": 33.393089,
@@ -402,13 +385,13 @@
         "lng": 126.68132
       }
     ],
-    "color": "#2ca57d",
+    "color": "#e2e2a7",
     "start_name": "미로숲길 입구",
     "length_meter": 103.7,
     "time_minute": 1
   },
   {
-    "path_id": 24,
+    "path_id": 23,
     "path": [
       {
         "lat": 33.393517,
@@ -419,13 +402,13 @@
         "lng": 126.68277
       }
     ],
-    "color": "#27ebbc",
+    "color": "#58b586",
     "start_name": "산수국",
     "length_meter": 215.2,
     "time_minute": 3
   },
   {
-    "path_id": 25,
+    "path_id": 24,
     "path": [
       {
         "lat": 33.395027,
@@ -436,13 +419,13 @@
         "lng": 126.68457
       }
     ],
-    "color": "#fda891",
+    "color": "#a641a2",
     "start_name": "미로숲길 / 미로숲길 쉼터 / 미로숲길 쉼터/열린무대 / 사려니숲 무장애나눔길",
     "length_meter": 194.5,
     "time_minute": 3
   },
   {
-    "path_id": 26,
+    "path_id": 25,
     "path": [
       {
         "lat": 33.394981,
@@ -453,7 +436,7 @@
         "lng": 126.685043
       }
     ],
-    "color": "#acaf47",
+    "color": "#0958fb",
     "start_name": "한라산둘레길 숲길센터 화장실 / 한라산둘레길 숲길센터 / 사려니숲길 붉은오름 입출구",
     "length_meter": 70.3,
     "time_minute": 1
