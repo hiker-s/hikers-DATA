@@ -11,7 +11,7 @@
         "lng": 128.5952
       }
     ],
-    "color": "#a9fb3a",
+    "color": "#671cff",
     "start_name": "나리소 전망대 입구",
     "length_meter": 153.2,
     "time_minute": 2
@@ -28,9 +28,9 @@
         "lng": 128.594803
       }
     ],
-    "color": "#aed62c",
-    "start_name": "낭떠러지 / 낭떠러지",
-    "length_meter": 90.7,
+    "color": "#f633a9",
+    "start_name": "낭떠러지",
+    "length_meter": 71.6,
     "time_minute": 1
   },
   {
@@ -45,7 +45,7 @@
         "lng": 128.598755
       }
     ],
-    "color": "#b1a897",
+    "color": "#39cbac",
     "start_name": "전망대 조망 / 전망대",
     "length_meter": 369.9,
     "time_minute": 6
@@ -62,7 +62,7 @@
         "lng": 128.601044
       }
     ],
-    "color": "#0f16a0",
+    "color": "#58b3cd",
     "start_name": "나리소전망대",
     "length_meter": 410.6,
     "time_minute": 6
@@ -79,7 +79,7 @@
         "lng": 128.612137
       }
     ],
-    "color": "#a71567",
+    "color": "#ea241b",
     "start_name": "의자",
     "length_meter": 1317.5,
     "time_minute": 21
@@ -96,7 +96,7 @@
         "lng": 128.607803
       }
     ],
-    "color": "#25b5dd",
+    "color": "#390025",
     "start_name": "점재교 다리",
     "length_meter": 384.7,
     "time_minute": 6
@@ -109,172 +109,121 @@
         "lng": 128.607803
       },
       {
-        "lat": 37.274273,
-        "lng": 128.605087
+        "lat": 37.272846,
+        "lng": 128.59874
       }
     ],
-    "color": "#f31dec",
+    "color": "#02c3c2",
     "start_name": "화장실 / 갈림길",
-    "length_meter": 277.2,
-    "time_minute": 4
+    "length_meter": 857.5,
+    "time_minute": 14
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.274273,
-        "lng": 128.605087
+        "lat": 37.272846,
+        "lng": 128.59874
       },
       {
-        "lat": 37.273743,
-        "lng": 128.601013
+        "lat": 37.272194,
+        "lng": 128.599213
       }
     ],
-    "color": "#a29953",
-    "start_name": "갈림길",
-    "length_meter": 365.3,
-    "time_minute": 6
+    "color": "#fd1fd5",
+    "start_name": "출입통제",
+    "length_meter": 83.7,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 37.273743,
-        "lng": 128.601013
+        "lat": 37.272194,
+        "lng": 128.599213
       },
       {
-        "lat": 37.273094,
-        "lng": 128.60025
+        "lat": 37.273064,
+        "lng": 128.598862
       }
     ],
-    "color": "#d266b5",
-    "start_name": "추락주의",
-    "length_meter": 98.8,
+    "color": "#fae39d",
+    "start_name": "폐쇠전망대",
+    "length_meter": 101.6,
     "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.273094,
-        "lng": 128.60025
+        "lat": 37.273064,
+        "lng": 128.598862
       },
       {
-        "lat": 37.272945,
-        "lng": 128.598724
+        "lat": 37.274235,
+        "lng": 128.599152
       }
     ],
-    "color": "#a52154",
-    "start_name": "추락주의",
-    "length_meter": 136.0,
+    "color": "#21160e",
+    "start_name": "추락 및 낙석",
+    "length_meter": 132.7,
     "time_minute": 2
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 37.272945,
-        "lng": 128.598724
+        "lat": 37.274235,
+        "lng": 128.599152
       },
       {
-        "lat": 37.272194,
-        "lng": 128.599213
+        "lat": 37.274734,
+        "lng": 128.59967
       }
     ],
-    "color": "#fd7c9d",
-    "start_name": "갈림길 / 출입통제",
-    "length_meter": 94.8,
+    "color": "#d4452d",
+    "start_name": "조망 / 추락 및 낙석",
+    "length_meter": 79.0,
     "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 37.272194,
-        "lng": 128.599213
+        "lat": 37.274734,
+        "lng": 128.59967
       },
       {
-        "lat": 37.273064,
-        "lng": 128.598862
+        "lat": 37.280006,
+        "lng": 128.596069
       }
     ],
-    "color": "#7f2212",
-    "start_name": "폐쇠전망대",
-    "length_meter": 101.6,
-    "time_minute": 1
+    "color": "#89d00a",
+    "start_name": "경치",
+    "length_meter": 667.2,
+    "time_minute": 11
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 37.273064,
-        "lng": 128.598862
+        "lat": 37.280006,
+        "lng": 128.596069
       },
       {
-        "lat": 37.274235,
-        "lng": 128.599152
+        "lat": 37.279682,
+        "lng": 128.594162
       }
     ],
-    "color": "#c82466",
-    "start_name": "추락 및 낙석",
-    "length_meter": 132.7,
+    "color": "#b39bf8",
+    "start_name": "백운산  정상",
+    "length_meter": 172.5,
     "time_minute": 2
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 37.274235,
-        "lng": 128.599152
-      },
-      {
-        "lat": 37.274734,
-        "lng": 128.59967
-      }
-    ],
-    "color": "#fe41c6",
-    "start_name": "조망 / 추락 및 낙석",
-    "length_meter": 79.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 37.274734,
-        "lng": 128.59967
-      },
-      {
-        "lat": 37.280006,
-        "lng": 128.596069
-      }
-    ],
-    "color": "#1bdf92",
-    "start_name": "경치",
-    "length_meter": 667.2,
-    "time_minute": 11
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.280006,
-        "lng": 128.596069
-      },
-      {
-        "lat": 37.279682,
-        "lng": 128.594162
-      }
-    ],
-    "color": "#7dbe39",
-    "start_name": "백운산  정상",
-    "length_meter": 172.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
         "lat": 37.279682,
         "lng": 128.594162
       },
@@ -283,13 +232,13 @@
         "lng": 128.592941
       }
     ],
-    "color": "#ae311a",
+    "color": "#38c6b6",
     "start_name": "갈림길",
     "length_meter": 132.1,
     "time_minute": 2
   },
   {
-    "path_id": 17,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.278999,
@@ -300,253 +249,83 @@
         "lng": 128.592438
       }
     ],
-    "color": "#95f9c0",
+    "color": "#523fbe",
     "start_name": "추락위험 / 멧돼지흔적",
     "length_meter": 61.7,
     "time_minute": 1
   },
   {
-    "path_id": 18,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.278679,
         "lng": 128.592438
       },
       {
-        "lat": 37.27816,
-        "lng": 128.591492
+        "lat": 37.271477,
+        "lng": 128.583008
       }
     ],
-    "color": "#83ca5c",
-    "start_name": "추락위험 / 추락위험 / 추락위험",
-    "length_meter": 114.0,
+    "color": "#f5e3ad",
+    "start_name": "추락위험",
+    "length_meter": 1156.5,
+    "time_minute": 19
+  },
+  {
+    "path_id": 16,
+    "path": [
+      {
+        "lat": 37.271477,
+        "lng": 128.583008
+      },
+      {
+        "lat": 37.270908,
+        "lng": 128.582642
+      }
+    ],
+    "color": "#89b1de",
+    "start_name": "추모명판 돌탑",
+    "length_meter": 71.1,
+    "time_minute": 1
+  },
+  {
+    "path_id": 17,
+    "path": [
+      {
+        "lat": 37.270908,
+        "lng": 128.582642
+      },
+      {
+        "lat": 37.269855,
+        "lng": 128.582275
+      }
+    ],
+    "color": "#bf1ee7",
+    "start_name": "추락위험",
+    "length_meter": 121.5,
+    "time_minute": 2
+  },
+  {
+    "path_id": 18,
+    "path": [
+      {
+        "lat": 37.269855,
+        "lng": 128.582275
+      },
+      {
+        "lat": 37.269112,
+        "lng": 128.582123
+      }
+    ],
+    "color": "#400825",
+    "start_name": "갈림길",
+    "length_meter": 83.7,
     "time_minute": 1
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 37.27816,
-        "lng": 128.591492
-      },
-      {
-        "lat": 37.278168,
-        "lng": 128.590576
-      }
-    ],
-    "color": "#f346b1",
-    "start_name": "추락위험 / 조망점 / 추락위험",
-    "length_meter": 84.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 37.278168,
-        "lng": 128.590576
-      },
-      {
-        "lat": 37.277905,
-        "lng": 128.590195
-      }
-    ],
-    "color": "#9194bd",
-    "start_name": "추락위험 / 추락위험 / 추락위험",
-    "length_meter": 69.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 37.277905,
-        "lng": 128.590195
-      },
-      {
-        "lat": 37.277485,
-        "lng": 128.589478
-      }
-    ],
-    "color": "#3b4029",
-    "start_name": "추락위험 / 추락위험",
-    "length_meter": 79.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 37.277485,
-        "lng": 128.589478
-      },
-      {
-        "lat": 37.276089,
-        "lng": 128.588303
-      }
-    ],
-    "color": "#295900",
-    "start_name": "추락위험",
-    "length_meter": 186.8,
-    "time_minute": 3
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 37.276089,
-        "lng": 128.588303
-      },
-      {
-        "lat": 37.275635,
-        "lng": 128.58728
-      }
-    ],
-    "color": "#ecd507",
-    "start_name": "추락위험",
-    "length_meter": 103.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 37.275635,
-        "lng": 128.58728
-      },
-      {
-        "lat": 37.274975,
-        "lng": 128.586243
-      }
-    ],
-    "color": "#6321e9",
-    "start_name": "추락위험",
-    "length_meter": 117.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 37.274975,
-        "lng": 128.586243
-      },
-      {
-        "lat": 37.275005,
-        "lng": 128.585266
-      }
-    ],
-    "color": "#4420c0",
-    "start_name": "추락위험 / 추락위험",
-    "length_meter": 86.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 37.275005,
-        "lng": 128.585266
-      },
-      {
-        "lat": 37.273922,
-        "lng": 128.584351
-      }
-    ],
-    "color": "#6bdd41",
-    "start_name": "추락위험 / 추락위험 / 추락위험",
-    "length_meter": 145.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 37.273922,
-        "lng": 128.584351
-      },
-      {
-        "lat": 37.272903,
-        "lng": 128.584137
-      }
-    ],
-    "color": "#ba6e58",
-    "start_name": "추락위험 / 추락위험 / 추락위험",
-    "length_meter": 116.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 37.272903,
-        "lng": 128.584137
-      },
-      {
-        "lat": 37.271534,
-        "lng": 128.582962
-      }
-    ],
-    "color": "#cc1859",
-    "start_name": "추락위험",
-    "length_meter": 184.3,
-    "time_minute": 3
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 37.271534,
-        "lng": 128.582962
-      },
-      {
-        "lat": 37.270908,
-        "lng": 128.582642
-      }
-    ],
-    "color": "#a65fd4",
-    "start_name": "추락위험 / 추모명판 돌탑",
-    "length_meter": 78.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 37.270908,
-        "lng": 128.582642
-      },
-      {
-        "lat": 37.269924,
-        "lng": 128.58226
-      }
-    ],
-    "color": "#e8cd82",
-    "start_name": "추락위험",
-    "length_meter": 114.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 37.269924,
-        "lng": 128.58226
-      },
-      {
-        "lat": 37.269112,
-        "lng": 128.582123
-      }
-    ],
-    "color": "#d50ffb",
-    "start_name": "추락위험 / 갈림길",
-    "length_meter": 91.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
         "lat": 37.269112,
         "lng": 128.582123
       },
@@ -555,64 +334,30 @@
         "lng": 128.581512
       }
     ],
-    "color": "#fa4a17",
+    "color": "#28c02c",
     "start_name": "추락위험",
     "length_meter": 181.8,
     "time_minute": 3
   },
   {
-    "path_id": 33,
+    "path_id": 20,
     "path": [
       {
         "lat": 37.267551,
         "lng": 128.581512
-      },
-      {
-        "lat": 37.267406,
-        "lng": 128.580704
-      }
-    ],
-    "color": "#35503f",
-    "start_name": "갈림길",
-    "length_meter": 73.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 37.267406,
-        "lng": 128.580704
-      },
-      {
-        "lat": 37.267078,
-        "lng": 128.575912
-      }
-    ],
-    "color": "#c39f08",
-    "start_name": "갈림길 / 갈림길",
-    "length_meter": 444.7,
-    "time_minute": 7
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 37.267078,
-        "lng": 128.575912
       },
       {
         "lat": 37.266834,
         "lng": 128.580307
       }
     ],
-    "color": "#dd7f56",
+    "color": "#fd5aeb",
     "start_name": "갈림길",
-    "length_meter": 389.9,
-    "time_minute": 6
+    "length_meter": 133.1,
+    "time_minute": 2
   },
   {
-    "path_id": 36,
+    "path_id": 21,
     "path": [
       {
         "lat": 37.266834,
@@ -623,13 +368,13 @@
         "lng": 128.582352
       }
     ],
-    "color": "#5e430e",
+    "color": "#e6e09d",
     "start_name": "칠족령전망대 / 의자2개 / 의자 2개",
     "length_meter": 206.5,
     "time_minute": 3
   },
   {
-    "path_id": 37,
+    "path_id": 22,
     "path": [
       {
         "lat": 37.266155,
@@ -640,13 +385,13 @@
         "lng": 128.581451
       }
     ],
-    "color": "#049ee2",
+    "color": "#de1c52",
     "start_name": "갈림길 / 추락 및 낙석위험",
     "length_meter": 782.7,
     "time_minute": 13
   },
   {
-    "path_id": 38,
+    "path_id": 23,
     "path": [
       {
         "lat": 37.259232,
@@ -657,13 +402,13 @@
         "lng": 128.583832
       }
     ],
-    "color": "#e8ebbd",
+    "color": "#bb8f73",
     "start_name": "석벽",
     "length_meter": 224.9,
     "time_minute": 3
   },
   {
-    "path_id": 39,
+    "path_id": 24,
     "path": [
       {
         "lat": 37.258526,
@@ -674,9 +419,9 @@
         "lng": 128.586639
       }
     ],
-    "color": "#a5aeac",
-    "start_name": "정희농박 / 정희농박",
-    "length_meter": 293.8,
+    "color": "#71ab43",
+    "start_name": "정희농박",
+    "length_meter": 292.9,
     "time_minute": 4
   }
 ]

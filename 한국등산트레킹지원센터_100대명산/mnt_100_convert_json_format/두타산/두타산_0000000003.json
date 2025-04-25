@@ -11,7 +11,7 @@
         "lng": 129.030685
       }
     ],
-    "color": "#e4cba6",
+    "color": "#6b08ae",
     "start_name": "무릉계곡입구 / 간이화장실 / 제3주차장,대형,아스팔트",
     "length_meter": 84.0,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 129.028809
       }
     ],
-    "color": "#4dfdd3",
+    "color": "#9eadf0",
     "start_name": "동해무릉건강숲",
     "length_meter": 189.8,
     "time_minute": 3
@@ -45,7 +45,7 @@
         "lng": 129.027237
       }
     ],
-    "color": "#6a0758",
+    "color": "#f2a83d",
     "start_name": "소형주차장 / 갈림길",
     "length_meter": 139.1,
     "time_minute": 2
@@ -58,87 +58,70 @@
         "lng": 129.027237
       },
       {
-        "lat": 37.464828,
-        "lng": 129.025589
+        "lat": 37.464382,
+        "lng": 129.024521
       }
     ],
-    "color": "#0b5c75",
+    "color": "#81c5eb",
     "start_name": "간이휴게소",
-    "length_meter": 148.3,
-    "time_minute": 2
+    "length_meter": 252.2,
+    "time_minute": 4
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.464828,
-        "lng": 129.025589
+        "lat": 37.464382,
+        "lng": 129.024521
       },
       {
-        "lat": 37.464508,
-        "lng": 129.024567
+        "lat": 37.46373,
+        "lng": 129.024338
       }
     ],
-    "color": "#0cf833",
-    "start_name": "간이휴게소",
-    "length_meter": 97.0,
+    "color": "#883741",
+    "start_name": "호암소 / 갈림길",
+    "length_meter": 105.2,
     "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 37.464508,
-        "lng": 129.024567
-      },
-      {
         "lat": 37.46373,
         "lng": 129.024338
+      },
+      {
+        "lat": 37.463997,
+        "lng": 129.023605
       }
     ],
-    "color": "#b31e9e",
-    "start_name": "간이휴게소 / 호암소 / 갈림길",
-    "length_meter": 119.7,
+    "color": "#448989",
+    "start_name": "무릉계곡갬핑장 / 제2주차장",
+    "length_meter": 96.6,
     "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 37.46373,
-        "lng": 129.024338
-      },
-      {
         "lat": 37.463997,
         "lng": 129.023605
+      },
+      {
+        "lat": 37.463554,
+        "lng": 129.022812
       }
     ],
-    "color": "#3599a1",
-    "start_name": "무릉계곡갬핑장 / 제2주차장",
-    "length_meter": 96.6,
+    "color": "#be3854",
+    "start_name": "1주차장",
+    "length_meter": 85.6,
     "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.463997,
-        "lng": 129.023605
-      },
-      {
-        "lat": 37.463554,
-        "lng": 129.022812
-      }
-    ],
-    "color": "#ddb26f",
-    "start_name": "1주차장",
-    "length_meter": 85.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
         "lat": 37.463554,
         "lng": 129.022812
       },
@@ -147,13 +130,13 @@
         "lng": 129.020889
       }
     ],
-    "color": "#8f152b",
+    "color": "#f025ab",
     "start_name": "1주차장화장실 / 무릉계곡정류장",
     "length_meter": 183.6,
     "time_minute": 3
   },
   {
-    "path_id": 9,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.463444,
@@ -164,32 +147,32 @@
         "lng": 129.019562
       }
     ],
-    "color": "#485ddf",
+    "color": "#09db45",
     "start_name": "먹자거리화장실 / 무릉광장",
     "length_meter": 118.0,
+    "time_minute": 1
+  },
+  {
+    "path_id": 9,
+    "path": [
+      {
+        "lat": 37.463345,
+        "lng": 129.019562
+      },
+      {
+        "lat": 37.463055,
+        "lng": 129.018738
+      }
+    ],
+    "color": "#06b809",
+    "start_name": "무릉계곡안내소,매표소 / 관리소화장실",
+    "length_meter": 89.0,
     "time_minute": 1
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 37.463345,
-        "lng": 129.019562
-      },
-      {
-        "lat": 37.463055,
-        "lng": 129.018738
-      }
-    ],
-    "color": "#46ad64",
-    "start_name": "무릉계곡안내소,매표소 / 관리소화장실",
-    "length_meter": 89.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
         "lat": 37.463055,
         "lng": 129.018738
       },
@@ -198,98 +181,64 @@
         "lng": 129.018036
       }
     ],
-    "color": "#38dd32",
+    "color": "#deed9f",
     "start_name": "갈림길 / 간이휴게소 / 갈림길",
     "length_meter": 148.1,
     "time_minute": 2
   },
   {
-    "path_id": 12,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.461876,
         "lng": 129.018036
       },
       {
-        "lat": 37.461166,
-        "lng": 129.017715
+        "lat": 37.461117,
+        "lng": 129.017487
       }
     ],
-    "color": "#451985",
+    "color": "#ab422b",
     "start_name": "출입통제",
-    "length_meter": 83.9,
+    "length_meter": 97.3,
     "time_minute": 1
+  },
+  {
+    "path_id": 12,
+    "path": [
+      {
+        "lat": 37.461117,
+        "lng": 129.017487
+      },
+      {
+        "lat": 37.460979,
+        "lng": 129.014801
+      }
+    ],
+    "color": "#50e065",
+    "start_name": "숯가마터 / 출입통제",
+    "length_meter": 267.4,
+    "time_minute": 4
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 37.461166,
-        "lng": 129.017715
-      },
-      {
-        "lat": 37.460682,
-        "lng": 129.017166
-      }
-    ],
-    "color": "#a73b43",
-    "start_name": "출입통제 / 숯가마터",
-    "length_meter": 76.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 37.460682,
-        "lng": 129.017166
-      },
-      {
         "lat": 37.460979,
         "lng": 129.014801
-      }
-    ],
-    "color": "#5b6517",
-    "start_name": "출입통제 / 출입통제",
-    "length_meter": 212.4,
-    "time_minute": 3
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.460979,
-        "lng": 129.014801
-      },
-      {
-        "lat": 37.458481,
-        "lng": 129.013016
-      }
-    ],
-    "color": "#1cb997",
-    "start_name": "갈림길 / 조망점",
-    "length_meter": 331.3,
-    "time_minute": 5
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 37.458481,
-        "lng": 129.013016
       },
       {
         "lat": 37.457851,
         "lng": 129.013046
       }
     ],
-    "color": "#717f74",
+    "color": "#ea4ae0",
     "start_name": "갈림길",
-    "length_meter": 70.1,
-    "time_minute": 1
+    "length_meter": 380.8,
+    "time_minute": 6
   },
   {
-    "path_id": 17,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.457851,
@@ -300,13 +249,13 @@
         "lng": 129.012772
       }
     ],
-    "color": "#12400a",
+    "color": "#d25a27",
     "start_name": "군락지",
     "length_meter": 103.4,
     "time_minute": 1
   },
   {
-    "path_id": 18,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.456947,
@@ -317,13 +266,13 @@
         "lng": 129.013397
       }
     ],
-    "color": "#222b13",
+    "color": "#68a494",
     "start_name": "갈림길 / 베틀바위전망대",
     "length_meter": 112.8,
     "time_minute": 1
   },
   {
-    "path_id": 19,
+    "path_id": 16,
     "path": [
       {
         "lat": 37.456711,
@@ -334,13 +283,13 @@
         "lng": 129.013412
       }
     ],
-    "color": "#e78abe",
+    "color": "#362c4a",
     "start_name": "갈림길 / 미륵바위",
     "length_meter": 128.1,
     "time_minute": 2
   },
   {
-    "path_id": 20,
+    "path_id": 17,
     "path": [
       {
         "lat": 37.455879,
@@ -351,13 +300,13 @@
         "lng": 129.007858
       }
     ],
-    "color": "#b84991",
+    "color": "#c3100e",
     "start_name": "갈림길",
     "length_meter": 720.0,
     "time_minute": 11
   },
   {
-    "path_id": 21,
+    "path_id": 18,
     "path": [
       {
         "lat": 37.460621,
@@ -368,13 +317,13 @@
         "lng": 129.011642
       }
     ],
-    "color": "#565b3e",
+    "color": "#bf5afa",
     "start_name": "학소대",
     "length_meter": 368.9,
     "time_minute": 6
   },
   {
-    "path_id": 22,
+    "path_id": 19,
     "path": [
       {
         "lat": 37.462029,
@@ -385,13 +334,13 @@
         "lng": 129.013565
       }
     ],
-    "color": "#99421a",
+    "color": "#0884ad",
     "start_name": "갈림길",
     "length_meter": 200.6,
     "time_minute": 3
   },
   {
-    "path_id": 23,
+    "path_id": 20,
     "path": [
       {
         "lat": 37.46299,
@@ -402,13 +351,13 @@
         "lng": 129.014221
       }
     ],
-    "color": "#b0c823",
+    "color": "#50ddd7",
     "start_name": "간이휴게소",
     "length_meter": 64.1,
     "time_minute": 1
   },
   {
-    "path_id": 24,
+    "path_id": 21,
     "path": [
       {
         "lat": 37.463238,
@@ -419,13 +368,13 @@
         "lng": 129.015945
       }
     ],
-    "color": "#d80e2f",
+    "color": "#2ace1f",
     "start_name": "삼화사간이쉼터 / 삼화사",
     "length_meter": 192.3,
     "time_minute": 3
   },
   {
-    "path_id": 25,
+    "path_id": 22,
     "path": [
       {
         "lat": 37.463356,
@@ -436,13 +385,13 @@
         "lng": 129.016769
       }
     ],
-    "color": "#130a77",
+    "color": "#8726a7",
     "start_name": "간이휴게소",
     "length_meter": 72.8,
     "time_minute": 1
   },
   {
-    "path_id": 26,
+    "path_id": 23,
     "path": [
       {
         "lat": 37.463337,
@@ -453,13 +402,13 @@
         "lng": 129.0177
       }
     ],
-    "color": "#3745d2",
+    "color": "#242109",
     "start_name": "무릉반석 / 금란정",
     "length_meter": 84.3,
     "time_minute": 1
   },
   {
-    "path_id": 27,
+    "path_id": 24,
     "path": [
       {
         "lat": 37.463203,
@@ -470,13 +419,13 @@
         "lng": 129.021866
       }
     ],
-    "color": "#f2a7e6",
+    "color": "#5a6d3b",
     "start_name": "최인희시비(낙조) / 무릉숲작은무대",
     "length_meter": 374.6,
     "time_minute": 6
   },
   {
-    "path_id": 28,
+    "path_id": 25,
     "path": [
       {
         "lat": 37.463676,
@@ -487,7 +436,7 @@
         "lng": 129.022964
       }
     ],
-    "color": "#897483",
+    "color": "#3f7949",
     "start_name": "먹자거리(200여미터) / 무릉휴게소(복합건물)",
     "length_meter": 99.3,
     "time_minute": 1

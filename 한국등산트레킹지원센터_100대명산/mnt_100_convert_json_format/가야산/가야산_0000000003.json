@@ -11,7 +11,7 @@
         "lng": 128.142136
       }
     ],
-    "color": "#00c94b",
+    "color": "#e1feba",
     "start_name": "백운동주차장화장실 / 식당",
     "length_meter": 134.8,
     "time_minute": 2
@@ -24,31 +24,31 @@
         "lng": 128.142136
       },
       {
-        "lat": 35.803757,
-        "lng": 128.141998
+        "lat": 35.803925,
+        "lng": 128.141769
       }
     ],
-    "color": "#31354e",
+    "color": "#55e5ba",
     "start_name": "야생화식물원",
-    "length_meter": 123.3,
+    "length_meter": 145.2,
     "time_minute": 2
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.803757,
-        "lng": 128.141998
+        "lat": 35.803925,
+        "lng": 128.141769
       },
       {
         "lat": 35.803833,
         "lng": 128.13887
       }
     ],
-    "color": "#5ea369",
-    "start_name": "쉼터 / 백운동 탐방지원센터 / 갈림길 10",
-    "length_meter": 300.0,
-    "time_minute": 5
+    "color": "#f97802",
+    "start_name": "백운동 탐방지원센터 / 갈림길 10",
+    "length_meter": 272.2,
+    "time_minute": 4
   },
   {
     "path_id": 3,
@@ -58,30 +58,30 @@
         "lng": 128.13887
       },
       {
-        "lat": 35.804108,
-        "lng": 128.137527
+        "lat": 35.804153,
+        "lng": 128.137451
       }
     ],
-    "color": "#d965d7",
+    "color": "#1ef23a",
     "start_name": "심장안전쉼터",
-    "length_meter": 124.9,
+    "length_meter": 132.8,
     "time_minute": 2
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.804108,
-        "lng": 128.137527
+        "lat": 35.804153,
+        "lng": 128.137451
       },
       {
         "lat": 35.804466,
         "lng": 128.136658
       }
     ],
-    "color": "#d4fd25",
-    "start_name": "추락주의 / 낙석주의",
-    "length_meter": 88.0,
+    "color": "#b618bf",
+    "start_name": "낙석주의",
+    "length_meter": 79.5,
     "time_minute": 1
   },
   {
@@ -92,51 +92,34 @@
         "lng": 128.136658
       },
       {
-        "lat": 35.805378,
-        "lng": 128.135757
+        "lat": 35.805626,
+        "lng": 128.13559
       }
     ],
-    "color": "#080e3c",
+    "color": "#944e49",
     "start_name": "심장안전쉼터",
-    "length_meter": 129.9,
+    "length_meter": 161.0,
     "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.805378,
-        "lng": 128.135757
-      },
-      {
-        "lat": 35.806431,
-        "lng": 128.134537
-      }
-    ],
-    "color": "#d6bfb1",
-    "start_name": "심장안전쉼터 / 자연경관",
-    "length_meter": 161.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.806431,
-        "lng": 128.134537
+        "lat": 35.805626,
+        "lng": 128.13559
       },
       {
         "lat": 35.807278,
         "lng": 128.133667
       }
     ],
-    "color": "#350776",
+    "color": "#97bf2b",
     "start_name": "자연경관",
-    "length_meter": 122.6,
-    "time_minute": 2
+    "length_meter": 252.6,
+    "time_minute": 4
   },
   {
-    "path_id": 8,
+    "path_id": 7,
     "path": [
       {
         "lat": 35.807278,
@@ -147,32 +130,32 @@
         "lng": 128.133438
       }
     ],
-    "color": "#cf9bd0",
+    "color": "#351dbd",
     "start_name": "심장안전쉼터",
     "length_meter": 62.9,
+    "time_minute": 1
+  },
+  {
+    "path_id": 8,
+    "path": [
+      {
+        "lat": 35.807812,
+        "lng": 128.133438
+      },
+      {
+        "lat": 35.808475,
+        "lng": 128.133423
+      }
+    ],
+    "color": "#b44570",
+    "start_name": "양송이? 바위 / 자연경관",
+    "length_meter": 73.9,
     "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.807812,
-        "lng": 128.133438
-      },
-      {
-        "lat": 35.808475,
-        "lng": 128.133423
-      }
-    ],
-    "color": "#899797",
-    "start_name": "양송이? 바위 / 자연경관",
-    "length_meter": 73.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
         "lat": 35.808475,
         "lng": 128.133423
       },
@@ -181,13 +164,13 @@
         "lng": 128.132828
       }
     ],
-    "color": "#0d60de",
+    "color": "#a0f61e",
     "start_name": "소나무",
     "length_meter": 185.3,
     "time_minute": 3
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 35.81007,
@@ -198,13 +181,13 @@
         "lng": 128.131012
       }
     ],
-    "color": "#3fa133",
+    "color": "#7307e7",
     "start_name": "낙석주위",
     "length_meter": 256.7,
     "time_minute": 4
   },
   {
-    "path_id": 12,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.811848,
@@ -215,47 +198,30 @@
         "lng": 128.129211
       }
     ],
-    "color": "#603746",
+    "color": "#d0c30a",
     "start_name": "소나무가 아파요 / 삿갓바위 / 자연경관",
     "length_meter": 180.3,
     "time_minute": 3
   },
   {
-    "path_id": 13,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.812504,
         "lng": 128.129211
       },
       {
-        "lat": 35.813541,
-        "lng": 128.126312
-      }
-    ],
-    "color": "#dbbd3f",
-    "start_name": "근육맨과 자연경관 / 자연경관",
-    "length_meter": 286.3,
-    "time_minute": 4
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.813541,
-        "lng": 128.126312
-      },
-      {
         "lat": 35.813107,
         "lng": 128.123871
       }
     ],
-    "color": "#03ba8b",
-    "start_name": "추락주의",
-    "length_meter": 225.3,
-    "time_minute": 3
+    "color": "#c69e6c",
+    "start_name": "근육맨과 자연경관 / 자연경관",
+    "length_meter": 486.2,
+    "time_minute": 8
   },
   {
-    "path_id": 15,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.813107,
@@ -266,13 +232,13 @@
         "lng": 128.122803
       }
     ],
-    "color": "#2a452b",
+    "color": "#8cca9f",
     "start_name": "상아덤(서장대)",
     "length_meter": 236.7,
     "time_minute": 3
   },
   {
-    "path_id": 16,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.815052,
@@ -283,13 +249,13 @@
         "lng": 128.141693
       }
     ],
-    "color": "#9e08cd",
+    "color": "#0c6984",
     "start_name": "갈림길 30 / 서성재",
     "length_meter": 2101.1,
     "time_minute": 35
   },
   {
-    "path_id": 17,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.804012,
@@ -300,13 +266,13 @@
         "lng": 128.142151
       }
     ],
-    "color": "#f005d7",
+    "color": "#a3911d",
     "start_name": "만물상 탐방로 예약제",
     "length_meter": 138.6,
     "time_minute": 2
   },
   {
-    "path_id": 18,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.802822,
@@ -317,26 +283,9 @@
         "lng": 128.141663
       }
     ],
-    "color": "#41332e",
+    "color": "#137647",
     "start_name": "가야호텔사우나",
     "length_meter": 73.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 35.802288,
-        "lng": 128.141663
-      },
-      {
-        "lat": 35.801376,
-        "lng": 128.142212
-      }
-    ],
-    "color": "#71016d",
-    "start_name": "성주가든",
-    "length_meter": 112.9,
     "time_minute": 1
   }
 ]

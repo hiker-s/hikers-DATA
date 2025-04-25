@@ -11,9 +11,9 @@
         "lng": 127.616257
       }
     ],
-    "color": "#e77ef1",
-    "start_name": "장안산(들머리 무룡고개) / 주차장 / 화장실",
-    "length_meter": 71.3,
+    "color": "#db840a",
+    "start_name": "장안산(들머리 무룡고개) / 화장실",
+    "length_meter": 67.1,
     "time_minute": 1
   },
   {
@@ -28,7 +28,7 @@
         "lng": 127.613579
       }
     ],
-    "color": "#123893",
+    "color": "#0660f7",
     "start_name": "벽계쉼터 / 갈림길 / 장안산입구",
     "length_meter": 298.4,
     "time_minute": 4
@@ -41,121 +41,53 @@
         "lng": 127.613579
       },
       {
-        "lat": 35.643448,
-        "lng": 127.612816
+        "lat": 35.634937,
+        "lng": 127.603676
       }
     ],
-    "color": "#12f54c",
+    "color": "#757075",
     "start_name": "갈림길",
-    "length_meter": 70.6,
-    "time_minute": 1
+    "length_meter": 1313.6,
+    "time_minute": 21
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.643448,
-        "lng": 127.612816
+        "lat": 35.634937,
+        "lng": 127.603676
       },
       {
-        "lat": 35.637806,
-        "lng": 127.60437
+        "lat": 35.631104,
+        "lng": 127.599632
       }
     ],
-    "color": "#bada02",
-    "start_name": "쉼터 / 갈림길",
-    "length_meter": 990.1,
-    "time_minute": 16
+    "color": "#fb997a",
+    "start_name": "조망터",
+    "length_meter": 561.5,
+    "time_minute": 9
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.637806,
-        "lng": 127.60437
+        "lat": 35.631104,
+        "lng": 127.599632
       },
       {
-        "lat": 35.634937,
-        "lng": 127.603676
+        "lat": 35.629219,
+        "lng": 127.595795
       }
     ],
-    "color": "#89a739",
-    "start_name": "갈림길 / 쉼터",
-    "length_meter": 328.7,
-    "time_minute": 5
+    "color": "#7c97b7",
+    "start_name": "국가지점번호",
+    "length_meter": 405.2,
+    "time_minute": 6
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.634937,
-        "lng": 127.603676
-      },
-      {
-        "lat": 35.63253,
-        "lng": 127.600334
-      }
-    ],
-    "color": "#0547ae",
-    "start_name": "조망터 / 조망터",
-    "length_meter": 403.6,
-    "time_minute": 6
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.63253,
-        "lng": 127.600334
-      },
-      {
-        "lat": 35.631104,
-        "lng": 127.599632
-      }
-    ],
-    "color": "#99e8e8",
-    "start_name": "조망점",
-    "length_meter": 170.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.631104,
-        "lng": 127.599632
-      },
-      {
-        "lat": 35.629917,
-        "lng": 127.597137
-      }
-    ],
-    "color": "#7f787e",
-    "start_name": "국가지점번호",
-    "length_meter": 261.3,
-    "time_minute": 4
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.629917,
-        "lng": 127.597137
-      },
-      {
-        "lat": 35.629219,
-        "lng": 127.595795
-      }
-    ],
-    "color": "#a39a36",
-    "start_name": "쉼터",
-    "length_meter": 144.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
         "lat": 35.629219,
         "lng": 127.595795
       },
@@ -164,13 +96,13 @@
         "lng": 127.595116
       }
     ],
-    "color": "#1fd570",
+    "color": "#84a65e",
     "start_name": "데크계단",
     "length_meter": 61.7,
     "time_minute": 1
   },
   {
-    "path_id": 10,
+    "path_id": 6,
     "path": [
       {
         "lat": 35.629162,
@@ -181,13 +113,13 @@
         "lng": 127.593552
       }
     ],
-    "color": "#7cafc6",
+    "color": "#2808fd",
     "start_name": "헬리포트 / 갈림길 / 감시카메라 / 장안산",
     "length_meter": 343.4,
     "time_minute": 5
   },
   {
-    "path_id": 11,
+    "path_id": 7,
     "path": [
       {
         "lat": 35.626667,
@@ -198,13 +130,13 @@
         "lng": 127.590462
       }
     ],
-    "color": "#12dfb2",
+    "color": "#13a7ea",
     "start_name": "갈림길",
     "length_meter": 823.0,
     "time_minute": 13
   },
   {
-    "path_id": 12,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.619705,
@@ -215,13 +147,13 @@
         "lng": 127.585258
       }
     ],
-    "color": "#ddcc2d",
+    "color": "#43de2d",
     "start_name": "하봉 / 갈림길",
     "length_meter": 503.0,
     "time_minute": 8
   },
   {
-    "path_id": 13,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.619553,
@@ -232,81 +164,47 @@
         "lng": 127.575943
       }
     ],
-    "color": "#ed7ab8",
+    "color": "#08e3ea",
     "start_name": "밧줄구간",
     "length_meter": 978.9,
     "time_minute": 16
   },
   {
-    "path_id": 14,
+    "path_id": 10,
     "path": [
       {
         "lat": 35.624043,
         "lng": 127.575943
       },
       {
-        "lat": 35.624138,
-        "lng": 127.575356
-      }
-    ],
-    "color": "#5c3b90",
-    "start_name": "거리목 / 쉼터",
-    "length_meter": 61.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.624138,
-        "lng": 127.575356
-      },
-      {
         "lat": 35.628799,
         "lng": 127.569244
       }
     ],
-    "color": "#02df34",
-    "start_name": "갈림길",
-    "length_meter": 757.5,
-    "time_minute": 12
+    "color": "#d2dca9",
+    "start_name": "거리목 / 갈림길",
+    "length_meter": 811.6,
+    "time_minute": 13
   },
   {
-    "path_id": 16,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.628799,
         "lng": 127.569244
-      },
-      {
-        "lat": 35.620365,
-        "lng": 127.56192
-      }
-    ],
-    "color": "#72ea4a",
-    "start_name": "거리목",
-    "length_meter": 1147.9,
-    "time_minute": 19
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.620365,
-        "lng": 127.56192
       },
       {
         "lat": 35.619701,
         "lng": 127.562271
       }
     ],
-    "color": "#63f4a0",
-    "start_name": "조망점",
-    "length_meter": 80.4,
-    "time_minute": 1
+    "color": "#d92e1a",
+    "start_name": "거리목",
+    "length_meter": 1191.9,
+    "time_minute": 19
   },
   {
-    "path_id": 18,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.619701,
@@ -317,7 +215,7 @@
         "lng": 127.562256
       }
     ],
-    "color": "#14f561",
+    "color": "#889f68",
     "start_name": "화장실",
     "length_meter": 1.4,
     "time_minute": 0

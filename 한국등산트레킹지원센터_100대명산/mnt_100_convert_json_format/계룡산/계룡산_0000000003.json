@@ -11,7 +11,7 @@
         "lng": 127.181396
       }
     ],
-    "color": "#515564",
+    "color": "#577b5d",
     "start_name": "비석 / 갑사 입구 포토존",
     "length_meter": 68.5,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 127.182701
       }
     ],
-    "color": "#fd8021",
+    "color": "#9b790e",
     "start_name": "갑사 매표소 / 갑사 일주문",
     "length_meter": 155.0,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 127.183044
       }
     ],
-    "color": "#9195a3",
+    "color": "#e74d4c",
     "start_name": "갑사탐방지원센터 / 갑사탐방지원센터 쉼터 / 들머리 / 용수대 약수터 / 갈림길 / 비석 / 자연관찰로 옆 벤치",
     "length_meter": 60.8,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 127.18396
       }
     ],
-    "color": "#42cc27",
+    "color": "#468687",
     "start_name": "갑사자연관찰로 / 갈림길",
     "length_meter": 89.4,
     "time_minute": 1
@@ -79,7 +79,7 @@
         "lng": 127.185379
       }
     ],
-    "color": "#9155e7",
+    "color": "#2dd338",
     "start_name": "구룡암 약수터",
     "length_meter": 149.8,
     "time_minute": 2
@@ -96,7 +96,7 @@
         "lng": 127.186447
       }
     ],
-    "color": "#d859c9",
+    "color": "#62d241",
     "start_name": "갈림길 / 사천왕문 / 갈림길",
     "length_meter": 102.6,
     "time_minute": 1
@@ -109,53 +109,36 @@
         "lng": 127.186447
       },
       {
-        "lat": 36.365288,
-        "lng": 127.186951
+        "lat": 36.365383,
+        "lng": 127.18763
       }
     ],
-    "color": "#2a22a5",
+    "color": "#fe193a",
     "start_name": "갑사화장실 / 불교용품 찻집 / 갈림길",
-    "length_meter": 119.3,
-    "time_minute": 1
+    "length_meter": 159.5,
+    "time_minute": 2
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 36.365288,
-        "lng": 127.186951
-      },
-      {
         "lat": 36.365383,
         "lng": 127.18763
+      },
+      {
+        "lat": 36.36507,
+        "lng": 127.187019
       }
     ],
-    "color": "#0d607b",
-    "start_name": "갈림길",
-    "length_meter": 61.7,
+    "color": "#27cf20",
+    "start_name": "갑사대웅전 / 갑사 쉼터",
+    "length_meter": 73.5,
     "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 36.365383,
-        "lng": 127.18763
-      },
-      {
-        "lat": 36.36507,
-        "lng": 127.187019
-      }
-    ],
-    "color": "#edf067",
-    "start_name": "갑사대웅전 / 갑사 쉼터",
-    "length_meter": 73.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
         "lat": 36.36507,
         "lng": 127.187019
       },
@@ -164,13 +147,13 @@
         "lng": 127.189224
       }
     ],
-    "color": "#6dfd8d",
+    "color": "#950762",
     "start_name": "갈림길 / 갑사 공우탑",
     "length_meter": 211.9,
     "time_minute": 3
   },
   {
-    "path_id": 10,
+    "path_id": 9,
     "path": [
       {
         "lat": 36.364651,
@@ -181,13 +164,13 @@
         "lng": 127.189911
       }
     ],
-    "color": "#4bef30",
+    "color": "#96c226",
     "start_name": "사고위험지구(침수우려지역) / 갈림길",
     "length_meter": 80.1,
     "time_minute": 1
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 36.364285,
@@ -198,13 +181,13 @@
         "lng": 127.192177
       }
     ],
-    "color": "#67f271",
+    "color": "#de5dd4",
     "start_name": "대성암 / 갈림길",
     "length_meter": 207.9,
     "time_minute": 3
   },
   {
-    "path_id": 12,
+    "path_id": 11,
     "path": [
       {
         "lat": 36.364548,
@@ -215,49 +198,32 @@
         "lng": 127.193008
       }
     ],
-    "color": "#1e3cbe",
+    "color": "#0de686",
     "start_name": "계곡 / 갈림길 / 낙석주의",
     "length_meter": 77.2,
+    "time_minute": 1
+  },
+  {
+    "path_id": 12,
+    "path": [
+      {
+        "lat": 36.36467,
+        "lng": 127.193008
+      },
+      {
+        "lat": 36.364834,
+        "lng": 127.193985
+      }
+    ],
+    "color": "#4beb5c",
+    "start_name": "용문폭포 전망대 / 용문폭포",
+    "length_meter": 92.0,
     "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 36.36467,
-        "lng": 127.193008
-      },
-      {
-        "lat": 36.364849,
-        "lng": 127.193199
-      }
-    ],
-    "color": "#a57b8f",
-    "start_name": "용문폭포 전망대 / 용문폭포 / 추락주의 / 용문폭포 / 쉼터",
-    "length_meter": 79.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 36.364849,
-        "lng": 127.193199
-      },
-      {
-        "lat": 36.364834,
-        "lng": 127.193985
-      }
-    ],
-    "color": "#acd202",
-    "start_name": "추락주의",
-    "length_meter": 70.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
         "lat": 36.364834,
         "lng": 127.193985
       },
@@ -266,13 +232,13 @@
         "lng": 127.197113
       }
     ],
-    "color": "#80e084",
+    "color": "#c891c4",
     "start_name": "낙석주의",
     "length_meter": 296.7,
     "time_minute": 4
   },
   {
-    "path_id": 16,
+    "path_id": 14,
     "path": [
       {
         "lat": 36.363953,
@@ -283,13 +249,13 @@
         "lng": 127.198425
       }
     ],
-    "color": "#0762f2",
+    "color": "#36e6b0",
     "start_name": "갈림길",
     "length_meter": 152.5,
     "time_minute": 2
   },
   {
-    "path_id": 17,
+    "path_id": 15,
     "path": [
       {
         "lat": 36.363079,
@@ -300,13 +266,13 @@
         "lng": 127.199219
       }
     ],
-    "color": "#217a4d",
+    "color": "#eb07c6",
     "start_name": "현 위치번호",
     "length_meter": 71.5,
     "time_minute": 1
   },
   {
-    "path_id": 18,
+    "path_id": 16,
     "path": [
       {
         "lat": 36.363148,
@@ -317,13 +283,13 @@
         "lng": 127.199173
       }
     ],
-    "color": "#ff6ebd",
+    "color": "#41bf98",
     "start_name": "신흥암 / 갈림길",
     "length_meter": 75.2,
     "time_minute": 1
   },
   {
-    "path_id": 19,
+    "path_id": 17,
     "path": [
       {
         "lat": 36.362484,
@@ -334,13 +300,13 @@
         "lng": 127.202774
       }
     ],
-    "color": "#1fc15b",
+    "color": "#b1a0c2",
     "start_name": "신흥암 쉼터 / 신흥암 화장실",
     "length_meter": 324.5,
     "time_minute": 5
   },
   {
-    "path_id": 20,
+    "path_id": 18,
     "path": [
       {
         "lat": 36.362606,
@@ -351,64 +317,47 @@
         "lng": 127.206879
       }
     ],
-    "color": "#7e57c4",
+    "color": "#6aa1bc",
     "start_name": "현위치번호",
     "length_meter": 393.2,
     "time_minute": 6
   },
   {
-    "path_id": 21,
+    "path_id": 19,
     "path": [
       {
         "lat": 36.363861,
         "lng": 127.206879
       },
       {
-        "lat": 36.360744,
-        "lng": 127.208069
+        "lat": 36.360451,
+        "lng": 127.208061
       }
     ],
-    "color": "#164592",
+    "color": "#7677a6",
     "start_name": "수정봉 쉼터 / 금잔디고개 안전쉼터 / 갈림길",
-    "length_meter": 387.8,
+    "length_meter": 419.7,
     "time_minute": 6
   },
   {
-    "path_id": 22,
+    "path_id": 20,
     "path": [
       {
-        "lat": 36.360744,
-        "lng": 127.208069
-      },
-      {
-        "lat": 36.360157,
-        "lng": 127.207779
-      }
-    ],
-    "color": "#68243f",
-    "start_name": "갈림길 / 자연성릉 가는길 조망점 / 현 위치번호 / 추락주의",
-    "length_meter": 75.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 36.360157,
-        "lng": 127.207779
+        "lat": 36.360451,
+        "lng": 127.208061
       },
       {
         "lat": 36.35199,
         "lng": 127.200523
       }
     ],
-    "color": "#854a4d",
-    "start_name": "자연성릉 전망대",
-    "length_meter": 1116.7,
-    "time_minute": 18
+    "color": "#58bf05",
+    "start_name": "자연성릉 가는길 조망점 / 현 위치번호 / 자연성릉 전망대",
+    "length_meter": 1159.3,
+    "time_minute": 19
   },
   {
-    "path_id": 24,
+    "path_id": 21,
     "path": [
       {
         "lat": 36.35199,
@@ -419,13 +368,13 @@
         "lng": 127.20076
       }
     ],
-    "color": "#bc678b",
+    "color": "#7b6be8",
     "start_name": "관음봉 전망대 / 관음봉 / 관음봉 조망 / 관음봉 자연경관 / 관음봉 정상적 포토존 / 관음봉 쉼터",
     "length_meter": 124.1,
     "time_minute": 2
   },
   {
-    "path_id": 25,
+    "path_id": 22,
     "path": [
       {
         "lat": 36.351269,
@@ -436,13 +385,13 @@
         "lng": 127.197777
       }
     ],
-    "color": "#7bc32a",
+    "color": "#645c09",
     "start_name": "갈림길 / 낙뢰다발지역 / 관음봉고개 쉼터",
     "length_meter": 268.5,
     "time_minute": 4
   },
   {
-    "path_id": 26,
+    "path_id": 23,
     "path": [
       {
         "lat": 36.351307,
@@ -453,47 +402,47 @@
         "lng": 127.193954
       }
     ],
-    "color": "#f77e39",
+    "color": "#79aea9",
     "start_name": "현위치번호 / 급경사지 낙석 위험지역",
     "length_meter": 353.9,
     "time_minute": 5
   },
   {
-    "path_id": 27,
+    "path_id": 24,
     "path": [
       {
         "lat": 36.350571,
         "lng": 127.193954
       },
       {
-        "lat": 36.350212,
-        "lng": 127.192734
+        "lat": 36.350319,
+        "lng": 127.192848
       }
     ],
-    "color": "#db9c10",
+    "color": "#c79c66",
     "start_name": "갈림길 / 현위치번호 / 연천봉고개 쉼터 / 갈림길",
-    "length_meter": 117.4,
+    "length_meter": 103.9,
     "time_minute": 1
   },
   {
-    "path_id": 28,
+    "path_id": 25,
     "path": [
       {
-        "lat": 36.350212,
-        "lng": 127.192734
+        "lat": 36.350319,
+        "lng": 127.192848
       },
       {
         "lat": 36.349674,
         "lng": 127.192154
       }
     ],
-    "color": "#cb0272",
-    "start_name": "갈림길 / 헬기장",
-    "length_meter": 110.6,
+    "color": "#2bf174",
+    "start_name": "헬기장",
+    "length_meter": 94.9,
     "time_minute": 1
   },
   {
-    "path_id": 29,
+    "path_id": 26,
     "path": [
       {
         "lat": 36.349674,
@@ -504,13 +453,13 @@
         "lng": 127.191536
       }
     ],
-    "color": "#42e775",
+    "color": "#8bc449",
     "start_name": "등운암",
     "length_meter": 69.0,
     "time_minute": 1
   },
   {
-    "path_id": 30,
+    "path_id": 27,
     "path": [
       {
         "lat": 36.350044,
@@ -521,145 +470,111 @@
         "lng": 127.193161
       }
     ],
-    "color": "#3117fe",
+    "color": "#e3091c",
     "start_name": "연천봉 자연경관 / 연천봉 석각 / 현위치번호 / 연천봉 / 연천봉 조망",
     "length_meter": 161.6,
+    "time_minute": 2
+  },
+  {
+    "path_id": 28,
+    "path": [
+      {
+        "lat": 36.350338,
+        "lng": 127.193161
+      },
+      {
+        "lat": 36.353943,
+        "lng": 127.193893
+      }
+    ],
+    "color": "#df89d2",
+    "start_name": "연천봉고개 조망",
+    "length_meter": 406.2,
+    "time_minute": 6
+  },
+  {
+    "path_id": 29,
+    "path": [
+      {
+        "lat": 36.353943,
+        "lng": 127.193893
+      },
+      {
+        "lat": 36.35957,
+        "lng": 127.192596
+      }
+    ],
+    "color": "#527724",
+    "start_name": "현위치번호",
+    "length_meter": 636.4,
+    "time_minute": 10
+  },
+  {
+    "path_id": 30,
+    "path": [
+      {
+        "lat": 36.35957,
+        "lng": 127.192596
+      },
+      {
+        "lat": 36.36031,
+        "lng": 127.191147
+      }
+    ],
+    "color": "#6b2b07",
+    "start_name": "(원효대)현위치번호",
+    "length_meter": 153.6,
     "time_minute": 2
   },
   {
     "path_id": 31,
     "path": [
       {
-        "lat": 36.350338,
-        "lng": 127.193161
+        "lat": 36.36031,
+        "lng": 127.191147
       },
       {
-        "lat": 36.353943,
-        "lng": 127.193893
+        "lat": 36.360779,
+        "lng": 127.189529
       }
     ],
-    "color": "#78c47e",
-    "start_name": "연천봉고개 조망",
-    "length_meter": 406.2,
-    "time_minute": 6
+    "color": "#d81776",
+    "start_name": "상습결빙구간",
+    "length_meter": 154.0,
+    "time_minute": 2
   },
   {
     "path_id": 32,
     "path": [
       {
-        "lat": 36.353943,
-        "lng": 127.193893
+        "lat": 36.360779,
+        "lng": 127.189529
       },
       {
-        "lat": 36.355507,
-        "lng": 127.192917
+        "lat": 36.364483,
+        "lng": 127.18808
       }
     ],
-    "color": "#19b5e9",
-    "start_name": "현위치번호",
-    "length_meter": 194.6,
-    "time_minute": 3
+    "color": "#2d85c9",
+    "start_name": "갈림길",
+    "length_meter": 431.8,
+    "time_minute": 7
   },
   {
     "path_id": 33,
     "path": [
       {
-        "lat": 36.355507,
-        "lng": 127.192917
-      },
-      {
-        "lat": 36.35957,
-        "lng": 127.192596
-      }
-    ],
-    "color": "#ab57dc",
-    "start_name": "현위치번호",
-    "length_meter": 452.7,
-    "time_minute": 7
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 36.35957,
-        "lng": 127.192596
-      },
-      {
-        "lat": 36.36031,
-        "lng": 127.191147
-      }
-    ],
-    "color": "#e31f26",
-    "start_name": "(원효대)현위치번호",
-    "length_meter": 153.6,
-    "time_minute": 2
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 36.36031,
-        "lng": 127.191147
-      },
-      {
-        "lat": 36.360779,
-        "lng": 127.189529
-      }
-    ],
-    "color": "#6c8e06",
-    "start_name": "상습결빙구간 / 상습결빙구간",
-    "length_meter": 154.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 36.360779,
-        "lng": 127.189529
-      },
-      {
-        "lat": 36.362423,
-        "lng": 127.188965
-      }
-    ],
-    "color": "#777b73",
-    "start_name": "갈림길",
-    "length_meter": 189.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 36.362423,
-        "lng": 127.188965
-      },
-      {
-        "lat": 36.364384,
-        "lng": 127.188118
-      }
-    ],
-    "color": "#a4ce13",
-    "start_name": "갈림길",
-    "length_meter": 230.9,
-    "time_minute": 3
-  },
-  {
-    "path_id": 38,
-    "path": [
-      {
-        "lat": 36.364384,
-        "lng": 127.188118
+        "lat": 36.364483,
+        "lng": 127.18808
       },
       {
         "lat": 36.364689,
         "lng": 127.187706
       }
     ],
-    "color": "#3e21b8",
-    "start_name": "갈림길 / 갑사 석조약사여래입상",
-    "length_meter": 52.1,
+    "color": "#21e9c5",
+    "start_name": "갑사 석조약사여래입상",
+    "length_meter": 40.6,
     "time_minute": 0
   }
 ]

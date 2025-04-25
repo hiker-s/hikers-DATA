@@ -11,7 +11,7 @@
         "lng": 128.016129
       }
     ],
-    "color": "#e21e41",
+    "color": "#97d6b9",
     "start_name": "치악산계곡, 흥양텐트촌",
     "length_meter": 719.1,
     "time_minute": 11
@@ -28,7 +28,7 @@
         "lng": 128.016129
       }
     ],
-    "color": "#755eb2",
+    "color": "#f0e41f",
     "start_name": "둘레길카페 / 구룡길화장실",
     "length_meter": 66.7,
     "time_minute": 1
@@ -41,70 +41,19 @@
         "lng": 128.016129
       },
       {
-        "lat": 37.387779,
-        "lng": 128.022446
+        "lat": 37.392021,
+        "lng": 128.026962
       }
     ],
-    "color": "#0506c8",
+    "color": "#13bdc9",
     "start_name": "구룡길아치",
-    "length_meter": 730.7,
-    "time_minute": 12
+    "length_meter": 1343.9,
+    "time_minute": 22
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 37.387779,
-        "lng": 128.022446
-      },
-      {
-        "lat": 37.389217,
-        "lng": 128.022705
-      }
-    ],
-    "color": "#4d625f",
-    "start_name": "쉼터",
-    "length_meter": 161.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.389217,
-        "lng": 128.022705
-      },
-      {
-        "lat": 37.390038,
-        "lng": 128.023529
-      }
-    ],
-    "color": "#aba6b4",
-    "start_name": "쉼터",
-    "length_meter": 116.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.390038,
-        "lng": 128.023529
-      },
-      {
-        "lat": 37.392021,
-        "lng": 128.026962
-      }
-    ],
-    "color": "#886182",
-    "start_name": "쉼터",
-    "length_meter": 375.0,
-    "time_minute": 6
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
         "lat": 37.392021,
         "lng": 128.026962
       },
@@ -113,145 +62,111 @@
         "lng": 128.030441
       }
     ],
-    "color": "#d48e4b",
+    "color": "#f8c390",
     "start_name": "숯가마터",
     "length_meter": 651.4,
     "time_minute": 10
   },
   {
-    "path_id": 7,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.397186,
         "lng": 128.030441
       },
       {
-        "lat": 37.401093,
-        "lng": 128.035065
+        "lat": 37.406025,
+        "lng": 128.044373
       }
     ],
-    "color": "#6dd371",
+    "color": "#156848",
     "start_name": "새재정상쉼터",
-    "length_meter": 596.3,
+    "length_meter": 1575.0,
+    "time_minute": 26
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 37.406025,
+        "lng": 128.044373
+      },
+      {
+        "lat": 37.406048,
+        "lng": 128.045303
+      }
+    ],
+    "color": "#372048",
+    "start_name": "화전민터",
+    "length_meter": 82.2,
+    "time_minute": 1
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 37.406048,
+        "lng": 128.045303
+      },
+      {
+        "lat": 37.408073,
+        "lng": 128.045441
+      }
+    ],
+    "color": "#375284",
+    "start_name": "구룡길아치 / 학곡리 황장외금표",
+    "length_meter": 225.6,
+    "time_minute": 3
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
+        "lat": 37.408073,
+        "lng": 128.045441
+      },
+      {
+        "lat": 37.412617,
+        "lng": 128.049088
+      }
+    ],
+    "color": "#307d12",
+    "start_name": "구룡자동차야영장",
+    "length_meter": 599.2,
     "time_minute": 9
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 37.401093,
-        "lng": 128.035065
+        "lat": 37.412617,
+        "lng": 128.049088
       },
       {
-        "lat": 37.406052,
-        "lng": 128.044098
+        "lat": 37.413116,
+        "lng": 128.049606
       }
     ],
-    "color": "#9936e5",
-    "start_name": "쉼터",
-    "length_meter": 969.9,
-    "time_minute": 16
+    "color": "#e71cd1",
+    "start_name": "치악산공원 순두부 묵 전문점",
+    "length_meter": 71.9,
+    "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.406052,
-        "lng": 128.044098
-      },
-      {
-        "lat": 37.406048,
-        "lng": 128.045303
-      }
-    ],
-    "color": "#2ea271",
-    "start_name": "쉼터 / 화전민터 / 쉼터",
-    "length_meter": 125.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.406048,
-        "lng": 128.045303
-      },
-      {
-        "lat": 37.408073,
-        "lng": 128.045441
-      }
-    ],
-    "color": "#13995d",
-    "start_name": "구룡길아치 / 학곡리 황장외금표",
-    "length_meter": 225.6,
-    "time_minute": 3
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.408073,
-        "lng": 128.045441
-      },
-      {
-        "lat": 37.412617,
-        "lng": 128.049088
-      }
-    ],
-    "color": "#c5244f",
-    "start_name": "구룡자동차야영장",
-    "length_meter": 599.2,
-    "time_minute": 9
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.412617,
-        "lng": 128.049088
-      },
-      {
         "lat": 37.413116,
         "lng": 128.049606
-      }
-    ],
-    "color": "#08b363",
-    "start_name": "치악산공원 순두부 묵 전문점 / 쉼터",
-    "length_meter": 72.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.413116,
-        "lng": 128.049606
-      },
-      {
-        "lat": 37.413914,
-        "lng": 128.049957
-      }
-    ],
-    "color": "#d7dbf1",
-    "start_name": "식당",
-    "length_meter": 94.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 37.413914,
-        "lng": 128.049957
       },
       {
         "lat": 37.414345,
         "lng": 128.050323
       }
     ],
-    "color": "#f68fe9",
-    "start_name": "쉼터",
-    "length_meter": 57.8,
-    "time_minute": 0
+    "color": "#2bce66",
+    "start_name": "식당",
+    "length_meter": 150.6,
+    "time_minute": 2
   }
 ]

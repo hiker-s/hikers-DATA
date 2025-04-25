@@ -11,7 +11,7 @@
         "lng": 126.652611
       }
     ],
-    "color": "#5db156",
+    "color": "#87d538",
     "start_name": "개암사주차장 / 개암사입구 / 주차장옆",
     "length_meter": 111.7,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 126.651817
       }
     ],
-    "color": "#9f6acb",
+    "color": "#953cf5",
     "start_name": "개암사입구",
     "length_meter": 73.3,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 126.651093
       }
     ],
-    "color": "#03ae45",
+    "color": "#cee599",
     "start_name": "전나무숲 / 전나무숲내",
     "length_meter": 80.2,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 126.650146
       }
     ],
-    "color": "#9b2100",
+    "color": "#5f03f4",
     "start_name": "전나무숲2",
     "length_meter": 94.0,
     "time_minute": 1
@@ -79,7 +79,7 @@
         "lng": 126.64991
       }
     ],
-    "color": "#65bc90",
+    "color": "#a66c23",
     "start_name": "갈림길",
     "length_meter": 101.0,
     "time_minute": 1
@@ -96,7 +96,7 @@
         "lng": 126.650169
       }
     ],
-    "color": "#6394d1",
+    "color": "#4d6a6d",
     "start_name": "우금산 배경 / 개암사",
     "length_meter": 95.0,
     "time_minute": 1
@@ -113,7 +113,7 @@
         "lng": 126.648903
       }
     ],
-    "color": "#ff535e",
+    "color": "#8de44a",
     "start_name": "산행들머리",
     "length_meter": 474.2,
     "time_minute": 7
@@ -130,9 +130,9 @@
         "lng": 126.643166
       }
     ],
-    "color": "#c960eb",
-    "start_name": "우금산성 / 우금산성",
-    "length_meter": 562.6,
+    "color": "#e0c232",
+    "start_name": "우금산성",
+    "length_meter": 561.9,
     "time_minute": 9
   },
   {
@@ -147,7 +147,7 @@
         "lng": 126.641502
       }
     ],
-    "color": "#feda30",
+    "color": "#2af03f",
     "start_name": "조망점 출입금지",
     "length_meter": 153.0,
     "time_minute": 2
@@ -164,7 +164,7 @@
         "lng": 126.64209
       }
     ],
-    "color": "#ef135b",
+    "color": "#1d24f0",
     "start_name": "내변산조망",
     "length_meter": 455.7,
     "time_minute": 7
@@ -177,51 +177,17 @@
         "lng": 126.64209
       },
       {
-        "lat": 35.659447,
-        "lng": 126.64653
-      }
-    ],
-    "color": "#93fe8c",
-    "start_name": "갈림길",
-    "length_meter": 436.2,
-    "time_minute": 7
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.659447,
-        "lng": 126.64653
-      },
-      {
-        "lat": 35.658131,
-        "lng": 126.647049
-      }
-    ],
-    "color": "#5cdd0c",
-    "start_name": "갈림길",
-    "length_meter": 153.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.658131,
-        "lng": 126.647049
-      },
-      {
         "lat": 35.656647,
         "lng": 126.648018
       }
     ],
-    "color": "#284f57",
-    "start_name": "낙석",
-    "length_meter": 186.8,
-    "time_minute": 3
+    "color": "#d5ff8a",
+    "start_name": "갈림길",
+    "length_meter": 721.0,
+    "time_minute": 12
   },
   {
-    "path_id": 13,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.656647,
@@ -232,13 +198,13 @@
         "lng": 126.650551
       }
     ],
-    "color": "#353834",
+    "color": "#e5881c",
     "start_name": "돌쉼터 / 돌쉄터2",
     "length_meter": 366.6,
     "time_minute": 6
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.654072,
@@ -249,13 +215,13 @@
         "lng": 126.651268
       }
     ],
-    "color": "#7c1d34",
+    "color": "#7d69a6",
     "start_name": "돌쉄터3",
     "length_meter": 68.4,
     "time_minute": 1
   },
   {
-    "path_id": 15,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.65427,
@@ -266,13 +232,13 @@
         "lng": 126.651764
       }
     ],
-    "color": "#f9bbe0",
+    "color": "#2a52d6",
     "start_name": "갈림길",
     "length_meter": 189.4,
     "time_minute": 3
   },
   {
-    "path_id": 16,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.652615,
@@ -283,100 +249,83 @@
         "lng": 126.655899
       }
     ],
-    "color": "#40dc4f",
+    "color": "#573dc2",
     "start_name": "돌쉄터4 / 만석동방향",
     "length_meter": 452.1,
+    "time_minute": 7
+  },
+  {
+    "path_id": 15,
+    "path": [
+      {
+        "lat": 35.650352,
+        "lng": 126.655899
+      },
+      {
+        "lat": 35.647942,
+        "lng": 126.652573
+      }
+    ],
+    "color": "#23f00a",
+    "start_name": "만서동재",
+    "length_meter": 402.7,
+    "time_minute": 6
+  },
+  {
+    "path_id": 16,
+    "path": [
+      {
+        "lat": 35.647942,
+        "lng": 126.652573
+      },
+      {
+        "lat": 35.644482,
+        "lng": 126.654564
+      }
+    ],
+    "color": "#7102b5",
+    "start_name": "쉄터",
+    "length_meter": 424.7,
     "time_minute": 7
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 35.650352,
-        "lng": 126.655899
+        "lat": 35.644482,
+        "lng": 126.654564
       },
       {
-        "lat": 35.647942,
-        "lng": 126.652573
+        "lat": 35.643192,
+        "lng": 126.657486
       }
     ],
-    "color": "#654a85",
-    "start_name": "만서동재",
-    "length_meter": 402.7,
-    "time_minute": 6
+    "color": "#9e7989",
+    "start_name": "만석동",
+    "length_meter": 300.5,
+    "time_minute": 5
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 35.647942,
-        "lng": 126.652573
+        "lat": 35.643192,
+        "lng": 126.657486
       },
       {
-        "lat": 35.644619,
-        "lng": 126.650864
+        "lat": 35.639751,
+        "lng": 126.65834
       }
     ],
-    "color": "#60a0f5",
-    "start_name": "쉄터",
-    "length_meter": 400.5,
+    "color": "#b2f934",
+    "start_name": "감불마을입구",
+    "length_meter": 390.3,
     "time_minute": 6
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 35.644619,
-        "lng": 126.650864
-      },
-      {
-        "lat": 35.644482,
-        "lng": 126.654564
-      }
-    ],
-    "color": "#a0bb23",
-    "start_name": "쉄터",
-    "length_meter": 334.7,
-    "time_minute": 5
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 35.644482,
-        "lng": 126.654564
-      },
-      {
-        "lat": 35.643192,
-        "lng": 126.657486
-      }
-    ],
-    "color": "#3d81eb",
-    "start_name": "만석동",
-    "length_meter": 300.5,
-    "time_minute": 5
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 35.643192,
-        "lng": 126.657486
-      },
-      {
-        "lat": 35.639751,
-        "lng": 126.65834
-      }
-    ],
-    "color": "#30075e",
-    "start_name": "감불마을입구",
-    "length_meter": 390.3,
-    "time_minute": 6
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
         "lat": 35.639751,
         "lng": 126.65834
       },
@@ -385,13 +334,13 @@
         "lng": 126.657791
       }
     ],
-    "color": "#b93886",
+    "color": "#d9f58d",
     "start_name": "감불쉄터1",
     "length_meter": 286.0,
     "time_minute": 4
   },
   {
-    "path_id": 23,
+    "path_id": 20,
     "path": [
       {
         "lat": 35.637218,
@@ -402,13 +351,13 @@
         "lng": 126.65625
       }
     ],
-    "color": "#fccd2c",
+    "color": "#c99a46",
     "start_name": "시내뷰",
     "length_meter": 218.1,
     "time_minute": 3
   },
   {
-    "path_id": 24,
+    "path_id": 21,
     "path": [
       {
         "lat": 35.635708,
@@ -419,94 +368,77 @@
         "lng": 126.655144
       }
     ],
-    "color": "#5fb8e5",
+    "color": "#459804",
     "start_name": "전망대",
     "length_meter": 120.4,
+    "time_minute": 2
+  },
+  {
+    "path_id": 22,
+    "path": [
+      {
+        "lat": 35.635105,
+        "lng": 126.655144
+      },
+      {
+        "lat": 35.631676,
+        "lng": 126.654678
+      }
+    ],
+    "color": "#384cff",
+    "start_name": "쉄터2",
+    "length_meter": 383.6,
+    "time_minute": 6
+  },
+  {
+    "path_id": 23,
+    "path": [
+      {
+        "lat": 35.631676,
+        "lng": 126.654678
+      },
+      {
+        "lat": 35.630478,
+        "lng": 126.651863
+      }
+    ],
+    "color": "#8e71f1",
+    "start_name": "쉄터4",
+    "length_meter": 287.2,
+    "time_minute": 4
+  },
+  {
+    "path_id": 24,
+    "path": [
+      {
+        "lat": 35.630478,
+        "lng": 126.651863
+      },
+      {
+        "lat": 35.629055,
+        "lng": 126.652161
+      }
+    ],
+    "color": "#a7951d",
+    "start_name": "쉄터5",
+    "length_meter": 160.5,
     "time_minute": 2
   },
   {
     "path_id": 25,
     "path": [
       {
-        "lat": 35.635105,
-        "lng": 126.655144
-      },
-      {
-        "lat": 35.631676,
-        "lng": 126.654678
-      }
-    ],
-    "color": "#b9f6bd",
-    "start_name": "쉄터2",
-    "length_meter": 383.6,
-    "time_minute": 6
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 35.631676,
-        "lng": 126.654678
-      },
-      {
-        "lat": 35.630478,
-        "lng": 126.651863
-      }
-    ],
-    "color": "#b1e190",
-    "start_name": "쉄터4",
-    "length_meter": 287.2,
-    "time_minute": 4
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 35.630478,
-        "lng": 126.651863
-      },
-      {
         "lat": 35.629055,
         "lng": 126.652161
-      }
-    ],
-    "color": "#431254",
-    "start_name": "쉄터5",
-    "length_meter": 160.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 35.629055,
-        "lng": 126.652161
-      },
-      {
-        "lat": 35.622261,
-        "lng": 126.649612
-      }
-    ],
-    "color": "#9d0479",
-    "start_name": "쉄터6",
-    "length_meter": 789.8,
-    "time_minute": 13
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 35.622261,
-        "lng": 126.649612
       },
       {
         "lat": 35.620865,
         "lng": 126.64772
       }
     ],
-    "color": "#0c0061",
+    "color": "#2697e5",
     "start_name": "쉄터6",
-    "length_meter": 231.0,
-    "time_minute": 3
+    "length_meter": 995.2,
+    "time_minute": 16
   }
 ]

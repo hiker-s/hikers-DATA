@@ -11,7 +11,7 @@
         "lng": 128.554901
       }
     ],
-    "color": "#555e46",
+    "color": "#aeeca5",
     "start_name": "갈림길",
     "length_meter": 1038.8,
     "time_minute": 17
@@ -28,7 +28,7 @@
         "lng": 128.552948
       }
     ],
-    "color": "#0247c9",
+    "color": "#d19722",
     "start_name": "비로봉입구",
     "length_meter": 178.5,
     "time_minute": 2
@@ -41,53 +41,19 @@
         "lng": 128.552948
       },
       {
-        "lat": 37.792583,
-        "lng": 128.547668
+        "lat": 37.794502,
+        "lng": 128.543686
       }
     ],
-    "color": "#0ed601",
+    "color": "#f9da7a",
     "start_name": "간이쉼터",
-    "length_meter": 511.9,
-    "time_minute": 8
+    "length_meter": 920.3,
+    "time_minute": 15
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 37.792583,
-        "lng": 128.547668
-      },
-      {
-        "lat": 37.794453,
-        "lng": 128.544647
-      }
-    ],
-    "color": "#745896",
-    "start_name": "간이쉼터",
-    "length_meter": 337.2,
-    "time_minute": 5
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.794453,
-        "lng": 128.544647
-      },
-      {
-        "lat": 37.794502,
-        "lng": 128.543686
-      }
-    ],
-    "color": "#8d5b31",
-    "start_name": "조망점",
-    "length_meter": 84.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
         "lat": 37.794502,
         "lng": 128.543686
       },
@@ -96,47 +62,30 @@
         "lng": 128.542496
       }
     ],
-    "color": "#442aaf",
+    "color": "#1191d4",
     "start_name": "비로봉조망점 / 비로봉정상 / 비로봉정상조망점",
     "length_meter": 439.6,
     "time_minute": 7
   },
   {
-    "path_id": 6,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.798298,
         "lng": 128.542496
       },
       {
-        "lat": 37.800076,
-        "lng": 128.543884
-      }
-    ],
-    "color": "#ab8a2d",
-    "start_name": "헬기장",
-    "length_meter": 232.3,
-    "time_minute": 3
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.800076,
-        "lng": 128.543884
-      },
-      {
         "lat": 37.8008,
         "lng": 128.54509
       }
     ],
-    "color": "#d92b12",
+    "color": "#80cb7c",
     "start_name": "헬기장",
-    "length_meter": 133.1,
-    "time_minute": 2
+    "length_meter": 359.6,
+    "time_minute": 5
   },
   {
-    "path_id": 8,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.8008,
@@ -147,13 +96,13 @@
         "lng": 128.555435
       }
     ],
-    "color": "#e0d0e5",
+    "color": "#0b4d67",
     "start_name": "주목나무군락지",
     "length_meter": 1257.6,
     "time_minute": 20
   },
   {
-    "path_id": 9,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.808617,
@@ -164,47 +113,30 @@
         "lng": 128.563293
       }
     ],
-    "color": "#4198b8",
+    "color": "#1907b9",
     "start_name": "상왕봉정상 / 오대산상왕봉조망점",
     "length_meter": 736.2,
     "time_minute": 12
   },
   {
-    "path_id": 10,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.806522,
         "lng": 128.563293
-      },
-      {
-        "lat": 37.800411,
-        "lng": 128.565887
-      }
-    ],
-    "color": "#c582c4",
-    "start_name": "갈림길",
-    "length_meter": 716.7,
-    "time_minute": 11
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.800411,
-        "lng": 128.565887
       },
       {
         "lat": 37.793007,
         "lng": 128.561874
       }
     ],
-    "color": "#01088d",
+    "color": "#0a9dc5",
     "start_name": "갈림길",
-    "length_meter": 895.6,
-    "time_minute": 14
+    "length_meter": 1508.0,
+    "time_minute": 25
   },
   {
-    "path_id": 12,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.793007,
@@ -215,13 +147,13 @@
         "lng": 128.564499
       }
     ],
-    "color": "#76f785",
+    "color": "#fd3a76",
     "start_name": "간이쉼터",
     "length_meter": 771.3,
     "time_minute": 12
   },
   {
-    "path_id": 13,
+    "path_id": 9,
     "path": [
       {
         "lat": 37.786388,
@@ -232,7 +164,7 @@
         "lng": 128.555054
       }
     ],
-    "color": "#063d96",
+    "color": "#e27d1a",
     "start_name": "상원사",
     "length_meter": 929.6,
     "time_minute": 15

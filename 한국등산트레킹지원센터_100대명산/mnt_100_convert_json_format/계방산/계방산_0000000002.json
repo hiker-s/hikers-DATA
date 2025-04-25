@@ -11,7 +11,7 @@
         "lng": 128.444672
       }
     ],
-    "color": "#5412c3",
+    "color": "#2ef888",
     "start_name": "계방산 운두령 / 화장실 / 운두령 임특산물 홍보관 / 운두령쉼터",
     "length_meter": 73.2,
     "time_minute": 1
@@ -28,9 +28,9 @@
         "lng": 128.444855
       }
     ],
-    "color": "#71baf3",
-    "start_name": "입구안내 / 쉼터",
-    "length_meter": 813.5,
+    "color": "#e0eec1",
+    "start_name": "입구안내",
+    "length_meter": 812.4,
     "time_minute": 13
   },
   {
@@ -45,7 +45,7 @@
         "lng": 128.444778
       }
     ],
-    "color": "#aefb77",
+    "color": "#48285b",
     "start_name": "물푸레나무",
     "length_meter": 266.1,
     "time_minute": 4
@@ -58,31 +58,31 @@
         "lng": 128.444778
       },
       {
-        "lat": 37.719284,
-        "lng": 128.446945
+        "lat": 37.719555,
+        "lng": 128.447235
       }
     ],
-    "color": "#501427",
+    "color": "#4706b4",
     "start_name": "갈림길",
-    "length_meter": 271.5,
-    "time_minute": 4
+    "length_meter": 310.9,
+    "time_minute": 5
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.719284,
-        "lng": 128.446945
+        "lat": 37.719555,
+        "lng": 128.447235
       },
       {
         "lat": 37.720856,
         "lng": 128.447662
       }
     ],
-    "color": "#723b53",
-    "start_name": "쉼터 / 출입금지",
-    "length_meter": 188.9,
-    "time_minute": 3
+    "color": "#482cfd",
+    "start_name": "출입금지",
+    "length_meter": 149.5,
+    "time_minute": 2
   },
   {
     "path_id": 5,
@@ -96,7 +96,7 @@
         "lng": 128.448395
       }
     ],
-    "color": "#69a3b4",
+    "color": "#6bd056",
     "start_name": "갈림길",
     "length_meter": 170.9,
     "time_minute": 2
@@ -109,30 +109,30 @@
         "lng": 128.448395
       },
       {
-        "lat": 37.72427,
-        "lng": 128.450012
+        "lat": 37.724289,
+        "lng": 128.450058
       }
     ],
-    "color": "#ed2b09",
+    "color": "#0faafe",
     "start_name": "안내 / 출입금지 안내",
-    "length_meter": 263.1,
+    "length_meter": 267.1,
     "time_minute": 4
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.72427,
-        "lng": 128.450012
+        "lat": 37.724289,
+        "lng": 128.450058
       },
       {
         "lat": 37.724842,
         "lng": 128.450836
       }
     ],
-    "color": "#33bf00",
-    "start_name": "쉼터 / 쉼터 / 갈림길",
-    "length_meter": 96.6,
+    "color": "#536631",
+    "start_name": "갈림길",
+    "length_meter": 92.0,
     "time_minute": 1
   },
   {
@@ -143,53 +143,19 @@
         "lng": 128.450836
       },
       {
-        "lat": 37.725456,
-        "lng": 128.451447
+        "lat": 37.727524,
+        "lng": 128.452789
       }
     ],
-    "color": "#998971",
+    "color": "#c3039e",
     "start_name": "키작은 나무들",
-    "length_meter": 86.9,
-    "time_minute": 1
+    "length_meter": 344.2,
+    "time_minute": 5
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.725456,
-        "lng": 128.451447
-      },
-      {
-        "lat": 37.72617,
-        "lng": 128.452301
-      }
-    ],
-    "color": "#c34fd0",
-    "start_name": "쉼터",
-    "length_meter": 109.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.72617,
-        "lng": 128.452301
-      },
-      {
-        "lat": 37.727524,
-        "lng": 128.452789
-      }
-    ],
-    "color": "#bbcc62",
-    "start_name": "쉼터",
-    "length_meter": 156.6,
-    "time_minute": 2
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
         "lat": 37.727524,
         "lng": 128.452789
       },
@@ -198,13 +164,13 @@
         "lng": 128.45665
       }
     ],
-    "color": "#a57f7f",
+    "color": "#c2dea4",
     "start_name": "금지행위안내",
     "length_meter": 461.5,
     "time_minute": 7
   },
   {
-    "path_id": 12,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.730335,
@@ -215,13 +181,13 @@
         "lng": 128.457245
       }
     ],
-    "color": "#b693ed",
+    "color": "#ad433d",
     "start_name": "금지안내",
     "length_meter": 70.4,
     "time_minute": 1
   },
   {
-    "path_id": 13,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.730759,
@@ -232,47 +198,30 @@
         "lng": 128.457825
       }
     ],
-    "color": "#89d3bc",
+    "color": "#e5941f",
     "start_name": "전망대 / 전망대안내판 / 야광나무 / 전망대경관",
     "length_meter": 62.3,
     "time_minute": 1
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 37.730724,
         "lng": 128.457825
-      },
-      {
-        "lat": 37.728462,
-        "lng": 128.464417
-      }
-    ],
-    "color": "#8e51b0",
-    "start_name": "갈림길",
-    "length_meter": 631.9,
-    "time_minute": 10
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.728462,
-        "lng": 128.464417
       },
       {
         "lat": 37.728405,
         "lng": 128.4655
       }
     ],
-    "color": "#9efbe1",
-    "start_name": "조망점",
-    "length_meter": 95.5,
-    "time_minute": 1
+    "color": "#8b78bc",
+    "start_name": "갈림길",
+    "length_meter": 722.6,
+    "time_minute": 12
   },
   {
-    "path_id": 16,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.728405,
@@ -283,13 +232,13 @@
         "lng": 128.457565
       }
     ],
-    "color": "#f200d3",
+    "color": "#353a6f",
     "start_name": "계방산 / 정상경관",
     "length_meter": 753.8,
     "time_minute": 12
   },
   {
-    "path_id": 17,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.730831,
@@ -300,13 +249,13 @@
         "lng": 128.44516
       }
     ],
-    "color": "#0980da",
+    "color": "#008faf",
     "start_name": "전망대에서 바라본 경관",
     "length_meter": 2111.9,
     "time_minute": 35
   },
   {
-    "path_id": 18,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.714569,
@@ -317,7 +266,7 @@
         "lng": 128.444473
       }
     ],
-    "color": "#a55481",
+    "color": "#ed46bd",
     "start_name": "참나무6형제",
     "length_meter": 813.3,
     "time_minute": 13

@@ -7,34 +7,17 @@
         "lng": 129.027924
       },
       {
-        "lat": 35.577599,
-        "lng": 129.027634
-      }
-    ],
-    "color": "#f62f5a",
-    "start_name": "주차장간판 / 화장실 / 쉼터",
-    "length_meter": 112.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.577599,
-        "lng": 129.027634
-      },
-      {
         "lat": 35.569218,
         "lng": 129.023926
       }
     ],
-    "color": "#9b0fca",
-    "start_name": "화장실 / 주차장",
-    "length_meter": 990.4,
-    "time_minute": 16
+    "color": "#1ced5b",
+    "start_name": "주차장간판 / 화장실",
+    "length_meter": 1101.5,
+    "time_minute": 18
   },
   {
-    "path_id": 2,
+    "path_id": 1,
     "path": [
       {
         "lat": 35.569218,
@@ -45,66 +28,66 @@
         "lng": 129.023758
       }
     ],
-    "color": "#5892a1",
+    "color": "#e20ea4",
     "start_name": "식당 / 사계절식당 메뉴판",
     "length_meter": 61.9,
+    "time_minute": 1
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 35.568687,
+        "lng": 129.023758
+      },
+      {
+        "lat": 35.567806,
+        "lng": 129.023132
+      }
+    ],
+    "color": "#c8f014",
+    "start_name": "간판",
+    "length_meter": 113.1,
     "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.568687,
-        "lng": 129.023758
-      },
-      {
         "lat": 35.567806,
         "lng": 129.023132
+      },
+      {
+        "lat": 35.566948,
+        "lng": 129.022781
       }
     ],
-    "color": "#adebfa",
-    "start_name": "간판",
-    "length_meter": 113.1,
+    "color": "#8b17bf",
+    "start_name": "배내2주차장 / 소문난김치집",
+    "length_meter": 101.6,
     "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.567806,
-        "lng": 129.023132
-      },
-      {
         "lat": 35.566948,
         "lng": 129.022781
+      },
+      {
+        "lat": 35.566422,
+        "lng": 129.022568
       }
     ],
-    "color": "#2cc09e",
-    "start_name": "배내2주차장 / 소문난김치집",
-    "length_meter": 101.6,
+    "color": "#3c82f2",
+    "start_name": "식당",
+    "length_meter": 61.6,
     "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.566948,
-        "lng": 129.022781
-      },
-      {
-        "lat": 35.566422,
-        "lng": 129.022568
-      }
-    ],
-    "color": "#65fb60",
-    "start_name": "식당",
-    "length_meter": 61.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
         "lat": 35.566422,
         "lng": 129.022568
       },
@@ -113,13 +96,13 @@
         "lng": 129.023376
       }
     ],
-    "color": "#e398da",
+    "color": "#ab5f6e",
     "start_name": "버스",
     "length_meter": 192.1,
     "time_minute": 3
   },
   {
-    "path_id": 7,
+    "path_id": 6,
     "path": [
       {
         "lat": 35.56802,
@@ -130,166 +113,30 @@
         "lng": 129.024872
       }
     ],
-    "color": "#450904",
+    "color": "#0a52cb",
     "start_name": "식당간판 / 신불산들머리 / 안내도 / 공터",
     "length_meter": 380.6,
     "time_minute": 6
   },
   {
-    "path_id": 8,
+    "path_id": 7,
     "path": [
       {
         "lat": 35.565258,
         "lng": 129.024872
-      },
-      {
-        "lat": 35.564747,
-        "lng": 129.029022
-      }
-    ],
-    "color": "#e262e3",
-    "start_name": "안내도",
-    "length_meter": 379.7,
-    "time_minute": 6
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.564747,
-        "lng": 129.029022
-      },
-      {
-        "lat": 35.554466,
-        "lng": 129.034897
-      }
-    ],
-    "color": "#f01598",
-    "start_name": "쉼터",
-    "length_meter": 1260.7,
-    "time_minute": 21
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.554466,
-        "lng": 129.034897
-      },
-      {
-        "lat": 35.549446,
-        "lng": 129.039627
-      }
-    ],
-    "color": "#a8f7b0",
-    "start_name": "쉼터",
-    "length_meter": 703.3,
-    "time_minute": 11
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.549446,
-        "lng": 129.039627
-      },
-      {
-        "lat": 35.548473,
-        "lng": 129.042114
-      }
-    ],
-    "color": "#31bbf7",
-    "start_name": "쉼터",
-    "length_meter": 249.7,
-    "time_minute": 4
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.548473,
-        "lng": 129.042114
-      },
-      {
-        "lat": 35.548515,
-        "lng": 129.040588
-      }
-    ],
-    "color": "#5dd24d",
-    "start_name": "조망점",
-    "length_meter": 138.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.548515,
-        "lng": 129.040588
-      },
-      {
-        "lat": 35.552486,
-        "lng": 129.030487
-      }
-    ],
-    "color": "#380bf1",
-    "start_name": "조망점",
-    "length_meter": 1014.9,
-    "time_minute": 16
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.552486,
-        "lng": 129.030487
-      },
-      {
-        "lat": 35.55389,
-        "lng": 129.02951
-      }
-    ],
-    "color": "#60d74e",
-    "start_name": "조망점",
-    "length_meter": 179.4,
-    "time_minute": 2
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.55389,
-        "lng": 129.02951
-      },
-      {
-        "lat": 35.565411,
-        "lng": 129.033173
-      }
-    ],
-    "color": "#dff13a",
-    "start_name": "안내도",
-    "length_meter": 1323.2,
-    "time_minute": 22
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.565411,
-        "lng": 129.033173
       },
       {
         "lat": 35.56789,
         "lng": 129.023254
       }
     ],
-    "color": "#8f1b43",
-    "start_name": "쉼터",
-    "length_meter": 938.6,
-    "time_minute": 15
+    "color": "#dba1dd",
+    "start_name": "안내도",
+    "length_meter": 327.2,
+    "time_minute": 5
   },
   {
-    "path_id": 17,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.56789,
@@ -300,7 +147,7 @@
         "lng": 129.023636
       }
     ],
-    "color": "#b7d60a",
+    "color": "#fb8df0",
     "start_name": "화장실",
     "length_meter": 82.6,
     "time_minute": 1

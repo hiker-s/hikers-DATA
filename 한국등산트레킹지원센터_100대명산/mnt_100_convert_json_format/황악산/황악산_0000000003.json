@@ -11,9 +11,9 @@
         "lng": 127.988579
       }
     ],
-    "color": "#00447b",
-    "start_name": "괘방령표지석 / 괘방령백두대간보호지역안내판 / 쉼터",
-    "length_meter": 407.7,
+    "color": "#ff50b2",
+    "start_name": "괘방령표지석 / 괘방령백두대간보호지역안내판",
+    "length_meter": 407.3,
     "time_minute": 6
   },
   {
@@ -28,7 +28,7 @@
         "lng": 127.987785
       }
     ],
-    "color": "#895c1c",
+    "color": "#18d49b",
     "start_name": "가성산조망점",
     "length_meter": 290.5,
     "time_minute": 4
@@ -45,7 +45,7 @@
         "lng": 127.987892
       }
     ],
-    "color": "#42596b",
+    "color": "#ce17f9",
     "start_name": "이정표",
     "length_meter": 61.4,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 127.989067
       }
     ],
-    "color": "#e4eae0",
+    "color": "#298d3a",
     "start_name": "수원함양보안림 / 백두대간보호지역",
     "length_meter": 187.1,
     "time_minute": 3
@@ -79,7 +79,7 @@
         "lng": 127.98735
       }
     ],
-    "color": "#589a8c",
+    "color": "#9938ec",
     "start_name": "백두대간보호지역판",
     "length_meter": 373.5,
     "time_minute": 6
@@ -96,7 +96,7 @@
         "lng": 127.987984
       }
     ],
-    "color": "#fde9d0",
+    "color": "#c49554",
     "start_name": "여시골산정상쉼터 / 이정표 / 여시골산",
     "length_meter": 614.6,
     "time_minute": 10
@@ -113,9 +113,9 @@
         "lng": 127.988304
       }
     ],
-    "color": "#8b8f2e",
-    "start_name": "여시굴 / 여시굴",
-    "length_meter": 140.6,
+    "color": "#305d83",
+    "start_name": "여시굴",
+    "length_meter": 139.5,
     "time_minute": 2
   },
   {
@@ -126,36 +126,19 @@
         "lng": 127.988304
       },
       {
-        "lat": 36.132023,
-        "lng": 127.988113
+        "lat": 36.123955,
+        "lng": 127.998276
       }
     ],
-    "color": "#7957eb",
+    "color": "#e6e93b",
     "start_name": "능선쉼터",
-    "length_meter": 242.8,
-    "time_minute": 4
+    "length_meter": 1449.2,
+    "time_minute": 24
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 36.132023,
-        "lng": 127.988113
-      },
-      {
-        "lat": 36.123955,
-        "lng": 127.998276
-      }
-    ],
-    "color": "#1f1899",
-    "start_name": "쉼터",
-    "length_meter": 1279.8,
-    "time_minute": 21
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
         "lat": 36.123955,
         "lng": 127.998276
       },
@@ -164,13 +147,13 @@
         "lng": 128.003418
       }
     ],
-    "color": "#808c36",
+    "color": "#0fd8d0",
     "start_name": "태봉산갈림길쉼터 / 갈림길",
     "length_meter": 744.6,
     "time_minute": 12
   },
   {
-    "path_id": 10,
+    "path_id": 9,
     "path": [
       {
         "lat": 36.118721,
@@ -181,81 +164,81 @@
         "lng": 128.004196
       }
     ],
-    "color": "#deb68b",
+    "color": "#15ccd6",
     "start_name": "웨이포인트 33 / 웨이포인트 34",
     "length_meter": 73.2,
     "time_minute": 1
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 36.118622,
         "lng": 128.004196
       },
       {
-        "lat": 36.11795,
-        "lng": 128.00737
+        "lat": 36.117607,
+        "lng": 128.007294
       }
     ],
-    "color": "#d2757f",
+    "color": "#a77c05",
     "start_name": "태봉산쉼터 / 태봉산",
-    "length_meter": 295.1,
-    "time_minute": 4
+    "length_meter": 300.3,
+    "time_minute": 5
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 36.117607,
+        "lng": 128.007294
+      },
+      {
+        "lat": 36.116669,
+        "lng": 128.00827
+      }
+    ],
+    "color": "#76dc71",
+    "start_name": "공원내 고려~조선시대기와가마유적",
+    "length_meter": 136.3,
+    "time_minute": 2
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 36.11795,
-        "lng": 128.00737
-      },
-      {
         "lat": 36.116669,
         "lng": 128.00827
+      },
+      {
+        "lat": 36.117146,
+        "lng": 128.009186
       }
     ],
-    "color": "#f856cd",
-    "start_name": "쉼터 / 공원내 고려~조선시대기와가마유적 / 쉼터",
-    "length_meter": 179.9,
-    "time_minute": 2
+    "color": "#591ca2",
+    "start_name": "김천시립박물관",
+    "length_meter": 97.9,
+    "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 36.116669,
-        "lng": 128.00827
-      },
-      {
-        "lat": 36.116982,
-        "lng": 128.009399
-      }
-    ],
-    "color": "#2d6c2d",
-    "start_name": "김천시립박물관",
-    "length_meter": 107.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 36.116982,
-        "lng": 128.009399
+        "lat": 36.117146,
+        "lng": 128.009186
       },
       {
         "lat": 36.118282,
         "lng": 128.009201
       }
     ],
-    "color": "#b61b6a",
-    "start_name": "김천시립박물관 / 사명대사공원주차장",
-    "length_meter": 152.8,
+    "color": "#f5b006",
+    "start_name": "사명대사공원주차장",
+    "length_meter": 126.3,
     "time_minute": 2
   },
   {
-    "path_id": 15,
+    "path_id": 14,
     "path": [
       {
         "lat": 36.118282,
@@ -266,49 +249,49 @@
         "lng": 128.008804
       }
     ],
-    "color": "#b46120",
+    "color": "#fb3f33",
     "start_name": "평화의 탑",
     "length_meter": 80.9,
+    "time_minute": 1
+  },
+  {
+    "path_id": 15,
+    "path": [
+      {
+        "lat": 36.118935,
+        "lng": 128.008804
+      },
+      {
+        "lat": 36.119331,
+        "lng": 128.00824
+      }
+    ],
+    "color": "#b7573e",
+    "start_name": "평화의탑",
+    "length_meter": 67.1,
     "time_minute": 1
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 36.118935,
-        "lng": 128.008804
-      },
-      {
         "lat": 36.119331,
         "lng": 128.00824
+      },
+      {
+        "lat": 36.119606,
+        "lng": 128.007538
       }
     ],
-    "color": "#192f08",
-    "start_name": "평화의탑",
-    "length_meter": 67.1,
+    "color": "#a073d5",
+    "start_name": "공원내쉼터",
+    "length_meter": 70.1,
     "time_minute": 1
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 36.119331,
-        "lng": 128.00824
-      },
-      {
-        "lat": 36.119606,
-        "lng": 128.007538
-      }
-    ],
-    "color": "#859654",
-    "start_name": "공원내쉼터",
-    "length_meter": 70.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
         "lat": 36.119606,
         "lng": 128.007538
       },
@@ -317,47 +300,30 @@
         "lng": 128.006119
       }
     ],
-    "color": "#8c9f04",
+    "color": "#56174e",
     "start_name": "공원내마을이정표 / 건강문화원주차장",
     "length_meter": 157.2,
     "time_minute": 2
   },
   {
-    "path_id": 19,
+    "path_id": 18,
     "path": [
       {
         "lat": 36.120434,
         "lng": 128.006119
-      },
-      {
-        "lat": 36.121811,
-        "lng": 128.005295
-      }
-    ],
-    "color": "#da18bc",
-    "start_name": "건강문화원",
-    "length_meter": 170.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 36.121811,
-        "lng": 128.005295
       },
       {
         "lat": 36.122364,
         "lng": 128.003662
       }
     ],
-    "color": "#b3d622",
-    "start_name": "산불감시초소",
-    "length_meter": 159.0,
-    "time_minute": 2
+    "color": "#e483ab",
+    "start_name": "건강문화원",
+    "length_meter": 307.8,
+    "time_minute": 5
   },
   {
-    "path_id": 21,
+    "path_id": 19,
     "path": [
       {
         "lat": 36.122364,
@@ -368,13 +334,13 @@
         "lng": 128.003265
       }
     ],
-    "color": "#a33fa2",
+    "color": "#466af0",
     "start_name": "직지사노인요양원 / 직지사북암",
     "length_meter": 97.0,
     "time_minute": 1
   },
   {
-    "path_id": 22,
+    "path_id": 20,
     "path": [
       {
         "lat": 36.122814,
@@ -385,13 +351,13 @@
         "lng": 128.008682
       }
     ],
-    "color": "#77ae2f",
+    "color": "#7cd797",
     "start_name": "직지사북암주차장",
     "length_meter": 585.8,
     "time_minute": 9
   },
   {
-    "path_id": 23,
+    "path_id": 21,
     "path": [
       {
         "lat": 36.125748,
@@ -402,13 +368,13 @@
         "lng": 128.011047
       }
     ],
-    "color": "#e55689",
+    "color": "#b4faab",
     "start_name": "이정표",
     "length_meter": 714.0,
     "time_minute": 11
   },
   {
-    "path_id": 24,
+    "path_id": 22,
     "path": [
       {
         "lat": 36.131878,
@@ -419,7 +385,7 @@
         "lng": 128.011276
       }
     ],
-    "color": "#5b6a3c",
+    "color": "#ef7440",
     "start_name": "기날쉼터",
     "length_meter": 28.4,
     "time_minute": 0

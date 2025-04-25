@@ -11,7 +11,7 @@
         "lng": 129.062866
       }
     ],
-    "color": "#826687",
+    "color": "#6528cc",
     "start_name": "갈림길 34 / 안전구조목과구급함",
     "length_meter": 257.1,
     "time_minute": 4
@@ -24,115 +24,81 @@
         "lng": 129.062866
       },
       {
-        "lat": 35.547573,
-        "lng": 129.063248
+        "lat": 35.546692,
+        "lng": 129.063309
       }
     ],
-    "color": "#31166a",
+    "color": "#e1c161",
     "start_name": "위험",
-    "length_meter": 110.7,
-    "time_minute": 1
+    "length_meter": 207.1,
+    "time_minute": 3
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.547573,
-        "lng": 129.063248
-      },
-      {
         "lat": 35.546692,
         "lng": 129.063309
+      },
+      {
+        "lat": 35.5443,
+        "lng": 129.062225
       }
     ],
-    "color": "#788300",
-    "start_name": "위험 / 위험",
-    "length_meter": 98.9,
-    "time_minute": 1
+    "color": "#327f19",
+    "start_name": "안전구조목",
+    "length_meter": 283.5,
+    "time_minute": 4
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.546692,
-        "lng": 129.063309
-      },
-      {
         "lat": 35.5443,
         "lng": 129.062225
+      },
+      {
+        "lat": 35.542488,
+        "lng": 129.061981
       }
     ],
-    "color": "#ba06a1",
-    "start_name": "안전구조목 / 안전구조목",
-    "length_meter": 283.5,
-    "time_minute": 4
+    "color": "#ded47f",
+    "start_name": "위험",
+    "length_meter": 202.7,
+    "time_minute": 3
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.5443,
-        "lng": 129.062225
+        "lat": 35.542488,
+        "lng": 129.061981
       },
       {
-        "lat": 35.542683,
-        "lng": 129.062088
+        "lat": 35.541946,
+        "lng": 129.061829
       }
     ],
-    "color": "#0b6718",
-    "start_name": "위험",
-    "length_meter": 180.2,
-    "time_minute": 3
+    "color": "#054431",
+    "start_name": "안전구조목 / 위험",
+    "length_meter": 69.2,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.542683,
-        "lng": 129.062088
-      },
-      {
-        "lat": 35.541943,
+        "lat": 35.541946,
         "lng": 129.061829
-      }
-    ],
-    "color": "#12c4eb",
-    "start_name": "위험 / 위험 / 안전구조목 / 위험",
-    "length_meter": 106.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.541943,
-        "lng": 129.061829
-      },
-      {
-        "lat": 35.541485,
-        "lng": 129.061691
-      }
-    ],
-    "color": "#8bb6c8",
-    "start_name": "위험 / 조망좀 / 위험 / 갈림길 49 / 안전구조목구급함",
-    "length_meter": 65.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.541485,
-        "lng": 129.061691
       },
       {
         "lat": 35.541431,
         "lng": 129.061584
       }
     ],
-    "color": "#013e8e",
-    "start_name": "조망점",
-    "length_meter": 11.4,
-    "time_minute": 0
+    "color": "#a1106c",
+    "start_name": "조망좀 / 위험 / 갈림길 49 / 안전구조목구급함",
+    "length_meter": 73.5,
+    "time_minute": 1
   }
 ]

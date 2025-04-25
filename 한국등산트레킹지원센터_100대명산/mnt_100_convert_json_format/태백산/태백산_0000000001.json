@@ -7,30 +7,30 @@
         "lng": 128.908737
       },
       {
-        "lat": 37.120384,
-        "lng": 128.907944
+        "lat": 37.120373,
+        "lng": 128.907898
       }
     ],
-    "color": "#b4d7a9",
+    "color": "#c902ee",
     "start_name": "태백산등산로 / 화장실 / 등산로입구안내소",
-    "length_meter": 77.4,
+    "length_meter": 80.6,
     "time_minute": 1
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 37.120384,
-        "lng": 128.907944
+        "lat": 37.120373,
+        "lng": 128.907898
       },
       {
         "lat": 37.115952,
         "lng": 128.908615
       }
     ],
-    "color": "#68cdc1",
-    "start_name": "등산로입구안내소 / 미니슈퍼 / 갈림길",
-    "length_meter": 500.3,
+    "color": "#088884",
+    "start_name": "미니슈퍼 / 갈림길",
+    "length_meter": 496.1,
     "time_minute": 8
   },
   {
@@ -45,7 +45,7 @@
         "lng": 128.908844
       }
     ],
-    "color": "#417351",
+    "color": "#d94f70",
     "start_name": "매점",
     "length_meter": 86.5,
     "time_minute": 1
@@ -58,172 +58,104 @@
         "lng": 128.908844
       },
       {
-        "lat": 37.114769,
-        "lng": 128.909454
+        "lat": 37.112679,
+        "lng": 128.912277
       }
     ],
-    "color": "#7027a4",
+    "color": "#033f09",
     "start_name": "갈림길",
-    "length_meter": 72.0,
-    "time_minute": 1
+    "length_meter": 413.5,
+    "time_minute": 6
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.114769,
-        "lng": 128.909454
+        "lat": 37.112679,
+        "lng": 128.912277
       },
       {
-        "lat": 37.113091,
-        "lng": 128.909988
+        "lat": 37.112019,
+        "lng": 128.913345
       }
     ],
-    "color": "#6f451a",
-    "start_name": "쉼터 / 쉼터",
-    "length_meter": 199.8,
-    "time_minute": 3
+    "color": "#2d3109",
+    "start_name": "출입금지 안내",
+    "length_meter": 119.8,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 37.113091,
-        "lng": 128.909988
+        "lat": 37.112019,
+        "lng": 128.913345
       },
       {
-        "lat": 37.11224,
-        "lng": 128.910736
+        "lat": 37.111389,
+        "lng": 128.914261
       }
     ],
-    "color": "#2e7d26",
-    "start_name": "쉼터",
-    "length_meter": 115.6,
+    "color": "#7cd847",
+    "start_name": "갈림길",
+    "length_meter": 107.3,
     "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 37.11224,
-        "lng": 128.910736
+        "lat": 37.111389,
+        "lng": 128.914261
       },
       {
-        "lat": 37.112679,
-        "lng": 128.912277
+        "lat": 37.105587,
+        "lng": 128.914337
       }
     ],
-    "color": "#0c9a15",
-    "start_name": "쉼터 / 갈림길",
-    "length_meter": 151.1,
-    "time_minute": 2
+    "color": "#e94e90",
+    "start_name": "등산로",
+    "length_meter": 645.2,
+    "time_minute": 10
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.112679,
-        "lng": 128.912277
+        "lat": 37.105587,
+        "lng": 128.914337
       },
       {
-        "lat": 37.112061,
-        "lng": 128.913391
+        "lat": 37.10495,
+        "lng": 128.915009
       }
     ],
-    "color": "#a57612",
-    "start_name": "출입금지 안내",
-    "length_meter": 120.3,
-    "time_minute": 2
+    "color": "#3dafd0",
+    "start_name": "불법안내",
+    "length_meter": 92.6,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 37.112061,
-        "lng": 128.913391
+        "lat": 37.10495,
+        "lng": 128.915009
       },
       {
-        "lat": 37.111389,
-        "lng": 128.914261
+        "lat": 37.104237,
+        "lng": 128.915115
       }
     ],
-    "color": "#648084",
-    "start_name": "쉼터 / 갈림길",
-    "length_meter": 113.5,
+    "color": "#7e1072",
+    "start_name": "조망~",
+    "length_meter": 79.8,
     "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.111389,
-        "lng": 128.914261
-      },
-      {
-        "lat": 37.109268,
-        "lng": 128.911575
-      }
-    ],
-    "color": "#ec53a3",
-    "start_name": "등산로",
-    "length_meter": 335.2,
-    "time_minute": 5
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.109268,
-        "lng": 128.911575
-      },
-      {
-        "lat": 37.105587,
-        "lng": 128.914337
-      }
-    ],
-    "color": "#f51d03",
-    "start_name": "쉼터",
-    "length_meter": 477.0,
-    "time_minute": 7
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 37.105587,
-        "lng": 128.914337
-      },
-      {
-        "lat": 37.10495,
-        "lng": 128.915009
-      }
-    ],
-    "color": "#502008",
-    "start_name": "불법안내",
-    "length_meter": 92.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.10495,
-        "lng": 128.915009
-      },
-      {
-        "lat": 37.104237,
-        "lng": 128.915115
-      }
-    ],
-    "color": "#8e53a6",
-    "start_name": "조망~",
-    "length_meter": 79.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
         "lat": 37.104237,
         "lng": 128.915115
       },
@@ -232,13 +164,13 @@
         "lng": 128.915619
       }
     ],
-    "color": "#712c7c",
+    "color": "#99b0ef",
     "start_name": "쉼텨 / 불법안내",
     "length_meter": 258.7,
     "time_minute": 4
   },
   {
-    "path_id": 14,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.101959,
@@ -249,47 +181,30 @@
         "lng": 128.916122
       }
     ],
-    "color": "#e023c3",
+    "color": "#9d684c",
     "start_name": "조망",
     "length_meter": 202.2,
     "time_minute": 3
   },
   {
-    "path_id": 15,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.100185,
         "lng": 128.916122
-      },
-      {
-        "lat": 37.099579,
-        "lng": 128.916092
-      }
-    ],
-    "color": "#3887de",
-    "start_name": "포토 / 장군봉에서 바라본 전망",
-    "length_meter": 67.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 37.099579,
-        "lng": 128.916092
       },
       {
         "lat": 37.098999,
         "lng": 128.915848
       }
     ],
-    "color": "#4fe0ea",
-    "start_name": "조망점",
-    "length_meter": 68.0,
-    "time_minute": 1
+    "color": "#4b4a48",
+    "start_name": "포토 / 장군봉에서 바라본 전망",
+    "length_meter": 134.2,
+    "time_minute": 2
   },
   {
-    "path_id": 17,
+    "path_id": 12,
     "path": [
       {
         "lat": 37.098999,
@@ -300,13 +215,13 @@
         "lng": 128.916168
       }
     ],
-    "color": "#576a25",
+    "color": "#e74855",
     "start_name": "갈림길 / 태백산천제단 / 장군봉정상석",
     "length_meter": 82.1,
     "time_minute": 1
   },
   {
-    "path_id": 18,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.098309,
@@ -317,13 +232,13 @@
         "lng": 128.916565
       }
     ],
-    "color": "#828d45",
+    "color": "#37a42b",
     "start_name": "정상경관",
     "length_meter": 187.0,
     "time_minute": 3
   },
   {
-    "path_id": 19,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.096657,
@@ -334,13 +249,13 @@
         "lng": 128.91655
       }
     ],
-    "color": "#701bbd",
+    "color": "#2a1489",
     "start_name": "천제단에서 바라본 전망 / 태백산 / 정상경관",
     "length_meter": 68.9,
     "time_minute": 1
   },
   {
-    "path_id": 20,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.096367,
@@ -351,13 +266,13 @@
         "lng": 128.915939
       }
     ],
-    "color": "#1b4db4",
+    "color": "#f2fc94",
     "start_name": "태백산천제단",
     "length_meter": 519.4,
     "time_minute": 8
   },
   {
-    "path_id": 21,
+    "path_id": 16,
     "path": [
       {
         "lat": 37.101013,
@@ -368,13 +283,13 @@
         "lng": 128.915634
       }
     ],
-    "color": "#3b25fb",
+    "color": "#fc0380",
     "start_name": "출입금지",
     "length_meter": 92.3,
     "time_minute": 1
   },
   {
-    "path_id": 22,
+    "path_id": 17,
     "path": [
       {
         "lat": 37.101807,
@@ -385,7 +300,7 @@
         "lng": 128.914352
       }
     ],
-    "color": "#e1c323",
+    "color": "#7bc7f4",
     "start_name": "경관",
     "length_meter": 433.4,
     "time_minute": 7

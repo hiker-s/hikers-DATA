@@ -11,7 +11,7 @@
         "lng": 127.066116
       }
     ],
-    "color": "#dd3659",
+    "color": "#bf16a2",
     "start_name": "심원암길 / 갈림길",
     "length_meter": 419.8,
     "time_minute": 6
@@ -28,7 +28,7 @@
         "lng": 127.066849
       }
     ],
-    "color": "#29d44c",
+    "color": "#66c6e5",
     "start_name": "편백나무",
     "length_meter": 116.1,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 127.068573
       }
     ],
-    "color": "#9766d4",
+    "color": "#fe40c0",
     "start_name": "심원암 / 갈림길",
     "length_meter": 303.1,
     "time_minute": 5
@@ -62,7 +62,7 @@
         "lng": 127.06868
       }
     ],
-    "color": "#4cd938",
+    "color": "#f1b6b7",
     "start_name": "국가지점번호",
     "length_meter": 121.7,
     "time_minute": 2
@@ -75,47 +75,47 @@
         "lng": 127.06868
       },
       {
-        "lat": 35.730412,
-        "lng": 127.068573
+        "lat": 35.730549,
+        "lng": 127.06868
       }
     ],
-    "color": "#fb7bf2",
-    "start_name": "갈림길 / 쉼터",
-    "length_meter": 73.1,
+    "color": "#a207b9",
+    "start_name": "갈림길",
+    "length_meter": 79.7,
     "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.730412,
-        "lng": 127.068573
+        "lat": 35.730549,
+        "lng": 127.06868
       },
       {
-        "lat": 35.730225,
-        "lng": 127.069489
+        "lat": 35.730309,
+        "lng": 127.069748
       }
     ],
-    "color": "#6c0ca6",
-    "start_name": "갈림길 / 국가지점번호",
-    "length_meter": 99.5,
+    "color": "#ebac1f",
+    "start_name": "국가지점번호",
+    "length_meter": 100.0,
     "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.730225,
-        "lng": 127.069489
+        "lat": 35.730309,
+        "lng": 127.069748
       },
       {
         "lat": 35.73,
         "lng": 127.072014
       }
     ],
-    "color": "#08acf3",
-    "start_name": "쉼터 / 국가지점번호 / 119비상 구급함",
-    "length_meter": 232.7,
+    "color": "#75855b",
+    "start_name": "119비상 구급함",
+    "length_meter": 207.4,
     "time_minute": 3
   },
   {
@@ -126,70 +126,19 @@
         "lng": 127.072014
       },
       {
-        "lat": 35.73024,
-        "lng": 127.073349
+        "lat": 35.730564,
+        "lng": 127.076958
       }
     ],
-    "color": "#2438db",
+    "color": "#b7de79",
     "start_name": "국가지점번호",
-    "length_meter": 123.4,
-    "time_minute": 2
+    "length_meter": 450.7,
+    "time_minute": 7
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.73024,
-        "lng": 127.073349
-      },
-      {
-        "lat": 35.730854,
-        "lng": 127.074936
-      }
-    ],
-    "color": "#2c1fa0",
-    "start_name": "국가지점번호",
-    "length_meter": 158.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.730854,
-        "lng": 127.074936
-      },
-      {
-        "lat": 35.730648,
-        "lng": 127.076134
-      }
-    ],
-    "color": "#a9932e",
-    "start_name": "국가지점번호",
-    "length_meter": 110.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.730648,
-        "lng": 127.076134
-      },
-      {
-        "lat": 35.730564,
-        "lng": 127.076958
-      }
-    ],
-    "color": "#4b86db",
-    "start_name": "국가지점번호",
-    "length_meter": 75.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
         "lat": 35.730564,
         "lng": 127.076958
       },
@@ -198,60 +147,26 @@
         "lng": 127.078102
       }
     ],
-    "color": "#ebcda3",
+    "color": "#eb0f1f",
     "start_name": "조망터",
     "length_meter": 103.4,
     "time_minute": 1
   },
   {
-    "path_id": 12,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.730606,
         "lng": 127.078102
-      },
-      {
-        "lat": 35.730705,
-        "lng": 127.079803
-      }
-    ],
-    "color": "#63dd6f",
-    "start_name": "국가지점번호",
-    "length_meter": 153.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.730705,
-        "lng": 127.079803
-      },
-      {
-        "lat": 35.730724,
-        "lng": 127.081024
-      }
-    ],
-    "color": "#894bef",
-    "start_name": "국가지점번호",
-    "length_meter": 110.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.730724,
-        "lng": 127.081024
       },
       {
         "lat": 35.730606,
         "lng": 127.081345
       }
     ],
-    "color": "#86d81d",
-    "start_name": "쉼터",
-    "length_meter": 31.8,
-    "time_minute": 0
+    "color": "#a25642",
+    "start_name": "국가지점번호",
+    "length_meter": 292.7,
+    "time_minute": 4
   }
 ]

@@ -11,7 +11,7 @@
         "lng": 127.619019
       }
     ],
-    "color": "#fafe68",
+    "color": "#9369dd",
     "start_name": "천태산 들머리 / 영국사 주차장 / 천태산 쉬어가는집",
     "length_meter": 113.8,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 127.616425
       }
     ],
-    "color": "#bc10a7",
+    "color": "#28a52e",
     "start_name": "안내  표지판 / 식당",
     "length_meter": 247.0,
     "time_minute": 4
@@ -45,7 +45,7 @@
         "lng": 127.614159
       }
     ],
-    "color": "#870588",
+    "color": "#d0b3e8",
     "start_name": "천태산 들머리",
     "length_meter": 224.7,
     "time_minute": 3
@@ -62,7 +62,7 @@
         "lng": 127.612808
       }
     ],
-    "color": "#289741",
+    "color": "#02c2fe",
     "start_name": "삼신할멈바위",
     "length_meter": 228.0,
     "time_minute": 3
@@ -79,7 +79,7 @@
         "lng": 127.611626
       }
     ],
-    "color": "#0cd83c",
+    "color": "#ea16c1",
     "start_name": "영국사 일주문 / 매표소",
     "length_meter": 115.0,
     "time_minute": 1
@@ -96,7 +96,7 @@
         "lng": 127.610405
       }
     ],
-    "color": "#278d33",
+    "color": "#f5fa23",
     "start_name": "영국사 샘물 / 영국사 은행나무 / 영국사",
     "length_meter": 132.7,
     "time_minute": 2
@@ -113,7 +113,7 @@
         "lng": 127.607338
       }
     ],
-    "color": "#7d2267",
+    "color": "#6cca8c",
     "start_name": "간이화장실 / 산행들머리",
     "length_meter": 318.3,
     "time_minute": 5
@@ -130,7 +130,7 @@
         "lng": 127.605843
       }
     ],
-    "color": "#296808",
+    "color": "#563f77",
     "start_name": "갈림길 / 암릉위 영국사 조망",
     "length_meter": 165.0,
     "time_minute": 2
@@ -147,7 +147,7 @@
         "lng": 127.605103
       }
     ],
-    "color": "#634864",
+    "color": "#2fbb2b",
     "start_name": "암릉 위험 / 암릉2 조망",
     "length_meter": 76.7,
     "time_minute": 1
@@ -164,7 +164,7 @@
         "lng": 127.604012
       }
     ],
-    "color": "#d43723",
+    "color": "#6453fb",
     "start_name": "갈림길 / 암릉3",
     "length_meter": 105.1,
     "time_minute": 1
@@ -181,7 +181,7 @@
         "lng": 127.601791
       }
     ],
-    "color": "#b52c77",
+    "color": "#c9ae91",
     "start_name": "암벽3 조망",
     "length_meter": 244.1,
     "time_minute": 4
@@ -194,70 +194,36 @@
         "lng": 127.601791
       },
       {
-        "lat": 36.155121,
-        "lng": 127.604767
+        "lat": 36.153378,
+        "lng": 127.605446
       }
     ],
-    "color": "#476a2f",
+    "color": "#a2752b",
     "start_name": "갈림길",
-    "length_meter": 449.8,
-    "time_minute": 7
+    "length_meter": 645.3,
+    "time_minute": 10
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 36.155121,
-        "lng": 127.604767
-      },
-      {
         "lat": 36.153378,
         "lng": 127.605446
+      },
+      {
+        "lat": 36.150723,
+        "lng": 127.606392
       }
     ],
-    "color": "#1f2e15",
-    "start_name": "갈림길",
-    "length_meter": 203.2,
-    "time_minute": 3
+    "color": "#35be5f",
+    "start_name": "조망",
+    "length_meter": 307.2,
+    "time_minute": 5
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 36.153378,
-        "lng": 127.605446
-      },
-      {
-        "lat": 36.152267,
-        "lng": 127.605789
-      }
-    ],
-    "color": "#e4bff9",
-    "start_name": "조망",
-    "length_meter": 127.3,
-    "time_minute": 2
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 36.152267,
-        "lng": 127.605789
-      },
-      {
-        "lat": 36.150723,
-        "lng": 127.606392
-      }
-    ],
-    "color": "#a27e19",
-    "start_name": "조망 / 조망",
-    "length_meter": 182.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
         "lat": 36.150723,
         "lng": 127.606392
       },
@@ -266,33 +232,33 @@
         "lng": 127.609512
       }
     ],
-    "color": "#2564cd",
+    "color": "#4b3cb8",
     "start_name": "전망석",
     "length_meter": 298.5,
     "time_minute": 4
   },
   {
-    "path_id": 16,
+    "path_id": 14,
     "path": [
       {
         "lat": 36.151649,
         "lng": 127.609512
       },
       {
-        "lat": 36.157379,
+        "lat": 36.157642,
         "lng": 127.610558
       }
     ],
-    "color": "#6d9e7e",
-    "start_name": "갈림길 / 갈림길",
-    "length_meter": 645.1,
-    "time_minute": 10
+    "color": "#5f21b0",
+    "start_name": "갈림길",
+    "length_meter": 673.0,
+    "time_minute": 11
   },
   {
-    "path_id": 17,
+    "path_id": 15,
     "path": [
       {
-        "lat": 36.157379,
+        "lat": 36.157642,
         "lng": 127.610558
       },
       {
@@ -300,13 +266,13 @@
         "lng": 127.611183
       }
     ],
-    "color": "#6b4025",
-    "start_name": "갈림길 / 영국사 대웅전",
-    "length_meter": 117.4,
+    "color": "#56ae28",
+    "start_name": "영국사 대웅전",
+    "length_meter": 88.1,
     "time_minute": 1
   },
   {
-    "path_id": 18,
+    "path_id": 16,
     "path": [
       {
         "lat": 36.158253,
@@ -317,13 +283,13 @@
         "lng": 127.613106
       }
     ],
-    "color": "#09bd26",
+    "color": "#dc9944",
     "start_name": "영국사 화장실",
     "length_meter": 204.0,
     "time_minute": 3
   },
   {
-    "path_id": 19,
+    "path_id": 17,
     "path": [
       {
         "lat": 36.157276,
@@ -334,7 +300,7 @@
         "lng": 127.613136
       }
     ],
-    "color": "#6a1a6c",
+    "color": "#bc4d4c",
     "start_name": "상어흔들바위",
     "length_meter": 9.7,
     "time_minute": 0

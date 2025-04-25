@@ -11,9 +11,9 @@
         "lng": 126.443558
       }
     ],
-    "color": "#ff623f",
-    "start_name": "갈림길 / 갈림길 / 화장실",
-    "length_meter": 543.8,
+    "color": "#1475fe",
+    "start_name": "갈림길 / 화장실",
+    "length_meter": 541.1,
     "time_minute": 9
   },
   {
@@ -28,7 +28,7 @@
         "lng": 126.443642
       }
     ],
-    "color": "#1a2250",
+    "color": "#7a2f14",
     "start_name": "갈림길",
     "length_meter": 90.1,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 126.441025
       }
     ],
-    "color": "#c993c1",
+    "color": "#8282bc",
     "start_name": "사랑의하트석 / 갈림길",
     "length_meter": 275.5,
     "time_minute": 4
@@ -58,121 +58,36 @@
         "lng": 126.441025
       },
       {
-        "lat": 37.609814,
-        "lng": 126.440315
+        "lat": 37.612125,
+        "lng": 126.438034
       }
     ],
-    "color": "#1d38a3",
-    "start_name": "미끄럼주의 / 미끄럼주의",
-    "length_meter": 66.1,
-    "time_minute": 1
+    "color": "#ec8d57",
+    "start_name": "미끄럼주의",
+    "length_meter": 379.8,
+    "time_minute": 6
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.609814,
-        "lng": 126.440315
+        "lat": 37.612125,
+        "lng": 126.438034
       },
       {
-        "lat": 37.610806,
-        "lng": 126.439171
+        "lat": 37.612679,
+        "lng": 126.44519
       }
     ],
-    "color": "#61c776",
-    "start_name": "추락주의",
-    "length_meter": 149.4,
-    "time_minute": 2
+    "color": "#7e1d41",
+    "start_name": "추락사고위험구간 / 갈림길",
+    "length_meter": 640.5,
+    "time_minute": 10
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 37.610806,
-        "lng": 126.439171
-      },
-      {
-        "lat": 37.612125,
-        "lng": 126.438034
-      }
-    ],
-    "color": "#5fb4de",
-    "start_name": "추락주의",
-    "length_meter": 177.6,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.612125,
-        "lng": 126.438034
-      },
-      {
-        "lat": 37.61356,
-        "lng": 126.440643
-      }
-    ],
-    "color": "#8b18b9",
-    "start_name": "추락사고위험구간 / 갈림길",
-    "length_meter": 280.4,
-    "time_minute": 4
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.61356,
-        "lng": 126.440643
-      },
-      {
-        "lat": 37.612217,
-        "lng": 126.443977
-      }
-    ],
-    "color": "#73b1b4",
-    "start_name": "갈림길",
-    "length_meter": 329.5,
-    "time_minute": 5
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.612217,
-        "lng": 126.443977
-      },
-      {
-        "lat": 37.609936,
-        "lng": 126.443565
-      }
-    ],
-    "color": "#d461f4",
-    "start_name": "갈림길",
-    "length_meter": 256.2,
-    "time_minute": 4
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.609936,
-        "lng": 126.443565
-      },
-      {
-        "lat": 37.612679,
-        "lng": 126.44519
-      }
-    ],
-    "color": "#88041f",
-    "start_name": "갈림길",
-    "length_meter": 336.9,
-    "time_minute": 5
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
         "lat": 37.612679,
         "lng": 126.44519
       },
@@ -181,13 +96,13 @@
         "lng": 126.446022
       }
     ],
-    "color": "#874555",
+    "color": "#493a24",
     "start_name": "추락사고위험",
     "length_meter": 74.3,
     "time_minute": 1
   },
   {
-    "path_id": 11,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.612789,
@@ -198,13 +113,13 @@
         "lng": 126.447151
       }
     ],
-    "color": "#9229fa",
+    "color": "#2c554d",
     "start_name": "함허동천계곡 / 야영장쉼터",
     "length_meter": 128.2,
     "time_minute": 2
   },
   {
-    "path_id": 12,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.612789,
@@ -215,26 +130,9 @@
         "lng": 126.448166
       }
     ],
-    "color": "#24a73b",
+    "color": "#a8178f",
     "start_name": "야영장 쉼터 / 야영장쉼터 / 화장실",
     "length_meter": 110.7,
     "time_minute": 1
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.612312,
-        "lng": 126.448166
-      },
-      {
-        "lat": 37.611984,
-        "lng": 126.448639
-      }
-    ],
-    "color": "#486d78",
-    "start_name": "야영장쉼터 / 야영장쉼터",
-    "length_meter": 56.2,
-    "time_minute": 0
   }
 ]

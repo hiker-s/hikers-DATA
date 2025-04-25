@@ -11,9 +11,9 @@
         "lng": 127.968781
       }
     ],
-    "color": "#4392f9",
-    "start_name": "화장실 / 주차장 / 한려해상국립공원 안내도 / 두모입구",
-    "length_meter": 857.6,
+    "color": "#cc611d",
+    "start_name": "화장실 / 한려해상국립공원 안내도 / 두모입구",
+    "length_meter": 856.5,
     "time_minute": 14
   },
   {
@@ -24,104 +24,53 @@
         "lng": 127.968781
       },
       {
-        "lat": 34.751453,
-        "lng": 127.971718
+        "lat": 34.752598,
+        "lng": 127.975876
       }
     ],
-    "color": "#54d4de",
+    "color": "#31626f",
     "start_name": "남해 양아리 석각",
-    "length_meter": 382.5,
-    "time_minute": 6
+    "length_meter": 761.7,
+    "time_minute": 12
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 34.751453,
-        "lng": 127.971718
+        "lat": 34.752598,
+        "lng": 127.975876
       },
       {
-        "lat": 34.754013,
-        "lng": 127.973763
+        "lat": 34.752205,
+        "lng": 127.977196
       }
     ],
-    "color": "#3a7442",
-    "start_name": "쉼터",
-    "length_meter": 340.5,
-    "time_minute": 5
+    "color": "#a7fd12",
+    "start_name": "기암괴석",
+    "length_meter": 128.3,
+    "time_minute": 2
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 34.754013,
-        "lng": 127.973763
+        "lat": 34.752205,
+        "lng": 127.977196
       },
       {
-        "lat": 34.753857,
-        "lng": 127.976555
+        "lat": 34.752014,
+        "lng": 127.980377
       }
     ],
-    "color": "#8a5823",
-    "start_name": "쉼터",
-    "length_meter": 255.7,
+    "color": "#979678",
+    "start_name": "부소암 / 기암괴석",
+    "length_meter": 291.7,
     "time_minute": 4
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 34.753857,
-        "lng": 127.976555
-      },
-      {
-        "lat": 34.752621,
-        "lng": 127.975883
-      }
-    ],
-    "color": "#2af742",
-    "start_name": "쉼터",
-    "length_meter": 150.5,
-    "time_minute": 2
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 34.752621,
-        "lng": 127.975883
-      },
-      {
-        "lat": 34.752205,
-        "lng": 127.977196
-      }
-    ],
-    "color": "#8475d8",
-    "start_name": "조망점 / 기암괴석 / 조망점 / 기암괴석",
-    "length_meter": 134.1,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 34.752205,
-        "lng": 127.977196
-      },
-      {
-        "lat": 34.752014,
-        "lng": 127.980377
-      }
-    ],
-    "color": "#0c9f10",
-    "start_name": "부소암 / 기암괴석",
-    "length_meter": 291.7,
-    "time_minute": 4
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
         "lat": 34.752014,
         "lng": 127.980377
       },
@@ -130,13 +79,13 @@
         "lng": 127.97995
       }
     ],
-    "color": "#6b54cb",
+    "color": "#9b857e",
     "start_name": "갈림길",
     "length_meter": 301.1,
     "time_minute": 5
   },
   {
-    "path_id": 8,
+    "path_id": 5,
     "path": [
       {
         "lat": 34.749329,
@@ -147,13 +96,13 @@
         "lng": 127.980484
       }
     ],
-    "color": "#e5647e",
+    "color": "#293687",
     "start_name": "기암괴석",
     "length_meter": 214.7,
     "time_minute": 3
   },
   {
-    "path_id": 9,
+    "path_id": 6,
     "path": [
       {
         "lat": 34.751209,
@@ -164,302 +113,115 @@
         "lng": 127.981026
       }
     ],
-    "color": "#ccfca1",
+    "color": "#d48b23",
     "start_name": "좌선대 / 금산산장",
     "length_meter": 78.1,
+    "time_minute": 1
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
+        "lat": 34.751736,
+        "lng": 127.981026
+      },
+      {
+        "lat": 34.753094,
+        "lng": 127.98243
+      }
+    ],
+    "color": "#e92ae9",
+    "start_name": "흔들바위 / 갈림길",
+    "length_meter": 207.6,
+    "time_minute": 3
+  },
+  {
+    "path_id": 8,
+    "path": [
+      {
+        "lat": 34.753094,
+        "lng": 127.98243
+      },
+      {
+        "lat": 34.753803,
+        "lng": 127.982956
+      }
+    ],
+    "color": "#061e0f",
+    "start_name": "줄사철나무",
+    "length_meter": 92.3,
+    "time_minute": 1
+  },
+  {
+    "path_id": 9,
+    "path": [
+      {
+        "lat": 34.753803,
+        "lng": 127.982956
+      },
+      {
+        "lat": 34.752884,
+        "lng": 127.983452
+      }
+    ],
+    "color": "#2f199b",
+    "start_name": "망대",
+    "length_meter": 111.8,
     "time_minute": 1
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 34.751736,
-        "lng": 127.981026
+        "lat": 34.752884,
+        "lng": 127.983452
       },
       {
-        "lat": 34.752968,
-        "lng": 127.982361
+        "lat": 34.751984,
+        "lng": 127.982811
       }
     ],
-    "color": "#d21970",
-    "start_name": "흔들바위 / 갈림길",
-    "length_meter": 193.9,
-    "time_minute": 3
+    "color": "#f0a0c0",
+    "start_name": "갈림길",
+    "length_meter": 116.0,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 34.752968,
-        "lng": 127.982361
+        "lat": 34.751984,
+        "lng": 127.982811
       },
       {
-        "lat": 34.753803,
-        "lng": 127.982956
+        "lat": 34.75153,
+        "lng": 127.982353
       }
     ],
-    "color": "#c33bd9",
-    "start_name": "갈림길 / 줄사철나무",
-    "length_meter": 107.7,
+    "color": "#5c8232",
+    "start_name": "기암괴석 / 음성굴",
+    "length_meter": 66.6,
     "time_minute": 1
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 34.753803,
-        "lng": 127.982956
-      },
-      {
-        "lat": 34.752884,
-        "lng": 127.983452
-      }
-    ],
-    "color": "#d1e736",
-    "start_name": "망대",
-    "length_meter": 111.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 34.752884,
-        "lng": 127.983452
-      },
-      {
-        "lat": 34.751984,
-        "lng": 127.982811
-      }
-    ],
-    "color": "#586475",
-    "start_name": "갈림길",
-    "length_meter": 116.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 34.751984,
-        "lng": 127.982811
-      },
-      {
         "lat": 34.75153,
         "lng": 127.982353
-      }
-    ],
-    "color": "#6fec78",
-    "start_name": "기암괴석 / 음성굴",
-    "length_meter": 66.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 34.75153,
-        "lng": 127.982353
-      },
-      {
-        "lat": 34.750748,
-        "lng": 127.983215
-      }
-    ],
-    "color": "#2e7dbd",
-    "start_name": "장군암 / 쌍홍문 / 사선대",
-    "length_meter": 118.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 34.750748,
-        "lng": 127.983215
-      },
-      {
-        "lat": 34.750389,
-        "lng": 127.983887
-      }
-    ],
-    "color": "#a30380",
-    "start_name": "쉼터",
-    "length_meter": 73.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 34.750389,
-        "lng": 127.983887
-      },
-      {
-        "lat": 34.748951,
-        "lng": 127.984673
-      }
-    ],
-    "color": "#c37ba6",
-    "start_name": "쉼터",
-    "length_meter": 175.3,
-    "time_minute": 2
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 34.748951,
-        "lng": 127.984673
-      },
-      {
-        "lat": 34.748325,
-        "lng": 127.985085
-      }
-    ],
-    "color": "#ad3de1",
-    "start_name": "쉼터",
-    "length_meter": 79.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 34.748325,
-        "lng": 127.985085
-      },
-      {
-        "lat": 34.747318,
-        "lng": 127.985542
-      }
-    ],
-    "color": "#ac90bb",
-    "start_name": "쉼터",
-    "length_meter": 119.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 34.747318,
-        "lng": 127.985542
-      },
-      {
-        "lat": 34.746769,
-        "lng": 127.985649
-      }
-    ],
-    "color": "#8c3881",
-    "start_name": "쉼터",
-    "length_meter": 61.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 34.746769,
-        "lng": 127.985649
-      },
-      {
-        "lat": 34.746033,
-        "lng": 127.985832
-      }
-    ],
-    "color": "#09cf47",
-    "start_name": "쉼터",
-    "length_meter": 83.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 34.746033,
-        "lng": 127.985832
-      },
-      {
-        "lat": 34.744804,
-        "lng": 127.985329
-      }
-    ],
-    "color": "#df467f",
-    "start_name": "쉼터",
-    "length_meter": 144.2,
-    "time_minute": 2
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 34.744804,
-        "lng": 127.985329
-      },
-      {
-        "lat": 34.744049,
-        "lng": 127.985519
-      }
-    ],
-    "color": "#414574",
-    "start_name": "쉼터",
-    "length_meter": 85.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 34.744049,
-        "lng": 127.985519
-      },
-      {
-        "lat": 34.742481,
-        "lng": 127.985603
-      }
-    ],
-    "color": "#58800e",
-    "start_name": "쉼터 / 쉼터",
-    "length_meter": 174.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 34.742481,
-        "lng": 127.985603
-      },
-      {
-        "lat": 34.740288,
-        "lng": 127.984673
-      }
-    ],
-    "color": "#4b0299",
-    "start_name": "쉼터",
-    "length_meter": 258.2,
-    "time_minute": 4
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 34.740288,
-        "lng": 127.984673
       },
       {
         "lat": 34.739544,
         "lng": 127.984131
       }
     ],
-    "color": "#27dcc9",
-    "start_name": "쉼터",
-    "length_meter": 96.4,
-    "time_minute": 1
+    "color": "#89a0c8",
+    "start_name": "장군암 / 쌍홍문 / 사선대",
+    "length_meter": 1353.9,
+    "time_minute": 22
   },
   {
-    "path_id": 27,
+    "path_id": 13,
     "path": [
       {
         "lat": 34.739544,
@@ -470,7 +232,7 @@
         "lng": 127.984009
       }
     ],
-    "color": "#fd3e04",
+    "color": "#e9030b",
     "start_name": "탐방지원센터",
     "length_meter": 12.1,
     "time_minute": 0

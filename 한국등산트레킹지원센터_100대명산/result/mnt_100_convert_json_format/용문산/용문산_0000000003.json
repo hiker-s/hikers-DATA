@@ -1,0 +1,53 @@
+[
+  {
+    "path_id": 0,
+    "path": [
+      {
+        "lat": 37.554131,
+        "lng": 127.562134
+      },
+      {
+        "lat": 37.559048,
+        "lng": 127.557228
+      }
+    ],
+    "color": "#2538d6",
+    "start_name": "갈림길 / 평상",
+    "length_meter": 697.1,
+    "time_minute": 11
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 37.559048,
+        "lng": 127.557228
+      },
+      {
+        "lat": 37.561935,
+        "lng": 127.54908
+      }
+    ],
+    "color": "#aa516b",
+    "start_name": "갈림길",
+    "length_meter": 786.7,
+    "time_minute": 13
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 37.561935,
+        "lng": 127.54908
+      },
+      {
+        "lat": 37.556835,
+        "lng": 127.541939
+      }
+    ],
+    "color": "#3aafa4",
+    "start_name": "용문산 정상",
+    "length_meter": 847.2,
+    "time_minute": 14
+  }
+]

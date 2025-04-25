@@ -3,108 +3,23 @@
     "path_id": 0,
     "path": [
       {
-        "lat": 35.527931,
-        "lng": 129.026489
+        "lat": 35.530231,
+        "lng": 129.029587
       },
       {
-        "lat": 35.528473,
-        "lng": 129.027603
+        "lat": 35.534191,
+        "lng": 129.037201
       }
     ],
-    "color": "#f7902f",
-    "start_name": "쉼터",
-    "length_meter": 117.5,
-    "time_minute": 1
+    "color": "#c13ffc",
+    "start_name": "자연경관",
+    "length_meter": 817.7,
+    "time_minute": 13
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 35.528473,
-        "lng": 129.027603
-      },
-      {
-        "lat": 35.530231,
-        "lng": 129.029587
-      }
-    ],
-    "color": "#d5544d",
-    "start_name": "조망점",
-    "length_meter": 265.4,
-    "time_minute": 4
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.530231,
-        "lng": 129.029587
-      },
-      {
-        "lat": 35.531357,
-        "lng": 129.033173
-      }
-    ],
-    "color": "#264707",
-    "start_name": "자연경관",
-    "length_meter": 347.8,
-    "time_minute": 5
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.531357,
-        "lng": 129.033173
-      },
-      {
-        "lat": 35.531452,
-        "lng": 129.034103
-      }
-    ],
-    "color": "#c70894",
-    "start_name": "조망점",
-    "length_meter": 84.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.531452,
-        "lng": 129.034103
-      },
-      {
-        "lat": 35.532749,
-        "lng": 129.035416
-      }
-    ],
-    "color": "#10fb78",
-    "start_name": "조망점 / 조망점",
-    "length_meter": 187.8,
-    "time_minute": 3
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.532749,
-        "lng": 129.035416
-      },
-      {
-        "lat": 35.534191,
-        "lng": 129.037201
-      }
-    ],
-    "color": "#702b8f",
-    "start_name": "조망점",
-    "length_meter": 227.6,
-    "time_minute": 3
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
         "lat": 35.534191,
         "lng": 129.037201
       },
@@ -113,43 +28,9 @@
         "lng": 129.039063
       }
     ],
-    "color": "#ab9b43",
+    "color": "#035e36",
     "start_name": "갈림길 19",
     "length_meter": 187.9,
     "time_minute": 3
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.534939,
-        "lng": 129.039063
-      },
-      {
-        "lat": 35.539516,
-        "lng": 129.043854
-      }
-    ],
-    "color": "#c13595",
-    "start_name": "자연경관",
-    "length_meter": 668.5,
-    "time_minute": 11
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.539516,
-        "lng": 129.043854
-      },
-      {
-        "lat": 35.539764,
-        "lng": 129.045364
-      }
-    ],
-    "color": "#d10ec4",
-    "start_name": "조망점",
-    "length_meter": 139.4,
-    "time_minute": 2
   }
 ]

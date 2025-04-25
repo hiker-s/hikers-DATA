@@ -11,7 +11,7 @@
         "lng": 126.472618
       }
     ],
-    "color": "#b83bc5",
+    "color": "#88e2a3",
     "start_name": "무오법정사 버스정류장 / 한라산둘레길 입구 / 무오법정사 버스정류장",
     "length_meter": 1504.6,
     "time_minute": 25
@@ -28,7 +28,7 @@
         "lng": 126.472519
       }
     ],
-    "color": "#63508b",
+    "color": "#a54788",
     "start_name": "무오법정사 함일운동 발원지 / 동백길 안내센터 / 동백길 입구 주차장 / 동백길 입구 화장실",
     "length_meter": 87.2,
     "time_minute": 1
@@ -45,9 +45,9 @@
         "lng": 126.473442
       }
     ],
-    "color": "#b04c94",
-    "start_name": "동백길 입구 / 동백길 입구",
-    "length_meter": 237.6,
+    "color": "#f09f12",
+    "start_name": "동백길 입구",
+    "length_meter": 237.1,
     "time_minute": 3
   },
   {
@@ -62,7 +62,7 @@
         "lng": 126.473953
       }
     ],
-    "color": "#231d36",
+    "color": "#285f32",
     "start_name": "무오법정사 항일운동 기넘탑",
     "length_meter": 267.2,
     "time_minute": 4
@@ -75,34 +75,17 @@
         "lng": 126.473953
       },
       {
-        "lat": 33.313354,
-        "lng": 126.475883
-      }
-    ],
-    "color": "#5f5dc8",
-    "start_name": "갈림길 10",
-    "length_meter": 181.2,
-    "time_minute": 3
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 33.313354,
-        "lng": 126.475883
-      },
-      {
         "lat": 33.313732,
         "lng": 126.477371
       }
     ],
-    "color": "#8f3a65",
-    "start_name": "쉼터",
-    "length_meter": 144.5,
-    "time_minute": 2
+    "color": "#be3a4a",
+    "start_name": "갈림길 10",
+    "length_meter": 324.8,
+    "time_minute": 5
   },
   {
-    "path_id": 6,
+    "path_id": 5,
     "path": [
       {
         "lat": 33.313732,
@@ -113,13 +96,13 @@
         "lng": 126.499504
       }
     ],
-    "color": "#a944e7",
+    "color": "#a37c14",
     "start_name": "둥백나무 군락지",
     "length_meter": 2213.5,
     "time_minute": 36
   },
   {
-    "path_id": 7,
+    "path_id": 6,
     "path": [
       {
         "lat": 33.306374,
@@ -130,13 +113,13 @@
         "lng": 126.501122
       }
     ],
-    "color": "#ec42b0",
+    "color": "#0c225b",
     "start_name": "갈림길 13",
     "length_meter": 151.4,
     "time_minute": 2
   },
   {
-    "path_id": 8,
+    "path_id": 7,
     "path": [
       {
         "lat": 33.306217,
@@ -147,13 +130,13 @@
         "lng": 126.503197
       }
     ],
-    "color": "#27e056",
+    "color": "#419dc2",
     "start_name": "숯가마터",
     "length_meter": 194.6,
     "time_minute": 3
   },
   {
-    "path_id": 9,
+    "path_id": 8,
     "path": [
       {
         "lat": 33.305984,
@@ -164,13 +147,13 @@
         "lng": 126.513168
       }
     ],
-    "color": "#0c6243",
+    "color": "#6df5b3",
     "start_name": "표고버섯재배지",
     "length_meter": 1041.3,
     "time_minute": 17
   },
   {
-    "path_id": 10,
+    "path_id": 9,
     "path": [
       {
         "lat": 33.310257,
@@ -181,13 +164,13 @@
         "lng": 126.518143
       }
     ],
-    "color": "#ba8607",
+    "color": "#32d9f1",
     "start_name": "4.3주둔소",
     "length_meter": 487.4,
     "time_minute": 8
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 33.308868,
@@ -198,32 +181,32 @@
         "lng": 126.527397
       }
     ],
-    "color": "#a2e3e7",
+    "color": "#c0f999",
     "start_name": "서귀포 치유의 숲 / 시오름입구",
     "length_meter": 864.3,
+    "time_minute": 14
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 33.308159,
+        "lng": 126.527397
+      },
+      {
+        "lat": 33.310986,
+        "lng": 126.535889
+      }
+    ],
+    "color": "#300a10",
+    "start_name": "갈림길 19",
+    "length_meter": 849.4,
     "time_minute": 14
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 33.308159,
-        "lng": 126.527397
-      },
-      {
-        "lat": 33.310986,
-        "lng": 126.535889
-      }
-    ],
-    "color": "#3b05b0",
-    "start_name": "갈림길 19",
-    "length_meter": 849.4,
-    "time_minute": 14
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
         "lat": 33.310986,
         "lng": 126.535889
       },
@@ -232,13 +215,13 @@
         "lng": 126.536568
       }
     ],
-    "color": "#b0f8d5",
+    "color": "#440fe9",
     "start_name": "갈림길 20 / 편백나무 군락지 쉼터",
     "length_meter": 63.5,
     "time_minute": 1
   },
   {
-    "path_id": 14,
+    "path_id": 13,
     "path": [
       {
         "lat": 33.310932,
@@ -249,13 +232,13 @@
         "lng": 126.539276
       }
     ],
-    "color": "#c04679",
+    "color": "#762d8a",
     "start_name": "편백나무 군락지",
     "length_meter": 830.9,
     "time_minute": 13
   },
   {
-    "path_id": 15,
+    "path_id": 14,
     "path": [
       {
         "lat": 33.318054,
@@ -266,13 +249,13 @@
         "lng": 126.545143
       }
     ],
-    "color": "#825461",
+    "color": "#c430cc",
     "start_name": "대피소",
     "length_meter": 715.9,
     "time_minute": 11
   },
   {
-    "path_id": 16,
+    "path_id": 15,
     "path": [
       {
         "lat": 33.322227,
@@ -283,13 +266,13 @@
         "lng": 126.547691
       }
     ],
-    "color": "#8a28cf",
+    "color": "#667bce",
     "start_name": "미끄럼 주의",
     "length_meter": 236.7,
     "time_minute": 3
   },
   {
-    "path_id": 17,
+    "path_id": 16,
     "path": [
       {
         "lat": 33.322227,
@@ -300,13 +283,13 @@
         "lng": 126.549698
       }
     ],
-    "color": "#be2be7",
+    "color": "#602553",
     "start_name": "미끄럼주의",
     "length_meter": 191.0,
     "time_minute": 3
   },
   {
-    "path_id": 18,
+    "path_id": 17,
     "path": [
       {
         "lat": 33.321854,
@@ -317,13 +300,13 @@
         "lng": 126.563774
       }
     ],
-    "color": "#a187d1",
+    "color": "#b98a70",
     "start_name": "갈림길 26",
     "length_meter": 1339.0,
     "time_minute": 22
   },
   {
-    "path_id": 19,
+    "path_id": 18,
     "path": [
       {
         "lat": 33.319275,
@@ -334,13 +317,13 @@
         "lng": 126.571449
       }
     ],
-    "color": "#0bd451",
+    "color": "#f1832b",
     "start_name": "갈림길 27",
     "length_meter": 929.4,
     "time_minute": 15
   },
   {
-    "path_id": 20,
+    "path_id": 19,
     "path": [
       {
         "lat": 33.313915,
@@ -351,13 +334,13 @@
         "lng": 126.571167
       }
     ],
-    "color": "#6eb399",
+    "color": "#6e7b9b",
     "start_name": "화장실 / 돈내코안내소 / 돈내코안내소 입구",
     "length_meter": 366.1,
     "time_minute": 6
   },
   {
-    "path_id": 21,
+    "path_id": 20,
     "path": [
       {
         "lat": 33.310749,
@@ -368,13 +351,13 @@
         "lng": 126.570435
       }
     ],
-    "color": "#edef7b",
+    "color": "#cae242",
     "start_name": "돈내코주차장",
     "length_meter": 346.6,
     "time_minute": 5
   },
   {
-    "path_id": 22,
+    "path_id": 21,
     "path": [
       {
         "lat": 33.307693,
@@ -385,13 +368,13 @@
         "lng": 126.458344
       }
     ],
-    "color": "#d97fb3",
-    "start_name": "충혼묘지광장 / 충혼묘지광장",
+    "color": "#c76ce0",
+    "start_name": "충혼묘지광장",
     "length_meter": 10431.7,
     "time_minute": 173
   },
   {
-    "path_id": 23,
+    "path_id": 22,
     "path": [
       {
         "lat": 33.302685,
@@ -402,13 +385,13 @@
         "lng": 126.472626
       }
     ],
-    "color": "#02746c",
+    "color": "#d94b12",
     "start_name": "무오법정사 버스정류장",
     "length_meter": 1478.0,
     "time_minute": 24
   },
   {
-    "path_id": 24,
+    "path_id": 23,
     "path": [
       {
         "lat": 33.308533,
@@ -419,13 +402,13 @@
         "lng": 126.475883
       }
     ],
-    "color": "#2bd716",
+    "color": "#a487e3",
     "start_name": "동백길 안내센터 / 동백길 입구",
     "length_meter": 624.0,
     "time_minute": 10
   },
   {
-    "path_id": 25,
+    "path_id": 24,
     "path": [
       {
         "lat": 33.313354,
@@ -436,13 +419,13 @@
         "lng": 126.571465
       }
     ],
-    "color": "#6f0a42",
+    "color": "#938cdf",
     "start_name": "무오정사 항일발원지 쉼터",
     "length_meter": 8882.0,
     "time_minute": 148
   },
   {
-    "path_id": 26,
+    "path_id": 25,
     "path": [
       {
         "lat": 33.313972,
@@ -453,7 +436,7 @@
         "lng": 126.571404
       }
     ],
-    "color": "#c76e64",
+    "color": "#9e33bb",
     "start_name": "돈내코안내소",
     "length_meter": 34.8,
     "time_minute": 0

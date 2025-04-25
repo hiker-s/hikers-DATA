@@ -7,31 +7,31 @@
         "lng": 126.935677
       },
       {
-        "lat": 34.548691,
-        "lng": 126.933411
+        "lat": 34.548744,
+        "lng": 126.932869
       }
     ],
-    "color": "#a772c9",
+    "color": "#eb637a",
     "start_name": "약수터",
-    "length_meter": 208.3,
-    "time_minute": 3
+    "length_meter": 257.5,
+    "time_minute": 4
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 34.548691,
-        "lng": 126.933411
+        "lat": 34.548744,
+        "lng": 126.932869
       },
       {
         "lat": 34.54855,
         "lng": 126.931778
       }
     ],
-    "color": "#0258a7",
-    "start_name": "쉼터 / 전남 농업 마이스터 대학",
-    "length_meter": 152.2,
-    "time_minute": 2
+    "color": "#5c7c75",
+    "start_name": "전남 농업 마이스터 대학",
+    "length_meter": 102.2,
+    "time_minute": 1
   },
   {
     "path_id": 2,
@@ -45,9 +45,9 @@
         "lng": 126.929344
       }
     ],
-    "color": "#c21835",
-    "start_name": "화장실 / 쉼터",
-    "length_meter": 228.8,
+    "color": "#5bbc80",
+    "start_name": "화장실",
+    "length_meter": 224.5,
     "time_minute": 3
   },
   {
@@ -62,9 +62,9 @@
         "lng": 126.928093
       }
     ],
-    "color": "#eb66a0",
-    "start_name": "장천재 / 갈림길 / 쉼터 / 쉼터",
-    "length_meter": 123.0,
+    "color": "#c6e7b3",
+    "start_name": "장천재 / 갈림길",
+    "length_meter": 121.6,
     "time_minute": 2
   },
   {
@@ -75,172 +75,53 @@
         "lng": 126.928093
       },
       {
-        "lat": 34.545918,
-        "lng": 126.924126
+        "lat": 34.544437,
+        "lng": 126.923683
       }
     ],
-    "color": "#ecef7f",
-    "start_name": "화장실 / 쉼터",
-    "length_meter": 473.2,
-    "time_minute": 7
+    "color": "#0a30a2",
+    "start_name": "화장실",
+    "length_meter": 614.9,
+    "time_minute": 10
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 34.545918,
-        "lng": 126.924126
+        "lat": 34.544437,
+        "lng": 126.923683
       },
       {
-        "lat": 34.544487,
-        "lng": 126.923683
+        "lat": 34.538586,
+        "lng": 126.919479
       }
     ],
-    "color": "#0fce0e",
-    "start_name": "쉼터 / 조망점",
-    "length_meter": 170.6,
-    "time_minute": 2
+    "color": "#66c2c3",
+    "start_name": "국가지점번호",
+    "length_meter": 756.0,
+    "time_minute": 12
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 34.544487,
-        "lng": 126.923683
+        "lat": 34.538586,
+        "lng": 126.919479
       },
       {
-        "lat": 34.543827,
-        "lng": 126.923233
+        "lat": 34.533813,
+        "lng": 126.91674
       }
     ],
-    "color": "#b0105b",
-    "start_name": "쉼터 / 국가지점번호",
-    "length_meter": 84.9,
-    "time_minute": 1
+    "color": "#82fdac",
+    "start_name": "갈림길 / 이정표 / 국가지점번호",
+    "length_meter": 587.8,
+    "time_minute": 9
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 34.543827,
-        "lng": 126.923233
-      },
-      {
-        "lat": 34.542782,
-        "lng": 126.922607
-      }
-    ],
-    "color": "#c5fb3e",
-    "start_name": "조망점",
-    "length_meter": 129.6,
-    "time_minute": 2
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 34.542782,
-        "lng": 126.922607
-      },
-      {
-        "lat": 34.54068,
-        "lng": 126.920471
-      }
-    ],
-    "color": "#33b066",
-    "start_name": "쉼터 / 조망점",
-    "length_meter": 309.5,
-    "time_minute": 5
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 34.54068,
-        "lng": 126.920471
-      },
-      {
-        "lat": 34.539547,
-        "lng": 126.919716
-      }
-    ],
-    "color": "#109d26",
-    "start_name": "쉼터 / 조망점",
-    "length_meter": 149.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 34.539547,
-        "lng": 126.919716
-      },
-      {
-        "lat": 34.538586,
-        "lng": 126.919479
-      }
-    ],
-    "color": "#6f2a55",
-    "start_name": "쉼터",
-    "length_meter": 109.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 34.538586,
-        "lng": 126.919479
-      },
-      {
-        "lat": 34.537132,
-        "lng": 126.91758
-      }
-    ],
-    "color": "#e2340a",
-    "start_name": "갈림길 / 이정표 / 국가지점번호",
-    "length_meter": 238.3,
-    "time_minute": 3
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 34.537132,
-        "lng": 126.91758
-      },
-      {
-        "lat": 34.534763,
-        "lng": 126.916985
-      }
-    ],
-    "color": "#9637d5",
-    "start_name": "국가지점번호",
-    "length_meter": 269.0,
-    "time_minute": 4
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 34.534763,
-        "lng": 126.916985
-      },
-      {
-        "lat": 34.533813,
-        "lng": 126.91674
-      }
-    ],
-    "color": "#8ce020",
-    "start_name": "조망점",
-    "length_meter": 108.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
         "lat": 34.533813,
         "lng": 126.91674
       },
@@ -249,115 +130,47 @@
         "lng": 126.912315
       }
     ],
-    "color": "#b1ea87",
+    "color": "#cb3080",
     "start_name": "KT시설물 / 비상시 핸드폰 충전 시설",
     "length_meter": 618.0,
     "time_minute": 10
   },
   {
-    "path_id": 15,
+    "path_id": 8,
     "path": [
       {
         "lat": 34.538006,
         "lng": 126.912315
       },
       {
-        "lat": 34.538685,
-        "lng": 126.912155
+        "lat": 34.539463,
+        "lng": 126.912651
       }
     ],
-    "color": "#842295",
+    "color": "#e65bb3",
     "start_name": "갈림길",
-    "length_meter": 76.9,
-    "time_minute": 1
+    "length_meter": 164.9,
+    "time_minute": 2
   },
   {
-    "path_id": 16,
+    "path_id": 9,
     "path": [
       {
-        "lat": 34.538685,
-        "lng": 126.912155
-      },
-      {
-        "lat": 34.539448,
-        "lng": 126.912613
-      }
-    ],
-    "color": "#05dfee",
-    "start_name": "쉼터",
-    "length_meter": 94.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 34.539448,
-        "lng": 126.912613
-      },
-      {
-        "lat": 34.542301,
-        "lng": 126.910194
-      }
-    ],
-    "color": "#044023",
-    "start_name": "갈림길 / 국가지점번호 / 조망점",
-    "length_meter": 393.4,
-    "time_minute": 6
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 34.542301,
-        "lng": 126.910194
-      },
-      {
-        "lat": 34.543766,
-        "lng": 126.909195
-      }
-    ],
-    "color": "#4f4c24",
-    "start_name": "국가지점번호 / 쉼터",
-    "length_meter": 186.9,
-    "time_minute": 3
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 34.543766,
-        "lng": 126.909195
-      },
-      {
-        "lat": 34.544556,
-        "lng": 126.908501
-      }
-    ],
-    "color": "#ea3ce2",
-    "start_name": "국가지점번호",
-    "length_meter": 108.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 34.544556,
-        "lng": 126.908501
+        "lat": 34.539463,
+        "lng": 126.912651
       },
       {
         "lat": 34.549019,
         "lng": 126.906242
       }
     ],
-    "color": "#03ba73",
+    "color": "#9503a5",
     "start_name": "국가지점번호",
-    "length_meter": 537.7,
-    "time_minute": 8
+    "length_meter": 1213.9,
+    "time_minute": 20
   },
   {
-    "path_id": 21,
+    "path_id": 10,
     "path": [
       {
         "lat": 34.549019,
@@ -368,13 +181,13 @@
         "lng": 126.904861
       }
     ],
-    "color": "#5469ae",
+    "color": "#9a4f0b",
     "start_name": "등산로 모습",
     "length_meter": 286.8,
     "time_minute": 4
   },
   {
-    "path_id": 22,
+    "path_id": 11,
     "path": [
       {
         "lat": 34.551334,
@@ -385,13 +198,13 @@
         "lng": 126.904373
       }
     ],
-    "color": "#40fbd1",
+    "color": "#97e762",
     "start_name": "장흥 천관사 오층 석탑 / 장흥 천관사 석등 / 천관사",
     "length_meter": 83.5,
     "time_minute": 1
   },
   {
-    "path_id": 23,
+    "path_id": 12,
     "path": [
       {
         "lat": 34.551762,
@@ -402,94 +215,26 @@
         "lng": 126.904015
       }
     ],
-    "color": "#33c8e3",
+    "color": "#21af2d",
     "start_name": "장흥 천관사 삼층석탑",
     "length_meter": 65.3,
     "time_minute": 1
   },
   {
-    "path_id": 24,
+    "path_id": 13,
     "path": [
       {
         "lat": 34.551254,
         "lng": 126.904015
       },
       {
-        "lat": 34.556656,
-        "lng": 126.904968
-      }
-    ],
-    "color": "#6c745c",
-    "start_name": "갈림길",
-    "length_meter": 607.0,
-    "time_minute": 10
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 34.556656,
-        "lng": 126.904968
-      },
-      {
-        "lat": 34.549957,
-        "lng": 126.923569
-      }
-    ],
-    "color": "#4a38b5",
-    "start_name": "갈림길",
-    "length_meter": 1859.2,
-    "time_minute": 30
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 34.549957,
-        "lng": 126.923569
-      },
-      {
-        "lat": 34.549149,
-        "lng": 126.924545
-      }
-    ],
-    "color": "#8bd82a",
-    "start_name": "갈림길",
-    "length_meter": 126.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 34.549149,
-        "lng": 126.924545
-      },
-      {
         "lat": 34.549007,
         "lng": 126.926552
       }
     ],
-    "color": "#3fbf4a",
+    "color": "#43cac5",
     "start_name": "갈림길",
-    "length_meter": 184.5,
-    "time_minute": 3
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 34.549007,
-        "lng": 126.926552
-      },
-      {
-        "lat": 34.548481,
-        "lng": 126.927658
-      }
-    ],
-    "color": "#fe51fc",
-    "start_name": "국가지점번호",
-    "length_meter": 117.0,
-    "time_minute": 1
+    "length_meter": 2079.1,
+    "time_minute": 34
   }
 ]

@@ -11,7 +11,7 @@
         "lng": 127.487617
       }
     ],
-    "color": "#d11776",
+    "color": "#c39b0b",
     "start_name": "명지산 입구 / 안성집 / 공중화장실",
     "length_meter": 173.5,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 127.486961
       }
     ],
-    "color": "#a96e06",
+    "color": "#27440a",
     "start_name": "명지천 / 관광안내도",
     "length_meter": 63.4,
     "time_minute": 1
@@ -41,36 +41,19 @@
         "lng": 127.486961
       },
       {
-        "lat": 37.935959,
-        "lng": 127.486465
+        "lat": 37.938766,
+        "lng": 127.483543
       }
     ],
-    "color": "#533723",
+    "color": "#e31f9f",
     "start_name": "명지산 종합안내판 / 자연학습원",
-    "length_meter": 91.8,
-    "time_minute": 1
+    "length_meter": 489.8,
+    "time_minute": 8
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 37.935959,
-        "lng": 127.486465
-      },
-      {
-        "lat": 37.938766,
-        "lng": 127.483543
-      }
-    ],
-    "color": "#f12276",
-    "start_name": "쉼터",
-    "length_meter": 403.8,
-    "time_minute": 6
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
         "lat": 37.938766,
         "lng": 127.483543
       },
@@ -79,98 +62,30 @@
         "lng": 127.480316
       }
     ],
-    "color": "#88c70b",
+    "color": "#bf75fd",
     "start_name": "잣나무 군락지",
     "length_meter": 352.7,
     "time_minute": 5
   },
   {
-    "path_id": 5,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.940659,
         "lng": 127.480316
       },
       {
-        "lat": 37.942341,
-        "lng": 127.479637
-      }
-    ],
-    "color": "#8d5899",
-    "start_name": "갈림길 / 갈림길",
-    "length_meter": 196.5,
-    "time_minute": 3
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.942341,
-        "lng": 127.479637
-      },
-      {
-        "lat": 37.942547,
-        "lng": 127.475693
-      }
-    ],
-    "color": "#f81291",
-    "start_name": "갈림길 / 갈림길",
-    "length_meter": 346.7,
-    "time_minute": 5
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.942547,
-        "lng": 127.475693
-      },
-      {
-        "lat": 37.942993,
-        "lng": 127.471931
-      }
-    ],
-    "color": "#0a52c5",
-    "start_name": "갈림길",
-    "length_meter": 333.6,
-    "time_minute": 5
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.942993,
-        "lng": 127.471931
-      },
-      {
-        "lat": 37.944843,
-        "lng": 127.46756
-      }
-    ],
-    "color": "#983eba",
-    "start_name": "갈림길",
-    "length_meter": 435.0,
-    "time_minute": 7
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.944843,
-        "lng": 127.46756
-      },
-      {
         "lat": 37.945206,
         "lng": 127.457642
       }
     ],
-    "color": "#511816",
+    "color": "#d66ccb",
     "start_name": "갈림길",
-    "length_meter": 870.6,
-    "time_minute": 14
+    "length_meter": 2051.6,
+    "time_minute": 34
   },
   {
-    "path_id": 10,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.945206,
@@ -181,13 +96,13 @@
         "lng": 127.454414
       }
     ],
-    "color": "#4bccbc",
+    "color": "#435950",
     "start_name": "사향봉",
     "length_meter": 307.0,
     "time_minute": 5
   },
   {
-    "path_id": 11,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.946274,
@@ -198,13 +113,13 @@
         "lng": 127.452881
       }
     ],
-    "color": "#afc932",
+    "color": "#bd1aef",
     "start_name": "사향봉 근처 야생화",
     "length_meter": 151.5,
     "time_minute": 2
   },
   {
-    "path_id": 12,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.946903,
@@ -215,13 +130,13 @@
         "lng": 127.442856
       }
     ],
-    "color": "#e2b052",
+    "color": "#e0818c",
     "start_name": "갈림길 / 장막봉",
     "length_meter": 963.7,
     "time_minute": 16
   },
   {
-    "path_id": 13,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.943367,
@@ -232,47 +147,30 @@
         "lng": 127.441101
       }
     ],
-    "color": "#9b3812",
+    "color": "#8fa5d4",
     "start_name": "명지산 부근 야생화",
     "length_meter": 168.4,
     "time_minute": 2
   },
   {
-    "path_id": 14,
+    "path_id": 9,
     "path": [
       {
         "lat": 37.942753,
         "lng": 127.441101
-      },
-      {
-        "lat": 37.942375,
-        "lng": 127.434212
-      }
-    ],
-    "color": "#6abdfa",
-    "start_name": "갈림길",
-    "length_meter": 605.6,
-    "time_minute": 10
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.942375,
-        "lng": 127.434212
       },
       {
         "lat": 37.941956,
         "lng": 127.433258
       }
     ],
-    "color": "#5bb4b0",
+    "color": "#36bfdb",
     "start_name": "갈림길",
-    "length_meter": 95.8,
-    "time_minute": 1
+    "length_meter": 693.5,
+    "time_minute": 11
   },
   {
-    "path_id": 16,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.941956,
@@ -283,13 +181,13 @@
         "lng": 127.432465
       }
     ],
-    "color": "#b3d66d",
-    "start_name": "명지산 야생화 / 명지산 야생화",
-    "length_meter": 93.2,
+    "color": "#d02971",
+    "start_name": "명지산 야생화",
+    "length_meter": 90.4,
     "time_minute": 1
   },
   {
-    "path_id": 17,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.941437,
@@ -300,13 +198,13 @@
         "lng": 127.448608
       }
     ],
-    "color": "#0963df",
-    "start_name": "갈림길 / 갈림길 / 갈림길 / 명지산 정상석",
+    "color": "#ef5b4e",
+    "start_name": "갈림길 / 명지산 정상석",
     "length_meter": 1553.0,
     "time_minute": 25
   },
   {
-    "path_id": 18,
+    "path_id": 12,
     "path": [
       {
         "lat": 37.936073,
@@ -317,13 +215,13 @@
         "lng": 127.448814
       }
     ],
-    "color": "#6a6b7c",
+    "color": "#319fda",
     "start_name": "명지천 냇물",
     "length_meter": 113.9,
     "time_minute": 1
   },
   {
-    "path_id": 19,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.935062,
@@ -334,13 +232,13 @@
         "lng": 127.449188
       }
     ],
-    "color": "#e92488",
+    "color": "#6bcb70",
     "start_name": "명지천 합류점 / 갈림길",
     "length_meter": 66.2,
     "time_minute": 1
   },
   {
-    "path_id": 20,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.934563,
@@ -351,13 +249,13 @@
         "lng": 127.449959
       }
     ],
-    "color": "#ea6563",
+    "color": "#88d403",
     "start_name": "명지천 / 보전지역의  동.식물",
     "length_meter": 83.7,
     "time_minute": 1
   },
   {
-    "path_id": 21,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.934303,
@@ -368,13 +266,13 @@
         "lng": 127.45356
       }
     ],
-    "color": "#f8181a",
+    "color": "#47636c",
     "start_name": "명지천",
     "length_meter": 320.3,
     "time_minute": 5
   },
   {
-    "path_id": 22,
+    "path_id": 16,
     "path": [
       {
         "lat": 37.933823,
@@ -385,13 +283,13 @@
         "lng": 127.455208
       }
     ],
-    "color": "#1f7bbb",
+    "color": "#c8fb76",
     "start_name": "갈림길",
     "length_meter": 145.2,
     "time_minute": 2
   },
   {
-    "path_id": 23,
+    "path_id": 17,
     "path": [
       {
         "lat": 37.933697,
@@ -402,13 +300,13 @@
         "lng": 127.462578
       }
     ],
-    "color": "#40da4a",
+    "color": "#c4ca07",
     "start_name": "명지천",
     "length_meter": 664.8,
     "time_minute": 11
   },
   {
-    "path_id": 24,
+    "path_id": 18,
     "path": [
       {
         "lat": 37.935097,
@@ -419,13 +317,13 @@
         "lng": 127.473602
       }
     ],
-    "color": "#423976",
-    "start_name": "명지천 생태계 보전지역 / 생태계 보전지역 / 생태계 보전지역",
-    "length_meter": 986.3,
+    "color": "#25915c",
+    "start_name": "명지천 생태계 보전지역 / 생태계 보전지역",
+    "length_meter": 979.4,
     "time_minute": 16
   },
   {
-    "path_id": 25,
+    "path_id": 19,
     "path": [
       {
         "lat": 37.934437,
@@ -436,13 +334,13 @@
         "lng": 127.476654
       }
     ],
-    "color": "#52b744",
+    "color": "#5f31bf",
     "start_name": "명지계곡",
     "length_meter": 268.0,
     "time_minute": 4
   },
   {
-    "path_id": 26,
+    "path_id": 20,
     "path": [
       {
         "lat": 37.934559,
@@ -453,13 +351,13 @@
         "lng": 127.478233
       }
     ],
-    "color": "#08b143",
+    "color": "#c4dc81",
     "start_name": "승천사 사찰",
     "length_meter": 167.9,
     "time_minute": 2
   },
   {
-    "path_id": 27,
+    "path_id": 21,
     "path": [
       {
         "lat": 37.935413,
@@ -470,13 +368,13 @@
         "lng": 127.484558
       }
     ],
-    "color": "#4b1825",
+    "color": "#01c410",
     "start_name": "승천사 사탑",
     "length_meter": 567.9,
     "time_minute": 9
   },
   {
-    "path_id": 28,
+    "path_id": 22,
     "path": [
       {
         "lat": 37.936508,
@@ -487,13 +385,13 @@
         "lng": 127.486649
       }
     ],
-    "color": "#45398e",
-    "start_name": "갈림길 / 갈림길",
-    "length_meter": 198.5,
+    "color": "#21ef42",
+    "start_name": "갈림길",
+    "length_meter": 195.5,
     "time_minute": 3
   },
   {
-    "path_id": 29,
+    "path_id": 23,
     "path": [
       {
         "lat": 37.935898,
@@ -504,7 +402,7 @@
         "lng": 127.487495
       }
     ],
-    "color": "#489c07",
+    "color": "#f52b8b",
     "start_name": "명지산 안내소",
     "length_meter": 80.7,
     "time_minute": 1

@@ -1,0 +1,104 @@
+[
+  {
+    "path_id": 0,
+    "path": [
+      {
+        "lat": 37.685078,
+        "lng": 128.02623
+      },
+      {
+        "lat": 37.697605,
+        "lng": 128.023834
+      }
+    ],
+    "color": "#d285cc",
+    "start_name": "공작교",
+    "length_meter": 1408.8,
+    "time_minute": 23
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 37.697605,
+        "lng": 128.023834
+      },
+      {
+        "lat": 37.698345,
+        "lng": 128.023499
+      }
+    ],
+    "color": "#ec5ba7",
+    "start_name": "정자 쉼터",
+    "length_meter": 87.4,
+    "time_minute": 1
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 37.698345,
+        "lng": 128.023499
+      },
+      {
+        "lat": 37.708534,
+        "lng": 128.024292
+      }
+    ],
+    "color": "#e67c4d",
+    "start_name": "갈림길",
+    "length_meter": 1135.1,
+    "time_minute": 18
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 37.708534,
+        "lng": 128.024292
+      },
+      {
+        "lat": 37.710758,
+        "lng": 128.024124
+      }
+    ],
+    "color": "#716a9b",
+    "start_name": "노송군락지",
+    "length_meter": 247.7,
+    "time_minute": 4
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 37.710758,
+        "lng": 128.024124
+      },
+      {
+        "lat": 37.714119,
+        "lng": 128.016541
+      }
+    ],
+    "color": "#0df05e",
+    "start_name": "갈림길 / 노송군락지 끝",
+    "length_meter": 771.2,
+    "time_minute": 12
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 37.714119,
+        "lng": 128.016541
+      },
+      {
+        "lat": 37.715527,
+        "lng": 128.010406
+      }
+    ],
+    "color": "#5b6487",
+    "start_name": "낙엽송식재지역",
+    "length_meter": 561.9,
+    "time_minute": 9
+  }
+]

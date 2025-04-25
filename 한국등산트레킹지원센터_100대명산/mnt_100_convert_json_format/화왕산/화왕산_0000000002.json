@@ -11,7 +11,7 @@
         "lng": 128.518784
       }
     ],
-    "color": "#d46950",
+    "color": "#63c520",
     "start_name": "산과 구름아래",
     "length_meter": 848.5,
     "time_minute": 14
@@ -24,217 +24,132 @@
         "lng": 128.518784
       },
       {
-        "lat": 35.545204,
-        "lng": 128.53746
+        "lat": 35.544994,
+        "lng": 128.536606
       }
     ],
-    "color": "#4f98b2",
+    "color": "#39c9f0",
     "start_name": "지웅산장",
-    "length_meter": 1718.3,
-    "time_minute": 28
+    "length_meter": 1638.1,
+    "time_minute": 27
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.545204,
-        "lng": 128.53746
-      },
-      {
         "lat": 35.544994,
         "lng": 128.536606
+      },
+      {
+        "lat": 35.541821,
+        "lng": 128.534943
       }
     ],
-    "color": "#00ab25",
-    "start_name": "조망점",
-    "length_meter": 80.7,
-    "time_minute": 1
+    "color": "#3749bc",
+    "start_name": "갈림길",
+    "length_meter": 383.6,
+    "time_minute": 6
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.544994,
-        "lng": 128.536606
-      },
-      {
-        "lat": 35.541828,
-        "lng": 128.534988
-      }
-    ],
-    "color": "#3c3e89",
-    "start_name": "갈림길",
-    "length_meter": 381.3,
-    "time_minute": 6
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.541828,
-        "lng": 128.534988
+        "lat": 35.541821,
+        "lng": 128.534943
       },
       {
         "lat": 35.541451,
         "lng": 128.534409
       }
     ],
-    "color": "#f96f9b",
-    "start_name": "갈림길 / 배봉 정상 / 조망점",
-    "length_meter": 83.9,
+    "color": "#8af5c8",
+    "start_name": "배봉 정상",
+    "length_meter": 63.5,
+    "time_minute": 1
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 35.541451,
+        "lng": 128.534409
+      },
+      {
+        "lat": 35.54076,
+        "lng": 128.533875
+      }
+    ],
+    "color": "#f613c4",
+    "start_name": "갈림길",
+    "length_meter": 90.8,
     "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.541451,
-        "lng": 128.534409
-      },
-      {
         "lat": 35.54076,
         "lng": 128.533875
+      },
+      {
+        "lat": 35.539856,
+        "lng": 128.531418
       }
     ],
-    "color": "#02bb14",
-    "start_name": "갈림길",
-    "length_meter": 90.8,
-    "time_minute": 1
+    "color": "#e74863",
+    "start_name": "갈림길 없음",
+    "length_meter": 244.0,
+    "time_minute": 4
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.54076,
-        "lng": 128.533875
+        "lat": 35.539856,
+        "lng": 128.531418
       },
       {
-        "lat": 35.540031,
-        "lng": 128.533401
+        "lat": 35.5425,
+        "lng": 128.52565
       }
     ],
-    "color": "#393e16",
-    "start_name": "갈림길 없음",
-    "length_meter": 91.7,
-    "time_minute": 1
+    "color": "#b7a0cd",
+    "start_name": "기암괴석 / 돌고래바위",
+    "length_meter": 600.8,
+    "time_minute": 10
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.540031,
-        "lng": 128.533401
+        "lat": 35.5425,
+        "lng": 128.52565
       },
       {
-        "lat": 35.53986,
-        "lng": 128.532455
+        "lat": 35.542252,
+        "lng": 128.523956
       }
     ],
-    "color": "#9af486",
-    "start_name": "조망점",
-    "length_meter": 87.7,
-    "time_minute": 1
+    "color": "#1a4fc1",
+    "start_name": "갈림길",
+    "length_meter": 155.7,
+    "time_minute": 2
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.53986,
-        "lng": 128.532455
-      },
-      {
-        "lat": 35.539856,
-        "lng": 128.531418
-      }
-    ],
-    "color": "#66049d",
-    "start_name": "조망점",
-    "length_meter": 93.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.539856,
-        "lng": 128.531418
-      },
-      {
-        "lat": 35.541382,
-        "lng": 128.528854
-      }
-    ],
-    "color": "#539505",
-    "start_name": "기암괴석 / 돌고래바위",
-    "length_meter": 291.6,
-    "time_minute": 4
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.541382,
-        "lng": 128.528854
-      },
-      {
-        "lat": 35.542526,
-        "lng": 128.525848
-      }
-    ],
-    "color": "#90df5c",
-    "start_name": "쉼터",
-    "length_meter": 300.3,
-    "time_minute": 5
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.542526,
-        "lng": 128.525848
-      },
-      {
         "lat": 35.542252,
         "lng": 128.523956
-      }
-    ],
-    "color": "#e5aef9",
-    "start_name": "쉼터 / 갈림길",
-    "length_meter": 173.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.542252,
-        "lng": 128.523956
-      },
-      {
-        "lat": 35.542576,
-        "lng": 128.523163
-      }
-    ],
-    "color": "#9b3975",
-    "start_name": "화장실 / 갈림길 / 체육공원겸 쉼터",
-    "length_meter": 81.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.542576,
-        "lng": 128.523163
       },
       {
         "lat": 35.542236,
         "lng": 128.52121
       }
     ],
-    "color": "#53fc8d",
-    "start_name": "쉼터",
-    "length_meter": 180.7,
-    "time_minute": 3
+    "color": "#f84247",
+    "start_name": "화장실 / 갈림길 / 체육공원겸 쉼터",
+    "length_meter": 254.6,
+    "time_minute": 4
   }
 ]

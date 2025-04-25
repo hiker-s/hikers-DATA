@@ -3,18 +3,18 @@
     "path_id": 0,
     "path": [
       {
-        "lat": 36.782864,
-        "lng": 128.921692
+        "lat": 36.783127,
+        "lng": 128.921921
       },
       {
         "lat": 36.783943,
         "lng": 128.921555
       }
     ],
-    "color": "#3d794f",
-    "start_name": "추락주의 / 갈림길",
-    "length_meter": 132.1,
-    "time_minute": 2
+    "color": "#132459",
+    "start_name": "갈림길",
+    "length_meter": 96.4,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -24,34 +24,17 @@
         "lng": 128.921555
       },
       {
-        "lat": 36.784451,
-        "lng": 128.921478
-      }
-    ],
-    "color": "#8f08db",
-    "start_name": "응진전 등산로 전망대 / 추락주의 / 응진전 등산로 전망대",
-    "length_meter": 61.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 36.784451,
-        "lng": 128.921478
-      },
-      {
         "lat": 36.785351,
         "lng": 128.920181
       }
     ],
-    "color": "#bc529b",
-    "start_name": "추락위험",
-    "length_meter": 152.8,
-    "time_minute": 2
+    "color": "#3a752c",
+    "start_name": "응진전 등산로 전망대 / 추락위험",
+    "length_meter": 209.7,
+    "time_minute": 3
   },
   {
-    "path_id": 3,
+    "path_id": 2,
     "path": [
       {
         "lat": 36.785351,
@@ -62,98 +45,81 @@
         "lng": 128.919525
       }
     ],
-    "color": "#0d2c57",
+    "color": "#5c4a68",
     "start_name": "응진전 / 경유대(응진전 법당앞)",
     "length_meter": 87.4,
+    "time_minute": 1
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 36.785934,
+        "lng": 128.919525
+      },
+      {
+        "lat": 36.786297,
+        "lng": 128.919479
+      }
+    ],
+    "color": "#f4a300",
+    "start_name": "갈림길 / 풍혈대",
+    "length_meter": 77.9,
     "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 36.785934,
-        "lng": 128.919525
-      },
-      {
         "lat": 36.786297,
         "lng": 128.919479
+      },
+      {
+        "lat": 36.786854,
+        "lng": 128.919708
       }
     ],
-    "color": "#9cd6ad",
-    "start_name": "갈림길 / 풍혈대",
-    "length_meter": 77.9,
+    "color": "#331947",
+    "start_name": "등산로 전망대 / 추락위험 / 풍혈대 전망대 / 총명수",
+    "length_meter": 73.2,
     "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 36.786297,
-        "lng": 128.919479
-      },
-      {
         "lat": 36.786854,
         "lng": 128.919708
+      },
+      {
+        "lat": 36.78746,
+        "lng": 128.921127
       }
     ],
-    "color": "#b6af8b",
-    "start_name": "등산로 전망대 / 추락위험 / 풍혈대 전망대 / 총명수",
-    "length_meter": 73.2,
-    "time_minute": 1
+    "color": "#a12b58",
+    "start_name": "어풍대 / 갈림길",
+    "length_meter": 146.0,
+    "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 36.786854,
-        "lng": 128.919708
-      },
-      {
-        "lat": 36.787006,
-        "lng": 128.921036
-      }
-    ],
-    "color": "#67b38b",
-    "start_name": "어풍대 / 갈림길",
-    "length_meter": 119.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 36.787006,
-        "lng": 128.921036
-      },
-      {
-        "lat": 36.787579,
-        "lng": 128.921249
-      }
-    ],
-    "color": "#6b21e7",
-    "start_name": "갈림길 / 추락위험 접근금지",
-    "length_meter": 68.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 36.787579,
-        "lng": 128.921249
+        "lat": 36.78746,
+        "lng": 128.921127
       },
       {
         "lat": 36.789333,
         "lng": 128.92157
       }
     ],
-    "color": "#2db9bd",
-    "start_name": "김생굴 / 김생폭포",
-    "length_meter": 210.0,
+    "color": "#039d63",
+    "start_name": "추락위험 접근금지 / 김생굴 / 김생폭포",
+    "length_meter": 227.1,
     "time_minute": 3
   },
   {
-    "path_id": 9,
+    "path_id": 7,
     "path": [
       {
         "lat": 36.789333,
@@ -164,13 +130,13 @@
         "lng": 128.920288
       }
     ],
-    "color": "#46a307",
+    "color": "#72c1fb",
     "start_name": "연화봉 전경",
     "length_meter": 200.3,
     "time_minute": 3
   },
   {
-    "path_id": 10,
+    "path_id": 8,
     "path": [
       {
         "lat": 36.790813,
@@ -181,13 +147,13 @@
         "lng": 128.921173
       }
     ],
-    "color": "#092d9d",
+    "color": "#888cf6",
     "start_name": "위치번호",
     "length_meter": 255.1,
     "time_minute": 4
   },
   {
-    "path_id": 11,
+    "path_id": 9,
     "path": [
       {
         "lat": 36.792995,
@@ -198,13 +164,13 @@
         "lng": 128.921326
       }
     ],
-    "color": "#57a0d6",
+    "color": "#c54077",
     "start_name": "갈림길 / 자소봉입구 위치정보",
     "length_meter": 68.9,
     "time_minute": 1
   },
   {
-    "path_id": 12,
+    "path_id": 10,
     "path": [
       {
         "lat": 36.793537,
@@ -215,13 +181,13 @@
         "lng": 128.920212
       }
     ],
-    "color": "#ab8304",
+    "color": "#abfafb",
     "start_name": "자소봉(일명 보살봉,해발840M)",
     "length_meter": 99.2,
     "time_minute": 1
   },
   {
-    "path_id": 13,
+    "path_id": 11,
     "path": [
       {
         "lat": 36.793556,
@@ -232,13 +198,13 @@
         "lng": 128.918839
       }
     ],
-    "color": "#50a5ea",
+    "color": "#bbed55",
     "start_name": "탁필봉 / 탁필봉~연적봉 위치정보 / 연적봉(해발 846M)",
     "length_meter": 131.8,
     "time_minute": 2
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 36.793991,
@@ -249,13 +215,13 @@
         "lng": 128.915207
       }
     ],
-    "color": "#2f7f48",
+    "color": "#3d2771",
     "start_name": "연적봉 계단 조망",
     "length_meter": 327.1,
     "time_minute": 5
   },
   {
-    "path_id": 15,
+    "path_id": 13,
     "path": [
       {
         "lat": 36.793552,
@@ -266,13 +232,13 @@
         "lng": 128.91217
       }
     ],
-    "color": "#abfa1b",
+    "color": "#40a2ea",
     "start_name": "갈림길 / 뒷실고개 위치번호",
     "length_meter": 284.2,
     "time_minute": 4
   },
   {
-    "path_id": 16,
+    "path_id": 14,
     "path": [
       {
         "lat": 36.792809,
@@ -283,13 +249,13 @@
         "lng": 128.910446
       }
     ],
-    "color": "#99a888",
+    "color": "#be7580",
     "start_name": "하늘다리",
     "length_meter": 174.3,
     "time_minute": 2
   },
   {
-    "path_id": 17,
+    "path_id": 15,
     "path": [
       {
         "lat": 36.793552,
@@ -300,13 +266,13 @@
         "lng": 128.907715
       }
     ],
-    "color": "#6cfe37",
+    "color": "#75e8ec",
     "start_name": "갈림길",
     "length_meter": 518.3,
     "time_minute": 8
   },
   {
-    "path_id": 18,
+    "path_id": 16,
     "path": [
       {
         "lat": 36.789436,
@@ -317,13 +283,13 @@
         "lng": 128.906998
       }
     ],
-    "color": "#f81d03",
+    "color": "#0d7502",
     "start_name": "마을 민가",
     "length_meter": 137.1,
     "time_minute": 2
   },
   {
-    "path_id": 19,
+    "path_id": 17,
     "path": [
       {
         "lat": 36.788345,
@@ -334,13 +300,13 @@
         "lng": 128.906799
       }
     ],
-    "color": "#356fb0",
+    "color": "#d13a64",
     "start_name": "갈림길",
     "length_meter": 263.1,
     "time_minute": 4
   },
   {
-    "path_id": 20,
+    "path_id": 18,
     "path": [
       {
         "lat": 36.785984,
@@ -351,7 +317,7 @@
         "lng": 128.907089
       }
     ],
-    "color": "#6ab122",
+    "color": "#57d030",
     "start_name": "두실마을 농산물장터",
     "length_meter": 69.5,
     "time_minute": 1

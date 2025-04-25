@@ -11,7 +11,7 @@
         "lng": 127.440178
       }
     ],
-    "color": "#64404d",
+    "color": "#1948c0",
     "start_name": "백둔리 종점 버스 정류장 / 출구 백둔리 버스종점",
     "length_meter": 429.6,
     "time_minute": 7
@@ -28,7 +28,7 @@
         "lng": 127.434898
       }
     ],
-    "color": "#d78d63",
+    "color": "#1d7753",
     "start_name": "갈림길",
     "length_meter": 535.2,
     "time_minute": 8
@@ -45,7 +45,7 @@
         "lng": 127.429611
       }
     ],
-    "color": "#7ffc31",
+    "color": "#3f8d13",
     "start_name": "생태보호 안내판 / 갈림길",
     "length_meter": 488.3,
     "time_minute": 8
@@ -62,7 +62,7 @@
         "lng": 127.429214
       }
     ],
-    "color": "#a6f914",
+    "color": "#5bfca4",
     "start_name": "명지천 / 개울",
     "length_meter": 69.9,
     "time_minute": 1
@@ -79,7 +79,7 @@
         "lng": 127.421005
       }
     ],
-    "color": "#44c0f7",
+    "color": "#98f1e0",
     "start_name": "명지천",
     "length_meter": 1405.7,
     "time_minute": 23
@@ -96,7 +96,7 @@
         "lng": 127.42215
       }
     ],
-    "color": "#54ddf8",
+    "color": "#67a88e",
     "start_name": "갈림길",
     "length_meter": 315.8,
     "time_minute": 5
@@ -113,7 +113,7 @@
         "lng": 127.422615
       }
     ],
-    "color": "#b9fbcf",
+    "color": "#b055c1",
     "start_name": "강우량 자동측정기",
     "length_meter": 66.9,
     "time_minute": 1
@@ -130,8 +130,8 @@
         "lng": 127.425888
       }
     ],
-    "color": "#9132c0",
-    "start_name": "갈림길 / 갈림길 / 명지3봉",
+    "color": "#e61c45",
+    "start_name": "갈림길 / 명지3봉",
     "length_meter": 290.6,
     "time_minute": 4
   },
@@ -143,53 +143,19 @@
         "lng": 127.425888
       },
       {
-        "lat": 37.930271,
-        "lng": 127.426788
+        "lat": 37.931629,
+        "lng": 127.430817
       }
     ],
-    "color": "#3132da",
+    "color": "#593a52",
     "start_name": "야생화",
-    "length_meter": 95.8,
-    "time_minute": 1
+    "length_meter": 478.6,
+    "time_minute": 7
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.930271,
-        "lng": 127.426788
-      },
-      {
-        "lat": 37.931145,
-        "lng": 127.428566
-      }
-    ],
-    "color": "#1fe107",
-    "start_name": "야생화",
-    "length_meter": 183.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.931145,
-        "lng": 127.428566
-      },
-      {
-        "lat": 37.931629,
-        "lng": 127.430817
-      }
-    ],
-    "color": "#3adaab",
-    "start_name": "야생화",
-    "length_meter": 204.6,
-    "time_minute": 3
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
         "lat": 37.931629,
         "lng": 127.430817
       },
@@ -198,13 +164,13 @@
         "lng": 127.432259
       }
     ],
-    "color": "#b1c3f2",
+    "color": "#b9d889",
     "start_name": "명지2봉",
     "length_meter": 127.3,
     "time_minute": 2
   },
   {
-    "path_id": 12,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.931759,
@@ -215,13 +181,13 @@
         "lng": 127.43853
       }
     ],
-    "color": "#6a4e9f",
+    "color": "#be44c5",
     "start_name": "갈림길",
     "length_meter": 1255.6,
     "time_minute": 20
   },
   {
-    "path_id": 13,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.921608,
@@ -232,47 +198,30 @@
         "lng": 127.438515
       }
     ],
-    "color": "#a39e33",
+    "color": "#9a6243",
     "start_name": "명지천 폭포",
     "length_meter": 118.3,
     "time_minute": 1
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 37.920544,
         "lng": 127.438515
-      },
-      {
-        "lat": 37.910679,
-        "lng": 127.441498
-      }
-    ],
-    "color": "#9e74a1",
-    "start_name": "갈림길",
-    "length_meter": 1127.7,
-    "time_minute": 18
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.910679,
-        "lng": 127.441498
       },
       {
         "lat": 37.908928,
         "lng": 127.443413
       }
     ],
-    "color": "#b8f88b",
+    "color": "#ed4419",
     "start_name": "갈림길",
-    "length_meter": 257.2,
-    "time_minute": 4
+    "length_meter": 1361.2,
+    "time_minute": 22
   },
   {
-    "path_id": 16,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.908928,
@@ -283,7 +232,7 @@
         "lng": 127.443993
       }
     ],
-    "color": "#97ebe0",
+    "color": "#b30cf8",
     "start_name": "캠핑빌",
     "length_meter": 50.9,
     "time_minute": 0

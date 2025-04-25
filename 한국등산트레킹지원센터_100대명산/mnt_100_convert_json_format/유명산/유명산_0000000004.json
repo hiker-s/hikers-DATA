@@ -11,7 +11,7 @@
         "lng": 127.505936
       }
     ],
-    "color": "#1864d7",
+    "color": "#a2db55",
     "start_name": "유명산종점",
     "length_meter": 1322.8,
     "time_minute": 22
@@ -28,7 +28,7 @@
         "lng": 127.51062
       }
     ],
-    "color": "#692539",
+    "color": "#22a0f6",
     "start_name": "들꽃여울",
     "length_meter": 868.4,
     "time_minute": 14
@@ -45,7 +45,7 @@
         "lng": 127.509872
       }
     ],
-    "color": "#49c3ff",
+    "color": "#918a7c",
     "start_name": "어비산안내도",
     "length_meter": 70.2,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 127.503082
       }
     ],
-    "color": "#5b1fc0",
+    "color": "#055f01",
     "start_name": "갈림길",
     "length_meter": 896.5,
     "time_minute": 14
@@ -79,7 +79,7 @@
         "lng": 127.503044
       }
     ],
-    "color": "#b223ed",
+    "color": "#ae889f",
     "start_name": "능선등산로",
     "length_meter": 65.9,
     "time_minute": 1
@@ -96,7 +96,7 @@
         "lng": 127.503349
       }
     ],
-    "color": "#30f037",
+    "color": "#86d8fd",
     "start_name": "등산로",
     "length_meter": 140.8,
     "time_minute": 2
@@ -109,36 +109,19 @@
         "lng": 127.503349
       },
       {
-        "lat": 37.581665,
-        "lng": 127.504265
+        "lat": 37.577847,
+        "lng": 127.506325
       }
     ],
-    "color": "#6d9852",
+    "color": "#14a177",
     "start_name": "조망쉼터",
-    "length_meter": 114.4,
-    "time_minute": 1
+    "length_meter": 569.6,
+    "time_minute": 9
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.581665,
-        "lng": 127.504265
-      },
-      {
-        "lat": 37.577847,
-        "lng": 127.506325
-      }
-    ],
-    "color": "#1c9b0d",
-    "start_name": "조망쉼터",
-    "length_meter": 461.7,
-    "time_minute": 7
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
         "lat": 37.577847,
         "lng": 127.506325
       },
@@ -147,13 +130,13 @@
         "lng": 127.506218
       }
     ],
-    "color": "#30b5ec",
+    "color": "#76f13b",
     "start_name": "어비산 인근",
     "length_meter": 77.9,
     "time_minute": 1
   },
   {
-    "path_id": 9,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.577152,
@@ -164,13 +147,13 @@
         "lng": 127.506462
       }
     ],
-    "color": "#1a077a",
+    "color": "#4b20fe",
     "start_name": "조망쉼터",
     "length_meter": 211.5,
     "time_minute": 3
   },
   {
-    "path_id": 10,
+    "path_id": 9,
     "path": [
       {
         "lat": 37.57526,
@@ -181,47 +164,30 @@
         "lng": 127.498482
       }
     ],
-    "color": "#432c1d",
+    "color": "#3b8bb9",
     "start_name": "어비산",
     "length_meter": 834.3,
     "time_minute": 13
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.571224,
         "lng": 127.498482
       },
       {
-        "lat": 37.575413,
-        "lng": 127.506577
-      }
-    ],
-    "color": "#74ebd1",
-    "start_name": "갈림길",
-    "length_meter": 852.0,
-    "time_minute": 14
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.575413,
-        "lng": 127.506577
-      },
-      {
         "lat": 37.576553,
         "lng": 127.50972
       }
     ],
-    "color": "#dddd93",
+    "color": "#35278e",
     "start_name": "갈림길",
-    "length_meter": 304.6,
-    "time_minute": 5
+    "length_meter": 1154.1,
+    "time_minute": 19
   },
   {
-    "path_id": 13,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.576553,
@@ -232,43 +198,26 @@
         "lng": 127.51664
       }
     ],
-    "color": "#2824e0",
+    "color": "#687d2a",
     "start_name": "어비계곡 쉼터",
     "length_meter": 791.1,
     "time_minute": 13
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 37.581085,
         "lng": 127.51664
-      },
-      {
-        "lat": 37.582352,
-        "lng": 127.515785
-      }
-    ],
-    "color": "#aeedc2",
-    "start_name": "갈림길",
-    "length_meter": 159.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.582352,
-        "lng": 127.515785
       },
       {
         "lat": 37.592522,
         "lng": 127.511444
       }
     ],
-    "color": "#4363fb",
+    "color": "#b82be5",
     "start_name": "갈림길",
-    "length_meter": 1193.8,
-    "time_minute": 19
+    "length_meter": 1351.6,
+    "time_minute": 22
   }
 ]

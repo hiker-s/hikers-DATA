@@ -11,7 +11,7 @@
         "lng": 128.097778
       }
     ],
-    "color": "#a2071f",
+    "color": "#f2101b",
     "start_name": "수산교 주차장",
     "length_meter": 69.6,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.097107
       }
     ],
-    "color": "#589860",
+    "color": "#a254b0",
     "start_name": "자연경관 / 갈림길 / 안내소",
     "length_meter": 63.3,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 128.09433
       }
     ],
-    "color": "#a2e784",
+    "color": "#0c4315",
     "start_name": "캠핑장 / 자연경관",
     "length_meter": 300.6,
     "time_minute": 5
@@ -62,9 +62,9 @@
         "lng": 128.093918
       }
     ],
-    "color": "#eef852",
-    "start_name": "갈림길 / 갈림길 / 자연경관",
-    "length_meter": 75.3,
+    "color": "#ca6c97",
+    "start_name": "갈림길 / 자연경관",
+    "length_meter": 72.7,
     "time_minute": 1
   },
   {
@@ -79,7 +79,7 @@
         "lng": 128.092041
       }
     ],
-    "color": "#851d9a",
+    "color": "#e9ab3b",
     "start_name": "외길",
     "length_meter": 753.8,
     "time_minute": 12
@@ -96,7 +96,7 @@
         "lng": 128.090424
       }
     ],
-    "color": "#77f8e2",
+    "color": "#eaca15",
     "start_name": "멧돼지 주의",
     "length_meter": 249.2,
     "time_minute": 4
@@ -113,7 +113,7 @@
         "lng": 128.090393
       }
     ],
-    "color": "#ec49d8",
+    "color": "#a48af5",
     "start_name": "탐방로 / 파란하늘",
     "length_meter": 150.0,
     "time_minute": 2
@@ -130,7 +130,7 @@
         "lng": 128.091034
       }
     ],
-    "color": "#6cdaf9",
+    "color": "#4d0ca3",
     "start_name": "보덕암 주차장 / 안내소 / 영봉입구",
     "length_meter": 87.6,
     "time_minute": 1
@@ -147,7 +147,7 @@
         "lng": 128.091263
       }
     ],
-    "color": "#d49427",
+    "color": "#fb27a5",
     "start_name": "목계단 / 자연경관",
     "length_meter": 81.7,
     "time_minute": 1
@@ -160,965 +160,574 @@
         "lng": 128.091263
       },
       {
-        "lat": 36.900444,
-        "lng": 128.090942
+        "lat": 36.900669,
+        "lng": 128.094437
       }
     ],
-    "color": "#dea7c4",
-    "start_name": "보덕암 쉼터 / 충주댐 / 갈림길 / 보덕암 / 보덕암 / 보덕암",
-    "length_meter": 68.3,
-    "time_minute": 1
+    "color": "#33311c",
+    "start_name": "보덕암 쉼터 / 충주댐 / 갈림길 / 보덕암 / 자연경관",
+    "length_meter": 325.1,
+    "time_minute": 5
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 36.900444,
-        "lng": 128.090942
+        "lat": 36.900669,
+        "lng": 128.094437
       },
       {
-        "lat": 36.90081,
-        "lng": 128.091248
+        "lat": 36.900043,
+        "lng": 128.09436
       }
     ],
-    "color": "#67e1f4",
-    "start_name": "보덕암 / 보덕암 / 보덕암 / 보덕암 / 보덕암 / 보덕암",
-    "length_meter": 64.9,
+    "color": "#35bac2",
+    "start_name": "철계단 / 이정표 / 나무계단 / 철계단",
+    "length_meter": 81.0,
     "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 36.90081,
-        "lng": 128.091248
+        "lat": 36.900043,
+        "lng": 128.09436
       },
       {
-        "lat": 36.900906,
-        "lng": 128.092834
+        "lat": 36.899105,
+        "lng": 128.09465
       }
     ],
-    "color": "#40fb80",
-    "start_name": "자연경관",
-    "length_meter": 141.4,
-    "time_minute": 2
+    "color": "#51f99a",
+    "start_name": "너덜돌길",
+    "length_meter": 107.4,
+    "time_minute": 1
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 36.900906,
-        "lng": 128.092834
+        "lat": 36.899105,
+        "lng": 128.09465
       },
       {
-        "lat": 36.900665,
-        "lng": 128.093826
+        "lat": 36.897678,
+        "lng": 128.094635
       }
     ],
-    "color": "#88ac5c",
-    "start_name": "자연경관 / 자연경관",
-    "length_meter": 92.6,
-    "time_minute": 1
+    "color": "#08f87d",
+    "start_name": "자연경관",
+    "length_meter": 158.7,
+    "time_minute": 2
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 36.900665,
-        "lng": 128.093826
+        "lat": 36.897678,
+        "lng": 128.094635
       },
       {
-        "lat": 36.900463,
-        "lng": 128.094498
+        "lat": 36.896816,
+        "lng": 128.094727
       }
     ],
-    "color": "#548c97",
-    "start_name": "낙석 / 자연경관 / 철계단",
-    "length_meter": 78.1,
+    "color": "#d1b171",
+    "start_name": "이정표",
+    "length_meter": 96.2,
     "time_minute": 1
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 36.900463,
-        "lng": 128.094498
+        "lat": 36.896816,
+        "lng": 128.094727
       },
       {
-        "lat": 36.900043,
-        "lng": 128.09436
+        "lat": 36.895714,
+        "lng": 128.096359
       }
     ],
-    "color": "#4ea5d2",
-    "start_name": "추락주의 / 이정표 / 나무계단 / 철계단",
-    "length_meter": 69.3,
-    "time_minute": 1
+    "color": "#e15dff",
+    "start_name": "소나무 / 자연경관",
+    "length_meter": 193.1,
+    "time_minute": 3
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 36.900043,
-        "lng": 128.09436
+        "lat": 36.895714,
+        "lng": 128.096359
       },
       {
-        "lat": 36.899105,
-        "lng": 128.09465
+        "lat": 36.895523,
+        "lng": 128.097122
       }
     ],
-    "color": "#878058",
-    "start_name": "너덜돌길",
-    "length_meter": 107.4,
+    "color": "#51efe0",
+    "start_name": "이정표 / 자연경관",
+    "length_meter": 71.6,
     "time_minute": 1
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 36.899105,
-        "lng": 128.09465
+        "lat": 36.895523,
+        "lng": 128.097122
       },
       {
-        "lat": 36.897957,
-        "lng": 128.094498
+        "lat": 36.89539,
+        "lng": 128.097763
       }
     ],
-    "color": "#206443",
-    "start_name": "자연경관 / 자연경관 / 자연경관 / 자연경관",
-    "length_meter": 138.0,
-    "time_minute": 2
+    "color": "#ebea0e",
+    "start_name": "웨이포인트 61 / 안내소 / 자연경관",
+    "length_meter": 60.9,
+    "time_minute": 1
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 36.897957,
-        "lng": 128.094498
+        "lat": 36.89539,
+        "lng": 128.097763
       },
       {
-        "lat": 36.896816,
-        "lng": 128.094727
+        "lat": 36.895409,
+        "lng": 128.098389
       }
     ],
-    "color": "#1c1d56",
-    "start_name": "자연경관 / 자연경관 / 이정표",
-    "length_meter": 129.6,
-    "time_minute": 2
+    "color": "#26aa05",
+    "start_name": "웨이포인트 64 / 자연경관 / 낙석주의 / 충주댐 / 위험지역 / 자연경관 / 충주댐",
+    "length_meter": 71.6,
+    "time_minute": 1
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 36.896816,
-        "lng": 128.094727
+        "lat": 36.895409,
+        "lng": 128.098389
       },
       {
-        "lat": 36.89584,
-        "lng": 128.096054
+        "lat": 36.893997,
+        "lng": 128.099136
       }
     ],
-    "color": "#43643a",
-    "start_name": "소나무 / 자연경관",
-    "length_meter": 163.1,
+    "color": "#704b0c",
+    "start_name": "자연경관",
+    "length_meter": 170.5,
     "time_minute": 2
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 36.89584,
-        "lng": 128.096054
+        "lat": 36.893997,
+        "lng": 128.099136
       },
       {
-        "lat": 36.895523,
-        "lng": 128.097122
+        "lat": 36.892551,
+        "lng": 128.100525
       }
     ],
-    "color": "#d8969f",
-    "start_name": "자연경관 / 자연경관 / 이정표 / 자연경관 / 자연경관",
-    "length_meter": 102.2,
-    "time_minute": 1
+    "color": "#39546c",
+    "start_name": "구름다리 / 자연경관 / 웨이포인트 80 / 자연경관",
+    "length_meter": 205.5,
+    "time_minute": 3
   },
   {
     "path_id": 20,
     "path": [
       {
-        "lat": 36.895523,
-        "lng": 128.097122
+        "lat": 36.892551,
+        "lng": 128.100525
       },
       {
-        "lat": 36.89539,
-        "lng": 128.097763
+        "lat": 36.89138,
+        "lng": 128.100891
       }
     ],
-    "color": "#c9101b",
-    "start_name": "웨이포인트 61 / 안내소 / 자연경관 / 자연경관",
-    "length_meter": 62.1,
-    "time_minute": 1
+    "color": "#a21b95",
+    "start_name": "안내소 / 웨이포인트 92 / 웨이포인트 93 / 자연경관",
+    "length_meter": 136.5,
+    "time_minute": 2
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 36.89539,
-        "lng": 128.097763
+        "lat": 36.89138,
+        "lng": 128.100891
       },
       {
-        "lat": 36.895409,
-        "lng": 128.098389
+        "lat": 36.890785,
+        "lng": 128.101334
       }
     ],
-    "color": "#c4368e",
-    "start_name": "웨이포인트 64 / 자연경관 / 낙석주의 / 충주댐 / 위험지역 / 자연경관 / 충주댐",
-    "length_meter": 71.6,
+    "color": "#123ccc",
+    "start_name": "하봉 / 충주댐 / 하봉 / 자연경관",
+    "length_meter": 84.1,
     "time_minute": 1
   },
   {
     "path_id": 22,
     "path": [
       {
-        "lat": 36.895409,
-        "lng": 128.098389
+        "lat": 36.890785,
+        "lng": 128.101334
       },
       {
-        "lat": 36.894535,
-        "lng": 128.098511
+        "lat": 36.889301,
+        "lng": 128.101944
       }
     ],
-    "color": "#90f130",
-    "start_name": "자연경관 / 자연경관 / 자연경관 / 자연경관",
-    "length_meter": 103.1,
-    "time_minute": 1
+    "color": "#a060c2",
+    "start_name": "중봉 / 하봉과 충주댐 / 자연경관 / 이정표 / 영봉전경 / 영봉가는길",
+    "length_meter": 180.3,
+    "time_minute": 3
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 36.894535,
-        "lng": 128.098511
+        "lat": 36.889301,
+        "lng": 128.101944
       },
       {
-        "lat": 36.893997,
-        "lng": 128.099136
+        "lat": 36.88813,
+        "lng": 128.103195
       }
     ],
-    "color": "#a291d3",
-    "start_name": "자연경관 / 자연경관",
-    "length_meter": 83.7,
-    "time_minute": 1
+    "color": "#4146b0",
+    "start_name": "위험지역 / 자연경관",
+    "length_meter": 172.1,
+    "time_minute": 2
   },
   {
     "path_id": 24,
     "path": [
       {
-        "lat": 36.893997,
-        "lng": 128.099136
+        "lat": 36.88813,
+        "lng": 128.103195
       },
       {
-        "lat": 36.89357,
-        "lng": 128.099731
+        "lat": 36.887604,
+        "lng": 128.103821
       }
     ],
-    "color": "#a58409",
-    "start_name": "구름다리 / 자연경관 / 자연경관 / 웨이포인트 80 / 자연경관",
-    "length_meter": 74.3,
+    "color": "#87982b",
+    "start_name": "안내소",
+    "length_meter": 80.7,
     "time_minute": 1
   },
   {
     "path_id": 25,
     "path": [
       {
-        "lat": 36.89357,
-        "lng": 128.099731
+        "lat": 36.887604,
+        "lng": 128.103821
       },
       {
-        "lat": 36.893044,
-        "lng": 128.100037
+        "lat": 36.886368,
+        "lng": 128.104477
       }
     ],
-    "color": "#aaf32c",
-    "start_name": "자연경관 / 자연경관 / 자연경관",
-    "length_meter": 77.1,
-    "time_minute": 1
+    "color": "#26b915",
+    "start_name": "자연경관 / 웨이포인트 119 / 자연경관",
+    "length_meter": 151.9,
+    "time_minute": 2
   },
   {
     "path_id": 26,
     "path": [
       {
-        "lat": 36.893044,
-        "lng": 128.100037
+        "lat": 36.886368,
+        "lng": 128.104477
       },
       {
-        "lat": 36.892551,
-        "lng": 128.100525
+        "lat": 36.886208,
+        "lng": 128.105148
       }
     ],
-    "color": "#bfa36e",
-    "start_name": "자연경관 / 자연경관 / 자연경관",
-    "length_meter": 72.2,
+    "color": "#9b1702",
+    "start_name": "중봉전망 / 자연경관",
+    "length_meter": 62.8,
     "time_minute": 1
   },
   {
     "path_id": 27,
     "path": [
       {
-        "lat": 36.892551,
-        "lng": 128.100525
+        "lat": 36.886208,
+        "lng": 128.105148
       },
       {
-        "lat": 36.891449,
-        "lng": 128.100937
+        "lat": 36.886055,
+        "lng": 128.105743
       }
     ],
-    "color": "#252e66",
-    "start_name": "안내소 / 웨이포인트 92 / 웨이포인트 93 / 자연경관",
-    "length_meter": 130.8,
-    "time_minute": 2
+    "color": "#197fd2",
+    "start_name": "영봉 마지막 계단 / 영봉 / 자연경관 / 중봉,하봉 / 자연경관 / 영봉에서 바라본 중봉 / 자연경관 / 영봉 / 자연경관",
+    "length_meter": 61.0,
+    "time_minute": 1
   },
   {
     "path_id": 28,
     "path": [
       {
-        "lat": 36.891449,
-        "lng": 128.100937
+        "lat": 36.886055,
+        "lng": 128.105743
       },
       {
-        "lat": 36.891037,
-        "lng": 128.101166
+        "lat": 36.889156,
+        "lng": 128.102264
       }
     ],
-    "color": "#2711c5",
-    "start_name": "자연경관 / 자연경관 / 자연경관 / 하봉 / 충주댐 / 하봉",
-    "length_meter": 68.7,
-    "time_minute": 1
+    "color": "#e53ca0",
+    "start_name": "덕주사 방향 / 영봉에서 보는 중봉 하봉 / 중봉,하봉 / 자연경관 / 영봉바위 / 자연경관",
+    "length_meter": 489.8,
+    "time_minute": 8
   },
   {
     "path_id": 29,
     "path": [
       {
-        "lat": 36.891037,
-        "lng": 128.101166
+        "lat": 36.889156,
+        "lng": 128.102264
       },
       {
-        "lat": 36.890354,
-        "lng": 128.101593
+        "lat": 36.890629,
+        "lng": 128.101547
       }
     ],
-    "color": "#b866d7",
-    "start_name": "자연경관 / 중봉 / 하봉과 충주댐 / 자연경관 / 이정표",
-    "length_meter": 88.7,
-    "time_minute": 1
+    "color": "#7b5e26",
+    "start_name": "하신길 / 자연경관",
+    "length_meter": 188.6,
+    "time_minute": 3
   },
   {
     "path_id": 30,
     "path": [
       {
-        "lat": 36.890354,
-        "lng": 128.101593
+        "lat": 36.890629,
+        "lng": 128.101547
       },
       {
-        "lat": 36.889301,
-        "lng": 128.101944
+        "lat": 36.891144,
+        "lng": 128.100952
       }
     ],
-    "color": "#f4859f",
-    "start_name": "영봉전경 / 영봉가는길",
-    "length_meter": 123.3,
-    "time_minute": 2
+    "color": "#b0e36f",
+    "start_name": "단풍 / 자연경관 / 중봉 / 자연경관 / 중봉 / 자연경관",
+    "length_meter": 81.5,
+    "time_minute": 1
   },
   {
     "path_id": 31,
     "path": [
       {
-        "lat": 36.889301,
-        "lng": 128.101944
+        "lat": 36.891144,
+        "lng": 128.100952
       },
       {
-        "lat": 36.889183,
-        "lng": 128.102707
+        "lat": 36.891716,
+        "lng": 128.100708
       }
     ],
-    "color": "#942bb0",
-    "start_name": "위험지역 / 자연경관 / 자연경관",
-    "length_meter": 70.4,
+    "color": "#b2ac4e",
+    "start_name": "하봉 / 자연경관 / 안내소",
+    "length_meter": 69.7,
     "time_minute": 1
   },
   {
     "path_id": 32,
     "path": [
       {
-        "lat": 36.889183,
-        "lng": 128.102707
+        "lat": 36.891716,
+        "lng": 128.100708
       },
       {
-        "lat": 36.88813,
-        "lng": 128.103195
+        "lat": 36.892544,
+        "lng": 128.100601
       }
     ],
-    "color": "#03569a",
-    "start_name": "자연경관 / 자연경관",
-    "length_meter": 127.1,
-    "time_minute": 2
+    "color": "#6310f6",
+    "start_name": "중봉 계단",
+    "length_meter": 92.6,
+    "time_minute": 1
   },
   {
     "path_id": 33,
     "path": [
       {
-        "lat": 36.88813,
-        "lng": 128.103195
+        "lat": 36.892544,
+        "lng": 128.100601
       },
       {
-        "lat": 36.887604,
-        "lng": 128.103821
+        "lat": 36.893581,
+        "lng": 128.099884
       }
     ],
-    "color": "#39ec94",
-    "start_name": "안내소",
-    "length_meter": 80.7,
-    "time_minute": 1
+    "color": "#4ff9cc",
+    "start_name": "자연경관 / 하봉계단 / 자연경관",
+    "length_meter": 133.8,
+    "time_minute": 2
   },
   {
     "path_id": 34,
     "path": [
       {
-        "lat": 36.887604,
-        "lng": 128.103821
+        "lat": 36.893581,
+        "lng": 128.099884
       },
       {
-        "lat": 36.886662,
-        "lng": 128.104248
+        "lat": 36.893974,
+        "lng": 128.099121
       }
     ],
-    "color": "#c7893c",
-    "start_name": "자연경관 / 웨이포인트 119 / 자연경관",
-    "length_meter": 116.0,
+    "color": "#4a78d2",
+    "start_name": "안내소 / 자연경관",
+    "length_meter": 81.1,
     "time_minute": 1
   },
   {
     "path_id": 35,
     "path": [
       {
-        "lat": 36.886662,
-        "lng": 128.104248
+        "lat": 36.893974,
+        "lng": 128.099121
       },
       {
-        "lat": 36.886208,
-        "lng": 128.105026
+        "lat": 36.894527,
+        "lng": 128.098541
       }
     ],
-    "color": "#f77df8",
-    "start_name": "자연경관 / 중봉전망 / 자연경관",
-    "length_meter": 90.9,
+    "color": "#20a325",
+    "start_name": "중봉,영봉 / 자연경관 / 이정표",
+    "length_meter": 84.6,
     "time_minute": 1
   },
   {
     "path_id": 36,
     "path": [
       {
-        "lat": 36.886208,
-        "lng": 128.105026
+        "lat": 36.894527,
+        "lng": 128.098541
       },
       {
-        "lat": 36.88607,
-        "lng": 128.105637
+        "lat": 36.900185,
+        "lng": 128.094543
       }
     ],
-    "color": "#a14ec1",
-    "start_name": "자연경관 / 자연경관 / 영봉 마지막 계단 / 영봉 / 자연경관 / 중봉,하봉 / 자연경관 / 영봉에서 바라본 중봉 / 자연경관",
-    "length_meter": 60.5,
-    "time_minute": 1
+    "color": "#c5acb1",
+    "start_name": "자연경관 / 충주댐 / 자연경관",
+    "length_meter": 723.3,
+    "time_minute": 12
   },
   {
     "path_id": 37,
     "path": [
       {
-        "lat": 36.88607,
-        "lng": 128.105637
+        "lat": 36.900185,
+        "lng": 128.094543
       },
       {
-        "lat": 36.886509,
-        "lng": 128.104324
+        "lat": 36.900803,
+        "lng": 128.092117
       }
     ],
-    "color": "#e633f2",
-    "start_name": "자연경관 / 영봉 / 자연경관 / 덕주사 방향 / 영봉에서 보는 중봉 하봉 / 중봉,하봉 / 자연경관 / 영봉바위 / 자연경관 / 자연경관 / 자연경관 / 자연경관",
-    "length_meter": 171.6,
-    "time_minute": 2
+    "color": "#a38e19",
+    "start_name": "바위 / 자연경관",
+    "length_meter": 240.7,
+    "time_minute": 4
   },
   {
     "path_id": 38,
     "path": [
       {
-        "lat": 36.886509,
-        "lng": 128.104324
+        "lat": 36.900803,
+        "lng": 128.092117
       },
       {
-        "lat": 36.887486,
-        "lng": 128.104309
+        "lat": 36.900757,
+        "lng": 128.091064
       }
     ],
-    "color": "#3a1e82",
-    "start_name": "자연경관 / 자연경관 / 자연경관",
-    "length_meter": 113.2,
+    "color": "#ce5620",
+    "start_name": "계단",
+    "length_meter": 93.8,
     "time_minute": 1
   },
   {
     "path_id": 39,
     "path": [
       {
-        "lat": 36.887486,
-        "lng": 128.104309
+        "lat": 36.900757,
+        "lng": 128.091064
       },
       {
-        "lat": 36.887688,
-        "lng": 128.10379
+        "lat": 36.901028,
+        "lng": 128.091324
       }
     ],
-    "color": "#c4612c",
-    "start_name": "자연경관 / 자연경관 / 자연경관 / 자연경관",
-    "length_meter": 64.4,
+    "color": "#9d3ef2",
+    "start_name": "자연경관 / 충주댐 / 보덕암 전망대",
+    "length_meter": 62.8,
     "time_minute": 1
   },
   {
     "path_id": 40,
     "path": [
       {
-        "lat": 36.887688,
-        "lng": 128.10379
+        "lat": 36.901028,
+        "lng": 128.091324
       },
       {
-        "lat": 36.888355,
-        "lng": 128.10321
+        "lat": 36.901726,
+        "lng": 128.090942
       }
     ],
-    "color": "#b3b623",
-    "start_name": "자연경관",
-    "length_meter": 90.3,
+    "color": "#869542",
+    "start_name": "화장실",
+    "length_meter": 84.7,
     "time_minute": 1
   },
   {
     "path_id": 41,
     "path": [
       {
-        "lat": 36.888355,
-        "lng": 128.10321
+        "lat": 36.901726,
+        "lng": 128.090942
       },
       {
-        "lat": 36.88916,
-        "lng": 128.102615
+        "lat": 36.902218,
+        "lng": 128.090683
       }
     ],
-    "color": "#137165",
-    "start_name": "자연경관 / 자연경관",
-    "length_meter": 104.5,
+    "color": "#893f76",
+    "start_name": "입구계단 / 보덕암 안내",
+    "length_meter": 69.5,
     "time_minute": 1
   },
   {
     "path_id": 42,
     "path": [
       {
-        "lat": 36.88916,
-        "lng": 128.102615
-      },
-      {
-        "lat": 36.889309,
-        "lng": 128.101868
-      }
-    ],
-    "color": "#367a75",
-    "start_name": "자연경관 / 하신길",
-    "length_meter": 70.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 43,
-    "path": [
-      {
-        "lat": 36.889309,
-        "lng": 128.101868
-      },
-      {
-        "lat": 36.890297,
-        "lng": 128.101593
-      }
-    ],
-    "color": "#1de7ac",
-    "start_name": "자연경관",
-    "length_meter": 112.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 44,
-    "path": [
-      {
-        "lat": 36.890297,
-        "lng": 128.101593
-      },
-      {
-        "lat": 36.890823,
-        "lng": 128.101395
-      }
-    ],
-    "color": "#63ee19",
-    "start_name": "자연경관 / 단풍 / 자연경관",
-    "length_meter": 62.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 45,
-    "path": [
-      {
-        "lat": 36.890823,
-        "lng": 128.101395
-      },
-      {
-        "lat": 36.891312,
-        "lng": 128.100922
-      }
-    ],
-    "color": "#e0350f",
-    "start_name": "중봉 / 중봉 / 자연경관 / 중봉 / 자연경관 / 자연경관 / 하봉",
-    "length_meter": 77.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 46,
-    "path": [
-      {
-        "lat": 36.891312,
-        "lng": 128.100922
-      },
-      {
-        "lat": 36.892544,
-        "lng": 128.100601
-      }
-    ],
-    "color": "#fed3a4",
-    "start_name": "하봉 / 자연경관 / 자연경관 / 안내소 / 중봉 계단",
-    "length_meter": 150.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 47,
-    "path": [
-      {
-        "lat": 36.892544,
-        "lng": 128.100601
-      },
-      {
-        "lat": 36.89296,
-        "lng": 128.100174
-      }
-    ],
-    "color": "#037f0e",
-    "start_name": "자연경관 / 하봉계단 / 자연경관 / 자연경관",
-    "length_meter": 63.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 48,
-    "path": [
-      {
-        "lat": 36.89296,
-        "lng": 128.100174
-      },
-      {
-        "lat": 36.893505,
-        "lng": 128.099945
-      }
-    ],
-    "color": "#d6dbab",
-    "start_name": "자연경관",
-    "length_meter": 63.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 49,
-    "path": [
-      {
-        "lat": 36.893505,
-        "lng": 128.099945
-      },
-      {
-        "lat": 36.893879,
-        "lng": 128.099396
-      }
-    ],
-    "color": "#c24c2a",
-    "start_name": "자연경관 / 자연경관 / 안내소 / 자연경관 / 자연경관 / 자연경관",
-    "length_meter": 77.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 50,
-    "path": [
-      {
-        "lat": 36.893879,
-        "lng": 128.099396
-      },
-      {
-        "lat": 36.894409,
-        "lng": 128.098846
-      }
-    ],
-    "color": "#c1b37d",
-    "start_name": "자연경관 / 자연경관 / 중봉,영봉 / 자연경관",
-    "length_meter": 81.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 51,
-    "path": [
-      {
-        "lat": 36.894409,
-        "lng": 128.098846
-      },
-      {
-        "lat": 36.894814,
-        "lng": 128.098373
-      }
-    ],
-    "color": "#1b2219",
-    "start_name": "이정표 / 자연경관",
-    "length_meter": 65.4,
-    "time_minute": 1
-  },
-  {
-    "path_id": 52,
-    "path": [
-      {
-        "lat": 36.894814,
-        "lng": 128.098373
-      },
-      {
-        "lat": 36.895523,
-        "lng": 128.098328
-      }
-    ],
-    "color": "#a2bb6c",
-    "start_name": "충주댐 / 자연경관 / 쉼터",
-    "length_meter": 80.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 53,
-    "path": [
-      {
-        "lat": 36.895523,
-        "lng": 128.098328
-      },
-      {
-        "lat": 36.89576,
-        "lng": 128.096222
-      }
-    ],
-    "color": "#aff7ac",
-    "start_name": "자연경관",
-    "length_meter": 189.1,
-    "time_minute": 3
-  },
-  {
-    "path_id": 54,
-    "path": [
-      {
-        "lat": 36.89576,
-        "lng": 128.096222
-      },
-      {
-        "lat": 36.900017,
-        "lng": 128.094437
-      }
-    ],
-    "color": "#2eefb4",
-    "start_name": "자연경관 / 자연경관",
-    "length_meter": 510.7,
-    "time_minute": 8
-  },
-  {
-    "path_id": 55,
-    "path": [
-      {
-        "lat": 36.900017,
-        "lng": 128.094437
-      },
-      {
-        "lat": 36.900562,
-        "lng": 128.09465
-      }
-    ],
-    "color": "#ecc437",
-    "start_name": "자연경관 / 바위 / 자연경관",
-    "length_meter": 63.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 56,
-    "path": [
-      {
-        "lat": 36.900562,
-        "lng": 128.09465
-      },
-      {
-        "lat": 36.900738,
-        "lng": 128.093704
-      }
-    ],
-    "color": "#aafe74",
-    "start_name": "자연경관 / 자연경관 / 자연경관",
-    "length_meter": 97.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 57,
-    "path": [
-      {
-        "lat": 36.900738,
-        "lng": 128.093704
-      },
-      {
-        "lat": 36.900803,
-        "lng": 128.092117
-      }
-    ],
-    "color": "#89e94a",
-    "start_name": "자연경관",
-    "length_meter": 141.3,
-    "time_minute": 2
-  },
-  {
-    "path_id": 58,
-    "path": [
-      {
-        "lat": 36.900803,
-        "lng": 128.092117
-      },
-      {
-        "lat": 36.900757,
-        "lng": 128.091064
-      }
-    ],
-    "color": "#065eac",
-    "start_name": "계단",
-    "length_meter": 93.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 59,
-    "path": [
-      {
-        "lat": 36.900757,
-        "lng": 128.091064
-      },
-      {
-        "lat": 36.901028,
-        "lng": 128.091324
-      }
-    ],
-    "color": "#79ca22",
-    "start_name": "자연경관 / 충주댐 / 보덕암 전망대",
-    "length_meter": 62.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 60,
-    "path": [
-      {
-        "lat": 36.901028,
-        "lng": 128.091324
-      },
-      {
-        "lat": 36.901726,
-        "lng": 128.090942
-      }
-    ],
-    "color": "#30a54c",
-    "start_name": "화장실",
-    "length_meter": 84.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 61,
-    "path": [
-      {
-        "lat": 36.901726,
-        "lng": 128.090942
-      },
-      {
         "lat": 36.902218,
         "lng": 128.090683
-      }
-    ],
-    "color": "#657a72",
-    "start_name": "입구계단 / 보덕암 안내",
-    "length_meter": 69.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 62,
-    "path": [
-      {
-        "lat": 36.902218,
-        "lng": 128.090683
-      },
-      {
-        "lat": 36.906944,
-        "lng": 128.092056
-      }
-    ],
-    "color": "#f9130e",
-    "start_name": "보덕암 화장실 / 자연경관",
-    "length_meter": 539.7,
-    "time_minute": 8
-  },
-  {
-    "path_id": 63,
-    "path": [
-      {
-        "lat": 36.906944,
-        "lng": 128.092056
-      },
-      {
-        "lat": 36.910656,
-        "lng": 128.093414
-      }
-    ],
-    "color": "#cc38b6",
-    "start_name": "자연경관",
-    "length_meter": 430.1,
-    "time_minute": 7
-  },
-  {
-    "path_id": 64,
-    "path": [
-      {
-        "lat": 36.910656,
-        "lng": 128.093414
-      },
-      {
-        "lat": 36.913906,
-        "lng": 128.097015
-      }
-    ],
-    "color": "#629daa",
-    "start_name": "자연경관",
-    "length_meter": 482.8,
-    "time_minute": 8
-  },
-  {
-    "path_id": 65,
-    "path": [
-      {
-        "lat": 36.913906,
-        "lng": 128.097015
       },
       {
         "lat": 36.914196,
         "lng": 128.09848
       }
     ],
-    "color": "#cc97db",
-    "start_name": "자연경관",
-    "length_meter": 134.2,
-    "time_minute": 2
+    "color": "#b7c9ba",
+    "start_name": "보덕암 화장실 / 자연경관",
+    "length_meter": 1503.0,
+    "time_minute": 25
   }
 ]

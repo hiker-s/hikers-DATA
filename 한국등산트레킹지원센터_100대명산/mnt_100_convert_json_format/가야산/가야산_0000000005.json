@@ -11,7 +11,7 @@
         "lng": 128.136398
       }
     ],
-    "color": "#b09b8b",
+    "color": "#da951b",
     "start_name": "가야산성",
     "length_meter": 335.8,
     "time_minute": 5
@@ -28,7 +28,7 @@
         "lng": 128.135468
       }
     ],
-    "color": "#f3bc19",
+    "color": "#e7b939",
     "start_name": "낙석주의",
     "length_meter": 175.7,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 128.134277
       }
     ],
-    "color": "#4d3834",
+    "color": "#a4d3ce",
     "start_name": "나무의자 / 쉼터옆 계곡",
     "length_meter": 131.0,
     "time_minute": 2
@@ -58,34 +58,17 @@
         "lng": 128.134277
       },
       {
-        "lat": 35.815269,
-        "lng": 128.133224
-      }
-    ],
-    "color": "#f74589",
-    "start_name": "낙석주의",
-    "length_meter": 99.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.815269,
-        "lng": 128.133224
-      },
-      {
         "lat": 35.820721,
         "lng": 128.124359
       }
     ],
-    "color": "#82944d",
+    "color": "#3f7649",
     "start_name": "낙석주의",
-    "length_meter": 1003.2,
-    "time_minute": 16
+    "length_meter": 1063.5,
+    "time_minute": 17
   },
   {
-    "path_id": 5,
+    "path_id": 4,
     "path": [
       {
         "lat": 35.820721,
@@ -96,13 +79,13 @@
         "lng": 128.12381
       }
     ],
-    "color": "#a0bf4a",
+    "color": "#460d5f",
     "start_name": "자연경관 / 조망",
     "length_meter": 69.3,
     "time_minute": 1
   },
   {
-    "path_id": 6,
+    "path_id": 5,
     "path": [
       {
         "lat": 35.82111,
@@ -113,64 +96,47 @@
         "lng": 128.122681
       }
     ],
-    "color": "#cde69a",
+    "color": "#efd497",
     "start_name": "자연경관",
     "length_meter": 188.8,
+    "time_minute": 3
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 35.82254,
+        "lng": 128.122681
+      },
+      {
+        "lat": 35.823132,
+        "lng": 128.12059
+      }
+    ],
+    "color": "#17b7b7",
+    "start_name": "갈림길 18 / 칠불봉",
+    "length_meter": 229.1,
     "time_minute": 3
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.82254,
-        "lng": 128.122681
-      },
-      {
         "lat": 35.823132,
         "lng": 128.12059
-      }
-    ],
-    "color": "#9b310b",
-    "start_name": "갈림길 18 / 칠불봉",
-    "length_meter": 229.1,
-    "time_minute": 3
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.823132,
-        "lng": 128.12059
-      },
-      {
-        "lat": 35.821262,
-        "lng": 128.123611
-      }
-    ],
-    "color": "#07cab6",
-    "start_name": "갈림길 20",
-    "length_meter": 342.7,
-    "time_minute": 5
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.821262,
-        "lng": 128.123611
       },
       {
         "lat": 35.814987,
         "lng": 128.128616
       }
     ],
-    "color": "#48f611",
-    "start_name": "조망점",
-    "length_meter": 831.0,
-    "time_minute": 13
+    "color": "#72baef",
+    "start_name": "갈림길 20",
+    "length_meter": 1159.3,
+    "time_minute": 19
   },
   {
-    "path_id": 10,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.814987,
@@ -181,7 +147,7 @@
         "lng": 128.141891
       }
     ],
-    "color": "#0bf212",
+    "color": "#c882c8",
     "start_name": "백운암지",
     "length_meter": 1972.5,
     "time_minute": 32

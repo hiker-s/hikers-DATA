@@ -1,0 +1,274 @@
+[
+  {
+    "path_id": 0,
+    "path": [
+      {
+        "lat": 35.320164,
+        "lng": 128.987015
+      },
+      {
+        "lat": 35.321102,
+        "lng": 128.985184
+      }
+    ],
+    "color": "#110ea1",
+    "start_name": "갈림길 1 / 갈림길 2",
+    "length_meter": 196.2,
+    "time_minute": 3
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 35.321102,
+        "lng": 128.985184
+      },
+      {
+        "lat": 35.323635,
+        "lng": 128.982574
+      }
+    ],
+    "color": "#fe09a1",
+    "start_name": "갈림길 3",
+    "length_meter": 368.0,
+    "time_minute": 6
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 35.323635,
+        "lng": 128.982574
+      },
+      {
+        "lat": 35.328663,
+        "lng": 128.981857
+      }
+    ],
+    "color": "#15ecc5",
+    "start_name": "갈림길 4 / 갈림길 5",
+    "length_meter": 562.9,
+    "time_minute": 9
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 35.328663,
+        "lng": 128.981857
+      },
+      {
+        "lat": 35.329956,
+        "lng": 128.981781
+      }
+    ],
+    "color": "#e31cf1",
+    "start_name": "갈림길 9 / 갈림길 10 / 임경사",
+    "length_meter": 164.6,
+    "time_minute": 2
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 35.329956,
+        "lng": 128.981781
+      },
+      {
+        "lat": 35.333389,
+        "lng": 128.978424
+      }
+    ],
+    "color": "#6235e2",
+    "start_name": "갈림길 12",
+    "length_meter": 488.3,
+    "time_minute": 8
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 35.333389,
+        "lng": 128.978424
+      },
+      {
+        "lat": 35.335045,
+        "lng": 128.982437
+      }
+    ],
+    "color": "#959b29",
+    "start_name": "갈림길 15 / 갈림길 16",
+    "length_meter": 407.9,
+    "time_minute": 6
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 35.335045,
+        "lng": 128.982437
+      },
+      {
+        "lat": 35.341766,
+        "lng": 128.990433
+      }
+    ],
+    "color": "#1ef83a",
+    "start_name": "갈림길 17",
+    "length_meter": 1041.4,
+    "time_minute": 17
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
+        "lat": 35.341766,
+        "lng": 128.990433
+      },
+      {
+        "lat": 35.336605,
+        "lng": 128.992371
+      }
+    ],
+    "color": "#28e700",
+    "start_name": "갈림길 19",
+    "length_meter": 600.2,
+    "time_minute": 10
+  },
+  {
+    "path_id": 8,
+    "path": [
+      {
+        "lat": 35.336605,
+        "lng": 128.992371
+      },
+      {
+        "lat": 35.335674,
+        "lng": 128.991501
+      }
+    ],
+    "color": "#7447c8",
+    "start_name": "갈림길 21 / 갈림길 22 / 갈림길 23 / 갈림길 24",
+    "length_meter": 130.2,
+    "time_minute": 2
+  },
+  {
+    "path_id": 9,
+    "path": [
+      {
+        "lat": 35.335674,
+        "lng": 128.991501
+      },
+      {
+        "lat": 35.3312,
+        "lng": 128.985245
+      }
+    ],
+    "color": "#250015",
+    "start_name": "갈림길 27",
+    "length_meter": 754.7,
+    "time_minute": 12
+  },
+  {
+    "path_id": 10,
+    "path": [
+      {
+        "lat": 35.3312,
+        "lng": 128.985245
+      },
+      {
+        "lat": 35.329922,
+        "lng": 128.985397
+      }
+    ],
+    "color": "#2f350e",
+    "start_name": "산정상 / 갈림길 29",
+    "length_meter": 145.8,
+    "time_minute": 2
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 35.329922,
+        "lng": 128.985397
+      },
+      {
+        "lat": 35.325554,
+        "lng": 128.983658
+      }
+    ],
+    "color": "#6a6f1d",
+    "start_name": "갈림길 30",
+    "length_meter": 510.7,
+    "time_minute": 8
+  },
+  {
+    "path_id": 12,
+    "path": [
+      {
+        "lat": 35.325554,
+        "lng": 128.983658
+      },
+      {
+        "lat": 35.323261,
+        "lng": 128.985794
+      }
+    ],
+    "color": "#e97d59",
+    "start_name": "갈림길 33",
+    "length_meter": 320.3,
+    "time_minute": 5
+  },
+  {
+    "path_id": 13,
+    "path": [
+      {
+        "lat": 35.323261,
+        "lng": 128.985794
+      },
+      {
+        "lat": 35.321323,
+        "lng": 128.986542
+      }
+    ],
+    "color": "#b6848a",
+    "start_name": "갈림길 34",
+    "length_meter": 225.9,
+    "time_minute": 3
+  },
+  {
+    "path_id": 14,
+    "path": [
+      {
+        "lat": 35.321323,
+        "lng": 128.986542
+      },
+      {
+        "lat": 35.321659,
+        "lng": 128.98735
+      }
+    ],
+    "color": "#89a628",
+    "start_name": "갈림길 36 / 갈림길 37",
+    "length_meter": 82.3,
+    "time_minute": 1
+  },
+  {
+    "path_id": 15,
+    "path": [
+      {
+        "lat": 35.321659,
+        "lng": 128.98735
+      },
+      {
+        "lat": 35.321659,
+        "lng": 128.98735
+      }
+    ],
+    "color": "#07c011",
+    "start_name": "갈림길 38",
+    "length_meter": 0.0,
+    "time_minute": 0
+  }
+]
