@@ -44,29 +44,21 @@ def remove_element(json_data):
     return json_data
 
 def process_json_file(input_file):
-    # 산 이름(폴더 이름) 추출
     relative_path = os.path.relpath(input_file, json_path)
     mountain_name = os.path.normpath(relative_path).split(os.sep)[0].strip()
 
     with open(input_file, 'r', encoding='utf-8') as file:
         data = json.load(file)
-        
-    # 불필요한 요소 제거
-    if mountain_name not in skip_mnt:
-        cleaned_data = remove_element(data)
-    else :
-        cleaned_data = data
-        
-    
-    # 변환된 데이터 저장 경로 설정
+
+    if mountain_name not in skip_mnt and "track" in data:
+        data["track"] = remove_element(data["track"])
+
     output_file = os.path.join(convert_path, relative_path)
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    
+
     with open(output_file, 'w', encoding='utf-8') as file:
-        json.dump(cleaned_data, file, ensure_ascii=False, indent=4)
+        json.dump(data, file, ensure_ascii=False, indent=4)
 
-
-# 모든 폴더 내의 파일 처리
 def process_all_json_files():
     for root, dirs, files in os.walk(json_path):
         for filename in files:

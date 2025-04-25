@@ -11,15 +11,20 @@ json_path = os.path.join(base_dir, '../mnt_100_convert_json_clean')
 convert_path = os.path.join(base_dir, '../mnt_100_convert_json_filter_duplication')
 os.makedirs(convert_path, exist_ok=True)
 
-# 연속된 같은 이름의 객체 제거 함수
-def remove_duplicates(json_data):
+# 연속된 같은 이름의 객체 제거 함수 (track 안에서만 적용)
+def remove_duplicates(data):
+    if not isinstance(data, dict) or "track" not in data:
+        return data  # 예상한 구조가 아니면 그대로 반환
+
     result = []
     last_name = None
-    for item in json_data:
-        if item['name'] != last_name:
+    for item in data["track"]:
+        if item["name"] != last_name:
             result.append(item)
-        last_name = item['name']
-    return result
+        last_name = item["name"]
+
+    data["track"] = result
+    return data
 
 # 파일 처리 함수
 def process_json_file(input_file):
@@ -27,12 +32,12 @@ def process_json_file(input_file):
         data = json.load(file)
     
     cleaned_data = remove_duplicates(data)
-    
-    # 변환된 데이터 저장 경로 설정
-    relative_path = os.path.relpath(input_file, json_path)  # 상대 경로 계산
+
+    # 저장 경로 설정
+    relative_path = os.path.relpath(input_file, json_path)
     output_file = os.path.join(convert_path, relative_path)
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)  # 폴더 생성
-    
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+
     with open(output_file, 'w', encoding='utf-8') as file:
         json.dump(cleaned_data, file, ensure_ascii=False, indent=4)
 

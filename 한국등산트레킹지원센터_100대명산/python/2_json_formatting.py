@@ -76,7 +76,13 @@ for mountain_folder in os.listdir(json_path):
 
                 try:
                     with open(input_file_path, 'r', encoding='utf-8') as f:
-                        waypoints = json.load(f)
+                        data = json.load(f)
+
+                    if "track" not in data or not isinstance(data["track"], list):
+                        print(f"⚠️ {mountain_folder}/{filename} → 'track' 누락 또는 형식 오류")
+                        continue
+
+                    waypoints = data["track"]
 
                     sections = []
                     i = 0
@@ -92,13 +98,13 @@ for mountain_folder in os.listdir(json_path):
                         time_minutes = length / 60
                         start_names = [waypoints[i].get('name', f"Point {i}")]
 
-                        # 0분 미만 병합 과정
                         if mountain_folder not in skip_mnt:
-                            i, lat2, lon2, length, time_minutes, start_names = merge_short_segments(i, waypoints, lat2, lon2, length, time_minutes, start_names)
+                            i, lat2, lon2, length, time_minutes, start_names = merge_short_segments(
+                                i, waypoints, lat2, lon2, length, time_minutes, start_names
+                            )
                         else:
                             print(f"{mountain_folder} 제외")
 
-                        # section 만들기
                         section = create_section(path_id, lat1, lon1, lat2, lon2, start_names, length, time_minutes)
 
                         sections.append(section)
@@ -111,8 +117,6 @@ for mountain_folder in os.listdir(json_path):
 
                     with open(output_file_path, 'w', encoding='utf-8') as f:
                         json.dump(sections, f, ensure_ascii=False, indent=2)
-
-                    # print(f"✅ {mountain_folder}/{filename} 변환 완료")
 
                 except Exception as e:
                     print(f"❌ {mountain_folder}/{filename} 오류 발생: {e}")
