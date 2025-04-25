@@ -11,10 +11,10 @@
         "lng": 128.490662
       }
     ],
-    "color": "#85eafa",
-    "start_point_name": "설악산 매표소",
-    "length": 308,
-    "time": "5"
+    "color": "#c20c3b",
+    "start_name": "설악산 매표소",
+    "length_meter": 308.9,
+    "time_minute": 5
   },
   {
     "path_id": 1,
@@ -24,391 +24,238 @@
         "lng": 128.490662
       },
       {
-        "lat": 38.173317,
-        "lng": 128.490479
+        "lat": 38.173813,
+        "lng": 128.487274
       }
     ],
-    "color": "#d987c3",
-    "start_point_name": "통일염원 사리탑",
-    "length": 30,
-    "time": "0"
+    "color": "#329c7f",
+    "start_name": "통일염원 사리탑 / 갈림길",
+    "length_meter": 316.4,
+    "time_minute": 5
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 38.173317,
-        "lng": 128.490479
-      },
-      {
         "lat": 38.173813,
         "lng": 128.487274
+      },
+      {
+        "lat": 38.177551,
+        "lng": 128.483459
       }
     ],
-    "color": "#eb60b4",
-    "start_point_name": "갈림길",
-    "length": 285,
-    "time": "4"
+    "color": "#0824d4",
+    "start_name": "통일대불 법당",
+    "length_meter": 532.9,
+    "time_minute": 8
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 38.173813,
-        "lng": 128.487274
-      },
-      {
         "lat": 38.177551,
         "lng": 128.483459
+      },
+      {
+        "lat": 38.18433,
+        "lng": 128.476181
       }
     ],
-    "color": "#24d407",
-    "start_point_name": "통일대불 법당",
-    "length": 532,
-    "time": "8"
+    "color": "#dc1f29",
+    "start_name": "태풍피해",
+    "length_meter": 986.3,
+    "time_minute": 16
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 38.177551,
-        "lng": 128.483459
-      },
-      {
         "lat": 38.18433,
         "lng": 128.476181
+      },
+      {
+        "lat": 38.18504,
+        "lng": 128.474487
       }
     ],
-    "color": "#9e73fd",
-    "start_point_name": "태풍피해",
-    "length": 986,
-    "time": "16"
+    "color": "#e9d817",
+    "start_name": "갈림길",
+    "length_meter": 167.8,
+    "time_minute": 2
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 38.18433,
-        "lng": 128.476181
-      },
-      {
         "lat": 38.18504,
         "lng": 128.474487
+      },
+      {
+        "lat": 38.189693,
+        "lng": 128.475296
       }
     ],
-    "color": "#f73f8c",
-    "start_point_name": "갈림길",
-    "length": 167,
-    "time": "2"
+    "color": "#8d4ce5",
+    "start_name": "울산바위",
+    "length_meter": 522.2,
+    "time_minute": 8
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 38.18504,
-        "lng": 128.474487
-      },
-      {
         "lat": 38.189693,
         "lng": 128.475296
+      },
+      {
+        "lat": 38.192024,
+        "lng": 128.472855
       }
     ],
-    "color": "#156238",
-    "start_point_name": "울산바위",
-    "length": 522,
-    "time": "8"
+    "color": "#24c4c6",
+    "start_name": "계조암석굴 / 흔들바위",
+    "length_meter": 341.6,
+    "time_minute": 5
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 38.189693,
-        "lng": 128.475296
+        "lat": 38.192024,
+        "lng": 128.472855
       },
       {
-        "lat": 38.189777,
-        "lng": 128.474945
+        "lat": 38.19421,
+        "lng": 128.474091
       }
     ],
-    "color": "#701181",
-    "start_point_name": "계조암석굴",
-    "length": 32,
-    "time": "0"
+    "color": "#f2dea1",
+    "start_name": "울산바위 전망대",
+    "length_meter": 266.0,
+    "time_minute": 4
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 38.189777,
-        "lng": 128.474945
+        "lat": 38.19421,
+        "lng": 128.474091
       },
       {
-        "lat": 38.192024,
-        "lng": 128.472855
+        "lat": 38.193916,
+        "lng": 128.475021
       }
     ],
-    "color": "#563687",
-    "start_point_name": "흔들바위",
-    "length": 309,
-    "time": "5"
+    "color": "#86d947",
+    "start_name": "울산바위 계단 / 의자",
+    "length_meter": 88.9,
+    "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 38.192024,
-        "lng": 128.472855
+        "lat": 38.193916,
+        "lng": 128.475021
       },
       {
-        "lat": 38.19421,
-        "lng": 128.474091
+        "lat": 38.18961,
+        "lng": 128.474945
       }
     ],
-    "color": "#30b806",
-    "start_point_name": "울산바위 전망대",
-    "length": 265,
-    "time": "4"
+    "color": "#2d1550",
+    "start_name": "전망대 / 병아리 바위 / 전망대",
+    "length_meter": 550.1,
+    "time_minute": 9
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 38.19421,
-        "lng": 128.474091
+        "lat": 38.18961,
+        "lng": 128.474945
       },
       {
-        "lat": 38.194065,
-        "lng": 128.474335
+        "lat": 38.188213,
+        "lng": 128.475662
       }
     ],
-    "color": "#2c8920",
-    "start_point_name": "울산바위 계단",
-    "length": 26,
-    "time": "0"
+    "color": "#be4686",
+    "start_name": "계조암 / 흔들바위",
+    "length_meter": 177.1,
+    "time_minute": 2
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 38.194065,
-        "lng": 128.474335
+        "lat": 38.188213,
+        "lng": 128.475662
       },
       {
-        "lat": 38.193916,
-        "lng": 128.475021
+        "lat": 38.185314,
+        "lng": 128.474274
       }
     ],
-    "color": "#c07712",
-    "start_point_name": "의자",
-    "length": 62,
-    "time": "1"
+    "color": "#109636",
+    "start_name": "울산바위 / 울산바위 화장실",
+    "length_meter": 346.5,
+    "time_minute": 5
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 38.193916,
-        "lng": 128.475021
+        "lat": 38.185314,
+        "lng": 128.474274
       },
       {
-        "lat": 38.194019,
-        "lng": 128.474747
+        "lat": 38.18346,
+        "lng": 128.476456
       }
     ],
-    "color": "#9fc3c9",
-    "start_point_name": "전망대",
-    "length": 26,
-    "time": "0"
+    "color": "#3e9971",
+    "start_name": "내원암",
+    "length_meter": 280.8,
+    "time_minute": 4
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 38.194019,
-        "lng": 128.474747
+        "lat": 38.18346,
+        "lng": 128.476456
       },
       {
-        "lat": 38.19416,
-        "lng": 128.47467
+        "lat": 38.176006,
+        "lng": 128.484451
       }
     ],
-    "color": "#86600a",
-    "start_point_name": "병아리 바위",
-    "length": 17,
-    "time": "0"
+    "color": "#bc4a2e",
+    "start_name": "화장실",
+    "length_meter": 1084.1,
+    "time_minute": 18
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 38.19416,
-        "lng": 128.47467
-      },
-      {
-        "lat": 38.18961,
-        "lng": 128.474945
-      }
-    ],
-    "color": "#916015",
-    "start_point_name": "전망대",
-    "length": 506,
-    "time": "8"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 38.18961,
-        "lng": 128.474945
-      },
-      {
-        "lat": 38.189632,
-        "lng": 128.475067
-      }
-    ],
-    "color": "#8075e9",
-    "start_point_name": "계조암",
-    "length": 10,
-    "time": "0"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 38.189632,
-        "lng": 128.475067
-      },
-      {
-        "lat": 38.188213,
-        "lng": 128.475662
-      }
-    ],
-    "color": "#3710f5",
-    "start_point_name": "흔들바위",
-    "length": 166,
-    "time": "2"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 38.188213,
-        "lng": 128.475662
-      },
-      {
-        "lat": 38.187943,
-        "lng": 128.475388
-      }
-    ],
-    "color": "#45b355",
-    "start_point_name": "울산바위",
-    "length": 38,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 38.187943,
-        "lng": 128.475388
-      },
-      {
-        "lat": 38.185314,
-        "lng": 128.474274
-      }
-    ],
-    "color": "#70cec8",
-    "start_point_name": "울산바위 화장실",
-    "length": 308,
-    "time": "5"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 38.185314,
-        "lng": 128.474274
-      },
-      {
-        "lat": 38.18346,
-        "lng": 128.476456
-      }
-    ],
-    "color": "#80b612",
-    "start_point_name": "내원암",
-    "length": 280,
-    "time": "4"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 38.18346,
-        "lng": 128.476456
-      },
-      {
         "lat": 38.176006,
         "lng": 128.484451
-      }
-    ],
-    "color": "#eb90af",
-    "start_point_name": "화장실",
-    "length": 1084,
-    "time": "18"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 38.176006,
-        "lng": 128.484451
-      },
-      {
-        "lat": 38.175945,
-        "lng": 128.484802
-      }
-    ],
-    "color": "#6eb80a",
-    "start_point_name": "신흥사 극락보전",
-    "length": 31,
-    "time": "0"
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 38.175945,
-        "lng": 128.484802
-      },
-      {
-        "lat": 38.175884,
-        "lng": 128.484863
-      }
-    ],
-    "color": "#179e44",
-    "start_point_name": "신흥사 보제루",
-    "length": 8,
-    "time": "0"
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 38.175884,
-        "lng": 128.484863
       },
       {
         "lat": 38.17337,
         "lng": 128.490326
       }
     ],
-    "color": "#8f8aa1",
-    "start_point_name": "신흥사 해우소",
-    "length": 553,
-    "time": "9"
+    "color": "#1fcf7e",
+    "start_name": "신흥사 극락보전 / 신흥사 보제루 / 신흥사 해우소",
+    "length_meter": 593.4,
+    "time_minute": 9
   },
   {
-    "path_id": 24,
+    "path_id": 15,
     "path": [
       {
         "lat": 38.17337,
@@ -419,13 +266,13 @@
         "lng": 128.49292
       }
     ],
-    "color": "#2acce2",
-    "start_point_name": "금강소나무",
-    "length": 233,
-    "time": "3"
+    "color": "#d34026",
+    "start_name": "금강소나무",
+    "length_meter": 233.3,
+    "time_minute": 3
   },
   {
-    "path_id": 25,
+    "path_id": 16,
     "path": [
       {
         "lat": 38.172878,
@@ -436,9 +283,9 @@
         "lng": 128.495087
       }
     ],
-    "color": "#b1cfcb",
-    "start_point_name": "신흥사 부도군",
-    "length": 192,
-    "time": "3"
+    "color": "#7d722b",
+    "start_name": "신흥사 부도군",
+    "length_meter": 192.2,
+    "time_minute": 3
   }
 ]

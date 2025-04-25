@@ -11,10 +11,10 @@
         "lng": 126.671829
       }
     ],
-    "color": "#532c1a",
-    "start_point_name": "갈림길",
-    "length": 642,
-    "time": "10"
+    "color": "#658fbf",
+    "start_name": "갈림길",
+    "length_meter": 642.9,
+    "time_minute": 10
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 126.681305
       }
     ],
-    "color": "#dd7b21",
-    "start_point_name": "계곡내 바위",
-    "length": 875,
-    "time": "14"
+    "color": "#3edab3",
+    "start_name": "계곡내 바위",
+    "length_meter": 875.0,
+    "time_minute": 14
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 126.685226
       }
     ],
-    "color": "#924a96",
-    "start_point_name": "동백군락지 끝지점",
-    "length": 369,
-    "time": "6"
+    "color": "#630dbe",
+    "start_name": "동백군락지 끝지점",
+    "length_meter": 369.7,
+    "time_minute": 6
   },
   {
     "path_id": 3,
@@ -58,744 +58,251 @@
         "lng": 126.685226
       },
       {
-        "lat": 34.753738,
-        "lng": 126.685295
+        "lat": 34.765816,
+        "lng": 126.70845
       }
     ],
-    "color": "#31c4b3",
-    "start_point_name": "소국",
-    "length": 7,
-    "time": "0"
+    "color": "#a4001b",
+    "start_name": "소국 / ㅂ기",
+    "length_meter": 2512.8,
+    "time_minute": 41
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 34.753738,
-        "lng": 126.685295
-      },
-      {
         "lat": 34.765816,
         "lng": 126.70845
+      },
+      {
+        "lat": 34.76524,
+        "lng": 126.709816
       }
     ],
-    "color": "#3156c6",
-    "start_point_name": "ㅂ기",
-    "length": 2505,
-    "time": "41"
+    "color": "#7f89f4",
+    "start_name": "추락사고위험지역 / 천황봉",
+    "length_meter": 140.3,
+    "time_minute": 2
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 34.765816,
-        "lng": 126.70845
+        "lat": 34.76524,
+        "lng": 126.709816
       },
       {
-        "lat": 34.765785,
-        "lng": 126.708519
+        "lat": 34.76585,
+        "lng": 126.710709
       }
     ],
-    "color": "#5a52bf",
-    "start_point_name": "추락사고위험지역",
-    "length": 7,
-    "time": "0"
+    "color": "#909bf2",
+    "start_name": "국가지점번호 / 구름다리 / 기암바위 뒤로 활성산 풍력",
+    "length_meter": 108.6,
+    "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 34.765785,
-        "lng": 126.708519
+        "lat": 34.76585,
+        "lng": 126.710709
       },
       {
-        "lat": 34.76524,
-        "lng": 126.709816
+        "lat": 34.766102,
+        "lng": 126.711906
       }
     ],
-    "color": "#0f969e",
-    "start_point_name": "천황봉",
-    "length": 133,
-    "time": "2"
+    "color": "#7c1600",
+    "start_name": "급경사지 붕괴위험지역 / 국가지점번호 / 책바위 / 이정표",
+    "length_meter": 174.1,
+    "time_minute": 2
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 34.76524,
-        "lng": 126.709816
+        "lat": 34.766102,
+        "lng": 126.711906
       },
       {
-        "lat": 34.765259,
-        "lng": 126.709816
+        "lat": 34.76704,
+        "lng": 126.712433
       }
     ],
-    "color": "#e94d13",
-    "start_point_name": "국가지점번호",
-    "length": 2,
-    "time": "0"
+    "color": "#cbb5e0",
+    "start_name": "심장마비 사망 사고지역",
+    "length_meter": 114.9,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 34.765259,
-        "lng": 126.709816
+        "lat": 34.76704,
+        "lng": 126.712433
       },
       {
-        "lat": 34.765282,
-        "lng": 126.709961
+        "lat": 34.768116,
+        "lng": 126.712151
       }
     ],
-    "color": "#3cc0c3",
-    "start_point_name": "구름다리",
-    "length": 13,
-    "time": "0"
+    "color": "#3dad44",
+    "start_name": "국가지점번호 / 뱀딸기꽃 / 이정표 / 재난감시용cctv",
+    "length_meter": 130.1,
+    "time_minute": 2
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 34.765282,
-        "lng": 126.709961
+        "lat": 34.768116,
+        "lng": 126.712151
       },
       {
-        "lat": 34.76585,
-        "lng": 126.710709
+        "lat": 34.768929,
+        "lng": 126.711823
       }
     ],
-    "color": "#ae1e64",
-    "start_point_name": "기암바위 뒤로 활성산 풍력",
-    "length": 93,
-    "time": "1"
+    "color": "#6bd104",
+    "start_name": "이정표 / 사자봉",
+    "length_meter": 95.4,
+    "time_minute": 1
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 34.76585,
-        "lng": 126.710709
+        "lat": 34.768929,
+        "lng": 126.711823
       },
       {
-        "lat": 34.765934,
-        "lng": 126.710648
+        "lat": 34.768913,
+        "lng": 126.712395
       }
     ],
-    "color": "#4c8a65",
-    "start_point_name": "급경사지 붕괴위험지역",
-    "length": 10,
-    "time": "0"
+    "color": "#0276bc",
+    "start_name": "추락주의 / 사자봉 / 바람폭포 / 구름다리 / 이정표 / 구름다리 쉼터",
+    "length_meter": 70.1,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 34.765934,
-        "lng": 126.710648
+        "lat": 34.768913,
+        "lng": 126.712395
       },
       {
-        "lat": 34.765938,
-        "lng": 126.710632
+        "lat": 34.76825,
+        "lng": 126.712677
       }
     ],
-    "color": "#514094",
-    "start_point_name": "국가지점번호",
-    "length": 1,
-    "time": "0"
+    "color": "#c67248",
+    "start_name": "구름다리 / 구름다리안내 / 사고위험지역 / 갈림길 / 탐방로안내 / 국가지점번호 / 쉼터정자 / 비상구급함 / 낙석주의",
+    "length_meter": 81.8,
+    "time_minute": 1
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 34.765938,
-        "lng": 126.710632
+        "lat": 34.76825,
+        "lng": 126.712677
       },
       {
-        "lat": 34.766178,
-        "lng": 126.710472
+        "lat": 34.767826,
+        "lng": 126.713173
       }
     ],
-    "color": "#886000",
-    "start_point_name": "책바위",
-    "length": 30,
-    "time": "0"
+    "color": "#34623d",
+    "start_name": "급경사로 붕괴 위험지역 / 낙석주의",
+    "length_meter": 65.7,
+    "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 34.766178,
-        "lng": 126.710472
+        "lat": 34.767826,
+        "lng": 126.713173
       },
       {
-        "lat": 34.766102,
-        "lng": 126.711906
+        "lat": 34.769409,
+        "lng": 126.71389
       }
     ],
-    "color": "#a42394",
-    "start_point_name": "이정표",
-    "length": 131,
-    "time": "2"
+    "color": "#c495ff",
+    "start_name": "국가지점번호 / 낙석주의",
+    "length_meter": 190.5,
+    "time_minute": 3
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 34.766102,
-        "lng": 126.711906
+        "lat": 34.769409,
+        "lng": 126.71389
       },
       {
-        "lat": 34.76704,
-        "lng": 126.712433
+        "lat": 34.770096,
+        "lng": 126.7146
       }
     ],
-    "color": "#a9a29e",
-    "start_point_name": "심장마비 사망 사고지역",
-    "length": 114,
-    "time": "1"
+    "color": "#0d8c73",
+    "start_name": "이정표 / 바위",
+    "length_meter": 102.1,
+    "time_minute": 1
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 34.76704,
-        "lng": 126.712433
+        "lat": 34.770096,
+        "lng": 126.7146
       },
       {
-        "lat": 34.767044,
-        "lng": 126.712433
+        "lat": 34.771194,
+        "lng": 126.716743
       }
     ],
-    "color": "#5d1811",
-    "start_point_name": "국가지점번호",
-    "length": 0,
-    "time": "0"
+    "color": "#e19f3f",
+    "start_name": "국가지점번호",
+    "length_meter": 230.7,
+    "time_minute": 3
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 34.767044,
-        "lng": 126.712433
+        "lat": 34.771194,
+        "lng": 126.716743
       },
       {
-        "lat": 34.767036,
-        "lng": 126.712425
+        "lat": 34.771313,
+        "lng": 126.716949
       }
     ],
-    "color": "#5a3cfc",
-    "start_point_name": "뱀딸기꽃",
-    "length": 1,
-    "time": "0"
+    "color": "#ade89c",
+    "start_name": "벌쏘임주의 / 천황사터",
+    "length_meter": 96.0,
+    "time_minute": 1
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 34.767036,
-        "lng": 126.712425
-      },
-      {
-        "lat": 34.767395,
-        "lng": 126.712532
-      }
-    ],
-    "color": "#acdcfe",
-    "start_point_name": "이정표",
-    "length": 41,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 34.767395,
-        "lng": 126.712532
-      },
-      {
-        "lat": 34.768116,
-        "lng": 126.712151
-      }
-    ],
-    "color": "#8d4673",
-    "start_point_name": "재난감시용cctv",
-    "length": 87,
-    "time": "1"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 34.768116,
-        "lng": 126.712151
-      },
-      {
-        "lat": 34.768505,
-        "lng": 126.711967
-      }
-    ],
-    "color": "#9eaf38",
-    "start_point_name": "이정표",
-    "length": 46,
-    "time": "0"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 34.768505,
-        "lng": 126.711967
-      },
-      {
-        "lat": 34.768929,
-        "lng": 126.711823
-      }
-    ],
-    "color": "#ce0396",
-    "start_point_name": "사자봉",
-    "length": 48,
-    "time": "0"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 34.768929,
-        "lng": 126.711823
-      },
-      {
-        "lat": 34.768917,
-        "lng": 126.711815
-      }
-    ],
-    "color": "#907bc2",
-    "start_point_name": "추락주의",
-    "length": 1,
-    "time": "0"
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 34.768917,
-        "lng": 126.711815
-      },
-      {
-        "lat": 34.768913,
-        "lng": 126.711815
-      }
-    ],
-    "color": "#7733f8",
-    "start_point_name": "사자봉",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 34.768913,
-        "lng": 126.711815
-      },
-      {
-        "lat": 34.768929,
-        "lng": 126.711823
-      }
-    ],
-    "color": "#8c4609",
-    "start_point_name": "바람폭포",
-    "length": 1,
-    "time": "0"
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 34.768929,
-        "lng": 126.711823
-      },
-      {
-        "lat": 34.768906,
-        "lng": 126.711899
-      }
-    ],
-    "color": "#de1977",
-    "start_point_name": "구름다리",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 34.768906,
-        "lng": 126.711899
-      },
-      {
-        "lat": 34.76886,
-        "lng": 126.711838
-      }
-    ],
-    "color": "#8a0fbf",
-    "start_point_name": "이정표",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 34.76886,
-        "lng": 126.711838
-      },
-      {
-        "lat": 34.768913,
-        "lng": 126.712395
-      }
-    ],
-    "color": "#7523e5",
-    "start_point_name": "구름다리 쉼터",
-    "length": 51,
-    "time": "0"
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 34.768913,
-        "lng": 126.712395
-      },
-      {
-        "lat": 34.768913,
-        "lng": 126.712395
-      }
-    ],
-    "color": "#7b3745",
-    "start_point_name": "구름다리",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 34.768913,
-        "lng": 126.712395
-      },
-      {
-        "lat": 34.76873,
-        "lng": 126.712502
-      }
-    ],
-    "color": "#9f2b77",
-    "start_point_name": "구름다리안내",
-    "length": 22,
-    "time": "0"
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 34.76873,
-        "lng": 126.712502
-      },
-      {
-        "lat": 34.768681,
-        "lng": 126.712563
-      }
-    ],
-    "color": "#10938f",
-    "start_point_name": "사고위험지역",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 34.768681,
-        "lng": 126.712563
-      },
-      {
-        "lat": 34.768654,
-        "lng": 126.712601
-      }
-    ],
-    "color": "#cd48d9",
-    "start_point_name": "갈림길",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 34.768654,
-        "lng": 126.712601
-      },
-      {
-        "lat": 34.768654,
-        "lng": 126.712601
-      }
-    ],
-    "color": "#d7a9d8",
-    "start_point_name": "탐방로안내",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 34.768654,
-        "lng": 126.712601
-      },
-      {
-        "lat": 34.768593,
-        "lng": 126.712631
-      }
-    ],
-    "color": "#667454",
-    "start_point_name": "국가지점번호",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 34.768593,
-        "lng": 126.712631
-      },
-      {
-        "lat": 34.768578,
-        "lng": 126.712639
-      }
-    ],
-    "color": "#00021a",
-    "start_point_name": "쉼터정자",
-    "length": 1,
-    "time": "0"
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 34.768578,
-        "lng": 126.712639
-      },
-      {
-        "lat": 34.76852,
-        "lng": 126.712608
-      }
-    ],
-    "color": "#65cd37",
-    "start_point_name": "비상구급함",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 34.76852,
-        "lng": 126.712608
-      },
-      {
-        "lat": 34.76825,
-        "lng": 126.712677
-      }
-    ],
-    "color": "#b69a86",
-    "start_point_name": "낙석주의",
-    "length": 30,
-    "time": "0"
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 34.76825,
-        "lng": 126.712677
-      },
-      {
-        "lat": 34.767876,
-        "lng": 126.713142
-      }
-    ],
-    "color": "#e46e35",
-    "start_point_name": "급경사로 붕괴 위험지역",
-    "length": 59,
-    "time": "0"
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 34.767876,
-        "lng": 126.713142
-      },
-      {
-        "lat": 34.767826,
-        "lng": 126.713173
-      }
-    ],
-    "color": "#4fd779",
-    "start_point_name": "낙석주의",
-    "length": 6,
-    "time": "0"
-  },
-  {
-    "path_id": 38,
-    "path": [
-      {
-        "lat": 34.767826,
-        "lng": 126.713173
-      },
-      {
-        "lat": 34.768078,
-        "lng": 126.713432
-      }
-    ],
-    "color": "#9aa2c9",
-    "start_point_name": "국가지점번호",
-    "length": 36,
-    "time": "0"
-  },
-  {
-    "path_id": 39,
-    "path": [
-      {
-        "lat": 34.768078,
-        "lng": 126.713432
-      },
-      {
-        "lat": 34.769409,
-        "lng": 126.71389
-      }
-    ],
-    "color": "#18d146",
-    "start_point_name": "낙석주의",
-    "length": 153,
-    "time": "2"
-  },
-  {
-    "path_id": 40,
-    "path": [
-      {
-        "lat": 34.769409,
-        "lng": 126.71389
-      },
-      {
-        "lat": 34.769539,
-        "lng": 126.713928
-      }
-    ],
-    "color": "#b29665",
-    "start_point_name": "이정표",
-    "length": 14,
-    "time": "0"
-  },
-  {
-    "path_id": 41,
-    "path": [
-      {
-        "lat": 34.769539,
-        "lng": 126.713928
-      },
-      {
-        "lat": 34.770096,
-        "lng": 126.7146
-      }
-    ],
-    "color": "#74bcb7",
-    "start_point_name": "바위",
-    "length": 87,
-    "time": "1"
-  },
-  {
-    "path_id": 42,
-    "path": [
-      {
-        "lat": 34.770096,
-        "lng": 126.7146
-      },
-      {
-        "lat": 34.771194,
-        "lng": 126.716743
-      }
-    ],
-    "color": "#8c7def",
-    "start_point_name": "국가지점번호",
-    "length": 230,
-    "time": "3"
-  },
-  {
-    "path_id": 43,
-    "path": [
-      {
-        "lat": 34.771194,
-        "lng": 126.716743
-      },
-      {
-        "lat": 34.771381,
-        "lng": 126.716354
-      }
-    ],
-    "color": "#bc5e11",
-    "start_point_name": "벌쏘임주의",
-    "length": 41,
-    "time": "0"
-  },
-  {
-    "path_id": 44,
-    "path": [
-      {
-        "lat": 34.771381,
-        "lng": 126.716354
-      },
-      {
         "lat": 34.771313,
         "lng": 126.716949
-      }
-    ],
-    "color": "#dde409",
-    "start_point_name": "천황사터",
-    "length": 54,
-    "time": "0"
-  },
-  {
-    "path_id": 45,
-    "path": [
-      {
-        "lat": 34.771313,
-        "lng": 126.716949
-      },
-      {
-        "lat": 34.771564,
-        "lng": 126.716606
-      }
-    ],
-    "color": "#5f2bd3",
-    "start_point_name": "이정표",
-    "length": 41,
-    "time": "0"
-  },
-  {
-    "path_id": 46,
-    "path": [
-      {
-        "lat": 34.771564,
-        "lng": 126.716606
       },
       {
         "lat": 34.772469,
         "lng": 126.71817
       }
     ],
-    "color": "#fc715e",
-    "start_point_name": "천황사",
-    "length": 174,
-    "time": "2"
+    "color": "#101a64",
+    "start_name": "이정표 / 천황사",
+    "length_meter": 216.7,
+    "time_minute": 3
   }
 ]

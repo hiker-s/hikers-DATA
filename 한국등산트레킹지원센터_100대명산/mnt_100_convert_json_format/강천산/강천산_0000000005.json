@@ -11,10 +11,10 @@
         "lng": 127.036018
       }
     ],
-    "color": "#f9866f",
-    "start_point_name": "위험지역",
-    "length": 770,
-    "time": "12"
+    "color": "#30887e",
+    "start_name": "위험지역",
+    "length_meter": 770.0,
+    "time_minute": 12
   },
   {
     "path_id": 1,
@@ -24,289 +24,221 @@
         "lng": 127.036018
       },
       {
-        "lat": 35.390797,
-        "lng": 127.036369
+        "lat": 35.391811,
+        "lng": 127.041412
       }
     ],
-    "color": "#498993",
-    "start_point_name": "위험지역",
-    "length": 34,
-    "time": "0"
+    "color": "#78e5ca",
+    "start_name": "위험지역 / 위험지역",
+    "length_meter": 505.6,
+    "time_minute": 8
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.390797,
-        "lng": 127.036369
-      },
-      {
         "lat": 35.391811,
         "lng": 127.041412
+      },
+      {
+        "lat": 35.390144,
+        "lng": 127.040039
       }
     ],
-    "color": "#57719d",
-    "start_point_name": "위험지역",
-    "length": 470,
-    "time": "7"
+    "color": "#7fa04a",
+    "start_name": "갈림길",
+    "length_meter": 223.3,
+    "time_minute": 3
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.391811,
-        "lng": 127.041412
-      },
-      {
         "lat": 35.390144,
         "lng": 127.040039
+      },
+      {
+        "lat": 35.39098,
+        "lng": 127.045746
       }
     ],
-    "color": "#fe906f",
-    "start_point_name": "갈림길",
-    "length": 223,
-    "time": "3"
+    "color": "#f2e355",
+    "start_name": "갈림길",
+    "length_meter": 525.6,
+    "time_minute": 8
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.390144,
-        "lng": 127.040039
-      },
-      {
         "lat": 35.39098,
         "lng": 127.045746
+      },
+      {
+        "lat": 35.390293,
+        "lng": 127.045753
       }
     ],
-    "color": "#e4de66",
-    "start_point_name": "갈림길",
-    "length": 525,
-    "time": "8"
+    "color": "#65502d",
+    "start_name": "자연경관",
+    "length_meter": 76.4,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.39098,
-        "lng": 127.045746
-      },
-      {
         "lat": 35.390293,
         "lng": 127.045753
+      },
+      {
+        "lat": 35.388706,
+        "lng": 127.045692
       }
     ],
-    "color": "#623bd7",
-    "start_point_name": "자연경관",
-    "length": 76,
-    "time": "1"
+    "color": "#4d20f0",
+    "start_name": "자연경관",
+    "length_meter": 176.6,
+    "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.390293,
-        "lng": 127.045753
-      },
-      {
         "lat": 35.388706,
         "lng": 127.045692
+      },
+      {
+        "lat": 35.388149,
+        "lng": 127.045799
       }
     ],
-    "color": "#d25be0",
-    "start_point_name": "자연경관",
-    "length": 176,
-    "time": "2"
+    "color": "#5672d6",
+    "start_name": "자연경관",
+    "length_meter": 62.7,
+    "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.388706,
-        "lng": 127.045692
-      },
-      {
         "lat": 35.388149,
         "lng": 127.045799
+      },
+      {
+        "lat": 35.384674,
+        "lng": 127.049118
       }
     ],
-    "color": "#e2ce4f",
-    "start_point_name": "자연경관",
-    "length": 62,
-    "time": "1"
+    "color": "#102ddf",
+    "start_name": "자연경관",
+    "length_meter": 489.7,
+    "time_minute": 8
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.388149,
-        "lng": 127.045799
-      },
-      {
         "lat": 35.384674,
         "lng": 127.049118
+      },
+      {
+        "lat": 35.384293,
+        "lng": 127.051659
       }
     ],
-    "color": "#f98b0f",
-    "start_point_name": "자연경관",
-    "length": 489,
-    "time": "8"
+    "color": "#74b7f8",
+    "start_name": "자연경관",
+    "length_meter": 234.2,
+    "time_minute": 3
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.384674,
-        "lng": 127.049118
-      },
-      {
         "lat": 35.384293,
         "lng": 127.051659
+      },
+      {
+        "lat": 35.384838,
+        "lng": 127.055862
       }
     ],
-    "color": "#79e381",
-    "start_point_name": "자연경관",
-    "length": 234,
-    "time": "3"
+    "color": "#c25794",
+    "start_name": "자연경관",
+    "length_meter": 385.8,
+    "time_minute": 6
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.384293,
-        "lng": 127.051659
-      },
-      {
         "lat": 35.384838,
         "lng": 127.055862
+      },
+      {
+        "lat": 35.389336,
+        "lng": 127.051704
       }
     ],
-    "color": "#f9a286",
-    "start_point_name": "자연경관",
-    "length": 385,
-    "time": "6"
+    "color": "#db52af",
+    "start_name": "갈림길",
+    "length_meter": 626.3,
+    "time_minute": 10
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.384838,
-        "lng": 127.055862
-      },
-      {
         "lat": 35.389336,
         "lng": 127.051704
+      },
+      {
+        "lat": 35.390358,
+        "lng": 127.051048
       }
     ],
-    "color": "#ff4408",
-    "start_point_name": "갈림길",
-    "length": 626,
-    "time": "10"
+    "color": "#81eeef",
+    "start_name": "자연경관",
+    "length_meter": 128.3,
+    "time_minute": 2
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.389336,
-        "lng": 127.051704
-      },
-      {
         "lat": 35.390358,
         "lng": 127.051048
+      },
+      {
+        "lat": 35.39119,
+        "lng": 127.050316
       }
     ],
-    "color": "#dc5cad",
-    "start_point_name": "자연경관",
-    "length": 128,
-    "time": "2"
+    "color": "#5f9b11",
+    "start_name": "조망점",
+    "length_meter": 113.8,
+    "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 35.390358,
-        "lng": 127.051048
-      },
-      {
         "lat": 35.39119,
         "lng": 127.050316
-      }
-    ],
-    "color": "#ee1684",
-    "start_point_name": "조망점",
-    "length": 113,
-    "time": "1"
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.39119,
-        "lng": 127.050316
-      },
-      {
-        "lat": 35.391155,
-        "lng": 127.050278
-      }
-    ],
-    "color": "#3bee8d",
-    "start_point_name": "조망점",
-    "length": 5,
-    "time": "0"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.391155,
-        "lng": 127.050278
-      },
-      {
-        "lat": 35.391201,
-        "lng": 127.050156
-      }
-    ],
-    "color": "#68adbf",
-    "start_point_name": "조망점",
-    "length": 12,
-    "time": "0"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.391201,
-        "lng": 127.050156
-      },
-      {
-        "lat": 35.391251,
-        "lng": 127.050194
-      }
-    ],
-    "color": "#2d5f47",
-    "start_point_name": "조망점",
-    "length": 6,
-    "time": "0"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.391251,
-        "lng": 127.050194
       },
       {
         "lat": 35.391907,
         "lng": 127.046616
       }
     ],
-    "color": "#e40cdc",
-    "start_point_name": "조망점",
-    "length": 332,
-    "time": "5"
+    "color": "#c138a9",
+    "start_name": "조망점 / 조망점 / 조망점 / 조망점",
+    "length_meter": 356.4,
+    "time_minute": 5
   },
   {
-    "path_id": 18,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.391907,
@@ -317,9 +249,9 @@
         "lng": 127.046577
       }
     ],
-    "color": "#5fe818",
-    "start_point_name": "위험지역",
-    "length": 3,
-    "time": "0"
+    "color": "#ffbe3a",
+    "start_name": "위험지역",
+    "length_meter": 3.5,
+    "time_minute": 0
   }
 ]

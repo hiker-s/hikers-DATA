@@ -11,10 +11,10 @@
         "lng": 127.443733
       }
     ],
-    "color": "#276932",
-    "start_point_name": "광덕산 정류장",
-    "length": 202,
-    "time": "3"
+    "color": "#123933",
+    "start_name": "광덕산 정류장",
+    "length_meter": 202.3,
+    "time_minute": 3
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 127.445412
       }
     ],
-    "color": "#31d87f",
-    "start_point_name": "광덕고개",
-    "length": 1028,
-    "time": "17"
+    "color": "#b7a838",
+    "start_name": "광덕고개",
+    "length_meter": 1028.5,
+    "time_minute": 17
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 127.446037
       }
     ],
-    "color": "#48a2b0",
-    "start_point_name": "고개 쉼터",
-    "length": 642,
-    "time": "10"
+    "color": "#587927",
+    "start_name": "고개 쉼터",
+    "length_meter": 642.0,
+    "time_minute": 10
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 127.446648
       }
     ],
-    "color": "#398a42",
-    "start_point_name": "헬기장",
-    "length": 281,
-    "time": "4"
+    "color": "#f5abb9",
+    "start_name": "헬기장",
+    "length_meter": 281.7,
+    "time_minute": 4
   },
   {
     "path_id": 4,
@@ -79,10 +79,10 @@
         "lng": 127.447182
       }
     ],
-    "color": "#a419af",
-    "start_point_name": "언덕",
-    "length": 275,
-    "time": "4"
+    "color": "#f674b5",
+    "start_name": "언덕",
+    "length_meter": 275.1,
+    "time_minute": 4
   },
   {
     "path_id": 5,
@@ -96,10 +96,10 @@
         "lng": 127.444565
       }
     ],
-    "color": "#cd8a7e",
-    "start_point_name": "쉼터",
-    "length": 617,
-    "time": "10"
+    "color": "#d03db8",
+    "start_name": "쉼터",
+    "length_meter": 617.9,
+    "time_minute": 10
   },
   {
     "path_id": 6,
@@ -113,10 +113,10 @@
         "lng": 127.446724
       }
     ],
-    "color": "#5fa8d7",
-    "start_point_name": "백운산",
-    "length": 822,
-    "time": "13"
+    "color": "#4d7788",
+    "start_name": "백운산",
+    "length_meter": 822.1,
+    "time_minute": 13
   },
   {
     "path_id": 7,
@@ -126,268 +126,183 @@
         "lng": 127.446724
       },
       {
-        "lat": 38.067593,
-        "lng": 127.446754
+        "lat": 38.058552,
+        "lng": 127.44384
       }
     ],
-    "color": "#b1b57c",
-    "start_point_name": "삼각봉",
-    "length": 7,
-    "time": "0"
+    "color": "#bcfb3a",
+    "start_name": "삼각봉 / 쉼터",
+    "length_meter": 1044.8,
+    "time_minute": 17
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 38.067593,
-        "lng": 127.446754
-      },
-      {
         "lat": 38.058552,
         "lng": 127.44384
+      },
+      {
+        "lat": 38.060486,
+        "lng": 127.434608
       }
     ],
-    "color": "#315052",
-    "start_point_name": "쉼터",
-    "length": 1037,
-    "time": "17"
+    "color": "#ae804c",
+    "start_name": "도마치봉",
+    "length_meter": 836.4,
+    "time_minute": 13
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 38.058552,
-        "lng": 127.44384
-      },
-      {
         "lat": 38.060486,
         "lng": 127.434608
+      },
+      {
+        "lat": 38.060337,
+        "lng": 127.431488
       }
     ],
-    "color": "#f48df8",
-    "start_point_name": "도마치봉",
-    "length": 836,
-    "time": "13"
+    "color": "#838913",
+    "start_name": "황룡사 사거리",
+    "length_meter": 273.7,
+    "time_minute": 4
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 38.060486,
-        "lng": 127.434608
-      },
-      {
         "lat": 38.060337,
         "lng": 127.431488
+      },
+      {
+        "lat": 38.05793,
+        "lng": 127.427666
       }
     ],
-    "color": "#0a3142",
-    "start_point_name": "황룡사 사거리",
-    "length": 273,
-    "time": "4"
+    "color": "#24d0e0",
+    "start_name": "향적봉",
+    "length_meter": 428.5,
+    "time_minute": 7
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 38.060337,
-        "lng": 127.431488
-      },
-      {
         "lat": 38.05793,
         "lng": 127.427666
+      },
+      {
+        "lat": 38.057854,
+        "lng": 127.425377
       }
     ],
-    "color": "#ad79b3",
-    "start_point_name": "향적봉",
-    "length": 428,
-    "time": "7"
+    "color": "#e1e0bb",
+    "start_name": "쉼터",
+    "length_meter": 200.6,
+    "time_minute": 3
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 38.05793,
-        "lng": 127.427666
-      },
-      {
         "lat": 38.057854,
         "lng": 127.425377
+      },
+      {
+        "lat": 38.057812,
+        "lng": 127.424446
       }
     ],
-    "color": "#046743",
-    "start_point_name": "쉼터",
-    "length": 200,
-    "time": "3"
+    "color": "#714601",
+    "start_name": "흥룡사 가는길",
+    "length_meter": 81.6,
+    "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 38.057854,
-        "lng": 127.425377
-      },
-      {
         "lat": 38.057812,
         "lng": 127.424446
+      },
+      {
+        "lat": 38.060379,
+        "lng": 127.417709
       }
     ],
-    "color": "#f7e692",
-    "start_point_name": "흥룡사 가는길",
-    "length": 81,
-    "time": "1"
+    "color": "#166fad",
+    "start_name": "흥룡봉 / 헬기장",
+    "length_meter": 657.1,
+    "time_minute": 10
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 38.057812,
-        "lng": 127.424446
+        "lat": 38.060379,
+        "lng": 127.417709
       },
       {
-        "lat": 38.057877,
-        "lng": 127.423965
+        "lat": 38.069088,
+        "lng": 127.414993
       }
     ],
-    "color": "#a3dd3a",
-    "start_point_name": "흥룡봉",
-    "length": 42,
-    "time": "0"
+    "color": "#c9aedb",
+    "start_name": "649봉",
+    "length_meter": 997.2,
+    "time_minute": 16
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 38.057877,
-        "lng": 127.423965
+        "lat": 38.069088,
+        "lng": 127.414993
       },
       {
-        "lat": 38.060379,
-        "lng": 127.417709
+        "lat": 38.070965,
+        "lng": 127.41037
       }
     ],
-    "color": "#702965",
-    "start_point_name": "헬기장",
-    "length": 614,
-    "time": "10"
+    "color": "#43661f",
+    "start_name": "계곡 / 안내 표지판",
+    "length_meter": 469.1,
+    "time_minute": 7
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 38.060379,
-        "lng": 127.417709
+        "lat": 38.070965,
+        "lng": 127.41037
       },
       {
-        "lat": 38.069088,
-        "lng": 127.414993
+        "lat": 38.072224,
+        "lng": 127.409714
       }
     ],
-    "color": "#4a1fba",
-    "start_point_name": "649봉",
-    "length": 997,
-    "time": "16"
+    "color": "#a135a3",
+    "start_name": "화장실 / 흥룡사 사찰",
+    "length_meter": 185.9,
+    "time_minute": 3
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 38.069088,
-        "lng": 127.414993
-      },
-      {
-        "lat": 38.068981,
-        "lng": 127.414421
-      }
-    ],
-    "color": "#971756",
-    "start_point_name": "계곡",
-    "length": 51,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 38.068981,
-        "lng": 127.414421
-      },
-      {
-        "lat": 38.070965,
-        "lng": 127.41037
-      }
-    ],
-    "color": "#8e6241",
-    "start_point_name": "안내 표지판",
-    "length": 417,
-    "time": "6"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 38.070965,
-        "lng": 127.41037
-      },
-      {
-        "lat": 38.070938,
-        "lng": 127.410622
-      }
-    ],
-    "color": "#a91491",
-    "start_point_name": "화장실",
-    "length": 22,
-    "time": "0"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 38.070938,
-        "lng": 127.410622
-      },
-      {
         "lat": 38.072224,
         "lng": 127.409714
-      }
-    ],
-    "color": "#d967c2",
-    "start_point_name": "흥룡사 사찰",
-    "length": 163,
-    "time": "2"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 38.072224,
-        "lng": 127.409714
-      },
-      {
-        "lat": 38.072586,
-        "lng": 127.409599
-      }
-    ],
-    "color": "#d4284e",
-    "start_point_name": "흥룡사 주차장",
-    "length": 41,
-    "time": "0"
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 38.072586,
-        "lng": 127.409599
       },
       {
         "lat": 38.073212,
         "lng": 127.409058
       }
     ],
-    "color": "#10b87a",
-    "start_point_name": "주차장 안내",
-    "length": 84,
-    "time": "1"
+    "color": "#f5e95a",
+    "start_name": "흥룡사 주차장 / 주차장 안내",
+    "length_meter": 125.7,
+    "time_minute": 2
   }
 ]

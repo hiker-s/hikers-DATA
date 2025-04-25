@@ -11,10 +11,10 @@
         "lng": 126.455345
       }
     ],
-    "color": "#d9bffe",
-    "start_point_name": "영실입구 정류소",
-    "length": 558,
-    "time": "9"
+    "color": "#659d09",
+    "start_name": "영실입구 정류소",
+    "length_meter": 558.6,
+    "time_minute": 9
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 126.444435
       }
     ],
-    "color": "#ce4dca",
-    "start_point_name": "보림농장삼거리 진입로",
-    "length": 1406,
-    "time": "23"
+    "color": "#9adaf5",
+    "start_name": "보림농장삼거리 진입로",
+    "length_meter": 1406.8,
+    "time_minute": 23
   },
   {
     "path_id": 2,
@@ -41,408 +41,272 @@
         "lng": 126.444435
       },
       {
-        "lat": 33.345455,
-        "lng": 126.444427
+        "lat": 33.346794,
+        "lng": 126.443054
       }
     ],
-    "color": "#559781",
-    "start_point_name": "갈림길 3",
-    "length": 7,
-    "time": "0"
+    "color": "#654efa",
+    "start_name": "갈림길 3 / 천아숲길 입출구 / 보림농장삼거리 쉼터",
+    "length_meter": 203.7,
+    "time_minute": 3
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 33.345455,
-        "lng": 126.444427
+        "lat": 33.346794,
+        "lng": 126.443054
       },
       {
-        "lat": 33.34552,
-        "lng": 126.444374
+        "lat": 33.350464,
+        "lng": 126.441742
       }
     ],
-    "color": "#302a3d",
-    "start_point_name": "천아숲길 입출구",
-    "length": 8,
-    "time": "0"
+    "color": "#6b49e6",
+    "start_name": "표고버섯재배장",
+    "length_meter": 425.9,
+    "time_minute": 7
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 33.34552,
-        "lng": 126.444374
+        "lat": 33.350464,
+        "lng": 126.441742
       },
       {
-        "lat": 33.346794,
-        "lng": 126.443054
+        "lat": 33.350929,
+        "lng": 126.43763
       }
     ],
-    "color": "#dd729e",
-    "start_point_name": "보림농장삼거리 쉼터",
-    "length": 187,
-    "time": "3"
+    "color": "#59c049",
+    "start_name": "천아숲길 바위",
+    "length_meter": 385.4,
+    "time_minute": 6
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 33.346794,
-        "lng": 126.443054
+        "lat": 33.350929,
+        "lng": 126.43763
       },
       {
-        "lat": 33.350464,
-        "lng": 126.441742
+        "lat": 33.354832,
+        "lng": 126.436096
       }
     ],
-    "color": "#a3915a",
-    "start_point_name": "표고버섯재배장",
-    "length": 425,
-    "time": "7"
+    "color": "#a1dccc",
+    "start_name": "표고버섯재배장 / 갈림길 9 / 갈림길 10",
+    "length_meter": 505.2,
+    "time_minute": 8
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 33.350464,
-        "lng": 126.441742
+        "lat": 33.354832,
+        "lng": 126.436096
       },
       {
-        "lat": 33.350929,
-        "lng": 126.43763
+        "lat": 33.361633,
+        "lng": 126.436813
       }
     ],
-    "color": "#a679a6",
-    "start_point_name": "천아숲길 바위",
-    "length": 385,
-    "time": "6"
+    "color": "#f5d14f",
+    "start_name": "갈림길 11",
+    "length_meter": 759.2,
+    "time_minute": 12
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 33.350929,
-        "lng": 126.43763
+        "lat": 33.361633,
+        "lng": 126.436813
       },
       {
-        "lat": 33.350769,
-        "lng": 126.437828
+        "lat": 33.362843,
+        "lng": 126.439499
       }
     ],
-    "color": "#efb223",
-    "start_point_name": "표고버섯재배장",
-    "length": 25,
-    "time": "0"
+    "color": "#ddea9d",
+    "start_name": "삼나무군락지",
+    "length_meter": 283.4,
+    "time_minute": 4
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 33.350769,
-        "lng": 126.437828
+        "lat": 33.362843,
+        "lng": 126.439499
       },
       {
-        "lat": 33.350769,
-        "lng": 126.437828
+        "lat": 33.368027,
+        "lng": 126.444138
       }
     ],
-    "color": "#84000c",
-    "start_point_name": "갈림길 9",
-    "length": 0,
-    "time": "0"
+    "color": "#043c06",
+    "start_name": "삼나무군락지",
+    "length_meter": 719.6,
+    "time_minute": 11
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 33.350769,
-        "lng": 126.437828
+        "lat": 33.368027,
+        "lng": 126.444138
       },
       {
-        "lat": 33.354832,
-        "lng": 126.436096
+        "lat": 33.373531,
+        "lng": 126.450897
       }
     ],
-    "color": "#d52d71",
-    "start_point_name": "갈림길 10",
-    "length": 479,
-    "time": "7"
+    "color": "#30e843",
+    "start_name": "갈림길 14",
+    "length_meter": 876.6,
+    "time_minute": 14
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 33.354832,
-        "lng": 126.436096
+        "lat": 33.373531,
+        "lng": 126.450897
       },
       {
-        "lat": 33.361633,
-        "lng": 126.436813
+        "lat": 33.375813,
+        "lng": 126.449501
       }
     ],
-    "color": "#f84b3a",
-    "start_point_name": "갈림길 11",
-    "length": 759,
-    "time": "12"
+    "color": "#9dc4b1",
+    "start_name": "삼나무군락지",
+    "length_meter": 284.9,
+    "time_minute": 4
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 33.361633,
-        "lng": 126.436813
+        "lat": 33.375813,
+        "lng": 126.449501
       },
       {
-        "lat": 33.362843,
-        "lng": 126.439499
+        "lat": 33.377228,
+        "lng": 126.447578
       }
     ],
-    "color": "#dc205c",
-    "start_point_name": "삼나무군락지",
-    "length": 283,
-    "time": "4"
+    "color": "#09bbbe",
+    "start_name": "삼나무군락지",
+    "length_meter": 238.0,
+    "time_minute": 3
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 33.362843,
-        "lng": 126.439499
+        "lat": 33.377228,
+        "lng": 126.447578
       },
       {
-        "lat": 33.368027,
-        "lng": 126.444138
+        "lat": 33.383232,
+        "lng": 126.448509
       }
     ],
-    "color": "#a8e6b1",
-    "start_point_name": "삼나무군락지",
-    "length": 719,
-    "time": "11"
+    "color": "#8ebdde",
+    "start_name": "갈림길 17",
+    "length_meter": 673.2,
+    "time_minute": 11
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 33.368027,
-        "lng": 126.444138
+        "lat": 33.383232,
+        "lng": 126.448509
       },
       {
-        "lat": 33.373531,
-        "lng": 126.450897
+        "lat": 33.385471,
+        "lng": 126.451744
       }
     ],
-    "color": "#464854",
-    "start_point_name": "갈림길 14",
-    "length": 876,
-    "time": "14"
+    "color": "#bcbd5a",
+    "start_name": "삼나무군락지",
+    "length_meter": 390.1,
+    "time_minute": 6
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 33.373531,
-        "lng": 126.450897
+        "lat": 33.385471,
+        "lng": 126.451744
       },
       {
-        "lat": 33.375813,
-        "lng": 126.449501
+        "lat": 33.390854,
+        "lng": 126.452812
       }
     ],
-    "color": "#ed45af",
-    "start_point_name": "삼나무군락지",
-    "length": 284,
-    "time": "4"
+    "color": "#769104",
+    "start_name": "제주조릿대 / 제주조릿대 관리구역",
+    "length_meter": 606.7,
+    "time_minute": 10
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 33.375813,
-        "lng": 126.449501
+        "lat": 33.390854,
+        "lng": 126.452812
       },
       {
-        "lat": 33.377228,
-        "lng": 126.447578
+        "lat": 33.395161,
+        "lng": 126.458923
       }
     ],
-    "color": "#cd9492",
-    "start_point_name": "삼나무군락지",
-    "length": 237,
-    "time": "3"
+    "color": "#b9f7f5",
+    "start_name": "갈림길 20",
+    "length_meter": 742.4,
+    "time_minute": 12
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 33.377228,
-        "lng": 126.447578
+        "lat": 33.395161,
+        "lng": 126.458923
       },
       {
-        "lat": 33.383232,
-        "lng": 126.448509
+        "lat": 33.396706,
+        "lng": 126.459526
       }
     ],
-    "color": "#0c4b64",
-    "start_point_name": "갈림길 17",
-    "length": 673,
-    "time": "11"
+    "color": "#7e1093",
+    "start_name": "미끄럼주의",
+    "length_meter": 180.7,
+    "time_minute": 3
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 33.383232,
-        "lng": 126.448509
-      },
-      {
-        "lat": 33.385471,
-        "lng": 126.451744
-      }
-    ],
-    "color": "#d01276",
-    "start_point_name": "삼나무군락지",
-    "length": 390,
-    "time": "6"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 33.385471,
-        "lng": 126.451744
-      },
-      {
-        "lat": 33.385471,
-        "lng": 126.451744
-      }
-    ],
-    "color": "#cb4e5f",
-    "start_point_name": "제주조릿대",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 33.385471,
-        "lng": 126.451744
-      },
-      {
-        "lat": 33.390854,
-        "lng": 126.452812
-      }
-    ],
-    "color": "#aff7c8",
-    "start_point_name": "제주조릿대 관리구역",
-    "length": 606,
-    "time": "10"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 33.390854,
-        "lng": 126.452812
-      },
-      {
-        "lat": 33.395161,
-        "lng": 126.458923
-      }
-    ],
-    "color": "#aa934c",
-    "start_point_name": "갈림길 20",
-    "length": 742,
-    "time": "12"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 33.395161,
-        "lng": 126.458923
-      },
-      {
         "lat": 33.396706,
         "lng": 126.459526
-      }
-    ],
-    "color": "#731022",
-    "start_point_name": "미끄럼주의",
-    "length": 180,
-    "time": "3"
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 33.396706,
-        "lng": 126.459526
-      },
-      {
-        "lat": 33.396774,
-        "lng": 126.459503
-      }
-    ],
-    "color": "#08d080",
-    "start_point_name": "천아수원지 화장실",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 33.396774,
-        "lng": 126.459503
-      },
-      {
-        "lat": 33.396503,
-        "lng": 126.459595
-      }
-    ],
-    "color": "#ab8a8a",
-    "start_point_name": "천아수원지  주차장",
-    "length": 31,
-    "time": "0"
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 33.396503,
-        "lng": 126.459595
-      },
-      {
-        "lat": 33.396503,
-        "lng": 126.459595
-      }
-    ],
-    "color": "#b2e0fe",
-    "start_point_name": "천아수원지 방향 입출구",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 33.396503,
-        "lng": 126.459595
       },
       {
         "lat": 33.409359,
         "lng": 126.476906
       }
     ],
-    "color": "#ff891a",
-    "start_point_name": "천아수원지 방향 천아숲길 입출구",
-    "length": 2150,
-    "time": "35"
+    "color": "#133fb8",
+    "start_name": "천아수원지 화장실 / 천아수원지  주차장 / 천아수원지 방향 입출구 / 천아수원지 방향 천아숲길 입출구",
+    "length_meter": 2189.9,
+    "time_minute": 36
   },
   {
-    "path_id": 26,
+    "path_id": 18,
     "path": [
       {
         "lat": 33.409359,
@@ -453,9 +317,9 @@
         "lng": 126.477066
       }
     ],
-    "color": "#f255de",
-    "start_point_name": "천아수원지 둘레길 입출구",
-    "length": 24,
-    "time": "0"
+    "color": "#42a054",
+    "start_name": "천아수원지 둘레길 입출구",
+    "length_meter": 24.5,
+    "time_minute": 0
   }
 ]

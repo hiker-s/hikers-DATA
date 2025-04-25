@@ -11,10 +11,10 @@
         "lng": 127.759773
       }
     ],
-    "color": "#d8e197",
-    "start_point_name": "갈림길",
-    "length": 490,
-    "time": "8"
+    "color": "#3135ef",
+    "start_name": "갈림길",
+    "length_meter": 490.1,
+    "time_minute": 8
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 127.755539
       }
     ],
-    "color": "#1a9a3a",
-    "start_point_name": "갈림길",
-    "length": 527,
-    "time": "8"
+    "color": "#f1a1bb",
+    "start_name": "갈림길",
+    "length_meter": 527.9,
+    "time_minute": 8
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 127.749535
       }
     ],
-    "color": "#eb6761",
-    "start_point_name": "갈림길",
-    "length": 789,
-    "time": "13"
+    "color": "#d6ed76",
+    "start_name": "갈림길",
+    "length_meter": 789.0,
+    "time_minute": 13
   },
   {
     "path_id": 3,
@@ -58,289 +58,119 @@
         "lng": 127.749535
       },
       {
-        "lat": 38.040009,
-        "lng": 127.749527
+        "lat": 38.038589,
+        "lng": 127.747963
       }
     ],
-    "color": "#576bd1",
-    "start_point_name": "포토존",
-    "length": 0,
-    "time": "0"
+    "color": "#02d05e",
+    "start_name": "포토존 / 곰바위 조망점 / 추락주의구간 / 조망점",
+    "length_meter": 210.4,
+    "time_minute": 3
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 38.040009,
-        "lng": 127.749527
+        "lat": 38.038589,
+        "lng": 127.747963
       },
       {
-        "lat": 38.039837,
-        "lng": 127.749405
+        "lat": 38.036697,
+        "lng": 127.748695
       }
     ],
-    "color": "#690ebb",
-    "start_point_name": "곰바위 조망점",
-    "length": 21,
-    "time": "0"
+    "color": "#2fb061",
+    "start_name": "갈림길 / 쉼터 / 용화산 정상",
+    "length_meter": 221.4,
+    "time_minute": 3
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 38.039837,
-        "lng": 127.749405
+        "lat": 38.036697,
+        "lng": 127.748695
       },
       {
-        "lat": 38.039772,
-        "lng": 127.749344
+        "lat": 38.0327,
+        "lng": 127.750854
       }
     ],
-    "color": "#ac3c6f",
-    "start_point_name": "추락주의구간",
-    "length": 8,
-    "time": "0"
+    "color": "#33d72f",
+    "start_name": "갈림길 / 포토존 / 입석대 조망점",
+    "length_meter": 484.9,
+    "time_minute": 8
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 38.039772,
-        "lng": 127.749344
+        "lat": 38.0327,
+        "lng": 127.750854
       },
       {
-        "lat": 38.038589,
-        "lng": 127.747963
+        "lat": 38.02692,
+        "lng": 127.748886
       }
     ],
-    "color": "#9cd018",
-    "start_point_name": "조망점",
-    "length": 178,
-    "time": "2"
+    "color": "#945f6a",
+    "start_name": "득남바위",
+    "length_meter": 665.4,
+    "time_minute": 11
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 38.038589,
-        "lng": 127.747963
+        "lat": 38.02692,
+        "lng": 127.748886
       },
       {
-        "lat": 38.038437,
-        "lng": 127.747948
+        "lat": 38.024323,
+        "lng": 127.74826
       }
     ],
-    "color": "#c036df",
-    "start_point_name": "갈림길",
-    "length": 16,
-    "time": "0"
+    "color": "#45d9c7",
+    "start_name": "추락주의구간 / 겨울철 상습결빙구간",
+    "length_meter": 294.0,
+    "time_minute": 4
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 38.038437,
-        "lng": 127.747948
+        "lat": 38.024323,
+        "lng": 127.74826
       },
       {
-        "lat": 38.038239,
-        "lng": 127.74807
+        "lat": 38.023529,
+        "lng": 127.748184
       }
     ],
-    "color": "#e45e2d",
-    "start_point_name": "쉼터",
-    "length": 24,
-    "time": "0"
+    "color": "#50122f",
+    "start_name": "소",
+    "length_meter": 88.5,
+    "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 38.038239,
-        "lng": 127.74807
-      },
-      {
-        "lat": 38.036697,
-        "lng": 127.748695
-      }
-    ],
-    "color": "#5e89c3",
-    "start_point_name": "용화산 정상",
-    "length": 179,
-    "time": "2"
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 38.036697,
-        "lng": 127.748695
-      },
-      {
-        "lat": 38.036396,
-        "lng": 127.748772
-      }
-    ],
-    "color": "#765c65",
-    "start_point_name": "갈림길",
-    "length": 34,
-    "time": "0"
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 38.036396,
-        "lng": 127.748772
-      },
-      {
-        "lat": 38.036366,
-        "lng": 127.748833
-      }
-    ],
-    "color": "#ca6671",
-    "start_point_name": "포토존",
-    "length": 6,
-    "time": "0"
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 38.036366,
-        "lng": 127.748833
-      },
-      {
-        "lat": 38.0327,
-        "lng": 127.750854
-      }
-    ],
-    "color": "#a233c1",
-    "start_point_name": "입석대 조망점",
-    "length": 444,
-    "time": "7"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 38.0327,
-        "lng": 127.750854
-      },
-      {
-        "lat": 38.02692,
-        "lng": 127.748886
-      }
-    ],
-    "color": "#88eb55",
-    "start_point_name": "득남바위",
-    "length": 665,
-    "time": "11"
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 38.02692,
-        "lng": 127.748886
-      },
-      {
-        "lat": 38.026485,
-        "lng": 127.748802
-      }
-    ],
-    "color": "#186b1b",
-    "start_point_name": "추락주의구간",
-    "length": 48,
-    "time": "0"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 38.026485,
-        "lng": 127.748802
-      },
-      {
-        "lat": 38.024323,
-        "lng": 127.74826
-      }
-    ],
-    "color": "#3f9143",
-    "start_point_name": "겨울철 상습결빙구간",
-    "length": 245,
-    "time": "4"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 38.024323,
-        "lng": 127.74826
-      },
-      {
         "lat": 38.023529,
         "lng": 127.748184
-      }
-    ],
-    "color": "#46c10a",
-    "start_point_name": "소",
-    "length": 88,
-    "time": "1"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 38.023529,
-        "lng": 127.748184
-      },
-      {
-        "lat": 38.0233,
-        "lng": 127.748383
-      }
-    ],
-    "color": "#5bbf99",
-    "start_point_name": "소",
-    "length": 30,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 38.0233,
-        "lng": 127.748383
-      },
-      {
-        "lat": 38.02327,
-        "lng": 127.748558
-      }
-    ],
-    "color": "#88a49d",
-    "start_point_name": "폭포, 너른 바위",
-    "length": 15,
-    "time": "0"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 38.02327,
-        "lng": 127.748558
       },
       {
         "lat": 38.023167,
         "lng": 127.748466
       }
     ],
-    "color": "#eba95c",
-    "start_point_name": "추락주의구간",
-    "length": 14,
-    "time": "0"
+    "color": "#e36fef",
+    "start_name": "소 / 폭포, 너른 바위 / 추락주의구간",
+    "length_meter": 60.6,
+    "time_minute": 1
   },
   {
-    "path_id": 20,
+    "path_id": 10,
     "path": [
       {
         "lat": 38.023167,
@@ -351,13 +181,13 @@
         "lng": 127.74263
       }
     ],
-    "color": "#2451be",
-    "start_point_name": "폭포",
-    "length": 1703,
-    "time": "28"
+    "color": "#ccd33f",
+    "start_name": "폭포",
+    "length_meter": 1703.2,
+    "time_minute": 28
   },
   {
-    "path_id": 21,
+    "path_id": 11,
     "path": [
       {
         "lat": 38.008556,
@@ -368,9 +198,9 @@
         "lng": 127.737816
       }
     ],
-    "color": "#847b8e",
-    "start_point_name": "프라임캠핑장",
-    "length": 866,
-    "time": "14"
+    "color": "#2d8b4f",
+    "start_name": "프라임캠핑장",
+    "length_meter": 866.7,
+    "time_minute": 14
   }
 ]

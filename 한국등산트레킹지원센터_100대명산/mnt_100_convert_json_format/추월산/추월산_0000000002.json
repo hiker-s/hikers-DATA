@@ -11,10 +11,10 @@
         "lng": 126.995132
       }
     ],
-    "color": "#25c0fd",
-    "start_point_name": "쉼터",
-    "length": 106,
-    "time": "1"
+    "color": "#894012",
+    "start_name": "쉼터",
+    "length_meter": 107.0,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 126.990364
       }
     ],
-    "color": "#0a779b",
-    "start_point_name": "쉼터",
-    "length": 490,
-    "time": "8"
+    "color": "#ee452d",
+    "start_name": "쉼터",
+    "length_meter": 490.5,
+    "time_minute": 8
   },
   {
     "path_id": 2,
@@ -41,51 +41,17 @@
         "lng": 126.990364
       },
       {
-        "lat": 35.395195,
-        "lng": 126.990364
-      }
-    ],
-    "color": "#8024ea",
-    "start_point_name": "갈림길",
-    "length": 9,
-    "time": "0"
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.395195,
-        "lng": 126.990364
-      },
-      {
-        "lat": 35.394817,
-        "lng": 126.990303
-      }
-    ],
-    "color": "#2ba8c8",
-    "start_point_name": "추월산 구상암",
-    "length": 42,
-    "time": "0"
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 35.394817,
-        "lng": 126.990303
-      },
-      {
         "lat": 35.394459,
         "lng": 126.989517
       }
     ],
-    "color": "#ece3f8",
-    "start_point_name": "주의지점",
-    "length": 81,
-    "time": "1"
+    "color": "#7c7202",
+    "start_name": "갈림길 / 추월산 구상암 / 주의지점",
+    "length_meter": 133.3,
+    "time_minute": 2
   },
   {
-    "path_id": 5,
+    "path_id": 3,
     "path": [
       {
         "lat": 35.394459,
@@ -96,13 +62,13 @@
         "lng": 126.987221
       }
     ],
-    "color": "#2763e4",
-    "start_point_name": "쉼터",
-    "length": 243,
-    "time": "4"
+    "color": "#3fd385",
+    "start_name": "쉼터",
+    "length_meter": 243.7,
+    "time_minute": 4
   },
   {
-    "path_id": 6,
+    "path_id": 4,
     "path": [
       {
         "lat": 35.393318,
@@ -113,9 +79,9 @@
         "lng": 126.986763
       }
     ],
-    "color": "#3abe88",
-    "start_point_name": "쉼터",
-    "length": 41,
-    "time": "0"
+    "color": "#dbe937",
+    "start_name": "쉼터",
+    "length_meter": 41.7,
+    "time_minute": 0
   }
 ]

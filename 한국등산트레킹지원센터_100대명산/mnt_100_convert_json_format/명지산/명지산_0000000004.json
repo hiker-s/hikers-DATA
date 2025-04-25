@@ -7,85 +7,34 @@
         "lng": 127.481201
       },
       {
-        "lat": 37.936462,
-        "lng": 127.481155
+        "lat": 37.933498,
+        "lng": 127.45945
       }
     ],
-    "color": "#9fc508",
-    "start_point_name": "갈림길",
-    "length": 4,
-    "time": "0"
+    "color": "#4ad405",
+    "start_name": "갈림길 / 명지산승천사",
+    "length_meter": 1936.1,
+    "time_minute": 32
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 37.936462,
-        "lng": 127.481155
-      },
-      {
         "lat": 37.933498,
         "lng": 127.45945
-      }
-    ],
-    "color": "#5b1fff",
-    "start_point_name": "명지산승천사",
-    "length": 1931,
-    "time": "32"
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.933498,
-        "lng": 127.45945
-      },
-      {
-        "lat": 37.933441,
-        "lng": 127.459396
-      }
-    ],
-    "color": "#9ed5e5",
-    "start_point_name": "갈림길",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.933441,
-        "lng": 127.459396
-      },
-      {
-        "lat": 37.933083,
-        "lng": 127.459724
-      }
-    ],
-    "color": "#9d71f9",
-    "start_point_name": "명지폭포 국가지점번호",
-    "length": 49,
-    "time": "0"
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.933083,
-        "lng": 127.459724
       },
       {
         "lat": 37.932964,
         "lng": 127.459694
       }
     ],
-    "color": "#0edc6f",
-    "start_point_name": "명지폭포",
-    "length": 13,
-    "time": "0"
+    "color": "#1e923d",
+    "start_name": "갈림길 / 명지폭포 국가지점번호 / 명지폭포",
+    "length_meter": 70.5,
+    "time_minute": 1
   },
   {
-    "path_id": 5,
+    "path_id": 2,
     "path": [
       {
         "lat": 37.932964,
@@ -96,13 +45,13 @@
         "lng": 127.448174
       }
     ],
-    "color": "#231fa5",
-    "start_point_name": "명지폭포",
-    "length": 1025,
-    "time": "17"
+    "color": "#8f12cf",
+    "start_name": "명지폭포",
+    "length_meter": 1025.8,
+    "time_minute": 17
   },
   {
-    "path_id": 6,
+    "path_id": 3,
     "path": [
       {
         "lat": 37.934559,
@@ -113,13 +62,13 @@
         "lng": 127.445656
       }
     ],
-    "color": "#bcc5b2",
-    "start_point_name": "명지2봉 가는 계곡길",
-    "length": 228,
-    "time": "3"
+    "color": "#a9df92",
+    "start_name": "명지2봉 가는 계곡길",
+    "length_meter": 228.4,
+    "time_minute": 3
   },
   {
-    "path_id": 7,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.935085,
@@ -130,13 +79,13 @@
         "lng": 127.443001
       }
     ],
-    "color": "#d9a46a",
-    "start_point_name": "통신탑",
-    "length": 237,
-    "time": "3"
+    "color": "#3d1244",
+    "start_name": "통신탑",
+    "length_meter": 238.0,
+    "time_minute": 3
   },
   {
-    "path_id": 8,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.935528,
@@ -147,13 +96,13 @@
         "lng": 127.436554
       }
     ],
-    "color": "#6ded72",
-    "start_point_name": "갈림길",
-    "length": 633,
-    "time": "10"
+    "color": "#26db5d",
+    "start_name": "갈림길",
+    "length_meter": 633.4,
+    "time_minute": 10
   },
   {
-    "path_id": 9,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.932961,
@@ -164,13 +113,13 @@
         "lng": 127.43499
       }
     ],
-    "color": "#1c800f",
-    "start_point_name": "명지2봉 근처 가을단풍",
-    "length": 190,
-    "time": "3"
+    "color": "#af79b6",
+    "start_name": "명지2봉 근처 가을단풍",
+    "length_meter": 190.0,
+    "time_minute": 3
   },
   {
-    "path_id": 10,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.931778,
@@ -181,13 +130,13 @@
         "lng": 127.431046
       }
     ],
-    "color": "#2e2ded",
-    "start_point_name": "갈림길",
-    "length": 395,
-    "time": "6"
+    "color": "#7c426e",
+    "start_name": "갈림길",
+    "length_meter": 395.1,
+    "time_minute": 6
   },
   {
-    "path_id": 11,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.933495,
@@ -198,13 +147,13 @@
         "lng": 127.430984
       }
     ],
-    "color": "#228e29",
-    "start_point_name": "명지2봉 에서 바라본 명지산1봉",
-    "length": 397,
-    "time": "6"
+    "color": "#7aabe4",
+    "start_name": "명지2봉 에서 바라본 명지산1봉",
+    "length_meter": 397.9,
+    "time_minute": 6
   },
   {
-    "path_id": 12,
+    "path_id": 9,
     "path": [
       {
         "lat": 37.937073,
@@ -215,9 +164,9 @@
         "lng": 127.432602
       }
     ],
-    "color": "#56f774",
-    "start_point_name": "명지산 정상풍경",
-    "length": 377,
-    "time": "6"
+    "color": "#a847bf",
+    "start_name": "명지산 정상풍경",
+    "length_meter": 377.2,
+    "time_minute": 6
   }
 ]

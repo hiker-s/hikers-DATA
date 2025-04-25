@@ -11,10 +11,10 @@
         "lng": 127.265083
       }
     ],
-    "color": "#6a17e2",
-    "start_point_name": "갈림길",
-    "length": 468,
-    "time": "7"
+    "color": "#8af8c8",
+    "start_name": "갈림길",
+    "length_meter": 468.8,
+    "time_minute": 7
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 127.263344
       }
     ],
-    "color": "#cd83d6",
-    "start_point_name": "삼각점",
-    "length": 201,
-    "time": "3"
+    "color": "#d422d1",
+    "start_name": "삼각점",
+    "length_meter": 201.5,
+    "time_minute": 3
   },
   {
     "path_id": 2,
@@ -41,642 +41,387 @@
         "lng": 127.263344
       },
       {
-        "lat": 37.661232,
-        "lng": 127.263046
+        "lat": 37.661388,
+        "lng": 127.262779
       }
     ],
-    "color": "#962e3a",
-    "start_point_name": "자연쉼터",
-    "length": 51,
-    "time": "0"
+    "color": "#fefce5",
+    "start_name": "자연쉼터 / 스카장 상단부",
+    "length_meter": 80.6,
+    "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 37.661232,
-        "lng": 127.263046
-      },
-      {
         "lat": 37.661388,
         "lng": 127.262779
+      },
+      {
+        "lat": 37.661789,
+        "lng": 127.261536
       }
     ],
-    "color": "#189fb8",
-    "start_point_name": "스카장 상단부",
-    "length": 29,
-    "time": "0"
+    "color": "#75f7dc",
+    "start_name": "스키장 상단조망3 / 스키장 상단 쉼터",
+    "length_meter": 120.5,
+    "time_minute": 2
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.661388,
-        "lng": 127.262779
+        "lat": 37.661789,
+        "lng": 127.261536
       },
       {
-        "lat": 37.661369,
-        "lng": 127.262611
+        "lat": 37.669182,
+        "lng": 127.26329
       }
     ],
-    "color": "#9f225f",
-    "start_point_name": "스키장 상단조망3",
-    "length": 14,
-    "time": "0"
+    "color": "#d29441",
+    "start_name": "능선위 조망터 / 능선위 쉼터",
+    "length_meter": 843.7,
+    "time_minute": 14
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 37.661369,
-        "lng": 127.262611
+        "lat": 37.669182,
+        "lng": 127.26329
       },
       {
-        "lat": 37.661789,
-        "lng": 127.261536
+        "lat": 37.67081,
+        "lng": 127.263398
       }
     ],
-    "color": "#54664b",
-    "start_point_name": "스키장 상단 쉼터",
-    "length": 105,
-    "time": "1"
+    "color": "#3944a9",
+    "start_name": "갈림길 / 안부 쉼터",
+    "length_meter": 181.9,
+    "time_minute": 3
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 37.661789,
-        "lng": 127.261536
+        "lat": 37.67081,
+        "lng": 127.263398
       },
       {
-        "lat": 37.661789,
-        "lng": 127.261467
+        "lat": 37.67313,
+        "lng": 127.264709
       }
     ],
-    "color": "#6e5acb",
-    "start_point_name": "능선위 조망터",
-    "length": 6,
-    "time": "0"
+    "color": "#6eb0bc",
+    "start_name": "웨이포인트 17 / 위치안내판",
+    "length_meter": 291.8,
+    "time_minute": 4
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.661789,
-        "lng": 127.261467
+        "lat": 37.67313,
+        "lng": 127.264709
       },
       {
-        "lat": 37.669182,
-        "lng": 127.26329
+        "lat": 37.674007,
+        "lng": 127.264824
       }
     ],
-    "color": "#62c7a3",
-    "start_point_name": "능선위 쉼터",
-    "length": 837,
-    "time": "13"
+    "color": "#95b690",
+    "start_name": "암릉",
+    "length_meter": 98.0,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 37.669182,
-        "lng": 127.26329
+        "lat": 37.674007,
+        "lng": 127.264824
       },
       {
-        "lat": 37.669273,
-        "lng": 127.263336
+        "lat": 37.674751,
+        "lng": 127.265533
       }
     ],
-    "color": "#67b621",
-    "start_point_name": "갈림길",
-    "length": 10,
-    "time": "0"
+    "color": "#6a6e49",
+    "start_name": "정상 오름길 전 쉼터",
+    "length_meter": 103.6,
+    "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.669273,
-        "lng": 127.263336
+        "lat": 37.674751,
+        "lng": 127.265533
       },
       {
-        "lat": 37.67081,
-        "lng": 127.263398
+        "lat": 37.677197,
+        "lng": 127.267723
       }
     ],
-    "color": "#d5745e",
-    "start_point_name": "안부 쉼터",
-    "length": 170,
-    "time": "2"
+    "color": "#21cdc2",
+    "start_name": "위치번호",
+    "length_meter": 333.4,
+    "time_minute": 5
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 37.67081,
-        "lng": 127.263398
+        "lat": 37.677197,
+        "lng": 127.267723
       },
       {
-        "lat": 37.671066,
-        "lng": 127.263878
+        "lat": 37.677711,
+        "lng": 127.268127
       }
     ],
-    "color": "#d3a18f",
-    "start_point_name": "웨이포인트 17",
-    "length": 50,
-    "time": "0"
+    "color": "#c22404",
+    "start_name": "위치번호 / 정상 급경사 / 위치번호",
+    "length_meter": 68.4,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 37.671066,
-        "lng": 127.263878
+        "lat": 37.677711,
+        "lng": 127.268127
       },
       {
-        "lat": 37.67313,
-        "lng": 127.264709
+        "lat": 37.678478,
+        "lng": 127.271065
       }
     ],
-    "color": "#83ce7d",
-    "start_point_name": "위치안내판",
-    "length": 240,
-    "time": "4"
+    "color": "#20bf15",
+    "start_name": "정상전 암릉 / 암릉위 조망 / 노송",
+    "length_meter": 324.1,
+    "time_minute": 5
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 37.67313,
-        "lng": 127.264709
+        "lat": 37.678478,
+        "lng": 127.271065
       },
       {
-        "lat": 37.674007,
-        "lng": 127.264824
+        "lat": 37.678913,
+        "lng": 127.271721
       }
     ],
-    "color": "#c55e3c",
-    "start_point_name": "암릉",
-    "length": 98,
-    "time": "1"
+    "color": "#401a3a",
+    "start_name": "위치번호",
+    "length_meter": 75.3,
+    "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 37.674007,
-        "lng": 127.264824
+        "lat": 37.678913,
+        "lng": 127.271721
       },
       {
-        "lat": 37.674751,
-        "lng": 127.265533
+        "lat": 37.681595,
+        "lng": 127.271576
       }
     ],
-    "color": "#542197",
-    "start_point_name": "정상 오름길 전 쉼터",
-    "length": 103,
-    "time": "1"
+    "color": "#7d3d14",
+    "start_name": "위치번호 / 정상직전 암릉 / 갈림길",
+    "length_meter": 313.3,
+    "time_minute": 5
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 37.674751,
-        "lng": 127.265533
+        "lat": 37.681595,
+        "lng": 127.271576
       },
       {
-        "lat": 37.677197,
-        "lng": 127.267723
+        "lat": 37.682487,
+        "lng": 127.2705
       }
     ],
-    "color": "#3552f8",
-    "start_point_name": "위치번호",
-    "length": 333,
-    "time": "5"
+    "color": "#0f0e9d",
+    "start_name": "중간 쉼터",
+    "length_meter": 137.1,
+    "time_minute": 2
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 37.677197,
-        "lng": 127.267723
+        "lat": 37.682487,
+        "lng": 127.2705
       },
       {
-        "lat": 37.677353,
-        "lng": 127.267776
+        "lat": 37.683598,
+        "lng": 127.256538
       }
     ],
-    "color": "#d13c77",
-    "start_point_name": "위치번호",
-    "length": 17,
-    "time": "0"
+    "color": "#2ac60f",
+    "start_name": "옹달샘 쉼터",
+    "length_meter": 1234.9,
+    "time_minute": 20
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 37.677353,
-        "lng": 127.267776
+        "lat": 37.683598,
+        "lng": 127.256538
       },
       {
-        "lat": 37.677631,
-        "lng": 127.268059
+        "lat": 37.685719,
+        "lng": 127.250107
       }
     ],
-    "color": "#a27fd0",
-    "start_point_name": "정상 급경사",
-    "length": 39,
-    "time": "0"
+    "color": "#b577af",
+    "start_name": "청정계곡",
+    "length_meter": 613.1,
+    "time_minute": 10
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 37.677631,
-        "lng": 127.268059
+        "lat": 37.685719,
+        "lng": 127.250107
       },
       {
-        "lat": 37.677711,
-        "lng": 127.268127
+        "lat": 37.693348,
+        "lng": 127.230415
       }
     ],
-    "color": "#a69d65",
-    "start_point_name": "위치번호",
-    "length": 10,
-    "time": "0"
+    "color": "#a7b4ab",
+    "start_name": "무명소",
+    "length_meter": 1929.3,
+    "time_minute": 32
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 37.677711,
-        "lng": 127.268127
+        "lat": 37.693348,
+        "lng": 127.230415
       },
       {
-        "lat": 37.6777,
-        "lng": 127.26825
+        "lat": 37.695778,
+        "lng": 127.225098
       }
     ],
-    "color": "#98437e",
-    "start_point_name": "정상전 암릉",
-    "length": 10,
-    "time": "0"
+    "color": "#545614",
+    "start_name": "오남호수공원 체육시설및 쉼터",
+    "length_meter": 540.2,
+    "time_minute": 9
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 37.6777,
-        "lng": 127.26825
+        "lat": 37.695778,
+        "lng": 127.225098
       },
       {
-        "lat": 37.677414,
-        "lng": 127.268173
+        "lat": 37.69688,
+        "lng": 127.223549
       }
     ],
-    "color": "#470f8f",
-    "start_point_name": "암릉위 조망",
-    "length": 32,
-    "time": "0"
+    "color": "#f5c796",
+    "start_name": "오남호수공원",
+    "length_meter": 183.3,
+    "time_minute": 3
   },
   {
     "path_id": 20,
     "path": [
       {
-        "lat": 37.677414,
-        "lng": 127.268173
+        "lat": 37.69688,
+        "lng": 127.223549
       },
       {
-        "lat": 37.678478,
-        "lng": 127.271065
+        "lat": 37.697109,
+        "lng": 127.222649
       }
     ],
-    "color": "#989acd",
-    "start_point_name": "노송",
-    "length": 280,
-    "time": "4"
+    "color": "#3b94a5",
+    "start_name": "오남호수공원 쉼터 / 오남호수공원 화장실",
+    "length_meter": 87.7,
+    "time_minute": 1
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 37.678478,
-        "lng": 127.271065
+        "lat": 37.697109,
+        "lng": 127.222649
       },
       {
-        "lat": 37.678913,
-        "lng": 127.271721
+        "lat": 37.697613,
+        "lng": 127.221275
       }
     ],
-    "color": "#7e1877",
-    "start_point_name": "위치번호",
-    "length": 75,
-    "time": "1"
+    "color": "#76f4f4",
+    "start_name": "다송 한식 카페 브레드포레",
+    "length_meter": 133.2,
+    "time_minute": 2
   },
   {
     "path_id": 22,
     "path": [
       {
-        "lat": 37.678913,
-        "lng": 127.271721
+        "lat": 37.697613,
+        "lng": 127.221275
       },
       {
-        "lat": 37.678947,
-        "lng": 127.271873
+        "lat": 37.696495,
+        "lng": 127.218575
       }
     ],
-    "color": "#dd4d79",
-    "start_point_name": "위치번호",
-    "length": 13,
-    "time": "0"
+    "color": "#80adc2",
+    "start_name": "시골청국장 / 오남호수공원 / 공원 중간 쉼터",
+    "length_meter": 282.2,
+    "time_minute": 4
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 37.678947,
-        "lng": 127.271873
+        "lat": 37.696495,
+        "lng": 127.218575
       },
       {
-        "lat": 37.679035,
-        "lng": 127.271965
+        "lat": 37.696228,
+        "lng": 127.217865
       }
     ],
-    "color": "#5ce5ae",
-    "start_point_name": "정상직전 암릉",
-    "length": 12,
-    "time": "0"
+    "color": "#9da30f",
+    "start_name": "오남호수공원",
+    "length_meter": 69.2,
+    "time_minute": 1
   },
   {
     "path_id": 24,
     "path": [
       {
-        "lat": 37.679035,
-        "lng": 127.271965
-      },
-      {
-        "lat": 37.681595,
-        "lng": 127.271576
-      }
-    ],
-    "color": "#694072",
-    "start_point_name": "갈림길",
-    "length": 286,
-    "time": "4"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 37.681595,
-        "lng": 127.271576
-      },
-      {
-        "lat": 37.682487,
-        "lng": 127.2705
-      }
-    ],
-    "color": "#034deb",
-    "start_point_name": "중간 쉼터",
-    "length": 137,
-    "time": "2"
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 37.682487,
-        "lng": 127.2705
-      },
-      {
-        "lat": 37.683598,
-        "lng": 127.256538
-      }
-    ],
-    "color": "#5917be",
-    "start_point_name": "옹달샘 쉼터",
-    "length": 1234,
-    "time": "20"
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 37.683598,
-        "lng": 127.256538
-      },
-      {
-        "lat": 37.685719,
-        "lng": 127.250107
-      }
-    ],
-    "color": "#8c6e6b",
-    "start_point_name": "청정계곡",
-    "length": 613,
-    "time": "10"
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 37.685719,
-        "lng": 127.250107
-      },
-      {
-        "lat": 37.693348,
-        "lng": 127.230415
-      }
-    ],
-    "color": "#86620a",
-    "start_point_name": "무명소",
-    "length": 1929,
-    "time": "32"
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 37.693348,
-        "lng": 127.230415
-      },
-      {
-        "lat": 37.695778,
-        "lng": 127.225098
-      }
-    ],
-    "color": "#4f1c9e",
-    "start_point_name": "오남호수공원 체육시설및 쉼터",
-    "length": 540,
-    "time": "9"
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 37.695778,
-        "lng": 127.225098
-      },
-      {
-        "lat": 37.69688,
-        "lng": 127.223549
-      }
-    ],
-    "color": "#005338",
-    "start_point_name": "오남호수공원",
-    "length": 183,
-    "time": "3"
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 37.69688,
-        "lng": 127.223549
-      },
-      {
-        "lat": 37.696918,
-        "lng": 127.223564
-      }
-    ],
-    "color": "#7b3b88",
-    "start_point_name": "오남호수공원 쉼터",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 37.696918,
-        "lng": 127.223564
-      },
-      {
-        "lat": 37.697109,
-        "lng": 127.222649
-      }
-    ],
-    "color": "#1c0eb8",
-    "start_point_name": "오남호수공원 화장실",
-    "length": 83,
-    "time": "1"
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 37.697109,
-        "lng": 127.222649
-      },
-      {
-        "lat": 37.697613,
-        "lng": 127.221275
-      }
-    ],
-    "color": "#3391b9",
-    "start_point_name": "다송 한식 카페 브레드포레",
-    "length": 133,
-    "time": "2"
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 37.697613,
-        "lng": 127.221275
-      },
-      {
-        "lat": 37.697456,
-        "lng": 127.221306
-      }
-    ],
-    "color": "#c08e5f",
-    "start_point_name": "시골청국장",
-    "length": 17,
-    "time": "0"
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 37.697456,
-        "lng": 127.221306
-      },
-      {
-        "lat": 37.697445,
-        "lng": 127.221054
-      }
-    ],
-    "color": "#1d40b7",
-    "start_point_name": "오남호수공원",
-    "length": 22,
-    "time": "0"
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 37.697445,
-        "lng": 127.221054
-      },
-      {
-        "lat": 37.696495,
-        "lng": 127.218575
-      }
-    ],
-    "color": "#7f3dc2",
-    "start_point_name": "공원 중간 쉼터",
-    "length": 242,
-    "time": "4"
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 37.696495,
-        "lng": 127.218575
-      },
-      {
         "lat": 37.696228,
         "lng": 127.217865
-      }
-    ],
-    "color": "#4aa56f",
-    "start_point_name": "오남호수공원",
-    "length": 69,
-    "time": "1"
-  },
-  {
-    "path_id": 38,
-    "path": [
-      {
-        "lat": 37.696228,
-        "lng": 127.217865
-      },
-      {
-        "lat": 37.695892,
-        "lng": 127.217468
-      }
-    ],
-    "color": "#7874ba",
-    "start_point_name": "오남호수공원 화장실",
-    "length": 51,
-    "time": "0"
-  },
-  {
-    "path_id": 39,
-    "path": [
-      {
-        "lat": 37.695892,
-        "lng": 127.217468
       },
       {
         "lat": 37.69566,
         "lng": 127.217178
       }
     ],
-    "color": "#32cfb1",
-    "start_point_name": "오남호수공원 공연장",
-    "length": 36,
-    "time": "0"
+    "color": "#a511d3",
+    "start_name": "오남호수공원 화장실 / 오남호수공원 공연장",
+    "length_meter": 87.4,
+    "time_minute": 1
   }
 ]

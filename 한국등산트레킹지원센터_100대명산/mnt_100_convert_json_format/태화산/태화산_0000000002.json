@@ -11,10 +11,10 @@
         "lng": 128.48175
       }
     ],
-    "color": "#bd5a15",
-    "start_point_name": "쉼터",
-    "length": 2803,
-    "time": "46"
+    "color": "#56f863",
+    "start_name": "쉼터",
+    "length_meter": 2803.9,
+    "time_minute": 46
   },
   {
     "path_id": 1,
@@ -24,30 +24,13 @@
         "lng": 128.48175
       },
       {
-        "lat": 37.114239,
-        "lng": 128.481705
-      }
-    ],
-    "color": "#974cf7",
-    "start_point_name": "입산금지",
-    "length": 10,
-    "time": "0"
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.114239,
-        "lng": 128.481705
-      },
-      {
         "lat": 37.133175,
         "lng": 128.473877
       }
     ],
-    "color": "#4be5f2",
-    "start_point_name": "갈림길 3",
-    "length": 2217,
-    "time": "36"
+    "color": "#8c45e6",
+    "start_name": "입산금지 / 갈림길 3",
+    "length_meter": 2227.2,
+    "time_minute": 37
   }
 ]

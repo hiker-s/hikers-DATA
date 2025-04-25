@@ -7,68 +7,34 @@
         "lng": 127.562134
       },
       {
-        "lat": 37.554337,
-        "lng": 127.561913
+        "lat": 37.559048,
+        "lng": 127.557228
       }
     ],
-    "color": "#0eadf9",
-    "start_point_name": "갈림길",
-    "length": 30,
-    "time": "0"
+    "color": "#56c5bd",
+    "start_name": "갈림길 / 평상",
+    "length_meter": 697.1,
+    "time_minute": 11
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 37.554337,
-        "lng": 127.561913
-      },
-      {
         "lat": 37.559048,
         "lng": 127.557228
-      }
-    ],
-    "color": "#277063",
-    "start_point_name": "평상",
-    "length": 667,
-    "time": "11"
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 37.559048,
-        "lng": 127.557228
-      },
-      {
-        "lat": 37.559044,
-        "lng": 127.557121
-      }
-    ],
-    "color": "#4dfb74",
-    "start_point_name": "갈림길",
-    "length": 9,
-    "time": "0"
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.559044,
-        "lng": 127.557121
       },
       {
         "lat": 37.561661,
         "lng": 127.550964
       }
     ],
-    "color": "#76a3c0",
-    "start_point_name": "갈림길",
-    "length": 615,
-    "time": "10"
+    "color": "#eef79a",
+    "start_name": "갈림길 / 갈림길",
+    "length_meter": 625.2,
+    "time_minute": 10
   },
   {
-    "path_id": 4,
+    "path_id": 2,
     "path": [
       {
         "lat": 37.561661,
@@ -79,13 +45,13 @@
         "lng": 127.550194
       }
     ],
-    "color": "#5a2b46",
-    "start_point_name": "갈림길",
-    "length": 76,
-    "time": "1"
+    "color": "#21bde3",
+    "start_name": "갈림길",
+    "length_meter": 76.4,
+    "time_minute": 1
   },
   {
-    "path_id": 5,
+    "path_id": 3,
     "path": [
       {
         "lat": 37.561977,
@@ -96,13 +62,13 @@
         "lng": 127.54908
       }
     ],
-    "color": "#60d6cf",
-    "start_point_name": "갈림길",
-    "length": 98,
-    "time": "1"
+    "color": "#64371f",
+    "start_name": "갈림길",
+    "length_meter": 98.3,
+    "time_minute": 1
   },
   {
-    "path_id": 6,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.561935,
@@ -113,9 +79,9 @@
         "lng": 127.541939
       }
     ],
-    "color": "#d466da",
-    "start_point_name": "용문산 정상",
-    "length": 847,
-    "time": "14"
+    "color": "#27e6ed",
+    "start_name": "용문산 정상",
+    "length_meter": 847.2,
+    "time_minute": 14
   }
 ]

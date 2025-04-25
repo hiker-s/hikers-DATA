@@ -7,102 +7,68 @@
         "lng": 127.061539
       },
       {
-        "lat": 37.947487,
-        "lng": 127.061508
+        "lat": 37.946659,
+        "lng": 127.062561
       }
     ],
-    "color": "#3722c7",
-    "start_point_name": "소요산역",
-    "length": 2,
-    "time": "0"
+    "color": "#a45d4b",
+    "start_name": "소요산역 / 서요산 맛거리",
+    "length_meter": 133.4,
+    "time_minute": 2
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 37.947487,
-        "lng": 127.061508
-      },
-      {
         "lat": 37.946659,
         "lng": 127.062561
+      },
+      {
+        "lat": 37.946545,
+        "lng": 127.06395
       }
     ],
-    "color": "#ef7e76",
-    "start_point_name": "서요산 맛거리",
-    "length": 130,
-    "time": "2"
+    "color": "#ab9683",
+    "start_name": "소요산 산림욕장",
+    "length_meter": 122.5,
+    "time_minute": 2
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 37.946659,
-        "lng": 127.062561
-      },
-      {
         "lat": 37.946545,
         "lng": 127.06395
+      },
+      {
+        "lat": 37.947235,
+        "lng": 127.067192
       }
     ],
-    "color": "#84d2e3",
-    "start_point_name": "소요산 산림욕장",
-    "length": 122,
-    "time": "2"
+    "color": "#bf796b",
+    "start_name": "축산육타운주차장",
+    "length_meter": 294.5,
+    "time_minute": 4
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 37.946545,
-        "lng": 127.06395
-      },
-      {
         "lat": 37.947235,
         "lng": 127.067192
-      }
-    ],
-    "color": "#88c15e",
-    "start_point_name": "축산육타운주차장",
-    "length": 294,
-    "time": "4"
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.947235,
-        "lng": 127.067192
-      },
-      {
-        "lat": 37.947433,
-        "lng": 127.067406
-      }
-    ],
-    "color": "#8d52f5",
-    "start_point_name": "팔각정",
-    "length": 28,
-    "time": "0"
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.947433,
-        "lng": 127.067406
       },
       {
         "lat": 37.947933,
         "lng": 127.068825
       }
     ],
-    "color": "#cb2153",
-    "start_point_name": "야생동물 보호구역",
-    "length": 136,
-    "time": "2"
+    "color": "#869b28",
+    "start_name": "팔각정 / 야생동물 보호구역",
+    "length_meter": 165.2,
+    "time_minute": 2
   },
   {
-    "path_id": 6,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.947933,
@@ -113,13 +79,13 @@
         "lng": 127.0756
       }
     ],
-    "color": "#a270a3",
-    "start_point_name": "갈림길",
-    "length": 605,
-    "time": "10"
+    "color": "#a63c67",
+    "start_name": "갈림길",
+    "length_meter": 606.0,
+    "time_minute": 10
   },
   {
-    "path_id": 7,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.949009,
@@ -130,13 +96,13 @@
         "lng": 127.077957
       }
     ],
-    "color": "#21bbaa",
-    "start_point_name": "갈림길",
-    "length": 217,
-    "time": "3"
+    "color": "#ca6fed",
+    "start_name": "갈림길",
+    "length_meter": 217.5,
+    "time_minute": 3
   },
   {
-    "path_id": 8,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.948399,
@@ -147,9 +113,9 @@
         "lng": 127.078018
       }
     ],
-    "color": "#b4533a",
-    "start_point_name": "첫 조망점",
-    "length": 6,
-    "time": "0"
+    "color": "#0ded0e",
+    "start_name": "첫 조망점",
+    "length_meter": 6.1,
+    "time_minute": 0
   }
 ]

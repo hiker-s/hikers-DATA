@@ -11,10 +11,10 @@
         "lng": 128.009445
       }
     ],
-    "color": "#60e4ac",
-    "start_point_name": "갈림길 4",
-    "length": 147,
-    "time": "2"
+    "color": "#73cfaa",
+    "start_name": "갈림길 4",
+    "length_meter": 147.6,
+    "time_minute": 2
   },
   {
     "path_id": 1,
@@ -24,289 +24,187 @@
         "lng": 128.009445
       },
       {
-        "lat": 36.119743,
-        "lng": 128.009552
+        "lat": 36.120552,
+        "lng": 128.009293
       }
     ],
-    "color": "#caf5bb",
-    "start_point_name": "갈림길 5",
-    "length": 30,
-    "time": "0"
+    "color": "#70a009",
+    "start_name": "갈림길 5 / 쉼터",
+    "length_meter": 123.3,
+    "time_minute": 2
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 36.119743,
-        "lng": 128.009552
-      },
-      {
         "lat": 36.120552,
         "lng": 128.009293
+      },
+      {
+        "lat": 36.124508,
+        "lng": 127.998825
       }
     ],
-    "color": "#9ef34e",
-    "start_point_name": "쉼터",
-    "length": 92,
-    "time": "1"
+    "color": "#bd0439",
+    "start_name": "정자 / 쉼터",
+    "length_meter": 1044.9,
+    "time_minute": 17
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 36.120552,
-        "lng": 128.009293
+        "lat": 36.124508,
+        "lng": 127.998825
       },
       {
-        "lat": 36.120693,
-        "lng": 128.009262
+        "lat": 36.12394,
+        "lng": 127.99794
       }
     ],
-    "color": "#b1f795",
-    "start_point_name": "정자",
-    "length": 15,
-    "time": "0"
+    "color": "#ddb3f3",
+    "start_name": "갈림길 17",
+    "length_meter": 101.5,
+    "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 36.120693,
-        "lng": 128.009262
+        "lat": 36.12394,
+        "lng": 127.99794
       },
       {
-        "lat": 36.124508,
-        "lng": 127.998825
+        "lat": 36.125435,
+        "lng": 127.99295
       }
     ],
-    "color": "#fc652a",
-    "start_point_name": "쉼터",
-    "length": 1028,
-    "time": "17"
+    "color": "#55c33b",
+    "start_name": "갈림길 19",
+    "length_meter": 478.0,
+    "time_minute": 7
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 36.124508,
-        "lng": 127.998825
+        "lat": 36.125435,
+        "lng": 127.99295
       },
       {
-        "lat": 36.12394,
-        "lng": 127.99794
+        "lat": 36.128784,
+        "lng": 127.987213
       }
     ],
-    "color": "#f29c10",
-    "start_point_name": "갈림길 17",
-    "length": 101,
-    "time": "1"
+    "color": "#046a03",
+    "start_name": "갈림길 20 / 갈림길 21",
+    "length_meter": 636.3,
+    "time_minute": 10
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 36.12394,
-        "lng": 127.99794
+        "lat": 36.128784,
+        "lng": 127.987213
       },
       {
-        "lat": 36.125435,
-        "lng": 127.99295
+        "lat": 36.11861,
+        "lng": 127.967659
       }
     ],
-    "color": "#9d5234",
-    "start_point_name": "갈림길 19",
-    "length": 478,
-    "time": "7"
+    "color": "#6e09df",
+    "start_name": "갈림길 23 / 쉼터",
+    "length_meter": 2090.1,
+    "time_minute": 34
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 36.125435,
-        "lng": 127.99295
+        "lat": 36.11861,
+        "lng": 127.967659
       },
       {
-        "lat": 36.125477,
-        "lng": 127.992805
+        "lat": 36.111858,
+        "lng": 127.967186
       }
     ],
-    "color": "#fff365",
-    "start_point_name": "갈림길 20",
-    "length": 13,
-    "time": "0"
+    "color": "#72bfbe",
+    "start_name": "정상 근처 조망점 / 흑염소 한 쌍",
+    "length_meter": 757.3,
+    "time_minute": 12
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 36.125477,
-        "lng": 127.992805
+        "lat": 36.111858,
+        "lng": 127.967186
       },
       {
-        "lat": 36.128784,
-        "lng": 127.987213
+        "lat": 36.109116,
+        "lng": 127.967331
       }
     ],
-    "color": "#4544bc",
-    "start_point_name": "갈림길 21",
-    "length": 622,
-    "time": "10"
+    "color": "#2a1fd8",
+    "start_name": "갈림길 33",
+    "length_meter": 305.2,
+    "time_minute": 5
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 36.128784,
-        "lng": 127.987213
+        "lat": 36.109116,
+        "lng": 127.967331
       },
       {
-        "lat": 36.128574,
-        "lng": 127.986969
+        "lat": 36.108612,
+        "lng": 127.989441
       }
     ],
-    "color": "#196561",
-    "start_point_name": "갈림길 23",
-    "length": 32,
-    "time": "0"
+    "color": "#9cf136",
+    "start_name": "조망점",
+    "length_meter": 1987.0,
+    "time_minute": 33
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 36.128574,
-        "lng": 127.986969
+        "lat": 36.108612,
+        "lng": 127.989441
       },
       {
-        "lat": 36.11861,
-        "lng": 127.967659
+        "lat": 36.109695,
+        "lng": 127.992561
       }
     ],
-    "color": "#ee4154",
-    "start_point_name": "쉼터",
-    "length": 2058,
-    "time": "34"
+    "color": "#2af7dd",
+    "start_name": "쉼터",
+    "length_meter": 305.1,
+    "time_minute": 5
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 36.11861,
-        "lng": 127.967659
-      },
-      {
-        "lat": 36.118507,
-        "lng": 127.967514
-      }
-    ],
-    "color": "#09fb34",
-    "start_point_name": "정상 근처 조망점",
-    "length": 17,
-    "time": "0"
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 36.118507,
-        "lng": 127.967514
-      },
-      {
-        "lat": 36.111858,
-        "lng": 127.967186
-      }
-    ],
-    "color": "#377974",
-    "start_point_name": "흑염소 한 쌍",
-    "length": 739,
-    "time": "12"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 36.111858,
-        "lng": 127.967186
-      },
-      {
-        "lat": 36.109116,
-        "lng": 127.967331
-      }
-    ],
-    "color": "#2a2516",
-    "start_point_name": "갈림길 33",
-    "length": 305,
-    "time": "5"
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 36.109116,
-        "lng": 127.967331
-      },
-      {
-        "lat": 36.108612,
-        "lng": 127.989441
-      }
-    ],
-    "color": "#054940",
-    "start_point_name": "조망점",
-    "length": 1987,
-    "time": "33"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 36.108612,
-        "lng": 127.989441
-      },
-      {
         "lat": 36.109695,
         "lng": 127.992561
-      }
-    ],
-    "color": "#efa075",
-    "start_point_name": "쉼터",
-    "length": 305,
-    "time": "5"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 36.109695,
-        "lng": 127.992561
-      },
-      {
-        "lat": 36.109932,
-        "lng": 127.992828
-      }
-    ],
-    "color": "#0770aa",
-    "start_point_name": "갈림길 51",
-    "length": 35,
-    "time": "0"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 36.109932,
-        "lng": 127.992828
       },
       {
         "lat": 36.115753,
         "lng": 128.00087
       }
     ],
-    "color": "#1976ce",
-    "start_point_name": "쉼터",
-    "length": 969,
-    "time": "16"
+    "color": "#d9f6a3",
+    "start_name": "갈림길 51 / 쉼터",
+    "length_meter": 1005.6,
+    "time_minute": 16
   },
   {
-    "path_id": 18,
+    "path_id": 12,
     "path": [
       {
         "lat": 36.115753,
@@ -317,9 +215,9 @@
         "lng": 128.001175
       }
     ],
-    "color": "#0b4361",
-    "start_point_name": "갈림길 56",
-    "length": 36,
-    "time": "0"
+    "color": "#4ab874",
+    "start_name": "갈림길 56",
+    "length_meter": 36.3,
+    "time_minute": 0
   }
 ]

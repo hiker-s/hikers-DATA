@@ -11,10 +11,10 @@
         "lng": 128.508133
       }
     ],
-    "color": "#58cd1c",
-    "start_point_name": "원계",
-    "length": 251,
-    "time": "4"
+    "color": "#af947a",
+    "start_name": "원계",
+    "length_meter": 251.9,
+    "time_minute": 4
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 128.508911
       }
     ],
-    "color": "#c40849",
-    "start_point_name": "마을 간이 주차장 겸 공터",
-    "length": 100,
-    "time": "1"
+    "color": "#2bdb3c",
+    "start_name": "마을 간이 주차장 겸 공터",
+    "length_meter": 100.4,
+    "time_minute": 1
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 128.510147
       }
     ],
-    "color": "#f0bf79",
-    "start_point_name": "등산로없음",
-    "length": 114,
-    "time": "1"
+    "color": "#3f4f15",
+    "start_name": "등산로없음",
+    "length_meter": 114.9,
+    "time_minute": 1
   },
   {
     "path_id": 3,
@@ -58,646 +58,374 @@
         "lng": 128.510147
       },
       {
-        "lat": 35.230522,
-        "lng": 128.510132
+        "lat": 35.228928,
+        "lng": 128.509583
       }
     ],
-    "color": "#25c409",
-    "start_point_name": "갈림길",
-    "length": 1,
-    "time": "0"
+    "color": "#87c187",
+    "start_name": "갈림길 / 내서원계마을",
+    "length_meter": 185.8,
+    "time_minute": 3
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.230522,
-        "lng": 128.510132
-      },
-      {
         "lat": 35.228928,
         "lng": 128.509583
+      },
+      {
+        "lat": 35.228889,
+        "lng": 128.51062
       }
     ],
-    "color": "#94601f",
-    "start_point_name": "내서원계마을",
-    "length": 184,
-    "time": "3"
+    "color": "#ca7820",
+    "start_name": "갈림길",
+    "length_meter": 94.3,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.228928,
-        "lng": 128.509583
-      },
-      {
         "lat": 35.228889,
         "lng": 128.51062
+      },
+      {
+        "lat": 35.226944,
+        "lng": 128.515579
       }
     ],
-    "color": "#297da5",
-    "start_point_name": "갈림길",
-    "length": 94,
-    "time": "1"
+    "color": "#6c2c7d",
+    "start_name": "쉼터",
+    "length_meter": 499.7,
+    "time_minute": 8
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.228889,
-        "lng": 128.51062
-      },
-      {
         "lat": 35.226944,
         "lng": 128.515579
+      },
+      {
+        "lat": 35.226772,
+        "lng": 128.516861
       }
     ],
-    "color": "#b6d89c",
-    "start_point_name": "쉼터",
-    "length": 499,
-    "time": "8"
+    "color": "#be19bc",
+    "start_name": "체육공원 겸 쉼터",
+    "length_meter": 118.0,
+    "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.226944,
-        "lng": 128.515579
-      },
-      {
         "lat": 35.226772,
         "lng": 128.516861
+      },
+      {
+        "lat": 35.226528,
+        "lng": 128.517731
       }
     ],
-    "color": "#45bff5",
-    "start_point_name": "체육공원 겸 쉼터",
-    "length": 118,
-    "time": "1"
+    "color": "#f30569",
+    "start_name": "쉼터",
+    "length_meter": 83.6,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.226772,
-        "lng": 128.516861
-      },
-      {
         "lat": 35.226528,
         "lng": 128.517731
+      },
+      {
+        "lat": 35.226269,
+        "lng": 128.518494
       }
     ],
-    "color": "#fa39ea",
-    "start_point_name": "쉼터",
-    "length": 83,
-    "time": "1"
+    "color": "#db13b3",
+    "start_name": "갈림길 / 쉼터",
+    "length_meter": 76.7,
+    "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.226528,
-        "lng": 128.517731
+        "lat": 35.226269,
+        "lng": 128.518494
       },
       {
-        "lat": 35.226433,
-        "lng": 128.518234
+        "lat": 35.220547,
+        "lng": 128.525986
       }
     ],
-    "color": "#2aa53b",
-    "start_point_name": "갈림길",
-    "length": 46,
-    "time": "0"
+    "color": "#8e1397",
+    "start_name": "쉼터",
+    "length_meter": 931.6,
+    "time_minute": 15
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.226433,
-        "lng": 128.518234
+        "lat": 35.220547,
+        "lng": 128.525986
       },
       {
-        "lat": 35.226269,
-        "lng": 128.518494
+        "lat": 35.21957,
+        "lng": 128.527023
       }
     ],
-    "color": "#ace246",
-    "start_point_name": "쉼터",
-    "length": 29,
-    "time": "0"
+    "color": "#6af334",
+    "start_name": "쉼터",
+    "length_meter": 143.8,
+    "time_minute": 2
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.226269,
-        "lng": 128.518494
+        "lat": 35.21957,
+        "lng": 128.527023
       },
       {
-        "lat": 35.220547,
-        "lng": 128.525986
+        "lat": 35.216927,
+        "lng": 128.527115
       }
     ],
-    "color": "#7d709f",
-    "start_point_name": "쉼터",
-    "length": 931,
-    "time": "15"
+    "color": "#419617",
+    "start_name": "갈림길",
+    "length_meter": 294.0,
+    "time_minute": 4
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.220547,
-        "lng": 128.525986
+        "lat": 35.216927,
+        "lng": 128.527115
       },
       {
-        "lat": 35.21957,
-        "lng": 128.527023
+        "lat": 35.218884,
+        "lng": 128.539261
       }
     ],
-    "color": "#88eddb",
-    "start_point_name": "쉼터",
-    "length": 143,
-    "time": "2"
+    "color": "#9a5ab5",
+    "start_name": "갈림길 / 시루봉",
+    "length_meter": 1125.5,
+    "time_minute": 18
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 35.21957,
-        "lng": 128.527023
+        "lat": 35.218884,
+        "lng": 128.539261
       },
       {
-        "lat": 35.216927,
-        "lng": 128.527115
+        "lat": 35.22245,
+        "lng": 128.542435
       }
     ],
-    "color": "#9f3e7e",
-    "start_point_name": "갈림길",
-    "length": 294,
-    "time": "4"
+    "color": "#f53f0f",
+    "start_name": "쉬어가는숲 쉼터 / 갈림길",
+    "length_meter": 497.3,
+    "time_minute": 8
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 35.216927,
-        "lng": 128.527115
+        "lat": 35.22245,
+        "lng": 128.542435
       },
       {
-        "lat": 35.216915,
-        "lng": 128.52713
+        "lat": 35.222973,
+        "lng": 128.543121
       }
     ],
-    "color": "#4918e4",
-    "start_point_name": "갈림길",
-    "length": 1,
-    "time": "0"
+    "color": "#47bafe",
+    "start_name": "쉼터",
+    "length_meter": 85.2,
+    "time_minute": 1
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 35.216915,
-        "lng": 128.52713
+        "lat": 35.222973,
+        "lng": 128.543121
       },
       {
-        "lat": 35.218884,
-        "lng": 128.539261
+        "lat": 35.225956,
+        "lng": 128.545883
       }
     ],
-    "color": "#691ee7",
-    "start_point_name": "시루봉",
-    "length": 1123,
-    "time": "18"
+    "color": "#e81c23",
+    "start_name": "쉼터",
+    "length_meter": 415.9,
+    "time_minute": 6
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 35.218884,
-        "lng": 128.539261
+        "lat": 35.225956,
+        "lng": 128.545883
       },
       {
-        "lat": 35.218864,
-        "lng": 128.53923
+        "lat": 35.226677,
+        "lng": 128.546463
       }
     ],
-    "color": "#ae2c21",
-    "start_point_name": "쉬어가는숲 쉼터",
-    "length": 3,
-    "time": "0"
+    "color": "#f1d539",
+    "start_name": "화장실 / 만남의 광장 쉼터 / 쉼터 겸 체육공원 / 갈림길",
+    "length_meter": 97.1,
+    "time_minute": 1
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 35.218864,
-        "lng": 128.53923
+        "lat": 35.226677,
+        "lng": 128.546463
       },
       {
-        "lat": 35.22245,
-        "lng": 128.542435
+        "lat": 35.226028,
+        "lng": 128.554947
       }
     ],
-    "color": "#6ac29b",
-    "start_point_name": "갈림길",
-    "length": 493,
-    "time": "8"
+    "color": "#ad46a7",
+    "start_name": "갈림길",
+    "length_meter": 774.0,
+    "time_minute": 12
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 35.22245,
-        "lng": 128.542435
+        "lat": 35.226028,
+        "lng": 128.554947
       },
       {
-        "lat": 35.222973,
-        "lng": 128.543121
+        "lat": 35.225391,
+        "lng": 128.558929
       }
     ],
-    "color": "#ed1f52",
-    "start_point_name": "쉼터",
-    "length": 85,
-    "time": "1"
+    "color": "#29b076",
+    "start_name": "조망점",
+    "length_meter": 368.6,
+    "time_minute": 6
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 35.222973,
-        "lng": 128.543121
+        "lat": 35.225391,
+        "lng": 128.558929
       },
       {
-        "lat": 35.225956,
-        "lng": 128.545883
+        "lat": 35.224747,
+        "lng": 128.560654
       }
     ],
-    "color": "#ad7636",
-    "start_point_name": "쉼터",
-    "length": 415,
-    "time": "6"
+    "color": "#0fdd6b",
+    "start_name": "쉼터 겸 체육공원 / 갈림길 / 팔각정 쉼터",
+    "length_meter": 173.7,
+    "time_minute": 2
   },
   {
     "path_id": 20,
     "path": [
       {
-        "lat": 35.225956,
-        "lng": 128.545883
+        "lat": 35.224747,
+        "lng": 128.560654
       },
       {
-        "lat": 35.226063,
-        "lng": 128.545929
+        "lat": 35.225079,
+        "lng": 128.562393
       }
     ],
-    "color": "#2c75ee",
-    "start_point_name": "화장실",
-    "length": 12,
-    "time": "0"
+    "color": "#1eda58",
+    "start_name": "갈림길 / 갈림길",
+    "length_meter": 163.9,
+    "time_minute": 2
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 35.226063,
-        "lng": 128.545929
+        "lat": 35.225079,
+        "lng": 128.562393
       },
       {
-        "lat": 35.226246,
-        "lng": 128.546021
+        "lat": 35.225079,
+        "lng": 128.563522
       }
     ],
-    "color": "#1280a6",
-    "start_point_name": "만남의 광장 쉼터",
-    "length": 21,
-    "time": "0"
+    "color": "#caac7c",
+    "start_name": "봉화산 정상 / 쉼터 겸 체육공원",
+    "length_meter": 108.3,
+    "time_minute": 1
   },
   {
     "path_id": 22,
     "path": [
       {
-        "lat": 35.226246,
-        "lng": 128.546021
+        "lat": 35.225079,
+        "lng": 128.563522
       },
       {
-        "lat": 35.226418,
-        "lng": 128.546188
+        "lat": 35.224976,
+        "lng": 128.564316
       }
     ],
-    "color": "#30426a",
-    "start_point_name": "쉼터 겸 체육공원",
-    "length": 24,
-    "time": "0"
+    "color": "#cdc034",
+    "start_name": "쉼터",
+    "length_meter": 73.0,
+    "time_minute": 1
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 35.226418,
-        "lng": 128.546188
+        "lat": 35.224976,
+        "lng": 128.564316
       },
       {
-        "lat": 35.226677,
-        "lng": 128.546463
+        "lat": 35.224644,
+        "lng": 128.566956
       }
     ],
-    "color": "#cceadb",
-    "start_point_name": "갈림길",
-    "length": 38,
-    "time": "0"
+    "color": "#5e52c2",
+    "start_name": "조망점 / 봉화산 봉수대 / 조망점 / 쉼터",
+    "length_meter": 247.1,
+    "time_minute": 4
   },
   {
     "path_id": 24,
     "path": [
       {
-        "lat": 35.226677,
-        "lng": 128.546463
-      },
-      {
-        "lat": 35.226028,
-        "lng": 128.554947
-      }
-    ],
-    "color": "#1672f9",
-    "start_point_name": "갈림길",
-    "length": 773,
-    "time": "12"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 35.226028,
-        "lng": 128.554947
-      },
-      {
-        "lat": 35.225391,
-        "lng": 128.558929
-      }
-    ],
-    "color": "#6e3a6c",
-    "start_point_name": "조망점",
-    "length": 368,
-    "time": "6"
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 35.225391,
-        "lng": 128.558929
-      },
-      {
-        "lat": 35.225239,
-        "lng": 128.559143
-      }
-    ],
-    "color": "#7a0311",
-    "start_point_name": "쉼터 겸 체육공원",
-    "length": 25,
-    "time": "0"
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 35.225239,
-        "lng": 128.559143
-      },
-      {
-        "lat": 35.225124,
-        "lng": 128.559402
-      }
-    ],
-    "color": "#9c447a",
-    "start_point_name": "갈림길",
-    "length": 26,
-    "time": "0"
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 35.225124,
-        "lng": 128.559402
-      },
-      {
-        "lat": 35.224747,
-        "lng": 128.560654
-      }
-    ],
-    "color": "#cc9f39",
-    "start_point_name": "팔각정 쉼터",
-    "length": 121,
-    "time": "2"
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 35.224747,
-        "lng": 128.560654
-      },
-      {
-        "lat": 35.224716,
-        "lng": 128.560776
-      }
-    ],
-    "color": "#6bc6dd",
-    "start_point_name": "갈림길",
-    "length": 11,
-    "time": "0"
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 35.224716,
-        "lng": 128.560776
-      },
-      {
-        "lat": 35.225079,
-        "lng": 128.562393
-      }
-    ],
-    "color": "#a43c26",
-    "start_point_name": "갈림길",
-    "length": 152,
-    "time": "2"
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 35.225079,
-        "lng": 128.562393
-      },
-      {
-        "lat": 35.225235,
-        "lng": 128.562897
-      }
-    ],
-    "color": "#39a337",
-    "start_point_name": "봉화산 정상",
-    "length": 48,
-    "time": "0"
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 35.225235,
-        "lng": 128.562897
-      },
-      {
-        "lat": 35.225079,
-        "lng": 128.563522
-      }
-    ],
-    "color": "#0f152a",
-    "start_point_name": "쉼터 겸 체육공원",
-    "length": 59,
-    "time": "0"
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 35.225079,
-        "lng": 128.563522
-      },
-      {
-        "lat": 35.224976,
-        "lng": 128.564316
-      }
-    ],
-    "color": "#be6beb",
-    "start_point_name": "쉼터",
-    "length": 73,
-    "time": "1"
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 35.224976,
-        "lng": 128.564316
-      },
-      {
-        "lat": 35.224934,
-        "lng": 128.564514
-      }
-    ],
-    "color": "#16c66b",
-    "start_point_name": "조망점",
-    "length": 18,
-    "time": "0"
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 35.224934,
-        "lng": 128.564514
-      },
-      {
-        "lat": 35.224987,
-        "lng": 128.56459
-      }
-    ],
-    "color": "#f808c8",
-    "start_point_name": "봉화산 봉수대",
-    "length": 9,
-    "time": "0"
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 35.224987,
-        "lng": 128.56459
-      },
-      {
-        "lat": 35.224907,
-        "lng": 128.564758
-      }
-    ],
-    "color": "#7e7d2c",
-    "start_point_name": "조망점",
-    "length": 17,
-    "time": "0"
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 35.224907,
-        "lng": 128.564758
-      },
-      {
         "lat": 35.224644,
         "lng": 128.566956
-      }
-    ],
-    "color": "#71327d",
-    "start_point_name": "쉼터",
-    "length": 201,
-    "time": "3"
-  },
-  {
-    "path_id": 38,
-    "path": [
-      {
-        "lat": 35.224644,
-        "lng": 128.566956
-      },
-      {
-        "lat": 35.224564,
-        "lng": 128.567078
-      }
-    ],
-    "color": "#4c4b74",
-    "start_point_name": "갈림길",
-    "length": 14,
-    "time": "0"
-  },
-  {
-    "path_id": 39,
-    "path": [
-      {
-        "lat": 35.224564,
-        "lng": 128.567078
-      },
-      {
-        "lat": 35.224499,
-        "lng": 128.567291
-      }
-    ],
-    "color": "#df9c06",
-    "start_point_name": "갈림길",
-    "length": 20,
-    "time": "0"
-  },
-  {
-    "path_id": 40,
-    "path": [
-      {
-        "lat": 35.224499,
-        "lng": 128.567291
       },
       {
         "lat": 35.224522,
         "lng": 128.568069
       }
     ],
-    "color": "#603ac1",
-    "start_point_name": "쉼터",
-    "length": 70,
-    "time": "1"
+    "color": "#db6ae6",
+    "start_name": "갈림길 / 갈림길 / 쉼터",
+    "length_meter": 105.6,
+    "time_minute": 1
   },
   {
-    "path_id": 41,
+    "path_id": 25,
     "path": [
       {
         "lat": 35.224522,
@@ -708,13 +436,13 @@
         "lng": 128.568542
       }
     ],
-    "color": "#b03eff",
-    "start_point_name": "쉼터 겸 체육공원",
-    "length": 207,
-    "time": "3"
+    "color": "#cc6f1e",
+    "start_name": "쉼터 겸 체육공원",
+    "length_meter": 207.2,
+    "time_minute": 3
   },
   {
-    "path_id": 42,
+    "path_id": 26,
     "path": [
       {
         "lat": 35.226345,
@@ -725,9 +453,9 @@
         "lng": 128.568359
       }
     ],
-    "color": "#d4f86e",
-    "start_point_name": "석전동 봉국사",
-    "length": 279,
-    "time": "4"
+    "color": "#5b03ab",
+    "start_name": "석전동 봉국사",
+    "length_meter": 279.1,
+    "time_minute": 4
   }
 ]

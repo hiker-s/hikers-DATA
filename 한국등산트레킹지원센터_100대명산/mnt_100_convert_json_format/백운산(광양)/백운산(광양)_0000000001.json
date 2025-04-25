@@ -7,170 +7,102 @@
         "lng": 127.596336
       },
       {
-        "lat": 35.093342,
-        "lng": 127.596352
+        "lat": 35.094315,
+        "lng": 127.596619
       }
     ],
-    "color": "#854ef2",
-    "start_point_name": "진틀휴게소 주차장",
-    "length": 2,
-    "time": "0"
+    "color": "#1ed4ea",
+    "start_name": "진틀휴게소 주차장 / 화장실 / 진틀휴게소",
+    "length_meter": 113.9,
+    "time_minute": 1
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 35.093342,
-        "lng": 127.596352
+        "lat": 35.094315,
+        "lng": 127.596619
       },
       {
-        "lat": 35.093769,
-        "lng": 127.596443
+        "lat": 35.096924,
+        "lng": 127.601662
       }
     ],
-    "color": "#87daa6",
-    "start_point_name": "화장실",
-    "length": 48,
-    "time": "0"
+    "color": "#3afca8",
+    "start_name": "진틀마을 버스정류장",
+    "length_meter": 542.8,
+    "time_minute": 9
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.093769,
-        "lng": 127.596443
+        "lat": 35.096924,
+        "lng": 127.601662
       },
       {
-        "lat": 35.094315,
-        "lng": 127.596619
+        "lat": 35.09687,
+        "lng": 127.603745
       }
     ],
-    "color": "#6d663e",
-    "start_point_name": "진틀휴게소",
-    "length": 62,
-    "time": "1"
+    "color": "#d2b78f",
+    "start_name": "광양 진틀 펜션 캠핑장",
+    "length_meter": 189.6,
+    "time_minute": 3
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.094315,
-        "lng": 127.596619
+        "lat": 35.09687,
+        "lng": 127.603745
       },
       {
-        "lat": 35.096924,
-        "lng": 127.601662
+        "lat": 35.101505,
+        "lng": 127.612984
       }
     ],
-    "color": "#36a0a3",
-    "start_point_name": "진틀마을 버스정류장",
-    "length": 542,
-    "time": "9"
+    "color": "#32f1af",
+    "start_name": "병암산장",
+    "length_meter": 985.9,
+    "time_minute": 16
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.096924,
-        "lng": 127.601662
+        "lat": 35.101505,
+        "lng": 127.612984
       },
       {
-        "lat": 35.09687,
-        "lng": 127.603745
+        "lat": 35.108337,
+        "lng": 127.61776
       }
     ],
-    "color": "#7cd804",
-    "start_point_name": "광양 진틀 펜션 캠핑장",
-    "length": 189,
-    "time": "3"
+    "color": "#52b308",
+    "start_name": "숯가마터 / 갈림길 8",
+    "length_meter": 876.2,
+    "time_minute": 14
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.09687,
-        "lng": 127.603745
-      },
-      {
-        "lat": 35.101505,
-        "lng": 127.612984
-      }
-    ],
-    "color": "#ce8e57",
-    "start_point_name": "병암산장",
-    "length": 985,
-    "time": "16"
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.101505,
-        "lng": 127.612984
-      },
-      {
-        "lat": 35.101582,
-        "lng": 127.613106
-      }
-    ],
-    "color": "#dc6bdd",
-    "start_point_name": "숯가마터",
-    "length": 14,
-    "time": "0"
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.101582,
-        "lng": 127.613106
-      },
-      {
         "lat": 35.108337,
         "lng": 127.61776
-      }
-    ],
-    "color": "#cecd60",
-    "start_point_name": "갈림길 8",
-    "length": 862,
-    "time": "14"
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.108337,
-        "lng": 127.61776
-      },
-      {
-        "lat": 35.108677,
-        "lng": 127.617844
-      }
-    ],
-    "color": "#ef59db",
-    "start_point_name": "갈림길 13",
-    "length": 38,
-    "time": "0"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.108677,
-        "lng": 127.617844
       },
       {
         "lat": 35.108418,
         "lng": 127.617889
       }
     ],
-    "color": "#da817d",
-    "start_point_name": "갈림길 14",
-    "length": 29,
-    "time": "0"
+    "color": "#caeade",
+    "start_name": "갈림길 13 / 갈림길 14",
+    "length_meter": 67.7,
+    "time_minute": 1
   },
   {
-    "path_id": 10,
+    "path_id": 6,
     "path": [
       {
         "lat": 35.108418,
@@ -181,13 +113,13 @@
         "lng": 127.610069
       }
     ],
-    "color": "#95ec46",
-    "start_point_name": "신선대",
-    "length": 1266,
-    "time": "21"
+    "color": "#33ed2c",
+    "start_name": "신선대",
+    "length_meter": 1266.3,
+    "time_minute": 21
   },
   {
-    "path_id": 11,
+    "path_id": 7,
     "path": [
       {
         "lat": 35.11784,
@@ -198,13 +130,13 @@
         "lng": 127.603996
       }
     ],
-    "color": "#792ed4",
-    "start_point_name": "갈림길 16",
-    "length": 556,
-    "time": "9"
+    "color": "#737176",
+    "start_name": "갈림길 16",
+    "length_meter": 556.8,
+    "time_minute": 9
   },
   {
-    "path_id": 12,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.118469,
@@ -215,9 +147,9 @@
         "lng": 127.603996
       }
     ],
-    "color": "#a77ef8",
-    "start_point_name": "반달 가슴곰 출현주의",
-    "length": 1,
-    "time": "0"
+    "color": "#cfb227",
+    "start_name": "반달 가슴곰 출현주의",
+    "length_meter": 1.7,
+    "time_minute": 0
   }
 ]

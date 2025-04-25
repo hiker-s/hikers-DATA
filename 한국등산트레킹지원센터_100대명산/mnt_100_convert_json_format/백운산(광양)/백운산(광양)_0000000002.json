@@ -11,10 +11,10 @@
         "lng": 127.64724
       }
     ],
-    "color": "#ffdf16",
-    "start_point_name": "갈림길",
-    "length": 1626,
-    "time": "27"
+    "color": "#fd5b1c",
+    "start_name": "갈림길",
+    "length_meter": 1626.6,
+    "time_minute": 27
   },
   {
     "path_id": 1,
@@ -24,119 +24,68 @@
         "lng": 127.64724
       },
       {
-        "lat": 35.068157,
-        "lng": 127.647293
+        "lat": 35.073914,
+        "lng": 127.648834
       }
     ],
-    "color": "#c42cdf",
-    "start_point_name": "목재데크",
-    "length": 8,
-    "time": "0"
+    "color": "#c47210",
+    "start_name": "목재데크 / 갈림길",
+    "length_meter": 664.0,
+    "time_minute": 11
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.068157,
-        "lng": 127.647293
-      },
-      {
         "lat": 35.073914,
         "lng": 127.648834
+      },
+      {
+        "lat": 35.072525,
+        "lng": 127.6548
       }
     ],
-    "color": "#ddc764",
-    "start_point_name": "갈림길",
-    "length": 655,
-    "time": "10"
+    "color": "#2968a1",
+    "start_name": "갈림길 / 목재데크 2개",
+    "length_meter": 567.3,
+    "time_minute": 9
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.073914,
-        "lng": 127.648834
+        "lat": 35.072525,
+        "lng": 127.6548
       },
       {
-        "lat": 35.073948,
-        "lng": 127.648872
+        "lat": 35.069138,
+        "lng": 127.638008
       }
     ],
-    "color": "#49ee5d",
-    "start_point_name": "갈림길",
-    "length": 5,
-    "time": "0"
+    "color": "#e35da1",
+    "start_name": "억불봉",
+    "length_meter": 1573.9,
+    "time_minute": 26
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.073948,
-        "lng": 127.648872
-      },
-      {
-        "lat": 35.072525,
-        "lng": 127.6548
-      }
-    ],
-    "color": "#9817a8",
-    "start_point_name": "목재데크 2개",
-    "length": 562,
-    "time": "9"
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.072525,
-        "lng": 127.6548
-      },
-      {
         "lat": 35.069138,
         "lng": 127.638008
-      }
-    ],
-    "color": "#4a594a",
-    "start_point_name": "억불봉",
-    "length": 1573,
-    "time": "26"
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 35.069138,
-        "lng": 127.638008
-      },
-      {
-        "lat": 35.069183,
-        "lng": 127.637947
-      }
-    ],
-    "color": "#268732",
-    "start_point_name": "갈림길",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.069183,
-        "lng": 127.637947
       },
       {
         "lat": 35.068737,
         "lng": 127.634521
       }
     ],
-    "color": "#1560de",
-    "start_point_name": "벤치 2개",
-    "length": 315,
-    "time": "5"
+    "color": "#3a2b8c",
+    "start_name": "갈림길 / 벤치 2개",
+    "length_meter": 323.2,
+    "time_minute": 5
   },
   {
-    "path_id": 8,
+    "path_id": 5,
     "path": [
       {
         "lat": 35.068737,
@@ -147,9 +96,9 @@
         "lng": 127.634514
       }
     ],
-    "color": "#a5dce5",
-    "start_point_name": "야생멧돼지 출몰지역 시민 주의사항 알림",
-    "length": 58,
-    "time": "0"
+    "color": "#ccdc07",
+    "start_name": "야생멧돼지 출몰지역 시민 주의사항 알림",
+    "length_meter": 58.2,
+    "time_minute": 0
   }
 ]

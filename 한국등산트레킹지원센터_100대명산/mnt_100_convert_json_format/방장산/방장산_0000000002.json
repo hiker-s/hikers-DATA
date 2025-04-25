@@ -7,238 +7,153 @@
         "lng": 126.748985
       },
       {
-        "lat": 35.464981,
-        "lng": 126.749252
+        "lat": 35.465939,
+        "lng": 126.752502
       }
     ],
-    "color": "#1cd7de",
-    "start_point_name": "갈림길",
-    "length": 29,
-    "time": "0"
+    "color": "#8a4bb7",
+    "start_name": "갈림길 / 갈림길",
+    "length_meter": 342.3,
+    "time_minute": 5
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 35.464981,
-        "lng": 126.749252
-      },
-      {
         "lat": 35.465939,
         "lng": 126.752502
+      },
+      {
+        "lat": 35.460861,
+        "lng": 126.75676
       }
     ],
-    "color": "#3adf71",
-    "start_point_name": "갈림길",
-    "length": 313,
-    "time": "5"
+    "color": "#f1f1f3",
+    "start_name": "갈림길",
+    "length_meter": 683.8,
+    "time_minute": 11
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.465939,
-        "lng": 126.752502
-      },
-      {
         "lat": 35.460861,
         "lng": 126.75676
+      },
+      {
+        "lat": 35.450954,
+        "lng": 126.746017
       }
     ],
-    "color": "#a7f53a",
-    "start_point_name": "갈림길",
-    "length": 683,
-    "time": "11"
+    "color": "#58eb0a",
+    "start_name": "갈림길",
+    "length_meter": 1469.8,
+    "time_minute": 24
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.460861,
-        "lng": 126.75676
-      },
-      {
         "lat": 35.450954,
         "lng": 126.746017
+      },
+      {
+        "lat": 35.455189,
+        "lng": 126.7463
       }
     ],
-    "color": "#72e6ec",
-    "start_point_name": "갈림길",
-    "length": 1469,
-    "time": "24"
+    "color": "#226e58",
+    "start_name": "갈림길",
+    "length_meter": 471.6,
+    "time_minute": 7
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.450954,
-        "lng": 126.746017
-      },
-      {
         "lat": 35.455189,
         "lng": 126.7463
+      },
+      {
+        "lat": 35.458492,
+        "lng": 126.746643
       }
     ],
-    "color": "#e0540b",
-    "start_point_name": "갈림길",
-    "length": 471,
-    "time": "7"
+    "color": "#8a4f5a",
+    "start_name": "자연경관",
+    "length_meter": 368.6,
+    "time_minute": 6
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.455189,
-        "lng": 126.7463
-      },
-      {
         "lat": 35.458492,
         "lng": 126.746643
+      },
+      {
+        "lat": 35.459045,
+        "lng": 126.746864
       }
     ],
-    "color": "#5f0e90",
-    "start_point_name": "자연경관",
-    "length": 368,
-    "time": "6"
+    "color": "#2c4d2a",
+    "start_name": "너덜지대",
+    "length_meter": 64.7,
+    "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.458492,
-        "lng": 126.746643
-      },
-      {
         "lat": 35.459045,
         "lng": 126.746864
+      },
+      {
+        "lat": 35.459797,
+        "lng": 126.74678
       }
     ],
-    "color": "#840e5f",
-    "start_point_name": "너덜지대",
-    "length": 64,
-    "time": "1"
+    "color": "#b5c2a8",
+    "start_name": "자연경관 / 자연경관 / 자연경관",
+    "length_meter": 84.7,
+    "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.459045,
-        "lng": 126.746864
+        "lat": 35.459797,
+        "lng": 126.74678
       },
       {
-        "lat": 35.459129,
-        "lng": 126.74688
+        "lat": 35.464485,
+        "lng": 126.745178
       }
     ],
-    "color": "#aae28a",
-    "start_point_name": "자연경관",
-    "length": 9,
-    "time": "0"
+    "color": "#41299a",
+    "start_name": "암릉지대",
+    "length_meter": 541.1,
+    "time_minute": 9
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.459129,
-        "lng": 126.74688
-      },
-      {
-        "lat": 35.459248,
-        "lng": 126.746895
-      }
-    ],
-    "color": "#23bf0a",
-    "start_point_name": "자연경관",
-    "length": 13,
-    "time": "0"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.459248,
-        "lng": 126.746895
-      },
-      {
-        "lat": 35.459797,
-        "lng": 126.74678
-      }
-    ],
-    "color": "#3a738c",
-    "start_point_name": "자연경관",
-    "length": 61,
-    "time": "1"
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.459797,
-        "lng": 126.74678
-      },
-      {
         "lat": 35.464485,
         "lng": 126.745178
-      }
-    ],
-    "color": "#268416",
-    "start_point_name": "암릉지대",
-    "length": 541,
-    "time": "9"
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.464485,
-        "lng": 126.745178
-      },
-      {
-        "lat": 35.464748,
-        "lng": 126.745171
-      }
-    ],
-    "color": "#f685ac",
-    "start_point_name": "코끼리바위",
-    "length": 29,
-    "time": "0"
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.464748,
-        "lng": 126.745171
-      },
-      {
-        "lat": 35.464756,
-        "lng": 126.744865
-      }
-    ],
-    "color": "#5bd7a4",
-    "start_point_name": "용추폭포",
-    "length": 27,
-    "time": "0"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.464756,
-        "lng": 126.744865
       },
       {
         "lat": 35.466179,
         "lng": 126.743019
       }
     ],
-    "color": "#33b387",
-    "start_point_name": "자연경관",
-    "length": 230,
-    "time": "3"
+    "color": "#33afcd",
+    "start_name": "코끼리바위 / 용추폭포 / 자연경관",
+    "length_meter": 287.2,
+    "time_minute": 4
   },
   {
-    "path_id": 14,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.466179,
@@ -249,13 +164,13 @@
         "lng": 126.740379
       }
     ],
-    "color": "#3a7e2c",
-    "start_point_name": "갈림길",
-    "length": 242,
-    "time": "4"
+    "color": "#f61f1a",
+    "start_name": "갈림길",
+    "length_meter": 242.7,
+    "time_minute": 4
   },
   {
-    "path_id": 15,
+    "path_id": 10,
     "path": [
       {
         "lat": 35.465805,
@@ -266,9 +181,9 @@
         "lng": 126.743034
       }
     ],
-    "color": "#6e1114",
-    "start_point_name": "갈림길",
-    "length": 263,
-    "time": "4"
+    "color": "#45ffc6",
+    "start_name": "갈림길",
+    "length_meter": 263.5,
+    "time_minute": 4
   }
 ]

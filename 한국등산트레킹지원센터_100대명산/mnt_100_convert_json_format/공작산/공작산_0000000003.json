@@ -11,10 +11,10 @@
         "lng": 127.965446
       }
     ],
-    "color": "#ef94e9",
-    "start_point_name": "굴운저수지 버스정류장",
-    "length": 1236,
-    "time": "20"
+    "color": "#00da02",
+    "start_name": "굴운저수지 버스정류장",
+    "length_meter": 1236.7,
+    "time_minute": 20
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 128.010849
       }
     ],
-    "color": "#c0f04b",
-    "start_point_name": "갈림길",
-    "length": 4189,
-    "time": "69"
+    "color": "#5caf5d",
+    "start_name": "갈림길",
+    "length_meter": 4189.9,
+    "time_minute": 69
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 128.015747
       }
     ],
-    "color": "#2a07b7",
-    "start_point_name": "갈림길",
-    "length": 431,
-    "time": "7"
+    "color": "#77276d",
+    "start_name": "갈림길",
+    "length_meter": 431.2,
+    "time_minute": 7
   },
   {
     "path_id": 3,
@@ -58,34 +58,17 @@
         "lng": 128.015747
       },
       {
-        "lat": 37.714092,
-        "lng": 128.015915
-      }
-    ],
-    "color": "#acc4f1",
-    "start_point_name": "낙엽송지대",
-    "length": 14,
-    "time": "0"
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.714092,
-        "lng": 128.015915
-      },
-      {
         "lat": 37.715714,
         "lng": 128.01532
       }
     ],
-    "color": "#fa0fcb",
-    "start_point_name": "갈림길",
-    "length": 187,
-    "time": "3"
+    "color": "#37174f",
+    "start_name": "낙엽송지대 / 갈림길",
+    "length_meter": 202.8,
+    "time_minute": 3
   },
   {
-    "path_id": 5,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.715714,
@@ -96,13 +79,13 @@
         "lng": 128.015427
       }
     ],
-    "color": "#8d9ecc",
-    "start_point_name": "갈림길",
-    "length": 1345,
-    "time": "22"
+    "color": "#aff359",
+    "start_name": "갈림길",
+    "length_meter": 1345.9,
+    "time_minute": 22
   },
   {
-    "path_id": 6,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.727818,
@@ -113,9 +96,9 @@
         "lng": 128.000839
       }
     ],
-    "color": "#66293a",
-    "start_point_name": "공작폭포",
-    "length": 3162,
-    "time": "52"
+    "color": "#188f3c",
+    "start_name": "공작폭포",
+    "length_meter": 3162.6,
+    "time_minute": 52
   }
 ]

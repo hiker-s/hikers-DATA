@@ -11,10 +11,10 @@
         "lng": 126.922691
       }
     ],
-    "color": "#4c9577",
-    "start_point_name": "향토 자유수호  기념비",
-    "length": 109,
-    "time": "1"
+    "color": "#93d8ba",
+    "start_name": "향토 자유수호  기념비",
+    "length_meter": 110.0,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 126.918106
       }
     ],
-    "color": "#e44279",
-    "start_point_name": "낙석위험",
-    "length": 439,
-    "time": "7"
+    "color": "#345326",
+    "start_name": "낙석위험",
+    "length_meter": 439.0,
+    "time_minute": 7
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 126.917854
       }
     ],
-    "color": "#30a6f7",
-    "start_point_name": "자연사랑길 간이쉼터",
-    "length": 100,
-    "time": "1"
+    "color": "#771a3e",
+    "start_name": "자연사랑길 간이쉼터",
+    "length_meter": 100.6,
+    "time_minute": 1
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 126.914314
       }
     ],
-    "color": "#406206",
-    "start_point_name": "굴거리 나무",
-    "length": 322,
-    "time": "5"
+    "color": "#372c73",
+    "start_name": "굴거리 나무",
+    "length_meter": 322.5,
+    "time_minute": 5
   },
   {
     "path_id": 4,
@@ -79,10 +79,10 @@
         "lng": 126.901314
       }
     ],
-    "color": "#8fdda3",
-    "start_point_name": "매점",
-    "length": 1229,
-    "time": "20"
+    "color": "#78510c",
+    "start_name": "매점",
+    "length_meter": 1229.8,
+    "time_minute": 20
   },
   {
     "path_id": 5,
@@ -96,10 +96,10 @@
         "lng": 126.897987
       }
     ],
-    "color": "#1845a9",
-    "start_point_name": "갈림길",
-    "length": 306,
-    "time": "5"
+    "color": "#9c9595",
+    "start_name": "갈림길",
+    "length_meter": 306.3,
+    "time_minute": 5
   },
   {
     "path_id": 6,
@@ -113,10 +113,10 @@
         "lng": 126.896385
       }
     ],
-    "color": "#589bd7",
-    "start_point_name": "실록원",
-    "length": 145,
-    "time": "2"
+    "color": "#637687",
+    "start_name": "실록원",
+    "length_meter": 146.0,
+    "time_minute": 2
   },
   {
     "path_id": 7,
@@ -130,10 +130,10 @@
         "lng": 126.889481
       }
     ],
-    "color": "#9d92cc",
-    "start_point_name": "낙석주의",
-    "length": 692,
-    "time": "11"
+    "color": "#3d1f5b",
+    "start_name": "낙석주의",
+    "length_meter": 692.2,
+    "time_minute": 11
   },
   {
     "path_id": 8,
@@ -147,10 +147,10 @@
         "lng": 126.890945
       }
     ],
-    "color": "#ad96cb",
-    "start_point_name": "갈림길",
-    "length": 674,
-    "time": "11"
+    "color": "#783970",
+    "start_name": "갈림길",
+    "length_meter": 674.4,
+    "time_minute": 11
   },
   {
     "path_id": 9,
@@ -160,85 +160,51 @@
         "lng": 126.890945
       },
       {
-        "lat": 35.479465,
-        "lng": 126.890793
+        "lat": 35.483173,
+        "lng": 126.882179
       }
     ],
-    "color": "#e8dc21",
-    "start_point_name": "미끄럼 주의",
-    "length": 16,
-    "time": "0"
+    "color": "#a27905",
+    "start_name": "미끄럼 주의 / 낙석주의",
+    "length_meter": 899.1,
+    "time_minute": 14
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.479465,
-        "lng": 126.890793
-      },
-      {
         "lat": 35.483173,
         "lng": 126.882179
+      },
+      {
+        "lat": 35.485252,
+        "lng": 126.881096
       }
     ],
-    "color": "#8451a7",
-    "start_point_name": "낙석주의",
-    "length": 882,
-    "time": "14"
+    "color": "#47d2f1",
+    "start_name": "조망점",
+    "length_meter": 251.1,
+    "time_minute": 4
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.483173,
-        "lng": 126.882179
-      },
-      {
         "lat": 35.485252,
         "lng": 126.881096
-      }
-    ],
-    "color": "#64f908",
-    "start_point_name": "조망점",
-    "length": 251,
-    "time": "4"
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.485252,
-        "lng": 126.881096
-      },
-      {
-        "lat": 35.48539,
-        "lng": 126.881134
-      }
-    ],
-    "color": "#de9950",
-    "start_point_name": "조망점",
-    "length": 15,
-    "time": "0"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.48539,
-        "lng": 126.881134
       },
       {
         "lat": 35.487247,
         "lng": 126.883438
       }
     ],
-    "color": "#2ccce4",
-    "start_point_name": "조망점",
-    "length": 293,
-    "time": "4"
+    "color": "#68b6c3",
+    "start_name": "조망점 / 조망점",
+    "length_meter": 309.2,
+    "time_minute": 5
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.487247,
@@ -249,13 +215,13 @@
         "lng": 126.914398
       }
     ],
-    "color": "#00774c",
-    "start_point_name": "간이쉼터",
-    "length": 2807,
-    "time": "46"
+    "color": "#1fbc18",
+    "start_name": "간이쉼터",
+    "length_meter": 2807.5,
+    "time_minute": 46
   },
   {
-    "path_id": 15,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.485836,
@@ -266,9 +232,9 @@
         "lng": 126.914505
       }
     ],
-    "color": "#dfa3a5",
-    "start_point_name": "테이크아웃 커피점",
-    "length": 10,
-    "time": "0"
+    "color": "#ae1116",
+    "start_name": "테이크아웃 커피점",
+    "length_meter": 10.6,
+    "time_minute": 0
   }
 ]

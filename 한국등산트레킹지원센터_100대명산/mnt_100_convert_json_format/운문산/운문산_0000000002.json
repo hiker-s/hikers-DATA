@@ -11,10 +11,10 @@
         "lng": 128.954132
       }
     ],
-    "color": "#004e68",
-    "start_point_name": "갈림길 2",
-    "length": 124,
-    "time": "2"
+    "color": "#0d89ec",
+    "start_name": "갈림길 2",
+    "length_meter": 124.3,
+    "time_minute": 2
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 128.952866
       }
     ],
-    "color": "#2a81cc",
-    "start_point_name": "갈림길 3",
-    "length": 242,
-    "time": "4"
+    "color": "#1adddf",
+    "start_name": "갈림길 3",
+    "length_meter": 242.1,
+    "time_minute": 4
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 128.958618
       }
     ],
-    "color": "#f3bf44",
-    "start_point_name": "포장길  끝.",
-    "length": 986,
-    "time": "16"
+    "color": "#3d5568",
+    "start_name": "포장길  끝.",
+    "length_meter": 986.0,
+    "time_minute": 16
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 128.958389
       }
     ],
-    "color": "#4ff160",
-    "start_point_name": "능선 등산로",
-    "length": 700,
-    "time": "11"
+    "color": "#1c9ad7",
+    "start_name": "능선 등산로",
+    "length_meter": 700.2,
+    "time_minute": 11
   },
   {
     "path_id": 4,
@@ -79,10 +79,10 @@
         "lng": 128.958603
       }
     ],
-    "color": "#a03c46",
-    "start_point_name": "대피소겸  쉼터",
-    "length": 208,
-    "time": "3"
+    "color": "#f97097",
+    "start_name": "대피소겸  쉼터",
+    "length_meter": 208.4,
+    "time_minute": 3
   },
   {
     "path_id": 5,
@@ -96,10 +96,10 @@
         "lng": 128.959763
       }
     ],
-    "color": "#3a67b5",
-    "start_point_name": "전망대",
-    "length": 111,
-    "time": "1"
+    "color": "#83f07c",
+    "start_name": "전망대",
+    "length_meter": 111.7,
+    "time_minute": 1
   },
   {
     "path_id": 6,
@@ -109,85 +109,34 @@
         "lng": 128.959763
       },
       {
-        "lat": 35.615498,
-        "lng": 128.959732
+        "lat": 35.613274,
+        "lng": 128.972839
       }
     ],
-    "color": "#ad890e",
-    "start_point_name": "정상",
-    "length": 3,
-    "time": "0"
+    "color": "#20441b",
+    "start_name": "정상 / 갈림길 10",
+    "length_meter": 1214.2,
+    "time_minute": 20
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.615498,
-        "lng": 128.959732
-      },
-      {
         "lat": 35.613274,
         "lng": 128.972839
-      }
-    ],
-    "color": "#877115",
-    "start_point_name": "갈림길 10",
-    "length": 1210,
-    "time": "20"
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.613274,
-        "lng": 128.972839
-      },
-      {
-        "lat": 35.613274,
-        "lng": 128.972839
-      }
-    ],
-    "color": "#c98ea8",
-    "start_point_name": "갈림길 11",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.613274,
-        "lng": 128.972839
-      },
-      {
-        "lat": 35.613312,
-        "lng": 128.972748
-      }
-    ],
-    "color": "#1b055d",
-    "start_point_name": "갈림길 12",
-    "length": 9,
-    "time": "0"
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.613312,
-        "lng": 128.972748
       },
       {
         "lat": 35.599937,
         "lng": 128.965164
       }
     ],
-    "color": "#a7b41b",
-    "start_point_name": "환경감시초소",
-    "length": 1637,
-    "time": "27"
+    "color": "#d2911e",
+    "start_name": "갈림길 11 / 갈림길 12 / 환경감시초소",
+    "length_meter": 1646.9,
+    "time_minute": 27
   },
   {
-    "path_id": 11,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.599937,
@@ -198,9 +147,9 @@
         "lng": 128.965179
       }
     ],
-    "color": "#c579a0",
-    "start_point_name": "갈림길 14",
-    "length": 1,
-    "time": "0"
+    "color": "#5d450e",
+    "start_name": "갈림길 14",
+    "length_meter": 1.4,
+    "time_minute": 0
   }
 ]

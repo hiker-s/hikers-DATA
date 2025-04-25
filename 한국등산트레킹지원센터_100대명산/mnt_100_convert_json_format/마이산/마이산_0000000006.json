@@ -11,10 +11,10 @@
         "lng": 127.414917
       }
     ],
-    "color": "#9ca5f0",
-    "start_point_name": "가위박물관앞 화장실",
-    "length": 225,
-    "time": "3"
+    "color": "#4bddb2",
+    "start_name": "가위박물관앞 화장실",
+    "length_meter": 225.2,
+    "time_minute": 3
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 127.415123
       }
     ],
-    "color": "#103f1a",
-    "start_point_name": "마이사 쉼터",
-    "length": 60,
-    "time": "1"
+    "color": "#f87c3e",
+    "start_name": "마이사 쉼터",
+    "length_meter": 60.5,
+    "time_minute": 1
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 127.415161
       }
     ],
-    "color": "#7b449f",
-    "start_point_name": "마이산안내판",
-    "length": 190,
-    "time": "3"
+    "color": "#ac8160",
+    "start_name": "마이산안내판",
+    "length_meter": 190.1,
+    "time_minute": 3
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 127.414497
       }
     ],
-    "color": "#321d3f",
-    "start_point_name": "계단중간쉼터",
-    "length": 209,
-    "time": "3"
+    "color": "#b78c58",
+    "start_name": "계단중간쉼터",
+    "length_meter": 209.5,
+    "time_minute": 3
   },
   {
     "path_id": 4,
@@ -75,132 +75,81 @@
         "lng": 127.414497
       },
       {
-        "lat": 35.761505,
-        "lng": 127.414459
+        "lat": 35.762112,
+        "lng": 127.414696
       }
     ],
-    "color": "#b1f775",
-    "start_point_name": "천왕문",
-    "length": 3,
-    "time": "0"
+    "color": "#1a513a",
+    "start_name": "천왕문 / 천왕문 분수령 쉼터",
+    "length_meter": 74.3,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.761505,
-        "lng": 127.414459
-      },
-      {
         "lat": 35.762112,
         "lng": 127.414696
+      },
+      {
+        "lat": 35.762917,
+        "lng": 127.415665
       }
     ],
-    "color": "#459931",
-    "start_point_name": "천왕문 분수령 쉼터",
-    "length": 70,
-    "time": "1"
+    "color": "#a16c2f",
+    "start_name": "갈림길 / 북부주차장가는길.연인의길 갈림길 쉼터",
+    "length_meter": 126.7,
+    "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.762112,
-        "lng": 127.414696
+        "lat": 35.762917,
+        "lng": 127.415665
       },
       {
-        "lat": 35.762173,
-        "lng": 127.414703
+        "lat": 35.76593,
+        "lng": 127.417419
       }
     ],
-    "color": "#57d4d2",
-    "start_point_name": "갈림길",
-    "length": 6,
-    "time": "0"
+    "color": "#4ef13d",
+    "start_name": "연인의길시작 쉼터",
+    "length_meter": 370.5,
+    "time_minute": 6
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.762173,
-        "lng": 127.414703
+        "lat": 35.76593,
+        "lng": 127.417419
       },
       {
-        "lat": 35.762917,
-        "lng": 127.415665
+        "lat": 35.767784,
+        "lng": 127.416008
       }
     ],
-    "color": "#7eeaf0",
-    "start_point_name": "북부주차장가는길.연인의길 갈림길 쉼터",
-    "length": 119,
-    "time": "1"
+    "color": "#e874bd",
+    "start_name": "쉼터",
+    "length_meter": 242.3,
+    "time_minute": 4
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.762917,
-        "lng": 127.415665
-      },
-      {
-        "lat": 35.76593,
-        "lng": 127.417419
-      }
-    ],
-    "color": "#64db9d",
-    "start_point_name": "연인의길시작 쉼터",
-    "length": 370,
-    "time": "6"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.76593,
-        "lng": 127.417419
-      },
-      {
         "lat": 35.767784,
         "lng": 127.416008
-      }
-    ],
-    "color": "#0b14e3",
-    "start_point_name": "쉼터",
-    "length": 242,
-    "time": "4"
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.767784,
-        "lng": 127.416008
-      },
-      {
-        "lat": 35.767788,
-        "lng": 127.416061
-      }
-    ],
-    "color": "#33ed8c",
-    "start_point_name": "마이산조망점 쉼터",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.767788,
-        "lng": 127.416061
       },
       {
         "lat": 35.767101,
         "lng": 127.414497
       }
     ],
-    "color": "#b5a9b5",
-    "start_point_name": "마이산 조망점",
-    "length": 160,
-    "time": "2"
+    "color": "#4e8435",
+    "start_name": "마이산조망점 쉼터 / 마이산 조망점",
+    "length_meter": 165.3,
+    "time_minute": 2
   }
 ]

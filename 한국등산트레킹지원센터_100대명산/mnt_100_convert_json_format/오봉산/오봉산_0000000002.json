@@ -7,676 +7,404 @@
         "lng": 127.818161
       },
       {
-        "lat": 37.97879,
-        "lng": 127.818184
+        "lat": 37.978889,
+        "lng": 127.816971
       }
     ],
-    "color": "#ccf0b5",
-    "start_point_name": "청평사 선착장",
-    "length": 30,
-    "time": "0"
+    "color": "#5d61d5",
+    "start_name": "청평사 선착장 / 청평사 가는길",
+    "length_meter": 137.1,
+    "time_minute": 2
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 37.97879,
-        "lng": 127.818184
-      },
-      {
         "lat": 37.978889,
         "lng": 127.816971
+      },
+      {
+        "lat": 37.978512,
+        "lng": 127.815361
       }
     ],
-    "color": "#eb82e4",
-    "start_point_name": "청평사 가는길",
-    "length": 106,
-    "time": "1"
+    "color": "#8bd8b2",
+    "start_name": "쉼터 / 쉼터 / 전망대",
+    "length_meter": 162.4,
+    "time_minute": 2
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 37.978889,
-        "lng": 127.816971
+        "lat": 37.978512,
+        "lng": 127.815361
       },
       {
-        "lat": 37.978672,
-        "lng": 127.816826
+        "lat": 37.982723,
+        "lng": 127.811111
       }
     ],
-    "color": "#eddcde",
-    "start_point_name": "쉼터",
-    "length": 27,
-    "time": "0"
+    "color": "#aa9a9b",
+    "start_name": "화장실",
+    "length_meter": 598.3,
+    "time_minute": 9
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 37.978672,
-        "lng": 127.816826
+        "lat": 37.982723,
+        "lng": 127.811111
       },
       {
-        "lat": 37.978779,
-        "lng": 127.816513
+        "lat": 37.9837,
+        "lng": 127.810135
       }
     ],
-    "color": "#002508",
-    "start_point_name": "쉼터",
-    "length": 29,
-    "time": "0"
+    "color": "#44c36a",
+    "start_name": "구송폭포 / 갈림길",
+    "length_meter": 138.7,
+    "time_minute": 2
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.978779,
-        "lng": 127.816513
+        "lat": 37.9837,
+        "lng": 127.810135
       },
       {
-        "lat": 37.978512,
-        "lng": 127.815361
+        "lat": 37.985477,
+        "lng": 127.809196
       }
     ],
-    "color": "#d7ba22",
-    "start_point_name": "전망대",
-    "length": 105,
-    "time": "1"
+    "color": "#6690b1",
+    "start_name": "새향다원",
+    "length_meter": 214.0,
+    "time_minute": 3
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 37.978512,
-        "lng": 127.815361
+        "lat": 37.985477,
+        "lng": 127.809196
       },
       {
-        "lat": 37.982723,
-        "lng": 127.811111
+        "lat": 37.985802,
+        "lng": 127.808105
       }
     ],
-    "color": "#745097",
-    "start_point_name": "화장실",
-    "length": 598,
-    "time": "9"
+    "color": "#3a3f31",
+    "start_name": "약수터 / 약수터 / 청평사 / 약수 / 보호수 / 화장실",
+    "length_meter": 104.8,
+    "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 37.982723,
-        "lng": 127.811111
+        "lat": 37.985802,
+        "lng": 127.808105
       },
       {
-        "lat": 37.982742,
-        "lng": 127.811066
+        "lat": 37.980637,
+        "lng": 127.799225
       }
     ],
-    "color": "#f14157",
-    "start_point_name": "구송폭포",
-    "length": 4,
-    "time": "0"
+    "color": "#fe8e2a",
+    "start_name": "공주탕 / 산행기점",
+    "length_meter": 980.6,
+    "time_minute": 16
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.982742,
-        "lng": 127.811066
+        "lat": 37.980637,
+        "lng": 127.799225
       },
       {
-        "lat": 37.9837,
-        "lng": 127.810135
+        "lat": 37.984535,
+        "lng": 127.794044
       }
     ],
-    "color": "#8fee55",
-    "start_point_name": "갈림길",
-    "length": 134,
-    "time": "2"
+    "color": "#0a8f66",
+    "start_name": "길안내 / 끝봉",
+    "length_meter": 630.5,
+    "time_minute": 10
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 37.9837,
-        "lng": 127.810135
+        "lat": 37.984535,
+        "lng": 127.794044
       },
       {
-        "lat": 37.985477,
-        "lng": 127.809196
+        "lat": 37.989346,
+        "lng": 127.792747
       }
     ],
-    "color": "#94138e",
-    "start_point_name": "새향다원",
-    "length": 214,
-    "time": "3"
+    "color": "#50b80f",
+    "start_name": "갈림길",
+    "length_meter": 546.9,
+    "time_minute": 9
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.985477,
-        "lng": 127.809196
+        "lat": 37.989346,
+        "lng": 127.792747
       },
       {
-        "lat": 37.985477,
-        "lng": 127.809189
+        "lat": 37.992691,
+        "lng": 127.793304
       }
     ],
-    "color": "#56205c",
-    "start_point_name": "약수터",
-    "length": 0,
-    "time": "0"
+    "color": "#2639d4",
+    "start_name": "경운산",
+    "length_meter": 375.1,
+    "time_minute": 6
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 37.985477,
-        "lng": 127.809189
+        "lat": 37.992691,
+        "lng": 127.793304
       },
       {
-        "lat": 37.985542,
-        "lng": 127.809105
+        "lat": 37.993347,
+        "lng": 127.793579
       }
     ],
-    "color": "#7b972e",
-    "start_point_name": "약수터",
-    "length": 10,
-    "time": "0"
+    "color": "#1b550b",
+    "start_name": "갈림길",
+    "length_meter": 76.8,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 37.985542,
-        "lng": 127.809105
+        "lat": 37.993347,
+        "lng": 127.793579
       },
       {
-        "lat": 37.985668,
-        "lng": 127.808754
+        "lat": 37.993999,
+        "lng": 127.793816
       }
     ],
-    "color": "#d78b73",
-    "start_point_name": "청평사",
-    "length": 33,
-    "time": "0"
+    "color": "#3c4f99",
+    "start_name": "갈림길 / 오봉산1지점",
+    "length_meter": 76.3,
+    "time_minute": 1
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 37.985668,
-        "lng": 127.808754
+        "lat": 37.993999,
+        "lng": 127.793816
       },
       {
-        "lat": 37.985649,
-        "lng": 127.808647
+        "lat": 37.996792,
+        "lng": 127.796959
       }
     ],
-    "color": "#e2b3bb",
-    "start_point_name": "약수",
-    "length": 9,
-    "time": "0"
+    "color": "#04cdf1",
+    "start_name": "오봉산 제1봉",
+    "length_meter": 415.1,
+    "time_minute": 6
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 37.985649,
-        "lng": 127.808647
+        "lat": 37.996792,
+        "lng": 127.796959
       },
       {
-        "lat": 37.985661,
-        "lng": 127.808601
+        "lat": 37.997787,
+        "lng": 127.799866
       }
     ],
-    "color": "#d7dbc5",
-    "start_point_name": "보호수",
-    "length": 4,
-    "time": "0"
+    "color": "#0f70a0",
+    "start_name": "오봉산 제2봉",
+    "length_meter": 277.7,
+    "time_minute": 4
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 37.985661,
-        "lng": 127.808601
+        "lat": 37.997787,
+        "lng": 127.799866
       },
       {
-        "lat": 37.985802,
-        "lng": 127.808105
+        "lat": 37.998692,
+        "lng": 127.801826
       }
     ],
-    "color": "#b95477",
-    "start_point_name": "화장실",
-    "length": 46,
-    "time": "0"
+    "color": "#b64dab",
+    "start_name": "쉼터",
+    "length_meter": 199.1,
+    "time_minute": 3
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 37.985802,
-        "lng": 127.808105
+        "lat": 37.998692,
+        "lng": 127.801826
       },
       {
-        "lat": 37.985874,
-        "lng": 127.807678
+        "lat": 37.999683,
+        "lng": 127.802475
       }
     ],
-    "color": "#d41251",
-    "start_point_name": "공주탕",
-    "length": 38,
-    "time": "0"
+    "color": "#9911ab",
+    "start_name": "오봉산 제3봉 / 오봉산 2지점",
+    "length_meter": 124.0,
+    "time_minute": 2
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 37.985874,
-        "lng": 127.807678
+        "lat": 37.999683,
+        "lng": 127.802475
       },
       {
-        "lat": 37.980637,
-        "lng": 127.799225
+        "lat": 38.000679,
+        "lng": 127.804878
       }
     ],
-    "color": "#f46f93",
-    "start_point_name": "산행기점",
-    "length": 942,
-    "time": "15"
+    "color": "#e7202e",
+    "start_name": "조망 / 조망",
+    "length_meter": 239.6,
+    "time_minute": 3
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 37.980637,
-        "lng": 127.799225
+        "lat": 38.000679,
+        "lng": 127.804878
       },
       {
-        "lat": 37.980766,
-        "lng": 127.798828
+        "lat": 38.000114,
+        "lng": 127.807129
       }
     ],
-    "color": "#92a69e",
-    "start_point_name": "길안내",
-    "length": 37,
-    "time": "0"
+    "color": "#be6156",
+    "start_name": "청솔바위 / 갈림길",
+    "length_meter": 213.0,
+    "time_minute": 3
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 37.980766,
-        "lng": 127.798828
+        "lat": 38.000114,
+        "lng": 127.807129
       },
       {
-        "lat": 37.984535,
-        "lng": 127.794044
+        "lat": 37.999706,
+        "lng": 127.807732
       }
     ],
-    "color": "#1fc8e3",
-    "start_point_name": "끝봉",
-    "length": 592,
-    "time": "9"
+    "color": "#d912f3",
+    "start_name": "오봉산",
+    "length_meter": 69.6,
+    "time_minute": 1
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 37.984535,
-        "lng": 127.794044
+        "lat": 37.999706,
+        "lng": 127.807732
       },
       {
-        "lat": 37.989346,
-        "lng": 127.792747
+        "lat": 38.00333,
+        "lng": 127.815331
       }
     ],
-    "color": "#32c0cb",
-    "start_point_name": "갈림길",
-    "length": 546,
-    "time": "9"
+    "color": "#51593a",
+    "start_name": "갈림길",
+    "length_meter": 778.3,
+    "time_minute": 12
   },
   {
     "path_id": 20,
     "path": [
       {
-        "lat": 37.989346,
-        "lng": 127.792747
+        "lat": 38.00333,
+        "lng": 127.815331
       },
       {
-        "lat": 37.992691,
-        "lng": 127.793304
+        "lat": 37.984257,
+        "lng": 127.818581
       }
     ],
-    "color": "#fff582",
-    "start_point_name": "경운산",
-    "length": 375,
-    "time": "6"
+    "color": "#b517b3",
+    "start_name": "오봉산 날머리",
+    "length_meter": 2139.9,
+    "time_minute": 35
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 37.992691,
-        "lng": 127.793304
+        "lat": 37.984257,
+        "lng": 127.818581
       },
       {
-        "lat": 37.993347,
-        "lng": 127.793579
+        "lat": 37.983604,
+        "lng": 127.818581
       }
     ],
-    "color": "#ce93b2",
-    "start_point_name": "갈림길",
-    "length": 76,
-    "time": "1"
+    "color": "#2f4bec",
+    "start_name": "주차매표소",
+    "length_meter": 72.6,
+    "time_minute": 1
   },
   {
     "path_id": 22,
     "path": [
       {
-        "lat": 37.993347,
-        "lng": 127.793579
+        "lat": 37.983604,
+        "lng": 127.818581
       },
       {
-        "lat": 37.993645,
-        "lng": 127.793755
+        "lat": 37.980747,
+        "lng": 127.817734
       }
     ],
-    "color": "#938297",
-    "start_point_name": "갈림길",
-    "length": 36,
-    "time": "0"
+    "color": "#efebb7",
+    "start_name": "화장실",
+    "length_meter": 326.2,
+    "time_minute": 5
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 37.993645,
-        "lng": 127.793755
-      },
-      {
-        "lat": 37.993999,
-        "lng": 127.793816
-      }
-    ],
-    "color": "#73441d",
-    "start_point_name": "오봉산1지점",
-    "length": 39,
-    "time": "0"
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 37.993999,
-        "lng": 127.793816
-      },
-      {
-        "lat": 37.996792,
-        "lng": 127.796959
-      }
-    ],
-    "color": "#674bd6",
-    "start_point_name": "오봉산 제1봉",
-    "length": 415,
-    "time": "6"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 37.996792,
-        "lng": 127.796959
-      },
-      {
-        "lat": 37.997787,
-        "lng": 127.799866
-      }
-    ],
-    "color": "#921966",
-    "start_point_name": "오봉산 제2봉",
-    "length": 277,
-    "time": "4"
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 37.997787,
-        "lng": 127.799866
-      },
-      {
-        "lat": 37.998692,
-        "lng": 127.801826
-      }
-    ],
-    "color": "#bdaf09",
-    "start_point_name": "쉼터",
-    "length": 199,
-    "time": "3"
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 37.998692,
-        "lng": 127.801826
-      },
-      {
-        "lat": 37.998875,
-        "lng": 127.801956
-      }
-    ],
-    "color": "#623899",
-    "start_point_name": "오봉산 제3봉",
-    "length": 23,
-    "time": "0"
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 37.998875,
-        "lng": 127.801956
-      },
-      {
-        "lat": 37.999683,
-        "lng": 127.802475
-      }
-    ],
-    "color": "#341fe8",
-    "start_point_name": "오봉산 2지점",
-    "length": 100,
-    "time": "1"
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 37.999683,
-        "lng": 127.802475
-      },
-      {
-        "lat": 37.999783,
-        "lng": 127.802559
-      }
-    ],
-    "color": "#ace94c",
-    "start_point_name": "조망",
-    "length": 13,
-    "time": "0"
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 37.999783,
-        "lng": 127.802559
-      },
-      {
-        "lat": 38.000679,
-        "lng": 127.804878
-      }
-    ],
-    "color": "#e798cd",
-    "start_point_name": "조망",
-    "length": 226,
-    "time": "3"
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 38.000679,
-        "lng": 127.804878
-      },
-      {
-        "lat": 38.000725,
-        "lng": 127.805527
-      }
-    ],
-    "color": "#57870a",
-    "start_point_name": "청솔바위",
-    "length": 57,
-    "time": "0"
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 38.000725,
-        "lng": 127.805527
-      },
-      {
-        "lat": 38.000114,
-        "lng": 127.807129
-      }
-    ],
-    "color": "#3b068e",
-    "start_point_name": "갈림길",
-    "length": 155,
-    "time": "2"
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 38.000114,
-        "lng": 127.807129
-      },
-      {
-        "lat": 37.999706,
-        "lng": 127.807732
-      }
-    ],
-    "color": "#4f5036",
-    "start_point_name": "오봉산",
-    "length": 69,
-    "time": "1"
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 37.999706,
-        "lng": 127.807732
-      },
-      {
-        "lat": 38.00333,
-        "lng": 127.815331
-      }
-    ],
-    "color": "#b9fd5c",
-    "start_point_name": "갈림길",
-    "length": 778,
-    "time": "12"
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 38.00333,
-        "lng": 127.815331
-      },
-      {
-        "lat": 37.984257,
-        "lng": 127.818581
-      }
-    ],
-    "color": "#a55b2c",
-    "start_point_name": "오봉산 날머리",
-    "length": 2139,
-    "time": "35"
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 37.984257,
-        "lng": 127.818581
-      },
-      {
-        "lat": 37.983604,
-        "lng": 127.818581
-      }
-    ],
-    "color": "#922ab8",
-    "start_point_name": "주차매표소",
-    "length": 72,
-    "time": "1"
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 37.983604,
-        "lng": 127.818581
-      },
-      {
         "lat": 37.980747,
         "lng": 127.817734
-      }
-    ],
-    "color": "#d597d7",
-    "start_point_name": "화장실",
-    "length": 326,
-    "time": "5"
-  },
-  {
-    "path_id": 38,
-    "path": [
-      {
-        "lat": 37.980747,
-        "lng": 127.817734
-      },
-      {
-        "lat": 37.980457,
-        "lng": 127.817841
-      }
-    ],
-    "color": "#8c76a7",
-    "start_point_name": "청평사관광지",
-    "length": 33,
-    "time": "0"
-  },
-  {
-    "path_id": 39,
-    "path": [
-      {
-        "lat": 37.980457,
-        "lng": 127.817841
       },
       {
         "lat": 37.979809,
         "lng": 127.817932
       }
     ],
-    "color": "#8d370d",
-    "start_point_name": "화장실",
-    "length": 72,
-    "time": "1"
+    "color": "#5376b1",
+    "start_name": "청평사관광지 / 화장실",
+    "length_meter": 106.1,
+    "time_minute": 1
   }
 ]

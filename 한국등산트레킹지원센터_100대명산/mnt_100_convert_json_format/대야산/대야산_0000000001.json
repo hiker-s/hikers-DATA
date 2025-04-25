@@ -11,10 +11,10 @@
         "lng": 127.936661
       }
     ],
-    "color": "#c56470",
-    "start_point_name": "구조표시목",
-    "length": 429,
-    "time": "7"
+    "color": "#c7e25d",
+    "start_name": "구조표시목",
+    "length_meter": 429.8,
+    "time_minute": 7
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 127.931664
       }
     ],
-    "color": "#2083a5",
-    "start_point_name": "안내이정표",
-    "length": 455,
-    "time": "7"
+    "color": "#63b49d",
+    "start_name": "안내이정표",
+    "length_meter": 455.8,
+    "time_minute": 7
   },
   {
     "path_id": 2,
@@ -41,455 +41,166 @@
         "lng": 127.931664
       },
       {
-        "lat": 36.661228,
-        "lng": 127.931641
+        "lat": 36.664288,
+        "lng": 127.931717
       }
     ],
-    "color": "#5363be",
-    "start_point_name": "밀재",
-    "length": 2,
-    "time": "0"
+    "color": "#522cb9",
+    "start_name": "밀재 / 갈림길 / 밀재",
+    "length_meter": 342.4,
+    "time_minute": 5
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 36.661228,
-        "lng": 127.931641
+        "lat": 36.664288,
+        "lng": 127.931717
       },
       {
-        "lat": 36.661282,
-        "lng": 127.931648
+        "lat": 36.6656,
+        "lng": 127.93161
       }
     ],
-    "color": "#68ba9a",
-    "start_point_name": "갈림길",
-    "length": 6,
-    "time": "0"
+    "color": "#a9d95f",
+    "start_name": "코끼리바위",
+    "length_meter": 146.2,
+    "time_minute": 2
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 36.661282,
-        "lng": 127.931648
+        "lat": 36.6656,
+        "lng": 127.93161
       },
       {
-        "lat": 36.664288,
-        "lng": 127.931717
+        "lat": 36.666168,
+        "lng": 127.930954
       }
     ],
-    "color": "#676530",
-    "start_point_name": "밀재",
-    "length": 334,
-    "time": "5"
+    "color": "#df0b21",
+    "start_name": "구조표시목 / 농바위 / 대야산정상인근 조망터",
+    "length_meter": 90.2,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 36.664288,
-        "lng": 127.931717
+        "lat": 36.666168,
+        "lng": 127.930954
       },
       {
-        "lat": 36.6656,
-        "lng": 127.93161
+        "lat": 36.667938,
+        "lng": 127.929207
       }
     ],
-    "color": "#f8ef70",
-    "start_point_name": "코끼리바위",
-    "length": 146,
-    "time": "2"
+    "color": "#adae4b",
+    "start_name": "대문바위(앞) / 대문바위(뒤) / 추락주의표지목",
+    "length_meter": 251.3,
+    "time_minute": 4
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 36.6656,
-        "lng": 127.93161
+        "lat": 36.667938,
+        "lng": 127.929207
       },
       {
-        "lat": 36.665821,
-        "lng": 127.93132
+        "lat": 36.668793,
+        "lng": 127.929276
       }
     ],
-    "color": "#2dc1a9",
-    "start_point_name": "구조표시목",
-    "length": 35,
-    "time": "0"
+    "color": "#f07474",
+    "start_name": "추락주의 / 대야산인근조망터 / 대야산정상 / 웨이포인트 40 / 갈림길",
+    "length_meter": 101.6,
+    "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 36.665821,
-        "lng": 127.93132
+        "lat": 36.668793,
+        "lng": 127.929276
       },
       {
-        "lat": 36.665974,
-        "lng": 127.931297
+        "lat": 36.66888,
+        "lng": 127.92984
       }
     ],
-    "color": "#f21a93",
-    "start_point_name": "농바위",
-    "length": 17,
-    "time": "0"
+    "color": "#e31686",
+    "start_name": "중대봉조망터 / 대야산정상풍경 / 추락주의 / 갈림길 / 추락주의 / 대야산 / 집중단속",
+    "length_meter": 96.4,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 36.665974,
-        "lng": 127.931297
+        "lat": 36.66888,
+        "lng": 127.92984
       },
       {
-        "lat": 36.666168,
-        "lng": 127.930954
+        "lat": 36.667782,
+        "lng": 127.931587
       }
     ],
-    "color": "#589add",
-    "start_point_name": "대야산정상인근 조망터",
-    "length": 37,
-    "time": "0"
+    "color": "#246714",
+    "start_name": "미끄럼주의",
+    "length_meter": 198.0,
+    "time_minute": 3
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 36.666168,
-        "lng": 127.930954
+        "lat": 36.667782,
+        "lng": 127.931587
       },
       {
-        "lat": 36.666172,
-        "lng": 127.930946
+        "lat": 36.667686,
+        "lng": 127.93351
       }
     ],
-    "color": "#f5d516",
-    "start_point_name": "대문바위(앞)",
-    "length": 0,
-    "time": "0"
+    "color": "#7bfe42",
+    "start_name": "이정표지목",
+    "length_meter": 171.8,
+    "time_minute": 2
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 36.666172,
-        "lng": 127.930946
+        "lat": 36.667686,
+        "lng": 127.93351
       },
       {
-        "lat": 36.66618,
-        "lng": 127.930923
+        "lat": 36.668499,
+        "lng": 127.935814
       }
     ],
-    "color": "#02b794",
-    "start_point_name": "대문바위(뒤)",
-    "length": 2,
-    "time": "0"
+    "color": "#b7ca39",
+    "start_name": "낙석주의",
+    "length_meter": 224.5,
+    "time_minute": 3
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 36.66618,
-        "lng": 127.930923
-      },
-      {
-        "lat": 36.667938,
-        "lng": 127.929207
-      }
-    ],
-    "color": "#37441e",
-    "start_point_name": "추락주의표지목",
-    "length": 248,
-    "time": "4"
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 36.667938,
-        "lng": 127.929207
-      },
-      {
-        "lat": 36.668282,
-        "lng": 127.929054
-      }
-    ],
-    "color": "#d98270",
-    "start_point_name": "추락주의",
-    "length": 40,
-    "time": "0"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 36.668282,
-        "lng": 127.929054
-      },
-      {
-        "lat": 36.668278,
-        "lng": 127.929054
-      }
-    ],
-    "color": "#79e1a3",
-    "start_point_name": "대야산인근조망터",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 36.668278,
-        "lng": 127.929054
-      },
-      {
-        "lat": 36.668278,
-        "lng": 127.929054
-      }
-    ],
-    "color": "#36cd44",
-    "start_point_name": "대야산정상",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 36.668278,
-        "lng": 127.929054
-      },
-      {
-        "lat": 36.668278,
-        "lng": 127.929054
-      }
-    ],
-    "color": "#7cbda4",
-    "start_point_name": "웨이포인트 40",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 36.668278,
-        "lng": 127.929054
-      },
-      {
-        "lat": 36.668793,
-        "lng": 127.929276
-      }
-    ],
-    "color": "#effaaa",
-    "start_point_name": "갈림길",
-    "length": 60,
-    "time": "1"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 36.668793,
-        "lng": 127.929276
-      },
-      {
-        "lat": 36.668777,
-        "lng": 127.92926
-      }
-    ],
-    "color": "#dc81ff",
-    "start_point_name": "중대봉조망터",
-    "length": 2,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 36.668777,
-        "lng": 127.92926
-      },
-      {
-        "lat": 36.668777,
-        "lng": 127.929253
-      }
-    ],
-    "color": "#bdf6d6",
-    "start_point_name": "대야산정상풍경",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 36.668777,
-        "lng": 127.929253
-      },
-      {
-        "lat": 36.669113,
-        "lng": 127.929459
-      }
-    ],
-    "color": "#86b152",
-    "start_point_name": "추락주의",
-    "length": 41,
-    "time": "0"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 36.669113,
-        "lng": 127.929459
-      },
-      {
-        "lat": 36.669163,
-        "lng": 127.929474
-      }
-    ],
-    "color": "#dfe08c",
-    "start_point_name": "갈림길",
-    "length": 5,
-    "time": "0"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 36.669163,
-        "lng": 127.929474
-      },
-      {
-        "lat": 36.669163,
-        "lng": 127.929474
-      }
-    ],
-    "color": "#2a99e7",
-    "start_point_name": "추락주의",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 36.669163,
-        "lng": 127.929474
-      },
-      {
-        "lat": 36.669167,
-        "lng": 127.929474
-      }
-    ],
-    "color": "#aca55d",
-    "start_point_name": "대야산",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 36.669167,
-        "lng": 127.929474
-      },
-      {
-        "lat": 36.66888,
-        "lng": 127.92984
-      }
-    ],
-    "color": "#156d7f",
-    "start_point_name": "집중단속",
-    "length": 45,
-    "time": "0"
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 36.66888,
-        "lng": 127.92984
-      },
-      {
-        "lat": 36.667782,
-        "lng": 127.931587
-      }
-    ],
-    "color": "#49532c",
-    "start_point_name": "미끄럼주의",
-    "length": 197,
-    "time": "3"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 36.667782,
-        "lng": 127.931587
-      },
-      {
-        "lat": 36.667686,
-        "lng": 127.93351
-      }
-    ],
-    "color": "#779d24",
-    "start_point_name": "이정표지목",
-    "length": 171,
-    "time": "2"
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 36.667686,
-        "lng": 127.93351
-      },
-      {
         "lat": 36.668499,
         "lng": 127.935814
-      }
-    ],
-    "color": "#72f467",
-    "start_point_name": "낙석주의",
-    "length": 224,
-    "time": "3"
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 36.668499,
-        "lng": 127.935814
-      },
-      {
-        "lat": 36.668491,
-        "lng": 127.935875
-      }
-    ],
-    "color": "#3b171f",
-    "start_point_name": "이정구조표지목",
-    "length": 5,
-    "time": "0"
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 36.668491,
-        "lng": 127.935875
       },
       {
         "lat": 36.669384,
         "lng": 127.939148
       }
     ],
-    "color": "#5c2752",
-    "start_point_name": "낙석주의표시판",
-    "length": 308,
-    "time": "5"
+    "color": "#bc4369",
+    "start_name": "이정구조표지목 / 낙석주의표시판",
+    "length_meter": 313.9,
+    "time_minute": 5
   }
 ]

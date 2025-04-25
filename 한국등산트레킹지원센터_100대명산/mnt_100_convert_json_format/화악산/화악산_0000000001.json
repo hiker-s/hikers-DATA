@@ -7,98 +7,64 @@
         "lng": 127.525414
       },
       {
-        "lat": 38.005302,
-        "lng": 127.52578
+        "lat": 38.001575,
+        "lng": 127.525581
       }
     ],
-    "color": "#47332a",
-    "start_point_name": "화악터널앞",
-    "length": 35,
-    "time": "0"
+    "color": "#e0c71d",
+    "start_name": "화악터널앞 / 터널입구",
+    "length_meter": 450.0,
+    "time_minute": 7
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 38.005302,
-        "lng": 127.52578
-      },
-      {
         "lat": 38.001575,
         "lng": 127.525581
+      },
+      {
+        "lat": 38.001366,
+        "lng": 127.524635
       }
     ],
-    "color": "#a01a68",
-    "start_point_name": "터널입구",
-    "length": 414,
-    "time": "6"
+    "color": "#d3ada2",
+    "start_name": "입구주차장",
+    "length_meter": 86.1,
+    "time_minute": 1
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 38.001575,
-        "lng": 127.525581
-      },
-      {
         "lat": 38.001366,
         "lng": 127.524635
+      },
+      {
+        "lat": 37.989193,
+        "lng": 127.500259
       }
     ],
-    "color": "#56706a",
-    "start_point_name": "입구주차장",
-    "length": 86,
-    "time": "1"
+    "color": "#567c78",
+    "start_name": "헬기장",
+    "length_meter": 2528.8,
+    "time_minute": 42
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 38.001366,
-        "lng": 127.524635
-      },
-      {
         "lat": 37.989193,
         "lng": 127.500259
-      }
-    ],
-    "color": "#54bba9",
-    "start_point_name": "헬기장",
-    "length": 2528,
-    "time": "42"
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.989193,
-        "lng": 127.500259
-      },
-      {
-        "lat": 37.989189,
-        "lng": 127.500229
-      }
-    ],
-    "color": "#edefc3",
-    "start_point_name": "갈림길",
-    "length": 2,
-    "time": "0"
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.989189,
-        "lng": 127.500229
       },
       {
         "lat": 37.996101,
         "lng": 127.489326
       }
     ],
-    "color": "#5f169a",
-    "start_point_name": "전망대",
-    "length": 1226,
-    "time": "20"
+    "color": "#419bc1",
+    "start_name": "갈림길 / 전망대",
+    "length_meter": 1228.9,
+    "time_minute": 20
   }
 ]

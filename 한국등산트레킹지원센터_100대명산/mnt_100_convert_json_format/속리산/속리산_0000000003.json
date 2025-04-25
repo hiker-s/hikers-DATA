@@ -11,10 +11,10 @@
         "lng": 127.815048
       }
     ],
-    "color": "#8ee814",
-    "start_point_name": "묘봉두부마을",
-    "length": 125,
-    "time": "2"
+    "color": "#1b32d9",
+    "start_name": "묘봉두부마을",
+    "length_meter": 125.4,
+    "time_minute": 2
   },
   {
     "path_id": 1,
@@ -24,34 +24,17 @@
         "lng": 127.815048
       },
       {
-        "lat": 36.594166,
-        "lng": 127.814919
-      }
-    ],
-    "color": "#59f9cc",
-    "start_point_name": "운흥1리마을지도",
-    "length": 20,
-    "time": "0"
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 36.594166,
-        "lng": 127.814919
-      },
-      {
         "lat": 36.579685,
         "lng": 127.817337
       }
     ],
-    "color": "#eb28a1",
-    "start_point_name": "탐방예약제",
-    "length": 1624,
-    "time": "27"
+    "color": "#a1cddd",
+    "start_name": "운흥1리마을지도 / 탐방예약제",
+    "length_meter": 1645.4,
+    "time_minute": 27
   },
   {
-    "path_id": 3,
+    "path_id": 2,
     "path": [
       {
         "lat": 36.579685,
@@ -62,13 +45,13 @@
         "lng": 127.817146
       }
     ],
-    "color": "#2cb759",
-    "start_point_name": "토끼굴",
-    "length": 69,
-    "time": "1"
+    "color": "#714b9b",
+    "start_name": "토끼굴",
+    "length_meter": 69.9,
+    "time_minute": 1
   },
   {
-    "path_id": 4,
+    "path_id": 3,
     "path": [
       {
         "lat": 36.579075,
@@ -79,13 +62,13 @@
         "lng": 127.816383
       }
     ],
-    "color": "#5a40bb",
-    "start_point_name": "토끼봉",
-    "length": 131,
-    "time": "2"
+    "color": "#823fde",
+    "start_name": "토끼봉",
+    "length_meter": 131.5,
+    "time_minute": 2
   },
   {
-    "path_id": 5,
+    "path_id": 4,
     "path": [
       {
         "lat": 36.578064,
@@ -96,13 +79,13 @@
         "lng": 127.818924
       }
     ],
-    "color": "#a85c24",
-    "start_point_name": "통천문",
-    "length": 388,
-    "time": "6"
+    "color": "#18dcc3",
+    "start_name": "통천문",
+    "length_meter": 388.3,
+    "time_minute": 6
   },
   {
-    "path_id": 6,
+    "path_id": 5,
     "path": [
       {
         "lat": 36.57523,
@@ -113,13 +96,13 @@
         "lng": 127.820961
       }
     ],
-    "color": "#6665b7",
-    "start_point_name": "추락주의",
-    "length": 223,
-    "time": "3"
+    "color": "#784b02",
+    "start_name": "추락주의",
+    "length_meter": 223.7,
+    "time_minute": 3
   },
   {
-    "path_id": 7,
+    "path_id": 6,
     "path": [
       {
         "lat": 36.574059,
@@ -130,13 +113,13 @@
         "lng": 127.824394
       }
     ],
-    "color": "#7ecf07",
-    "start_point_name": "상학봉",
-    "length": 485,
-    "time": "8"
+    "color": "#202e84",
+    "start_name": "상학봉",
+    "length_meter": 485.4,
+    "time_minute": 8
   },
   {
-    "path_id": 8,
+    "path_id": 7,
     "path": [
       {
         "lat": 36.570675,
@@ -147,9 +130,9 @@
         "lng": 127.829231
       }
     ],
-    "color": "#c33fbe",
-    "start_point_name": "묘봉(암릉)",
-    "length": 565,
-    "time": "9"
+    "color": "#606ab1",
+    "start_name": "묘봉(암릉)",
+    "length_meter": 565.1,
+    "time_minute": 9
   }
 ]

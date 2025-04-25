@@ -7,438 +7,285 @@
         "lng": 129.318146
       },
       {
-        "lat": 36.250683,
-        "lng": 129.318481
+        "lat": 36.251362,
+        "lng": 129.317749
       }
     ],
-    "color": "#96a80c",
-    "start_point_name": "보경사  주차장",
-    "length": 30,
-    "time": "0"
+    "color": "#e6ae74",
+    "start_name": "보경사  주차장 / 보경사 입구",
+    "length_meter": 130.1,
+    "time_minute": 2
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 36.250683,
-        "lng": 129.318481
-      },
-      {
         "lat": 36.251362,
         "lng": 129.317749
+      },
+      {
+        "lat": 36.259338,
+        "lng": 129.305359
       }
     ],
-    "color": "#b01b9f",
-    "start_point_name": "보경사 입구",
-    "length": 100,
-    "time": "1"
+    "color": "#b0f82c",
+    "start_name": "보경사 화장실 / 보경사 / 내연산 보경사 안내도 / 보경사 포토존",
+    "length_meter": 1432.6,
+    "time_minute": 23
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 36.251362,
-        "lng": 129.317749
+        "lat": 36.259338,
+        "lng": 129.305359
       },
       {
-        "lat": 36.251469,
-        "lng": 129.317719
+        "lat": 36.263691,
+        "lng": 129.298676
       }
     ],
-    "color": "#cb9a14",
-    "start_point_name": "보경사 화장실",
-    "length": 12,
-    "time": "0"
+    "color": "#3ef18b",
+    "start_name": "갓부처",
+    "length_meter": 770.3,
+    "time_minute": 12
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 36.251469,
-        "lng": 129.317719
+        "lat": 36.263691,
+        "lng": 129.298676
       },
       {
-        "lat": 36.251572,
-        "lng": 129.317719
+        "lat": 36.264668,
+        "lng": 129.298706
       }
     ],
-    "color": "#d924e6",
-    "start_point_name": "보경사",
-    "length": 11,
-    "time": "0"
+    "color": "#276a57",
+    "start_name": "갈림길",
+    "length_meter": 108.7,
+    "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 36.251572,
-        "lng": 129.317719
+        "lat": 36.264668,
+        "lng": 129.298706
       },
       {
-        "lat": 36.251579,
-        "lng": 129.31749
+        "lat": 36.265308,
+        "lng": 129.299362
       }
     ],
-    "color": "#3b2207",
-    "start_point_name": "내연산 보경사 안내도",
-    "length": 20,
-    "time": "0"
+    "color": "#81b5a5",
+    "start_name": "굴참나무군락지",
+    "length_meter": 92.3,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 36.251579,
-        "lng": 129.31749
+        "lat": 36.265308,
+        "lng": 129.299362
       },
       {
-        "lat": 36.259338,
-        "lng": 129.305359
+        "lat": 36.269569,
+        "lng": 129.302521
       }
     ],
-    "color": "#e81bbe",
-    "start_point_name": "보경사 포토존",
-    "length": 1388,
-    "time": "23"
+    "color": "#29ac2e",
+    "start_name": "집터",
+    "length_meter": 552.0,
+    "time_minute": 9
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 36.259338,
-        "lng": 129.305359
+        "lat": 36.269569,
+        "lng": 129.302521
       },
       {
-        "lat": 36.263691,
-        "lng": 129.298676
+        "lat": 36.270271,
+        "lng": 129.301743
       }
     ],
-    "color": "#4d22a9",
-    "start_point_name": "갓부처",
-    "length": 770,
-    "time": "12"
+    "color": "#8a2a2a",
+    "start_name": "갈림길",
+    "length_meter": 104.7,
+    "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 36.263691,
-        "lng": 129.298676
+        "lat": 36.270271,
+        "lng": 129.301743
       },
       {
-        "lat": 36.264668,
-        "lng": 129.298706
+        "lat": 36.270432,
+        "lng": 129.299789
       }
     ],
-    "color": "#759dc1",
-    "start_point_name": "갈림길",
-    "length": 108,
-    "time": "1"
+    "color": "#6e5c3b",
+    "start_name": "갈림길",
+    "length_meter": 176.1,
+    "time_minute": 2
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 36.264668,
-        "lng": 129.298706
+        "lat": 36.270432,
+        "lng": 129.299789
       },
       {
-        "lat": 36.265308,
-        "lng": 129.299362
+        "lat": 36.271358,
+        "lng": 129.294434
       }
     ],
-    "color": "#c23da3",
-    "start_point_name": "굴참나무군락지",
-    "length": 92,
-    "time": "1"
+    "color": "#40b338",
+    "start_name": "굴참나무군락지",
+    "length_meter": 491.0,
+    "time_minute": 8
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 36.265308,
-        "lng": 129.299362
+        "lat": 36.271358,
+        "lng": 129.294434
       },
       {
-        "lat": 36.269569,
-        "lng": 129.302521
+        "lat": 36.265305,
+        "lng": 129.293701
       }
     ],
-    "color": "#d77505",
-    "start_point_name": "집터",
-    "length": 551,
-    "time": "9"
+    "color": "#b0511d",
+    "start_name": "서어나무군락지",
+    "length_meter": 676.3,
+    "time_minute": 11
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 36.269569,
-        "lng": 129.302521
+        "lat": 36.265305,
+        "lng": 129.293701
       },
       {
-        "lat": 36.270271,
-        "lng": 129.301743
+        "lat": 36.264599,
+        "lng": 129.29332
       }
     ],
-    "color": "#5fa4b0",
-    "start_point_name": "갈림길",
-    "length": 104,
-    "time": "1"
+    "color": "#e7ceaa",
+    "start_name": "동해바다 조망권",
+    "length_meter": 85.6,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 36.270271,
-        "lng": 129.301743
+        "lat": 36.264599,
+        "lng": 129.29332
       },
       {
-        "lat": 36.270432,
-        "lng": 129.299789
+        "lat": 36.264847,
+        "lng": 129.294617
       }
     ],
-    "color": "#2db013",
-    "start_point_name": "갈림길",
-    "length": 176,
-    "time": "2"
+    "color": "#ae381e",
+    "start_name": "우척봉과 능선  조망권",
+    "length_meter": 119.5,
+    "time_minute": 1
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 36.270432,
-        "lng": 129.299789
+        "lat": 36.264847,
+        "lng": 129.294617
       },
       {
-        "lat": 36.271358,
-        "lng": 129.294434
+        "lat": 36.263214,
+        "lng": 129.297745
       }
     ],
-    "color": "#6c62be",
-    "start_point_name": "굴참나무군락지",
-    "length": 490,
-    "time": "8"
+    "color": "#2f9408",
+    "start_name": "앞쪽 우척봉 / 바위 넓은 장소 / 넓은 평지 / 청하골",
+    "length_meter": 337.3,
+    "time_minute": 5
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 36.271358,
-        "lng": 129.294434
+        "lat": 36.263214,
+        "lng": 129.297745
       },
       {
-        "lat": 36.265305,
-        "lng": 129.293701
+        "lat": 36.259289,
+        "lng": 129.301514
       }
     ],
-    "color": "#ffe548",
-    "start_point_name": "서어나무군락지",
-    "length": 676,
-    "time": "11"
+    "color": "#c12082",
+    "start_name": "갈림길",
+    "length_meter": 552.0,
+    "time_minute": 9
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 36.265305,
-        "lng": 129.293701
+        "lat": 36.259289,
+        "lng": 129.301514
       },
       {
-        "lat": 36.264599,
-        "lng": 129.29332
+        "lat": 36.260647,
+        "lng": 129.301483
       }
     ],
-    "color": "#df59fc",
-    "start_point_name": "동해바다 조망권",
-    "length": 85,
-    "time": "1"
+    "color": "#827880",
+    "start_name": "선일대 / 선일대",
+    "length_meter": 157.7,
+    "time_minute": 2
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 36.264599,
-        "lng": 129.29332
+        "lat": 36.260647,
+        "lng": 129.301483
       },
       {
-        "lat": 36.264847,
-        "lng": 129.294617
+        "lat": 36.250347,
+        "lng": 129.318848
       }
     ],
-    "color": "#e3fafd",
-    "start_point_name": "우척봉과 능선  조망권",
-    "length": 119,
-    "time": "1"
+    "color": "#165a73",
+    "start_name": "연산구름다리",
+    "length_meter": 1932.9,
+    "time_minute": 32
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 36.264847,
-        "lng": 129.294617
-      },
-      {
-        "lat": 36.264805,
-        "lng": 129.294617
-      }
-    ],
-    "color": "#758d76",
-    "start_point_name": "앞쪽 우척봉",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 36.264805,
-        "lng": 129.294617
-      },
-      {
-        "lat": 36.264629,
-        "lng": 129.295151
-      }
-    ],
-    "color": "#469d0c",
-    "start_point_name": "바위 넓은 장소",
-    "length": 51,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 36.264629,
-        "lng": 129.295151
-      },
-      {
-        "lat": 36.264626,
-        "lng": 129.295151
-      }
-    ],
-    "color": "#8834e0",
-    "start_point_name": "넓은 평지",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 36.264626,
-        "lng": 129.295151
-      },
-      {
-        "lat": 36.263214,
-        "lng": 129.297745
-      }
-    ],
-    "color": "#9cf9d6",
-    "start_point_name": "청하골",
-    "length": 280,
-    "time": "4"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 36.263214,
-        "lng": 129.297745
-      },
-      {
-        "lat": 36.259289,
-        "lng": 129.301514
-      }
-    ],
-    "color": "#8ff4bb",
-    "start_point_name": "갈림길",
-    "length": 551,
-    "time": "9"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 36.259289,
-        "lng": 129.301514
-      },
-      {
-        "lat": 36.259327,
-        "lng": 129.30162
-      }
-    ],
-    "color": "#98fc3d",
-    "start_point_name": "선일대",
-    "length": 10,
-    "time": "0"
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 36.259327,
-        "lng": 129.30162
-      },
-      {
-        "lat": 36.260647,
-        "lng": 129.301483
-      }
-    ],
-    "color": "#55171e",
-    "start_point_name": "선일대",
-    "length": 147,
-    "time": "2"
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 36.260647,
-        "lng": 129.301483
-      },
-      {
         "lat": 36.250347,
         "lng": 129.318848
-      }
-    ],
-    "color": "#0c36d5",
-    "start_point_name": "연산구름다리",
-    "length": 1932,
-    "time": "32"
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 36.250347,
-        "lng": 129.318848
-      },
-      {
-        "lat": 36.250328,
-        "lng": 129.318817
-      }
-    ],
-    "color": "#0316c2",
-    "start_point_name": "신라식당",
-    "length": 3,
-    "time": "0"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 36.250328,
-        "lng": 129.318817
       },
       {
         "lat": 36.250484,
         "lng": 129.318771
       }
     ],
-    "color": "#3811e3",
-    "start_point_name": "GS25",
-    "length": 17,
-    "time": "0"
+    "color": "#de93b2",
+    "start_name": "신라식당 / GS25",
+    "length_meter": 21.3,
+    "time_minute": 0
   }
 ]

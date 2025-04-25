@@ -30,50 +30,63 @@ os.makedirs(convert_path, exist_ok=True)
 for mountain_folder in os.listdir(json_path):
     mountain_path = os.path.join(json_path, mountain_folder)
 
-    # 폴더인 경우만 처리
     if os.path.isdir(mountain_path):
         for filename in os.listdir(mountain_path):
             if filename.endswith('.json'):
                 input_file_path = os.path.join(mountain_path, filename)
 
                 try:
-                    # 원본 JSON 로드
                     with open(input_file_path, 'r', encoding='utf-8') as f:
                         waypoints = json.load(f)
 
-                    # 두 점씩 연결해서 section 생성
                     sections = []
-                    for i in range(len(waypoints) - 1):
+                    i = 0
+                    path_id = 0
+                    while i < len(waypoints) - 1:
                         lat1 = waypoints[i]['lat']
                         lon1 = waypoints[i]['lon']
                         lat2 = waypoints[i+1]['lat']
                         lon2 = waypoints[i+1]['lon']
 
-                        # 미터 단위
                         length = calculate_distance(lat1, lon1, lat2, lon2)
-                        
-                        # 걷기 속도 = 분당 60m 기준
-                        time_minutes = length / 60  
+                        time_minutes = length / 60
+
+                        start_names = [waypoints[i].get('name', f"Point {i}")]
+
+                        # 걸리는 시간이 0분인 경우
+                        while time_minutes < 1 and i + 2 < len(waypoints):
+                            # 다음다음의 경로와 통합
+                            next_lat = waypoints[i+2]['lat']
+                            next_lon = waypoints[i+2]['lon']
+                            next_length = calculate_distance(lat2, lon2, next_lat, next_lon)
+                            next_time = next_length / 60
+
+                            lat2 = next_lat
+                            lon2 = next_lon
+                            length += next_length
+                            time_minutes += next_time
+                            i += 1
+                            start_names.append(waypoints[i].get('name', f"Point {i}"))
 
                         section = {
-                            "path_id": i,
+                            "path_id": path_id,
                             "path": [
                                 {"lat": lat1, "lng": lon1},
                                 {"lat": lat2, "lng": lon2}
                             ],
                             "color": random_color(),
-                            "start_point_name": waypoints[i].get('name', f"Point {i}"),
-                            "length": math.floor(length), # 반올림
-                            "time": f"{int(time_minutes)}"  # 분 단위
+                            "start_name": " / ".join(start_names),
+                            "length_meter": round(length,1),
+                            "time_minute": math.floor(time_minutes),
                         }
                         sections.append(section)
+                        path_id += 1
+                        i += 1
 
-                    # 저장 경로 구성
                     output_mountain_dir = os.path.join(convert_path, mountain_folder)
                     os.makedirs(output_mountain_dir, exist_ok=True)
                     output_file_path = os.path.join(output_mountain_dir, filename)
 
-                    # 변환된 JSON 저장
                     with open(output_file_path, 'w', encoding='utf-8') as f:
                         json.dump(sections, f, ensure_ascii=False, indent=2)
 

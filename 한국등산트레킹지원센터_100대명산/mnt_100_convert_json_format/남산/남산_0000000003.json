@@ -11,10 +11,10 @@
         "lng": 129.206741
       }
     ],
-    "color": "#3da190",
-    "start_point_name": "버스",
-    "length": 159,
-    "time": "2"
+    "color": "#aacd9d",
+    "start_name": "버스",
+    "length_meter": 159.9,
+    "time_minute": 2
   },
   {
     "path_id": 1,
@@ -24,880 +24,506 @@
         "lng": 129.206741
       },
       {
-        "lat": 35.798962,
-        "lng": 129.20697
+        "lat": 35.802559,
+        "lng": 129.208572
       }
     ],
-    "color": "#e6c762",
-    "start_point_name": "남산유적안내소",
-    "length": 21,
-    "time": "0"
+    "color": "#bf1d44",
+    "start_name": "남산유적안내소 / 서남산주차장",
+    "length_meter": 447.1,
+    "time_minute": 7
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.798962,
-        "lng": 129.20697
-      },
-      {
         "lat": 35.802559,
         "lng": 129.208572
+      },
+      {
+        "lat": 35.802261,
+        "lng": 129.209778
       }
     ],
-    "color": "#8fba71",
-    "start_point_name": "서남산주차장",
-    "length": 425,
-    "time": "7"
+    "color": "#6bea26",
+    "start_name": "삼불사",
+    "length_meter": 113.7,
+    "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.802559,
-        "lng": 129.208572
-      },
-      {
         "lat": 35.802261,
         "lng": 129.209778
+      },
+      {
+        "lat": 35.801754,
+        "lng": 129.210114
       }
     ],
-    "color": "#74b2b5",
-    "start_point_name": "삼불사",
-    "length": 113,
-    "time": "1"
+    "color": "#2c0213",
+    "start_name": "삼불사주차장 / 화장실",
+    "length_meter": 66.1,
+    "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.802261,
-        "lng": 129.209778
+        "lat": 35.801754,
+        "lng": 129.210114
       },
       {
-        "lat": 35.801788,
-        "lng": 129.210022
+        "lat": 35.801697,
+        "lng": 129.210938
       }
     ],
-    "color": "#7f37ee",
-    "start_point_name": "삼불사주차장",
-    "length": 57,
-    "time": "0"
+    "color": "#2eb0f1",
+    "start_name": "경주 배동석조여래삼존입상",
+    "length_meter": 74.6,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.801788,
-        "lng": 129.210022
+        "lat": 35.801697,
+        "lng": 129.210938
       },
       {
-        "lat": 35.801754,
-        "lng": 129.210114
+        "lat": 35.801582,
+        "lng": 129.212555
       }
     ],
-    "color": "#cf1631",
-    "start_point_name": "화장실",
-    "length": 9,
-    "time": "0"
+    "color": "#c8fdf1",
+    "start_name": "배리석불입상 / 배리석불입상",
+    "length_meter": 147.9,
+    "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.801754,
-        "lng": 129.210114
+        "lat": 35.801582,
+        "lng": 129.212555
       },
       {
-        "lat": 35.801697,
-        "lng": 129.210938
+        "lat": 35.801865,
+        "lng": 129.21077
       }
     ],
-    "color": "#0685e2",
-    "start_point_name": "경주 배동석조여래삼존입상",
-    "length": 74,
-    "time": "1"
+    "color": "#2ebd08",
+    "start_name": "선방곡석불입상 / 갈림길",
+    "length_meter": 166.5,
+    "time_minute": 2
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.801697,
-        "lng": 129.210938
+        "lat": 35.801865,
+        "lng": 129.21077
       },
       {
-        "lat": 35.801746,
-        "lng": 129.211136
+        "lat": 35.801353,
+        "lng": 129.210236
       }
     ],
-    "color": "#0a9280",
-    "start_point_name": "배리석불입상",
-    "length": 18,
-    "time": "0"
+    "color": "#08f724",
+    "start_name": "단풍나무",
+    "length_meter": 74.6,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.801746,
-        "lng": 129.211136
+        "lat": 35.801353,
+        "lng": 129.210236
       },
       {
-        "lat": 35.801582,
-        "lng": 129.212555
+        "lat": 35.798859,
+        "lng": 129.209839
       }
     ],
-    "color": "#40bdc6",
-    "start_point_name": "배리석불입상",
-    "length": 129,
-    "time": "2"
+    "color": "#916fe3",
+    "start_name": "망월사",
+    "length_meter": 279.6,
+    "time_minute": 4
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.801582,
-        "lng": 129.212555
+        "lat": 35.798859,
+        "lng": 129.209839
       },
       {
-        "lat": 35.801632,
-        "lng": 129.212524
+        "lat": 35.798328,
+        "lng": 129.209702
       }
     ],
-    "color": "#e41140",
-    "start_point_name": "선방곡석불입상",
-    "length": 6,
-    "time": "0"
+    "color": "#098c3e",
+    "start_name": "공동묘지",
+    "length_meter": 60.3,
+    "time_minute": 1
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.801632,
-        "lng": 129.212524
+        "lat": 35.798328,
+        "lng": 129.209702
       },
       {
-        "lat": 35.801865,
-        "lng": 129.21077
+        "lat": 35.797394,
+        "lng": 129.208435
       }
     ],
-    "color": "#ab18e1",
-    "start_point_name": "갈림길",
-    "length": 160,
-    "time": "2"
+    "color": "#48e2aa",
+    "start_name": "갈림길",
+    "length_meter": 154.4,
+    "time_minute": 2
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.801865,
-        "lng": 129.21077
+        "lat": 35.797394,
+        "lng": 129.208435
       },
       {
-        "lat": 35.801353,
-        "lng": 129.210236
+        "lat": 35.796936,
+        "lng": 129.214905
       }
     ],
-    "color": "#1005f5",
-    "start_point_name": "단풍나무",
-    "length": 74,
-    "time": "1"
+    "color": "#2a20ce",
+    "start_name": "경주배동 삼릉 / 삼릉숲 / 배동 삼릉",
+    "length_meter": 599.4,
+    "time_minute": 9
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.801353,
-        "lng": 129.210236
+        "lat": 35.796936,
+        "lng": 129.214905
       },
       {
-        "lat": 35.798859,
-        "lng": 129.209839
+        "lat": 35.796246,
+        "lng": 129.21582
       }
     ],
-    "color": "#2ff3d1",
-    "start_point_name": "망월사",
-    "length": 279,
-    "time": "4"
+    "color": "#82843a",
+    "start_name": "삼릉곡 제사지 석조여래좌상",
+    "length_meter": 112.7,
+    "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 35.798859,
-        "lng": 129.209839
+        "lat": 35.796246,
+        "lng": 129.21582
       },
       {
-        "lat": 35.798328,
-        "lng": 129.209702
+        "lat": 35.795177,
+        "lng": 129.217163
       }
     ],
-    "color": "#3701f6",
-    "start_point_name": "공동묘지",
-    "length": 60,
-    "time": "1"
+    "color": "#1182d4",
+    "start_name": "삼릉계곡육존불",
+    "length_meter": 169.7,
+    "time_minute": 2
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 35.798328,
-        "lng": 129.209702
+        "lat": 35.795177,
+        "lng": 129.217163
       },
       {
-        "lat": 35.797394,
-        "lng": 129.208435
+        "lat": 35.795074,
+        "lng": 129.218384
       }
     ],
-    "color": "#7b4fc6",
-    "start_point_name": "갈림길",
-    "length": 154,
-    "time": "2"
+    "color": "#f8d20e",
+    "start_name": "삼릉계 삼층석탑",
+    "length_meter": 110.7,
+    "time_minute": 1
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 35.797394,
-        "lng": 129.208435
+        "lat": 35.795074,
+        "lng": 129.218384
       },
       {
-        "lat": 35.797337,
-        "lng": 129.208481
+        "lat": 35.795021,
+        "lng": 129.221741
       }
     ],
-    "color": "#76f6d3",
-    "start_point_name": "경주배동 삼릉",
-    "length": 7,
-    "time": "0"
+    "color": "#62035b",
+    "start_name": "갈림길 / 갈림길 / 삼릉계 석조여래좌상 / 삼릉곡 제6사지 석탑터",
+    "length_meter": 382.3,
+    "time_minute": 6
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 35.797337,
-        "lng": 129.208481
+        "lat": 35.795021,
+        "lng": 129.221741
       },
       {
-        "lat": 35.797115,
-        "lng": 129.208694
+        "lat": 35.795601,
+        "lng": 129.221542
       }
     ],
-    "color": "#0d019c",
-    "start_point_name": "삼릉숲",
-    "length": 31,
-    "time": "0"
+    "color": "#1aaf76",
+    "start_name": "상선암",
+    "length_meter": 66.9,
+    "time_minute": 1
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 35.797115,
-        "lng": 129.208694
+        "lat": 35.795601,
+        "lng": 129.221542
       },
       {
-        "lat": 35.796936,
-        "lng": 129.214905
+        "lat": 35.795708,
+        "lng": 129.221832
       }
     ],
-    "color": "#47012a",
-    "start_point_name": "배동 삼릉",
-    "length": 560,
-    "time": "9"
+    "color": "#52417a",
+    "start_name": "낙석주의 / 갈림길",
+    "length_meter": 60.8,
+    "time_minute": 1
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 35.796936,
-        "lng": 129.214905
+        "lat": 35.795708,
+        "lng": 129.221832
       },
       {
-        "lat": 35.796246,
-        "lng": 129.21582
+        "lat": 35.796291,
+        "lng": 129.221924
       }
     ],
-    "color": "#dfb0f3",
-    "start_point_name": "삼릉곡 제사지 석조여래좌상",
-    "length": 112,
-    "time": "1"
+    "color": "#f1fd0e",
+    "start_name": "마애석가여래좌상",
+    "length_meter": 65.4,
+    "time_minute": 1
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 35.796246,
-        "lng": 129.21582
+        "lat": 35.796291,
+        "lng": 129.221924
       },
       {
-        "lat": 35.795177,
-        "lng": 129.217163
+        "lat": 35.79583,
+        "lng": 129.22197
       }
     ],
-    "color": "#8472e8",
-    "start_point_name": "삼릉계곡육존불",
-    "length": 169,
-    "time": "2"
+    "color": "#ef6b2a",
+    "start_name": "바둑바위 / 바둑바위",
+    "length_meter": 68.8,
+    "time_minute": 1
   },
   {
     "path_id": 20,
     "path": [
       {
-        "lat": 35.795177,
-        "lng": 129.217163
+        "lat": 35.79583,
+        "lng": 129.22197
       },
       {
-        "lat": 35.795074,
-        "lng": 129.218384
+        "lat": 35.795387,
+        "lng": 129.222595
       }
     ],
-    "color": "#8c9b57",
-    "start_point_name": "삼릉계 삼층석탑",
-    "length": 110,
-    "time": "1"
+    "color": "#8a8963",
+    "start_name": "금송정터 / 냉골바위산 / 자연경관",
+    "length_meter": 77.6,
+    "time_minute": 1
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 35.795074,
-        "lng": 129.218384
+        "lat": 35.795387,
+        "lng": 129.222595
       },
       {
-        "lat": 35.795055,
-        "lng": 129.218369
+        "lat": 35.793922,
+        "lng": 129.223221
       }
     ],
-    "color": "#d968e0",
-    "start_point_name": "갈림길",
-    "length": 2,
-    "time": "0"
+    "color": "#5af7d5",
+    "start_name": "자연경관",
+    "length_meter": 172.4,
+    "time_minute": 2
   },
   {
     "path_id": 22,
     "path": [
       {
-        "lat": 35.795055,
-        "lng": 129.218369
+        "lat": 35.793922,
+        "lng": 129.223221
       },
       {
-        "lat": 35.795273,
-        "lng": 129.218185
+        "lat": 35.787678,
+        "lng": 129.222763
       }
     ],
-    "color": "#a63d89",
-    "start_point_name": "갈림길",
-    "length": 29,
-    "time": "0"
+    "color": "#1ca83e",
+    "start_name": "포토존 / 조망점",
+    "length_meter": 698.0,
+    "time_minute": 11
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 35.795273,
-        "lng": 129.218185
+        "lat": 35.787678,
+        "lng": 129.222763
       },
       {
-        "lat": 35.795212,
-        "lng": 129.218033
+        "lat": 35.781605,
+        "lng": 129.222931
       }
     ],
-    "color": "#1631a0",
-    "start_point_name": "삼릉계 석조여래좌상",
-    "length": 15,
-    "time": "0"
+    "color": "#db5d74",
+    "start_name": "비파골의 전설",
+    "length_meter": 675.5,
+    "time_minute": 11
   },
   {
     "path_id": 24,
     "path": [
       {
-        "lat": 35.795212,
-        "lng": 129.218033
+        "lat": 35.781605,
+        "lng": 129.222931
       },
       {
-        "lat": 35.795021,
-        "lng": 129.221741
+        "lat": 35.780891,
+        "lng": 129.223221
       }
     ],
-    "color": "#092a1c",
-    "start_point_name": "삼릉곡 제6사지 석탑터",
-    "length": 335,
-    "time": "5"
+    "color": "#9005e7",
+    "start_name": "자연경관 / 고위봉 / 용장사곡 삼층석탑 / 용장사곡 삼층석탑",
+    "length_meter": 84.5,
+    "time_minute": 1
   },
   {
     "path_id": 25,
     "path": [
       {
-        "lat": 35.795021,
-        "lng": 129.221741
+        "lat": 35.780891,
+        "lng": 129.223221
       },
       {
-        "lat": 35.795601,
-        "lng": 129.221542
+        "lat": 35.777596,
+        "lng": 129.221603
       }
     ],
-    "color": "#8af745",
-    "start_point_name": "상선암",
-    "length": 66,
-    "time": "1"
+    "color": "#7b6275",
+    "start_name": "고위봉 / 용장사지 석조여래좌상 / 용장사지 마애여래좌상",
+    "length_meter": 425.2,
+    "time_minute": 7
   },
   {
     "path_id": 26,
     "path": [
       {
-        "lat": 35.795601,
-        "lng": 129.221542
+        "lat": 35.777596,
+        "lng": 129.221603
       },
       {
-        "lat": 35.795662,
-        "lng": 129.221359
+        "lat": 35.776596,
+        "lng": 129.218369
       }
     ],
-    "color": "#638c03",
-    "start_point_name": "낙석주의",
-    "length": 17,
-    "time": "0"
+    "color": "#d32e33",
+    "start_name": "자연경관",
+    "length_meter": 312.2,
+    "time_minute": 5
   },
   {
     "path_id": 27,
     "path": [
       {
-        "lat": 35.795662,
-        "lng": 129.221359
+        "lat": 35.776596,
+        "lng": 129.218369
       },
       {
-        "lat": 35.795708,
-        "lng": 129.221832
+        "lat": 35.774857,
+        "lng": 129.210693
       }
     ],
-    "color": "#2f3ad9",
-    "start_point_name": "갈림길",
-    "length": 42,
-    "time": "0"
+    "color": "#ca2205",
+    "start_name": "낙석주의",
+    "length_meter": 719.0,
+    "time_minute": 11
   },
   {
     "path_id": 28,
     "path": [
       {
-        "lat": 35.795708,
-        "lng": 129.221832
+        "lat": 35.774857,
+        "lng": 129.210693
       },
       {
-        "lat": 35.796291,
-        "lng": 129.221924
+        "lat": 35.774929,
+        "lng": 129.209747
       }
     ],
-    "color": "#1dfc11",
-    "start_point_name": "마애석가여래좌상",
-    "length": 65,
-    "time": "1"
+    "color": "#52c69b",
+    "start_name": "남산 안내도",
+    "length_meter": 85.7,
+    "time_minute": 1
   },
   {
     "path_id": 29,
     "path": [
       {
-        "lat": 35.796291,
-        "lng": 129.221924
+        "lat": 35.774929,
+        "lng": 129.209747
       },
       {
-        "lat": 35.796093,
-        "lng": 129.222198
+        "lat": 35.775208,
+        "lng": 129.205032
       }
     ],
-    "color": "#316c50",
-    "start_point_name": "바둑바위",
-    "length": 33,
-    "time": "0"
+    "color": "#f3ffc7",
+    "start_name": "주차장 / 달작",
+    "length_meter": 440.0,
+    "time_minute": 7
   },
   {
     "path_id": 30,
     "path": [
       {
-        "lat": 35.796093,
-        "lng": 129.222198
-      },
-      {
-        "lat": 35.79583,
-        "lng": 129.22197
-      }
-    ],
-    "color": "#9a3409",
-    "start_point_name": "바둑바위",
-    "length": 35,
-    "time": "0"
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 35.79583,
-        "lng": 129.22197
-      },
-      {
-        "lat": 35.795811,
-        "lng": 129.222061
-      }
-    ],
-    "color": "#a5fb6b",
-    "start_point_name": "금송정터",
-    "length": 8,
-    "time": "0"
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 35.795811,
-        "lng": 129.222061
-      },
-      {
-        "lat": 35.795616,
-        "lng": 129.222427
-      }
-    ],
-    "color": "#033b03",
-    "start_point_name": "냉골바위산",
-    "length": 39,
-    "time": "0"
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 35.795616,
-        "lng": 129.222427
-      },
-      {
-        "lat": 35.795387,
-        "lng": 129.222595
-      }
-    ],
-    "color": "#bcb12e",
-    "start_point_name": "자연경관",
-    "length": 29,
-    "time": "0"
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 35.795387,
-        "lng": 129.222595
-      },
-      {
-        "lat": 35.793922,
-        "lng": 129.223221
-      }
-    ],
-    "color": "#49fc2c",
-    "start_point_name": "자연경관",
-    "length": 172,
-    "time": "2"
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 35.793922,
-        "lng": 129.223221
-      },
-      {
-        "lat": 35.793449,
-        "lng": 129.223358
-      }
-    ],
-    "color": "#8341bd",
-    "start_point_name": "포토존",
-    "length": 54,
-    "time": "0"
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 35.793449,
-        "lng": 129.223358
-      },
-      {
-        "lat": 35.787678,
-        "lng": 129.222763
-      }
-    ],
-    "color": "#e56987",
-    "start_point_name": "조망점",
-    "length": 643,
-    "time": "10"
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 35.787678,
-        "lng": 129.222763
-      },
-      {
-        "lat": 35.781605,
-        "lng": 129.222931
-      }
-    ],
-    "color": "#e590d6",
-    "start_point_name": "비파골의 전설",
-    "length": 675,
-    "time": "11"
-  },
-  {
-    "path_id": 38,
-    "path": [
-      {
-        "lat": 35.781605,
-        "lng": 129.222931
-      },
-      {
-        "lat": 35.781521,
-        "lng": 129.222946
-      }
-    ],
-    "color": "#46f585",
-    "start_point_name": "자연경관",
-    "length": 9,
-    "time": "0"
-  },
-  {
-    "path_id": 39,
-    "path": [
-      {
-        "lat": 35.781521,
-        "lng": 129.222946
-      },
-      {
-        "lat": 35.781315,
-        "lng": 129.223007
-      }
-    ],
-    "color": "#13b05b",
-    "start_point_name": "고위봉",
-    "length": 23,
-    "time": "0"
-  },
-  {
-    "path_id": 40,
-    "path": [
-      {
-        "lat": 35.781315,
-        "lng": 129.223007
-      },
-      {
-        "lat": 35.781261,
-        "lng": 129.223068
-      }
-    ],
-    "color": "#6b8651",
-    "start_point_name": "용장사곡 삼층석탑",
-    "length": 8,
-    "time": "0"
-  },
-  {
-    "path_id": 41,
-    "path": [
-      {
-        "lat": 35.781261,
-        "lng": 129.223068
-      },
-      {
-        "lat": 35.780891,
-        "lng": 129.223221
-      }
-    ],
-    "color": "#14337e",
-    "start_point_name": "용장사곡 삼층석탑",
-    "length": 43,
-    "time": "0"
-  },
-  {
-    "path_id": 42,
-    "path": [
-      {
-        "lat": 35.780891,
-        "lng": 129.223221
-      },
-      {
-        "lat": 35.780926,
-        "lng": 129.222885
-      }
-    ],
-    "color": "#aa27e2",
-    "start_point_name": "고위봉",
-    "length": 30,
-    "time": "0"
-  },
-  {
-    "path_id": 43,
-    "path": [
-      {
-        "lat": 35.780926,
-        "lng": 129.222885
-      },
-      {
-        "lat": 35.780899,
-        "lng": 129.222961
-      }
-    ],
-    "color": "#0a302e",
-    "start_point_name": "용장사지 석조여래좌상",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 44,
-    "path": [
-      {
-        "lat": 35.780899,
-        "lng": 129.222961
-      },
-      {
-        "lat": 35.777596,
-        "lng": 129.221603
-      }
-    ],
-    "color": "#8a3cf2",
-    "start_point_name": "용장사지 마애여래좌상",
-    "length": 387,
-    "time": "6"
-  },
-  {
-    "path_id": 45,
-    "path": [
-      {
-        "lat": 35.777596,
-        "lng": 129.221603
-      },
-      {
-        "lat": 35.776596,
-        "lng": 129.218369
-      }
-    ],
-    "color": "#794417",
-    "start_point_name": "자연경관",
-    "length": 312,
-    "time": "5"
-  },
-  {
-    "path_id": 46,
-    "path": [
-      {
-        "lat": 35.776596,
-        "lng": 129.218369
-      },
-      {
-        "lat": 35.774857,
-        "lng": 129.210693
-      }
-    ],
-    "color": "#db88c3",
-    "start_point_name": "낙석주의",
-    "length": 718,
-    "time": "11"
-  },
-  {
-    "path_id": 47,
-    "path": [
-      {
-        "lat": 35.774857,
-        "lng": 129.210693
-      },
-      {
-        "lat": 35.774929,
-        "lng": 129.209747
-      }
-    ],
-    "color": "#5b560e",
-    "start_point_name": "남산 안내도",
-    "length": 85,
-    "time": "1"
-  },
-  {
-    "path_id": 48,
-    "path": [
-      {
-        "lat": 35.774929,
-        "lng": 129.209747
-      },
-      {
-        "lat": 35.775043,
-        "lng": 129.209763
-      }
-    ],
-    "color": "#90221a",
-    "start_point_name": "주차장",
-    "length": 12,
-    "time": "0"
-  },
-  {
-    "path_id": 49,
-    "path": [
-      {
-        "lat": 35.775043,
-        "lng": 129.209763
-      },
-      {
         "lat": 35.775208,
         "lng": 129.205032
-      }
-    ],
-    "color": "#dd4070",
-    "start_point_name": "달작",
-    "length": 427,
-    "time": "7"
-  },
-  {
-    "path_id": 50,
-    "path": [
-      {
-        "lat": 35.775208,
-        "lng": 129.205032
-      },
-      {
-        "lat": 35.775356,
-        "lng": 129.204819
-      }
-    ],
-    "color": "#bd854d",
-    "start_point_name": "용장휴게소",
-    "length": 25,
-    "time": "0"
-  },
-  {
-    "path_id": 51,
-    "path": [
-      {
-        "lat": 35.775356,
-        "lng": 129.204819
-      },
-      {
-        "lat": 35.775307,
-        "lng": 129.204834
-      }
-    ],
-    "color": "#c0deb8",
-    "start_point_name": "화장실",
-    "length": 5,
-    "time": "0"
-  },
-  {
-    "path_id": 52,
-    "path": [
-      {
-        "lat": 35.775307,
-        "lng": 129.204834
       },
       {
         "lat": 35.776134,
         "lng": 129.204895
       }
     ],
-    "color": "#2772d9",
-    "start_point_name": "주차장",
-    "length": 92,
-    "time": "1"
+    "color": "#8fc434",
+    "start_name": "용장휴게소 / 화장실 / 주차장",
+    "length_meter": 123.0,
+    "time_minute": 2
   }
 ]

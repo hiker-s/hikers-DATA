@@ -11,10 +11,10 @@
         "lng": 127.236053
       }
     ],
-    "color": "#4d493c",
-    "start_point_name": "갈림길 9",
-    "length": 94,
-    "time": "1"
+    "color": "#23a85d",
+    "start_name": "갈림길 9",
+    "length_meter": 94.7,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -24,170 +24,102 @@
         "lng": 127.236053
       },
       {
-        "lat": 36.358551,
-        "lng": 127.236076
+        "lat": 36.358624,
+        "lng": 127.235527
       }
     ],
-    "color": "#414265",
-    "start_point_name": "순 마트",
-    "length": 12,
-    "time": "0"
+    "color": "#fbfd76",
+    "start_name": "순 마트 / 천정탐방로 입구 / 천정탐방지원센터",
+    "length_meter": 68.4,
+    "time_minute": 1
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 36.358551,
-        "lng": 127.236076
+        "lat": 36.358624,
+        "lng": 127.235527
       },
       {
         "lat": 36.358692,
-        "lng": 127.235596
+        "lng": 127.234749
       }
     ],
-    "color": "#5098a2",
-    "start_point_name": "천정탐방로 입구",
-    "length": 45,
-    "time": "0"
+    "color": "#cb9a52",
+    "start_name": "천정탐방지원센터  입구",
+    "length_meter": 70.1,
+    "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
         "lat": 36.358692,
-        "lng": 127.235596
+        "lng": 127.234749
       },
       {
-        "lat": 36.358624,
-        "lng": 127.235527
+        "lat": 36.3587,
+        "lng": 127.233795
       }
     ],
-    "color": "#d3fde6",
-    "start_point_name": "천정탐방지원센터",
-    "length": 9,
-    "time": "0"
+    "color": "#4699a6",
+    "start_name": "천정탐방지원센터",
+    "length_meter": 85.4,
+    "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 36.358624,
-        "lng": 127.235527
+        "lat": 36.3587,
+        "lng": 127.233795
       },
       {
-        "lat": 36.358692,
-        "lng": 127.234749
+        "lat": 36.360504,
+        "lng": 127.231834
       }
     ],
-    "color": "#2a2d92",
-    "start_point_name": "천정탐방지원센터  입구",
-    "length": 70,
-    "time": "1"
+    "color": "#e69c16",
+    "start_name": "천정탐방지원센터  코스 / 천정탐방지원센터  계곡",
+    "length_meter": 271.4,
+    "time_minute": 4
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 36.358692,
-        "lng": 127.234749
+        "lat": 36.360504,
+        "lng": 127.231834
       },
       {
-        "lat": 36.3587,
-        "lng": 127.233795
+        "lat": 36.361034,
+        "lng": 127.231972
       }
     ],
-    "color": "#7ea87d",
-    "start_point_name": "천정탐방지원센터",
-    "length": 85,
-    "time": "1"
+    "color": "#f300c5",
+    "start_name": "낙석주의",
+    "length_meter": 60.2,
+    "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 36.3587,
-        "lng": 127.233795
-      },
-      {
-        "lat": 36.358727,
-        "lng": 127.233582
-      }
-    ],
-    "color": "#6b7615",
-    "start_point_name": "천정탐방지원센터  코스",
-    "length": 19,
-    "time": "0"
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 36.358727,
-        "lng": 127.233582
-      },
-      {
-        "lat": 36.360504,
-        "lng": 127.231834
-      }
-    ],
-    "color": "#25f418",
-    "start_point_name": "천정탐방지원센터  계곡",
-    "length": 252,
-    "time": "4"
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 36.360504,
-        "lng": 127.231834
-      },
-      {
         "lat": 36.361034,
         "lng": 127.231972
-      }
-    ],
-    "color": "#9bcec0",
-    "start_point_name": "낙석주의",
-    "length": 60,
-    "time": "1"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 36.361034,
-        "lng": 127.231972
-      },
-      {
-        "lat": 36.361336,
-        "lng": 127.23188
-      }
-    ],
-    "color": "#9c569e",
-    "start_point_name": "낙석주의",
-    "length": 34,
-    "time": "0"
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 36.361336,
-        "lng": 127.23188
       },
       {
         "lat": 36.36311,
         "lng": 127.2314
       }
     ],
-    "color": "#d91742",
-    "start_point_name": "갈림길 19",
-    "length": 201,
-    "time": "3"
+    "color": "#5ea739",
+    "start_name": "낙석주의 / 갈림길 19",
+    "length_meter": 236.5,
+    "time_minute": 3
   },
   {
-    "path_id": 11,
+    "path_id": 7,
     "path": [
       {
         "lat": 36.36311,
@@ -198,9 +130,9 @@
         "lng": 127.230942
       }
     ],
-    "color": "#18e3a3",
-    "start_point_name": "등산로",
-    "length": 68,
-    "time": "1"
+    "color": "#053d85",
+    "start_name": "등산로",
+    "length_meter": 68.4,
+    "time_minute": 1
   }
 ]

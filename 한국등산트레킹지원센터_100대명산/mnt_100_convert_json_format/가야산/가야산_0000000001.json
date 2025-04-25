@@ -11,10 +11,10 @@
         "lng": 128.094147
       }
     ],
-    "color": "#95f556",
-    "start_point_name": "해인사주차장",
-    "length": 201,
-    "time": "3"
+    "color": "#8c678b",
+    "start_name": "해인사주차장",
+    "length_meter": 201.7,
+    "time_minute": 3
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 128.09494
       }
     ],
-    "color": "#d2129c",
-    "start_point_name": "허덕교 화장실",
-    "length": 138,
-    "time": "2"
+    "color": "#c25946",
+    "start_name": "허덕교 화장실",
+    "length_meter": 138.2,
+    "time_minute": 2
   },
   {
     "path_id": 2,
@@ -41,272 +41,187 @@
         "lng": 128.09494
       },
       {
-        "lat": 35.79628,
-        "lng": 128.094955
+        "lat": 35.796978,
+        "lng": 128.09549
       }
     ],
-    "color": "#c09fe7",
-    "start_point_name": "갈림길 3",
-    "length": 1,
-    "time": "0"
+    "color": "#742311",
+    "start_name": "갈림길 3 / 카페",
+    "length_meter": 92.8,
+    "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.79628,
-        "lng": 128.094955
-      },
-      {
         "lat": 35.796978,
         "lng": 128.09549
+      },
+      {
+        "lat": 35.799023,
+        "lng": 128.096451
       }
     ],
-    "color": "#21a1c0",
-    "start_point_name": "카페",
-    "length": 91,
-    "time": "1"
+    "color": "#e84d24",
+    "start_name": "갈림길 5",
+    "length_meter": 243.4,
+    "time_minute": 4
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.796978,
-        "lng": 128.09549
-      },
-      {
         "lat": 35.799023,
         "lng": 128.096451
+      },
+      {
+        "lat": 35.799713,
+        "lng": 128.096207
       }
     ],
-    "color": "#00c9d8",
-    "start_point_name": "갈림길 5",
-    "length": 243,
-    "time": "4"
+    "color": "#7b9732",
+    "start_name": "일주문주차장",
+    "length_meter": 79.8,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.799023,
-        "lng": 128.096451
-      },
-      {
         "lat": 35.799713,
         "lng": 128.096207
+      },
+      {
+        "lat": 35.800442,
+        "lng": 128.095749
       }
     ],
-    "color": "#e9dbe8",
-    "start_point_name": "일주문주차장",
-    "length": 79,
-    "time": "1"
+    "color": "#705dd9",
+    "start_name": "갈림길 8",
+    "length_meter": 91.0,
+    "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.799713,
-        "lng": 128.096207
-      },
-      {
         "lat": 35.800442,
         "lng": 128.095749
+      },
+      {
+        "lat": 35.801521,
+        "lng": 128.096786
       }
     ],
-    "color": "#6cf53d",
-    "start_point_name": "갈림길 8",
-    "length": 90,
-    "time": "1"
+    "color": "#7720c1",
+    "start_name": "갈림길 10",
+    "length_meter": 152.1,
+    "time_minute": 2
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.800442,
-        "lng": 128.095749
-      },
-      {
         "lat": 35.801521,
         "lng": 128.096786
+      },
+      {
+        "lat": 35.802166,
+        "lng": 128.097092
       }
     ],
-    "color": "#4e6f05",
-    "start_point_name": "갈림길 10",
-    "length": 152,
-    "time": "2"
+    "color": "#ae464d",
+    "start_name": "갈림길 11 / 갈림길 12",
+    "length_meter": 77.1,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.801521,
-        "lng": 128.096786
+        "lat": 35.802166,
+        "lng": 128.097092
       },
       {
-        "lat": 35.801979,
-        "lng": 128.09697
+        "lat": 35.821159,
+        "lng": 128.116852
       }
     ],
-    "color": "#71a284",
-    "start_point_name": "갈림길 11",
-    "length": 53,
-    "time": "0"
+    "color": "#62c051",
+    "start_name": "토신골탐방로입구",
+    "length_meter": 2763.2,
+    "time_minute": 46
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.801979,
-        "lng": 128.09697
+        "lat": 35.821159,
+        "lng": 128.116852
       },
       {
-        "lat": 35.802166,
-        "lng": 128.097092
+        "lat": 35.821861,
+        "lng": 128.117126
       }
     ],
-    "color": "#483a3f",
-    "start_point_name": "갈림길 12",
-    "length": 23,
-    "time": "0"
+    "color": "#a03aff",
+    "start_name": "갈림길 15",
+    "length_meter": 81.9,
+    "time_minute": 1
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.802166,
-        "lng": 128.097092
+        "lat": 35.821861,
+        "lng": 128.117126
       },
       {
-        "lat": 35.821159,
-        "lng": 128.116852
+        "lat": 35.822437,
+        "lng": 128.117569
       }
     ],
-    "color": "#997815",
-    "start_point_name": "토신골탐방로입구",
-    "length": 2763,
-    "time": "46"
+    "color": "#dd3518",
+    "start_name": "자연경관 / 너럭바위 조망 / 암벽",
+    "length_meter": 86.2,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.821159,
-        "lng": 128.116852
+        "lat": 35.822437,
+        "lng": 128.117569
       },
       {
-        "lat": 35.821861,
-        "lng": 128.117126
+        "lat": 35.823547,
+        "lng": 128.120499
       }
     ],
-    "color": "#97537c",
-    "start_point_name": "갈림길 15",
-    "length": 81,
-    "time": "1"
+    "color": "#fa9dcd",
+    "start_name": "낙석주의",
+    "length_meter": 291.6,
+    "time_minute": 4
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.821861,
-        "lng": 128.117126
-      },
-      {
-        "lat": 35.821831,
-        "lng": 128.117096
-      }
-    ],
-    "color": "#e2e21b",
-    "start_point_name": "자연경관",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.821831,
-        "lng": 128.117096
-      },
-      {
-        "lat": 35.822144,
-        "lng": 128.117462
-      }
-    ],
-    "color": "#4e88a8",
-    "start_point_name": "너럭바위 조망",
-    "length": 47,
-    "time": "0"
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.822144,
-        "lng": 128.117462
-      },
-      {
-        "lat": 35.822437,
-        "lng": 128.117569
-      }
-    ],
-    "color": "#4a44de",
-    "start_point_name": "암벽",
-    "length": 33,
-    "time": "0"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.822437,
-        "lng": 128.117569
-      },
-      {
         "lat": 35.823547,
         "lng": 128.120499
-      }
-    ],
-    "color": "#f15d5a",
-    "start_point_name": "낙석주의",
-    "length": 291,
-    "time": "4"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.823547,
-        "lng": 128.120499
-      },
-      {
-        "lat": 35.823112,
-        "lng": 128.120361
-      }
-    ],
-    "color": "#cb83f8",
-    "start_point_name": "가야산 우두봉(상왕봉)",
-    "length": 49,
-    "time": "0"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.823112,
-        "lng": 128.120361
       },
       {
         "lat": 35.822807,
         "lng": 128.11998
       }
     ],
-    "color": "#b0ef1b",
-    "start_point_name": "갈림길 21",
-    "length": 48,
-    "time": "0"
+    "color": "#948986",
+    "start_name": "가야산 우두봉(상왕봉) / 갈림길 21",
+    "length_meter": 98.2,
+    "time_minute": 1
   },
   {
-    "path_id": 18,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.822807,
@@ -317,13 +232,13 @@
         "lng": 128.102707
       }
     ],
-    "color": "#450985",
-    "start_point_name": "봉천대",
-    "length": 2220,
-    "time": "37"
+    "color": "#646f8b",
+    "start_name": "봉천대",
+    "length_meter": 2220.4,
+    "time_minute": 37
   },
   {
-    "path_id": 19,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.808575,
@@ -334,13 +249,13 @@
         "lng": 128.095917
       }
     ],
-    "color": "#9755cd",
-    "start_point_name": "밴치",
-    "length": 1096,
-    "time": "18"
+    "color": "#45fe8a",
+    "start_name": "밴치",
+    "length_meter": 1096.4,
+    "time_minute": 18
   },
   {
-    "path_id": 20,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.800396,
@@ -351,9 +266,9 @@
         "lng": 128.096466
       }
     ],
-    "color": "#764cd9",
-    "start_point_name": "수다라카페",
-    "length": 218,
-    "time": "3"
+    "color": "#f2816a",
+    "start_name": "수다라카페",
+    "length_meter": 218.2,
+    "time_minute": 3
   }
 ]

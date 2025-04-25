@@ -7,51 +7,17 @@
         "lng": 128.086868
       },
       {
-        "lat": 35.789482,
-        "lng": 128.086853
-      }
-    ],
-    "color": "#73076b",
-    "start_point_name": "돼지골탐방지원센터주차장",
-    "length": 5,
-    "time": "0"
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.789482,
-        "lng": 128.086853
-      },
-      {
-        "lat": 35.789257,
-        "lng": 128.086716
-      }
-    ],
-    "color": "#1693b9",
-    "start_point_name": "해인관광호텔",
-    "length": 27,
-    "time": "0"
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.789257,
-        "lng": 128.086716
-      },
-      {
         "lat": 35.781429,
         "lng": 128.08754
       }
     ],
-    "color": "#f34170",
-    "start_point_name": "돼지골 탐방지원센터",
-    "length": 873,
-    "time": "14"
+    "color": "#279f54",
+    "start_name": "돼지골탐방지원센터주차장 / 해인관광호텔 / 돼지골 탐방지원센터",
+    "length_meter": 906.8,
+    "time_minute": 15
   },
   {
-    "path_id": 3,
+    "path_id": 1,
     "path": [
       {
         "lat": 35.781429,
@@ -62,13 +28,13 @@
         "lng": 128.089294
       }
     ],
-    "color": "#f24d35",
-    "start_point_name": "멧돼지 주의",
-    "length": 561,
-    "time": "9"
+    "color": "#6e0560",
+    "start_name": "멧돼지 주의",
+    "length_meter": 561.8,
+    "time_minute": 9
   },
   {
-    "path_id": 4,
+    "path_id": 2,
     "path": [
       {
         "lat": 35.776581,
@@ -79,13 +45,13 @@
         "lng": 128.092468
       }
     ],
-    "color": "#3a1000",
-    "start_point_name": "안전사고 다발구간",
-    "length": 290,
-    "time": "4"
+    "color": "#294619",
+    "start_name": "안전사고 다발구간",
+    "length_meter": 290.6,
+    "time_minute": 4
   },
   {
-    "path_id": 5,
+    "path_id": 3,
     "path": [
       {
         "lat": 35.777027,
@@ -96,13 +62,13 @@
         "lng": 128.094711
       }
     ],
-    "color": "#912b44",
-    "start_point_name": "벤치",
-    "length": 447,
-    "time": "7"
+    "color": "#b10ee2",
+    "start_name": "벤치",
+    "length_meter": 447.4,
+    "time_minute": 7
   },
   {
-    "path_id": 6,
+    "path_id": 4,
     "path": [
       {
         "lat": 35.773438,
@@ -113,9 +79,9 @@
         "lng": 128.095154
       }
     ],
-    "color": "#bad573",
-    "start_point_name": "자연경관",
-    "length": 96,
-    "time": "1"
+    "color": "#15e84b",
+    "start_name": "자연경관",
+    "length_meter": 96.5,
+    "time_minute": 1
   }
 ]

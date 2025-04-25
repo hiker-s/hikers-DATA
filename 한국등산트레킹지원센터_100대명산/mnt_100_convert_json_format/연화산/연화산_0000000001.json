@@ -11,10 +11,10 @@
         "lng": 128.26178
       }
     ],
-    "color": "#3acb1b",
-    "start_point_name": "연화산 도립공원 주차장",
-    "length": 74,
-    "time": "1"
+    "color": "#6dc076",
+    "start_name": "연화산 도립공원 주차장",
+    "length_meter": 74.1,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -24,166 +24,98 @@
         "lng": 128.26178
       },
       {
-        "lat": 35.089634,
-        "lng": 128.261536
+        "lat": 35.087574,
+        "lng": 128.255295
       }
     ],
-    "color": "#56080a",
-    "start_point_name": "주차장 내 화장실",
-    "length": 55,
-    "time": "0"
+    "color": "#748c54",
+    "start_name": "주차장 내 화장실 / 옥천사 계곡의공룡발자국 / 매봉 가는길",
+    "length_meter": 668.0,
+    "time_minute": 11
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.089634,
-        "lng": 128.261536
+        "lat": 35.087574,
+        "lng": 128.255295
       },
       {
-        "lat": 35.08963,
-        "lng": 128.26149
+        "lat": 35.064724,
+        "lng": 128.259628
       }
     ],
-    "color": "#8f872f",
-    "start_point_name": "옥천사 계곡의공룡발자국",
-    "length": 4,
-    "time": "0"
+    "color": "#34e744",
+    "start_name": "연화1봉 가는길",
+    "length_meter": 2571.2,
+    "time_minute": 42
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.08963,
-        "lng": 128.26149
+        "lat": 35.064724,
+        "lng": 128.259628
       },
       {
-        "lat": 35.087574,
-        "lng": 128.255295
+        "lat": 35.063026,
+        "lng": 128.262146
       }
     ],
-    "color": "#34d6f4",
-    "start_point_name": "매봉 가는길",
-    "length": 608,
-    "time": "10"
+    "color": "#411931",
+    "start_name": "평상1개",
+    "length_meter": 296.9,
+    "time_minute": 4
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.087574,
-        "lng": 128.255295
+        "lat": 35.063026,
+        "lng": 128.262146
       },
       {
-        "lat": 35.064724,
-        "lng": 128.259628
+        "lat": 35.067493,
+        "lng": 128.262238
       }
     ],
-    "color": "#080caf",
-    "start_point_name": "연화1봉 가는길",
-    "length": 2571,
-    "time": "42"
+    "color": "#4ad3a3",
+    "start_name": "시루봉 / 시루봉 전망대",
+    "length_meter": 500.5,
+    "time_minute": 8
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.064724,
-        "lng": 128.259628
+        "lat": 35.067493,
+        "lng": 128.262238
       },
       {
-        "lat": 35.063026,
-        "lng": 128.262146
+        "lat": 35.083759,
+        "lng": 128.266174
       }
     ],
-    "color": "#600684",
-    "start_point_name": "평상1개",
-    "length": 296,
-    "time": "4"
+    "color": "#63a6b2",
+    "start_name": "적멸보궁",
+    "length_meter": 1843.8,
+    "time_minute": 30
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.063026,
-        "lng": 128.262146
-      },
-      {
-        "lat": 35.06303,
-        "lng": 128.262192
-      }
-    ],
-    "color": "#e323a1",
-    "start_point_name": "시루봉",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 35.06303,
-        "lng": 128.262192
-      },
-      {
-        "lat": 35.067493,
-        "lng": 128.262238
-      }
-    ],
-    "color": "#d6f017",
-    "start_point_name": "시루봉 전망대",
-    "length": 496,
-    "time": "8"
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.067493,
-        "lng": 128.262238
-      },
-      {
         "lat": 35.083759,
         "lng": 128.266174
-      }
-    ],
-    "color": "#8faf62",
-    "start_point_name": "적멸보궁",
-    "length": 1843,
-    "time": "30"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.083759,
-        "lng": 128.266174
-      },
-      {
-        "lat": 35.083794,
-        "lng": 128.266113
-      }
-    ],
-    "color": "#5be34d",
-    "start_point_name": "장군봉",
-    "length": 6,
-    "time": "0"
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.083794,
-        "lng": 128.266113
       },
       {
         "lat": 35.08997,
         "lng": 128.2621
       }
     ],
-    "color": "#b2617a",
-    "start_point_name": "갈림길 26",
-    "length": 777,
-    "time": "12"
+    "color": "#05b988",
+    "start_name": "장군봉 / 갈림길 26",
+    "length_meter": 784.6,
+    "time_minute": 13
   }
 ]

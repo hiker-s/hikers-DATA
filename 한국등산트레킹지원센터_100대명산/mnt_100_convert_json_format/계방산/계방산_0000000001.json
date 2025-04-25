@@ -11,10 +11,10 @@
         "lng": 128.46904
       }
     ],
-    "color": "#f31ccf",
-    "start_point_name": "간이쉼터",
-    "length": 304,
-    "time": "5"
+    "color": "#0526dd",
+    "start_name": "간이쉼터",
+    "length_meter": 304.8,
+    "time_minute": 5
   },
   {
     "path_id": 1,
@@ -24,115 +24,64 @@
         "lng": 128.46904
       },
       {
-        "lat": 37.704952,
-        "lng": 128.469116
+        "lat": 37.706242,
+        "lng": 128.468964
       }
     ],
-    "color": "#012698",
-    "start_point_name": "멧돼지흔적",
-    "length": 23,
-    "time": "0"
+    "color": "#fbc764",
+    "start_name": "멧돼지흔적 / 산철쯕",
+    "length_meter": 167.1,
+    "time_minute": 2
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 37.704952,
-        "lng": 128.469116
-      },
-      {
         "lat": 37.706242,
         "lng": 128.468964
+      },
+      {
+        "lat": 37.707481,
+        "lng": 128.46907
       }
     ],
-    "color": "#88dc1c",
-    "start_point_name": "산철쯕",
-    "length": 144,
-    "time": "2"
+    "color": "#65b917",
+    "start_name": "귄대감바위",
+    "length_meter": 138.1,
+    "time_minute": 2
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 37.706242,
-        "lng": 128.468964
-      },
-      {
         "lat": 37.707481,
         "lng": 128.46907
+      },
+      {
+        "lat": 37.711063,
+        "lng": 128.470169
       }
     ],
-    "color": "#433724",
-    "start_point_name": "귄대감바위",
-    "length": 138,
-    "time": "2"
+    "color": "#ff4c54",
+    "start_name": "갈림길 / 쉼터",
+    "length_meter": 410.5,
+    "time_minute": 6
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.707481,
-        "lng": 128.46907
-      },
-      {
-        "lat": 37.707516,
-        "lng": 128.469055
-      }
-    ],
-    "color": "#f5f0fd",
-    "start_point_name": "갈림길",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.707516,
-        "lng": 128.469055
-      },
-      {
         "lat": 37.711063,
         "lng": 128.470169
-      }
-    ],
-    "color": "#b4f023",
-    "start_point_name": "쉼터",
-    "length": 406,
-    "time": "6"
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.711063,
-        "lng": 128.470169
-      },
-      {
-        "lat": 37.711102,
-        "lng": 128.470154
-      }
-    ],
-    "color": "#61a239",
-    "start_point_name": "갈림길",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.711102,
-        "lng": 128.470154
       },
       {
         "lat": 37.720734,
         "lng": 128.46814
       }
     ],
-    "color": "#34987a",
-    "start_point_name": "쉼터",
-    "length": 1085,
-    "time": "18"
+    "color": "#5d1428",
+    "start_name": "갈림길 / 쉼터",
+    "length_meter": 1090.1,
+    "time_minute": 18
   }
 ]

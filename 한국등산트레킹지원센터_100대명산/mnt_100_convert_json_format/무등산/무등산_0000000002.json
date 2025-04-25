@@ -11,10 +11,10 @@
         "lng": 126.956558
       }
     ],
-    "color": "#3ef4b3",
-    "start_point_name": "증심사 입구",
-    "length": 79,
-    "time": "1"
+    "color": "#0f5b1c",
+    "start_name": "증심사 입구",
+    "length_meter": 79.0,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 126.957748
       }
     ],
-    "color": "#79ef8e",
-    "start_point_name": "무등산 안내도",
-    "length": 117,
-    "time": "1"
+    "color": "#3e2132",
+    "start_name": "무등산 안내도",
+    "length_meter": 117.9,
+    "time_minute": 1
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 126.958725
       }
     ],
-    "color": "#56eeea",
-    "start_point_name": "갈림길",
-    "length": 89,
-    "time": "1"
+    "color": "#d5f575",
+    "start_name": "갈림길",
+    "length_meter": 89.4,
+    "time_minute": 1
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 126.960114
       }
     ],
-    "color": "#244160",
-    "start_point_name": "증심사 입구 계곡",
-    "length": 132,
-    "time": "2"
+    "color": "#d9ec70",
+    "start_name": "증심사 입구 계곡",
+    "length_meter": 132.1,
+    "time_minute": 2
   },
   {
     "path_id": 4,
@@ -75,510 +75,340 @@
         "lng": 126.960114
       },
       {
-        "lat": 35.133015,
-        "lng": 126.960327
+        "lat": 35.132748,
+        "lng": 126.960915
       }
     ],
-    "color": "#fd9f5a",
-    "start_point_name": "무등산권 세계지질공원센터",
-    "length": 19,
-    "time": "0"
+    "color": "#2e9364",
+    "start_name": "무등산권 세계지질공원센터 / 증심사지구 탐방지원센터",
+    "length_meter": 80.5,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.133015,
-        "lng": 126.960327
-      },
-      {
         "lat": 35.132748,
         "lng": 126.960915
+      },
+      {
+        "lat": 35.131718,
+        "lng": 126.962776
       }
     ],
-    "color": "#71748c",
-    "start_point_name": "증심사지구 탐방지원센터",
-    "length": 61,
-    "time": "1"
+    "color": "#209acb",
+    "start_name": "무등산 노무현길 비석 / 문빈정사 / 문빈정사 앞 공중화장실",
+    "length_meter": 204.8,
+    "time_minute": 3
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.132748,
-        "lng": 126.960915
+        "lat": 35.131718,
+        "lng": 126.962776
       },
       {
-        "lat": 35.132626,
-        "lng": 126.961136
+        "lat": 35.129234,
+        "lng": 126.967171
       }
     ],
-    "color": "#854c72",
-    "start_point_name": "무등산 노무현길 비석",
-    "length": 24,
-    "time": "0"
+    "color": "#33ed8f",
+    "start_name": "증심교 앞 쉼터 / 갈림길 / 증심교 계곡",
+    "length_meter": 485.9,
+    "time_minute": 8
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.132626,
-        "lng": 126.961136
+        "lat": 35.129234,
+        "lng": 126.967171
       },
       {
-        "lat": 35.132507,
-        "lng": 126.961441
+        "lat": 35.128559,
+        "lng": 126.967705
       }
     ],
-    "color": "#2c2a74",
-    "start_point_name": "문빈정사",
-    "length": 30,
-    "time": "0"
+    "color": "#49ec5c",
+    "start_name": "의재 허백련 문화유적 / 갈림길",
+    "length_meter": 89.7,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.132507,
-        "lng": 126.961441
+        "lat": 35.128559,
+        "lng": 126.967705
       },
       {
-        "lat": 35.131718,
-        "lng": 126.962776
+        "lat": 35.12516,
+        "lng": 126.970177
       }
     ],
-    "color": "#082646",
-    "start_point_name": "문빈정사 앞 공중화장실",
-    "length": 149,
-    "time": "2"
+    "color": "#10c0a5",
+    "start_name": "약사사 오름길 옆 계곡",
+    "length_meter": 439.8,
+    "time_minute": 7
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.131718,
-        "lng": 126.962776
+        "lat": 35.12516,
+        "lng": 126.970177
       },
       {
-        "lat": 35.131485,
-        "lng": 126.963181
+        "lat": 35.124195,
+        "lng": 126.970467
       }
     ],
-    "color": "#ae14c1",
-    "start_point_name": "증심교 앞 쉼터",
-    "length": 45,
-    "time": "0"
+    "color": "#acfb0c",
+    "start_name": "갈림길",
+    "length_meter": 110.5,
+    "time_minute": 1
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.131485,
-        "lng": 126.963181
+        "lat": 35.124195,
+        "lng": 126.970467
       },
       {
-        "lat": 35.131439,
-        "lng": 126.963249
+        "lat": 35.12249,
+        "lng": 126.971344
       }
     ],
-    "color": "#1be8d6",
-    "start_point_name": "갈림길",
-    "length": 8,
-    "time": "0"
+    "color": "#86af5a",
+    "start_name": "약사사 입구 쉼터",
+    "length_meter": 205.7,
+    "time_minute": 3
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.131439,
-        "lng": 126.963249
+        "lat": 35.12249,
+        "lng": 126.971344
       },
       {
-        "lat": 35.129234,
-        "lng": 126.967171
+        "lat": 35.119583,
+        "lng": 126.9729
       }
     ],
-    "color": "#753f2e",
-    "start_point_name": "증심교 계곡",
-    "length": 432,
-    "time": "7"
+    "color": "#62ae27",
+    "start_name": "약사사 / 갈림길",
+    "length_meter": 352.9,
+    "time_minute": 5
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.129234,
-        "lng": 126.967171
+        "lat": 35.119583,
+        "lng": 126.9729
       },
       {
-        "lat": 35.12886,
-        "lng": 126.967415
+        "lat": 35.117767,
+        "lng": 126.980652
       }
     ],
-    "color": "#483a40",
-    "start_point_name": "의재 허백련 문화유적",
-    "length": 47,
-    "time": "0"
+    "color": "#9c9060",
+    "start_name": "서인봉 사거리 쉼터 / 갈림길",
+    "length_meter": 734.7,
+    "time_minute": 12
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 35.12886,
-        "lng": 126.967415
+        "lat": 35.117767,
+        "lng": 126.980652
       },
       {
-        "lat": 35.128559,
-        "lng": 126.967705
+        "lat": 35.118584,
+        "lng": 126.983604
       }
     ],
-    "color": "#c44921",
-    "start_point_name": "갈림길",
-    "length": 42,
-    "time": "0"
+    "color": "#12c21c",
+    "start_name": "갈림길",
+    "length_meter": 283.4,
+    "time_minute": 4
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 35.128559,
-        "lng": 126.967705
+        "lat": 35.118584,
+        "lng": 126.983604
       },
       {
-        "lat": 35.12516,
-        "lng": 126.970177
+        "lat": 35.118832,
+        "lng": 126.984283
       }
     ],
-    "color": "#739b5d",
-    "start_point_name": "약사사 오름길 옆 계곡",
-    "length": 439,
-    "time": "7"
+    "color": "#d95f65",
+    "start_name": "중머리재 화장실",
+    "length_meter": 67.6,
+    "time_minute": 1
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 35.12516,
-        "lng": 126.970177
+        "lat": 35.118832,
+        "lng": 126.984283
       },
       {
-        "lat": 35.124195,
-        "lng": 126.970467
+        "lat": 35.119049,
+        "lng": 126.984909
       }
     ],
-    "color": "#dabc8c",
-    "start_point_name": "갈림길",
-    "length": 110,
-    "time": "1"
+    "color": "#617636",
+    "start_name": "갈림길",
+    "length_meter": 61.8,
+    "time_minute": 1
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 35.124195,
-        "lng": 126.970467
+        "lat": 35.119049,
+        "lng": 126.984909
       },
       {
-        "lat": 35.12249,
-        "lng": 126.971344
+        "lat": 35.120728,
+        "lng": 126.988831
       }
     ],
-    "color": "#025112",
-    "start_point_name": "약사사 입구 쉼터",
-    "length": 205,
-    "time": "3"
+    "color": "#16db0f",
+    "start_name": "갈림길",
+    "length_meter": 402.6,
+    "time_minute": 6
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 35.12249,
-        "lng": 126.971344
+        "lat": 35.120728,
+        "lng": 126.988831
       },
       {
-        "lat": 35.122398,
-        "lng": 126.971405
+        "lat": 35.120689,
+        "lng": 126.990005
       }
     ],
-    "color": "#9613bd",
-    "start_point_name": "약사사",
-    "length": 11,
-    "time": "0"
+    "color": "#9ea61c",
+    "start_name": "중봉 오름길 조망점",
+    "length_meter": 106.9,
+    "time_minute": 1
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 35.122398,
-        "lng": 126.971405
+        "lat": 35.120689,
+        "lng": 126.990005
       },
       {
-        "lat": 35.119583,
-        "lng": 126.9729
+        "lat": 35.12114,
+        "lng": 126.99025
       }
     ],
-    "color": "#657b7e",
-    "start_point_name": "갈림길",
-    "length": 341,
-    "time": "5"
+    "color": "#5ef221",
+    "start_name": "중봉 암석군 / 갈림길",
+    "length_meter": 62.1,
+    "time_minute": 1
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 35.119583,
-        "lng": 126.9729
+        "lat": 35.12114,
+        "lng": 126.99025
       },
       {
-        "lat": 35.11956,
-        "lng": 126.972908
+        "lat": 35.128075,
+        "lng": 126.987938
       }
     ],
-    "color": "#ded97d",
-    "start_point_name": "서인봉 사거리 쉼터",
-    "length": 2,
-    "time": "0"
+    "color": "#5f7119",
+    "start_name": "중봉 갈림길 쉼터",
+    "length_meter": 799.3,
+    "time_minute": 13
   },
   {
     "path_id": 20,
     "path": [
       {
-        "lat": 35.11956,
-        "lng": 126.972908
+        "lat": 35.128075,
+        "lng": 126.987938
       },
       {
-        "lat": 35.117767,
-        "lng": 126.980652
+        "lat": 35.132774,
+        "lng": 126.985687
       }
     ],
-    "color": "#4a8d13",
-    "start_point_name": "갈림길",
-    "length": 732,
-    "time": "12"
+    "color": "#27f501",
+    "start_name": "갈림길",
+    "length_meter": 561.2,
+    "time_minute": 9
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 35.117767,
-        "lng": 126.980652
+        "lat": 35.132774,
+        "lng": 126.985687
       },
       {
-        "lat": 35.118584,
-        "lng": 126.983604
+        "lat": 35.130653,
+        "lng": 126.980469
       }
     ],
-    "color": "#14cb9c",
-    "start_point_name": "갈림길",
-    "length": 283,
-    "time": "4"
+    "color": "#01f686",
+    "start_name": "갈림길",
+    "length_meter": 529.9,
+    "time_minute": 8
   },
   {
     "path_id": 22,
     "path": [
       {
-        "lat": 35.118584,
-        "lng": 126.983604
+        "lat": 35.130653,
+        "lng": 126.980469
       },
       {
-        "lat": 35.118832,
-        "lng": 126.984283
+        "lat": 35.131065,
+        "lng": 126.977753
       }
     ],
-    "color": "#a4ae96",
-    "start_point_name": "중머리재 화장실",
-    "length": 67,
-    "time": "1"
+    "color": "#4dbe41",
+    "start_name": "갈림길",
+    "length_meter": 251.2,
+    "time_minute": 4
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 35.118832,
-        "lng": 126.984283
-      },
-      {
-        "lat": 35.119049,
-        "lng": 126.984909
-      }
-    ],
-    "color": "#2b9bc4",
-    "start_point_name": "갈림길",
-    "length": 61,
-    "time": "1"
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 35.119049,
-        "lng": 126.984909
-      },
-      {
-        "lat": 35.120728,
-        "lng": 126.988831
-      }
-    ],
-    "color": "#f3f05e",
-    "start_point_name": "갈림길",
-    "length": 402,
-    "time": "6"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 35.120728,
-        "lng": 126.988831
-      },
-      {
-        "lat": 35.120689,
-        "lng": 126.990005
-      }
-    ],
-    "color": "#07cbca",
-    "start_point_name": "중봉 오름길 조망점",
-    "length": 106,
-    "time": "1"
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 35.120689,
-        "lng": 126.990005
-      },
-      {
-        "lat": 35.121086,
-        "lng": 126.990326
-      }
-    ],
-    "color": "#e090df",
-    "start_point_name": "중봉 암석군",
-    "length": 52,
-    "time": "0"
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 35.121086,
-        "lng": 126.990326
-      },
-      {
-        "lat": 35.12114,
-        "lng": 126.99025
-      }
-    ],
-    "color": "#b8f78c",
-    "start_point_name": "갈림길",
-    "length": 9,
-    "time": "0"
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 35.12114,
-        "lng": 126.99025
-      },
-      {
-        "lat": 35.128075,
-        "lng": 126.987938
-      }
-    ],
-    "color": "#d17392",
-    "start_point_name": "중봉 갈림길 쉼터",
-    "length": 799,
-    "time": "13"
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 35.128075,
-        "lng": 126.987938
-      },
-      {
-        "lat": 35.132774,
-        "lng": 126.985687
-      }
-    ],
-    "color": "#033d2a",
-    "start_point_name": "갈림길",
-    "length": 561,
-    "time": "9"
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 35.132774,
-        "lng": 126.985687
-      },
-      {
-        "lat": 35.130653,
-        "lng": 126.980469
-      }
-    ],
-    "color": "#e0f381",
-    "start_point_name": "갈림길",
-    "length": 529,
-    "time": "8"
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 35.130653,
-        "lng": 126.980469
-      },
-      {
         "lat": 35.131065,
         "lng": 126.977753
-      }
-    ],
-    "color": "#bb8146",
-    "start_point_name": "갈림길",
-    "length": 251,
-    "time": "4"
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 35.131065,
-        "lng": 126.977753
-      },
-      {
-        "lat": 35.130943,
-        "lng": 126.97747
-      }
-    ],
-    "color": "#37fd8e",
-    "start_point_name": "갈림길",
-    "length": 29,
-    "time": "0"
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 35.130943,
-        "lng": 126.97747
       },
       {
         "lat": 35.130653,
         "lng": 126.971962
       }
     ],
-    "color": "#19c7ab",
-    "start_point_name": "토끼등 화장실",
-    "length": 501,
-    "time": "8"
+    "color": "#a7be9d",
+    "start_name": "갈림길 / 토끼등 화장실",
+    "length_meter": 531.0,
+    "time_minute": 8
   },
   {
-    "path_id": 34,
+    "path_id": 24,
     "path": [
       {
         "lat": 35.130653,
@@ -589,13 +419,13 @@
         "lng": 126.969597
       }
     ],
-    "color": "#8e940d",
-    "start_point_name": "토끼등 하산길 쉼터",
-    "length": 215,
-    "time": "3"
+    "color": "#1d2335",
+    "start_name": "토끼등 하산길 쉼터",
+    "length_meter": 215.8,
+    "time_minute": 3
   },
   {
-    "path_id": 35,
+    "path_id": 25,
     "path": [
       {
         "lat": 35.13081,
@@ -606,13 +436,13 @@
         "lng": 126.965935
       }
     ],
-    "color": "#8f02ac",
-    "start_point_name": "토끼등 하산길 쉼터",
-    "length": 341,
-    "time": "5"
+    "color": "#16be62",
+    "start_name": "토끼등 하산길 쉼터",
+    "length_meter": 341.2,
+    "time_minute": 5
   },
   {
-    "path_id": 36,
+    "path_id": 26,
     "path": [
       {
         "lat": 35.131477,
@@ -623,13 +453,13 @@
         "lng": 126.96431
       }
     ],
-    "color": "#e988d7",
-    "start_point_name": "토끼등 하산길 쉼터",
-    "length": 148,
-    "time": "2"
+    "color": "#0ce5d3",
+    "start_name": "토끼등 하산길 쉼터",
+    "length_meter": 148.3,
+    "time_minute": 2
   },
   {
-    "path_id": 37,
+    "path_id": 27,
     "path": [
       {
         "lat": 35.131588,
@@ -640,9 +470,9 @@
         "lng": 126.963516
       }
     ],
-    "color": "#5f77c7",
-    "start_point_name": "덕산계곡",
-    "length": 73,
-    "time": "1"
+    "color": "#d3c0b2",
+    "start_name": "덕산계곡",
+    "length_meter": 73.1,
+    "time_minute": 1
   }
 ]

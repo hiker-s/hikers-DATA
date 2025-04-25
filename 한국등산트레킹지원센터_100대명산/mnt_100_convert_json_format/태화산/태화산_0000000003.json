@@ -11,10 +11,10 @@
         "lng": 128.503632
       }
     ],
-    "color": "#ee605d",
-    "start_point_name": "태화산 유아 숲 체험원",
-    "length": 1886,
-    "time": "31"
+    "color": "#572806",
+    "start_name": "태화산 유아 숲 체험원",
+    "length_meter": 1886.9,
+    "time_minute": 31
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 128.503067
       }
     ],
-    "color": "#a8530d",
-    "start_point_name": "갈림길 6",
-    "length": 138,
-    "time": "2"
+    "color": "#4c660c",
+    "start_name": "갈림길 6",
+    "length_meter": 138.3,
+    "time_minute": 2
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 128.490173
       }
     ],
-    "color": "#8ece3b",
-    "start_point_name": "태화산성",
-    "length": 1576,
-    "time": "26"
+    "color": "#318116",
+    "start_name": "태화산성",
+    "length_meter": 1576.4,
+    "time_minute": 26
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 128.489334
       }
     ],
-    "color": "#89d8ca",
-    "start_point_name": "쉼터",
-    "length": 183,
-    "time": "3"
+    "color": "#a9e5ee",
+    "start_name": "쉼터",
+    "length_meter": 183.2,
+    "time_minute": 3
   },
   {
     "path_id": 4,
@@ -79,10 +79,10 @@
         "lng": 128.486526
       }
     ],
-    "color": "#6832a8",
-    "start_point_name": "갈림길 10",
-    "length": 481,
-    "time": "8"
+    "color": "#3c0e04",
+    "start_name": "갈림길 10",
+    "length_meter": 481.3,
+    "time_minute": 8
   },
   {
     "path_id": 5,
@@ -96,10 +96,10 @@
         "lng": 128.485626
       }
     ],
-    "color": "#9478d4",
-    "start_point_name": "쉼터",
-    "length": 84,
-    "time": "1"
+    "color": "#59131b",
+    "start_name": "쉼터",
+    "length_meter": 84.9,
+    "time_minute": 1
   },
   {
     "path_id": 6,
@@ -113,10 +113,10 @@
         "lng": 128.46933
       }
     ],
-    "color": "#d9a3ea",
-    "start_point_name": "태화산정상",
-    "length": 3129,
-    "time": "52"
+    "color": "#728d04",
+    "start_name": "태화산정상",
+    "length_meter": 3129.2,
+    "time_minute": 52
   },
   {
     "path_id": 7,
@@ -126,30 +126,13 @@
         "lng": 128.46933
       },
       {
-        "lat": 37.142597,
-        "lng": 128.469513
-      }
-    ],
-    "color": "#d76a89",
-    "start_point_name": "화장실",
-    "length": 16,
-    "time": "0"
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.142597,
-        "lng": 128.469513
-      },
-      {
         "lat": 37.14259,
         "lng": 128.469589
       }
     ],
-    "color": "#1e1360",
-    "start_point_name": "큰골버스승강장",
-    "length": 6,
-    "time": "0"
+    "color": "#58b308",
+    "start_name": "화장실 / 큰골버스승강장",
+    "length_meter": 23.3,
+    "time_minute": 0
   }
 ]

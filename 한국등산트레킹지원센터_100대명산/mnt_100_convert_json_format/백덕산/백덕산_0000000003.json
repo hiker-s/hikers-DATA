@@ -11,10 +11,10 @@
         "lng": 128.30127
       }
     ],
-    "color": "#ff1715",
-    "start_point_name": "백덕산 주차창 화장실",
-    "length": 636,
-    "time": "10"
+    "color": "#1907c7",
+    "start_name": "백덕산 주차창 화장실",
+    "length_meter": 637.0,
+    "time_minute": 10
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 128.304306
       }
     ],
-    "color": "#579d4e",
-    "start_point_name": "백덕산 등산로 입구. 먹골",
-    "length": 952,
-    "time": "15"
+    "color": "#fddf70",
+    "start_name": "백덕산 등산로 입구. 먹골",
+    "length_meter": 952.2,
+    "time_minute": 15
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 128.306732
       }
     ],
-    "color": "#604ad6",
-    "start_point_name": "고목이 쓰러져 터널처럼 형성",
-    "length": 414,
-    "time": "6"
+    "color": "#4227bc",
+    "start_name": "고목이 쓰러져 터널처럼 형성",
+    "length_meter": 414.3,
+    "time_minute": 6
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 128.308029
       }
     ],
-    "color": "#6855a0",
-    "start_point_name": "갈림길",
-    "length": 162,
-    "time": "2"
+    "color": "#089849",
+    "start_name": "갈림길",
+    "length_meter": 162.3,
+    "time_minute": 2
   },
   {
     "path_id": 4,
@@ -79,10 +79,10 @@
         "lng": 128.308105
       }
     ],
-    "color": "#e0c1b6",
-    "start_point_name": "갈림길",
-    "length": 279,
-    "time": "4"
+    "color": "#c2d793",
+    "start_name": "갈림길",
+    "length_meter": 279.6,
+    "time_minute": 4
   },
   {
     "path_id": 5,
@@ -92,285 +92,200 @@
         "lng": 128.308105
       },
       {
-        "lat": 37.407661,
-        "lng": 128.308073
+        "lat": 37.406456,
+        "lng": 128.305237
       }
     ],
-    "color": "#b0e23f",
-    "start_point_name": "이정표옆 작은 쉼터",
-    "length": 4,
-    "time": "0"
+    "color": "#3179f5",
+    "start_name": "이정표옆 작은 쉼터 / 철쭉군락지 안내",
+    "length_meter": 288.2,
+    "time_minute": 4
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 37.407661,
-        "lng": 128.308073
-      },
-      {
         "lat": 37.406456,
         "lng": 128.305237
+      },
+      {
+        "lat": 37.405773,
+        "lng": 128.304642
       }
     ],
-    "color": "#d69872",
-    "start_point_name": "철쭉군락지 안내",
-    "length": 284,
-    "time": "4"
+    "color": "#f95704",
+    "start_name": "등산로 폐쇄",
+    "length_meter": 92.4,
+    "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.406456,
-        "lng": 128.305237
-      },
-      {
         "lat": 37.405773,
         "lng": 128.304642
+      },
+      {
+        "lat": 37.405388,
+        "lng": 128.303833
       }
     ],
-    "color": "#1a1e1a",
-    "start_point_name": "등산로 폐쇄",
-    "length": 92,
-    "time": "1"
+    "color": "#f30ddf",
+    "start_name": "등산로폐쇄",
+    "length_meter": 83.3,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 37.405773,
-        "lng": 128.304642
-      },
-      {
         "lat": 37.405388,
         "lng": 128.303833
+      },
+      {
+        "lat": 37.404129,
+        "lng": 128.302078
       }
     ],
-    "color": "#f577df",
-    "start_point_name": "등산로폐쇄",
-    "length": 83,
-    "time": "1"
+    "color": "#aed166",
+    "start_name": "등산로폐쇄",
+    "length_meter": 208.9,
+    "time_minute": 3
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.405388,
-        "lng": 128.303833
-      },
-      {
         "lat": 37.404129,
         "lng": 128.302078
+      },
+      {
+        "lat": 37.402382,
+        "lng": 128.296631
       }
     ],
-    "color": "#230198",
-    "start_point_name": "등산로폐쇄",
-    "length": 208,
-    "time": "3"
+    "color": "#34a1d4",
+    "start_name": "길옆 작은 공터 / 작은 공터 둥근 의자",
+    "length_meter": 519.5,
+    "time_minute": 8
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 37.404129,
-        "lng": 128.302078
+        "lat": 37.402382,
+        "lng": 128.296631
       },
       {
-        "lat": 37.404133,
-        "lng": 128.302017
+        "lat": 37.4007,
+        "lng": 128.293991
       }
     ],
-    "color": "#94726a",
-    "start_point_name": "길옆 작은 공터",
-    "length": 5,
-    "time": "0"
+    "color": "#aba682",
+    "start_name": "갈림길",
+    "length_meter": 298.9,
+    "time_minute": 4
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 37.404133,
-        "lng": 128.302017
+        "lat": 37.4007,
+        "lng": 128.293991
       },
       {
-        "lat": 37.402382,
-        "lng": 128.296631
+        "lat": 37.401268,
+        "lng": 128.295212
       }
     ],
-    "color": "#b32452",
-    "start_point_name": "작은 공터 둥근 의자",
-    "length": 514,
-    "time": "8"
+    "color": "#2653e6",
+    "start_name": "갈림길 / 갈림길",
+    "length_meter": 125.8,
+    "time_minute": 2
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 37.402382,
-        "lng": 128.296631
+        "lat": 37.401268,
+        "lng": 128.295212
       },
       {
-        "lat": 37.4007,
-        "lng": 128.293991
+        "lat": 37.413788,
+        "lng": 128.291061
       }
     ],
-    "color": "#90e1c4",
-    "start_point_name": "갈림길",
-    "length": 298,
-    "time": "4"
+    "color": "#3e8203",
+    "start_name": "고목 쓰러짐",
+    "length_meter": 1439.6,
+    "time_minute": 23
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 37.4007,
-        "lng": 128.293991
+        "lat": 37.413788,
+        "lng": 128.291061
       },
       {
-        "lat": 37.400909,
-        "lng": 128.294601
+        "lat": 37.421379,
+        "lng": 128.286163
       }
     ],
-    "color": "#b4d775",
-    "start_point_name": "갈림길",
-    "length": 58,
-    "time": "0"
+    "color": "#e5f642",
+    "start_name": "경사가 급하고 흙길이라 주의 / 갈림길",
+    "length_meter": 951.4,
+    "time_minute": 15
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 37.400909,
-        "lng": 128.294601
+        "lat": 37.421379,
+        "lng": 128.286163
       },
       {
-        "lat": 37.401268,
-        "lng": 128.295212
+        "lat": 37.430496,
+        "lng": 128.284485
       }
     ],
-    "color": "#d90df6",
-    "start_point_name": "갈림길",
-    "length": 67,
-    "time": "1"
+    "color": "#cb9a67",
+    "start_name": "백덕산 등산로입구",
+    "length_meter": 1024.5,
+    "time_minute": 17
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 37.401268,
-        "lng": 128.295212
+        "lat": 37.430496,
+        "lng": 128.284485
       },
       {
-        "lat": 37.413788,
-        "lng": 128.291061
+        "lat": 37.429455,
+        "lng": 128.286102
       }
     ],
-    "color": "#e1d2a2",
-    "start_point_name": "고목 쓰러짐",
-    "length": 1439,
-    "time": "23"
+    "color": "#0a7009",
+    "start_name": "운교정류장",
+    "length_meter": 183.8,
+    "time_minute": 3
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 37.413788,
-        "lng": 128.291061
-      },
-      {
-        "lat": 37.413914,
-        "lng": 128.290833
-      }
-    ],
-    "color": "#e377bb",
-    "start_point_name": "경사가 급하고 흙길이라 주의",
-    "length": 24,
-    "time": "0"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 37.413914,
-        "lng": 128.290833
-      },
-      {
-        "lat": 37.421379,
-        "lng": 128.286163
-      }
-    ],
-    "color": "#1170ff",
-    "start_point_name": "갈림길",
-    "length": 926,
-    "time": "15"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 37.421379,
-        "lng": 128.286163
-      },
-      {
-        "lat": 37.430496,
-        "lng": 128.284485
-      }
-    ],
-    "color": "#cb23d0",
-    "start_point_name": "백덕산 등산로입구",
-    "length": 1024,
-    "time": "17"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 37.430496,
-        "lng": 128.284485
-      },
-      {
         "lat": 37.429455,
         "lng": 128.286102
-      }
-    ],
-    "color": "#8764a7",
-    "start_point_name": "운교정류장",
-    "length": 183,
-    "time": "3"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 37.429455,
-        "lng": 128.286102
-      },
-      {
-        "lat": 37.42961,
-        "lng": 128.286563
-      }
-    ],
-    "color": "#8341d9",
-    "start_point_name": "운교1리 마을 회관 앞 화장실",
-    "length": 44,
-    "time": "0"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 37.42961,
-        "lng": 128.286563
       },
       {
         "lat": 37.433681,
         "lng": 128.295547
       }
     ],
-    "color": "#f8c2ba",
-    "start_point_name": "웨이포인트 31",
-    "length": 913,
-    "time": "15"
+    "color": "#d7b0f6",
+    "start_name": "운교1리 마을 회관 앞 화장실 / 웨이포인트 31",
+    "length_meter": 957.5,
+    "time_minute": 15
   }
 ]

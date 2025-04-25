@@ -11,10 +11,10 @@
         "lng": 127.050255
       }
     ],
-    "color": "#673d29",
-    "start_point_name": "자연경관",
-    "length": 167,
-    "time": "2"
+    "color": "#9357d0",
+    "start_name": "자연경관",
+    "length_meter": 167.0,
+    "time_minute": 2
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 127.04818
       }
     ],
-    "color": "#4f809e",
-    "start_point_name": "우쉼터",
-    "length": 221,
-    "time": "3"
+    "color": "#7f5eec",
+    "start_name": "우쉼터",
+    "length_meter": 221.3,
+    "time_minute": 3
   },
   {
     "path_id": 2,
@@ -41,574 +41,217 @@
         "lng": 127.04818
       },
       {
-        "lat": 35.40057,
-        "lng": 127.04821
+        "lat": 35.40192,
+        "lng": 127.048393
       }
     ],
-    "color": "#64eea1",
-    "start_point_name": "쉼터",
-    "length": 3,
-    "time": "0"
+    "color": "#7f2a0d",
+    "start_name": "쉼터 / 조망점 / 조망점",
+    "length_meter": 159.1,
+    "time_minute": 2
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.40057,
-        "lng": 127.04821
+        "lat": 35.40192,
+        "lng": 127.048393
       },
       {
-        "lat": 35.400551,
-        "lng": 127.048203
+        "lat": 35.40086,
+        "lng": 127.032356
       }
     ],
-    "color": "#b5fa96",
-    "start_point_name": "조망점",
-    "length": 2,
-    "time": "0"
+    "color": "#2d805f",
+    "start_name": "갈림길 / 쉼터 / 강천산 왕자봉 / 쉼터 / 자연경관",
+    "length_meter": 1488.4,
+    "time_minute": 24
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.400551,
-        "lng": 127.048203
+        "lat": 35.40086,
+        "lng": 127.032356
       },
       {
-        "lat": 35.40192,
-        "lng": 127.048393
+        "lat": 35.394596,
+        "lng": 127.028229
       }
     ],
-    "color": "#0d937a",
-    "start_point_name": "조망점",
-    "length": 153,
-    "time": "2"
+    "color": "#32b6de",
+    "start_name": "자연경관",
+    "length_meter": 790.6,
+    "time_minute": 13
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.40192,
-        "lng": 127.048393
+        "lat": 35.394596,
+        "lng": 127.028229
       },
       {
-        "lat": 35.401901,
-        "lng": 127.048492
+        "lat": 35.391094,
+        "lng": 127.029968
       }
     ],
-    "color": "#7ad551",
-    "start_point_name": "갈림길",
-    "length": 9,
-    "time": "0"
+    "color": "#5307ff",
+    "start_name": "자연경관",
+    "length_meter": 420.1,
+    "time_minute": 7
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.401901,
-        "lng": 127.048492
+        "lat": 35.391094,
+        "lng": 127.029968
       },
       {
-        "lat": 35.401871,
-        "lng": 127.048424
+        "lat": 35.390133,
+        "lng": 127.030273
       }
     ],
-    "color": "#0eb185",
-    "start_point_name": "쉼터",
-    "length": 7,
-    "time": "0"
+    "color": "#ab4c65",
+    "start_name": "조망점 / 조망점",
+    "length_meter": 110.7,
+    "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.401871,
-        "lng": 127.048424
+        "lat": 35.390133,
+        "lng": 127.030273
       },
       {
-        "lat": 35.401875,
-        "lng": 127.048485
+        "lat": 35.389687,
+        "lng": 127.030464
       }
     ],
-    "color": "#3bf96e",
-    "start_point_name": "강천산 왕자봉",
-    "length": 5,
-    "time": "0"
+    "color": "#ad32f3",
+    "start_name": "금성산성터 / 금성산성 북문",
+    "length_meter": 63.0,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.401875,
-        "lng": 127.048485
+        "lat": 35.389687,
+        "lng": 127.030464
       },
       {
-        "lat": 35.401852,
-        "lng": 127.048431
+        "lat": 35.390068,
+        "lng": 127.035034
       }
     ],
-    "color": "#3f6147",
-    "start_point_name": "쉼터",
-    "length": 5,
-    "time": "0"
+    "color": "#7734bf",
+    "start_name": "갈림길 / 북문터 / 조망점",
+    "length_meter": 439.9,
+    "time_minute": 7
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.401852,
-        "lng": 127.048431
+        "lat": 35.390068,
+        "lng": 127.035034
       },
       {
-        "lat": 35.40086,
-        "lng": 127.032356
+        "lat": 35.389183,
+        "lng": 127.034561
       }
     ],
-    "color": "#c22565",
-    "start_point_name": "자연경관",
-    "length": 1461,
-    "time": "24"
+    "color": "#50e3f5",
+    "start_name": "쉼터 / 송낙바위 / 갈림길",
+    "length_meter": 171.0,
+    "time_minute": 2
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.40086,
-        "lng": 127.032356
+        "lat": 35.389183,
+        "lng": 127.034561
       },
       {
-        "lat": 35.394596,
-        "lng": 127.028229
+        "lat": 35.388397,
+        "lng": 127.034355
       }
     ],
-    "color": "#41452a",
-    "start_point_name": "자연경관",
-    "length": 790,
-    "time": "13"
+    "color": "#ced327",
+    "start_name": "자연경관 / 관광자원",
+    "length_meter": 93.2,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.394596,
-        "lng": 127.028229
+        "lat": 35.388397,
+        "lng": 127.034355
       },
       {
-        "lat": 35.391094,
-        "lng": 127.029968
+        "lat": 35.386169,
+        "lng": 127.035828
       }
     ],
-    "color": "#1cf0b2",
-    "start_point_name": "자연경관",
-    "length": 420,
-    "time": "7"
+    "color": "#f1ee4c",
+    "start_name": "금성산성 산성산(연대봉) / 조망점 / 조망점 / 조망점",
+    "length_meter": 287.4,
+    "time_minute": 4
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.391094,
-        "lng": 127.029968
+        "lat": 35.386169,
+        "lng": 127.035828
       },
       {
-        "lat": 35.391026,
-        "lng": 127.030014
+        "lat": 35.385738,
+        "lng": 127.036827
       }
     ],
-    "color": "#3366b4",
-    "start_point_name": "조망점",
-    "length": 8,
-    "time": "0"
+    "color": "#176514",
+    "start_name": "조망점 / 조망점 / 자연경관",
+    "length_meter": 102.9,
+    "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 35.391026,
-        "lng": 127.030014
+        "lat": 35.385738,
+        "lng": 127.036827
       },
       {
-        "lat": 35.390133,
-        "lng": 127.030273
+        "lat": 35.385242,
+        "lng": 127.038124
       }
     ],
-    "color": "#329482",
-    "start_point_name": "조망점",
-    "length": 102,
-    "time": "1"
+    "color": "#ffdce3",
+    "start_name": "자연경관",
+    "length_meter": 129.9,
+    "time_minute": 2
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 35.390133,
-        "lng": 127.030273
-      },
-      {
-        "lat": 35.389809,
-        "lng": 127.030212
-      }
-    ],
-    "color": "#c78390",
-    "start_point_name": "금성산성터",
-    "length": 36,
-    "time": "0"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.389809,
-        "lng": 127.030212
-      },
-      {
-        "lat": 35.389687,
-        "lng": 127.030464
-      }
-    ],
-    "color": "#ca3d37",
-    "start_point_name": "금성산성 북문",
-    "length": 26,
-    "time": "0"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.389687,
-        "lng": 127.030464
-      },
-      {
-        "lat": 35.389679,
-        "lng": 127.030518
-      }
-    ],
-    "color": "#d0c8dd",
-    "start_point_name": "갈림길",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.389679,
-        "lng": 127.030518
-      },
-      {
-        "lat": 35.389816,
-        "lng": 127.030434
-      }
-    ],
-    "color": "#dff609",
-    "start_point_name": "북문터",
-    "length": 17,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 35.389816,
-        "lng": 127.030434
-      },
-      {
-        "lat": 35.390068,
-        "lng": 127.035034
-      }
-    ],
-    "color": "#e32efe",
-    "start_point_name": "조망점",
-    "length": 417,
-    "time": "6"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 35.390068,
-        "lng": 127.035034
-      },
-      {
-        "lat": 35.390274,
-        "lng": 127.035278
-      }
-    ],
-    "color": "#389f12",
-    "start_point_name": "쉼터",
-    "length": 31,
-    "time": "0"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 35.390274,
-        "lng": 127.035278
-      },
-      {
-        "lat": 35.390209,
-        "lng": 127.035164
-      }
-    ],
-    "color": "#f9816f",
-    "start_point_name": "송낙바위",
-    "length": 12,
-    "time": "0"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 35.390209,
-        "lng": 127.035164
-      },
-      {
-        "lat": 35.389183,
-        "lng": 127.034561
-      }
-    ],
-    "color": "#0a787e",
-    "start_point_name": "갈림길",
-    "length": 126,
-    "time": "2"
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 35.389183,
-        "lng": 127.034561
-      },
-      {
-        "lat": 35.388996,
-        "lng": 127.034378
-      }
-    ],
-    "color": "#8c4201",
-    "start_point_name": "자연경관",
-    "length": 26,
-    "time": "0"
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 35.388996,
-        "lng": 127.034378
-      },
-      {
-        "lat": 35.388397,
-        "lng": 127.034355
-      }
-    ],
-    "color": "#7d8859",
-    "start_point_name": "관광자원",
-    "length": 66,
-    "time": "1"
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 35.388397,
-        "lng": 127.034355
-      },
-      {
-        "lat": 35.388351,
-        "lng": 127.03437
-      }
-    ],
-    "color": "#7159cf",
-    "start_point_name": "금성산성 산성산(연대봉)",
-    "length": 5,
-    "time": "0"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 35.388351,
-        "lng": 127.03437
-      },
-      {
-        "lat": 35.388351,
-        "lng": 127.03434
-      }
-    ],
-    "color": "#de6a42",
-    "start_point_name": "조망점",
-    "length": 2,
-    "time": "0"
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 35.388351,
-        "lng": 127.03434
-      },
-      {
-        "lat": 35.388096,
-        "lng": 127.034393
-      }
-    ],
-    "color": "#9df4f7",
-    "start_point_name": "조망점",
-    "length": 28,
-    "time": "0"
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 35.388096,
-        "lng": 127.034393
-      },
-      {
-        "lat": 35.386169,
-        "lng": 127.035828
-      }
-    ],
-    "color": "#52016a",
-    "start_point_name": "조망점",
-    "length": 250,
-    "time": "4"
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 35.386169,
-        "lng": 127.035828
-      },
-      {
-        "lat": 35.386005,
-        "lng": 127.03611
-      }
-    ],
-    "color": "#fa5b37",
-    "start_point_name": "조망점",
-    "length": 31,
-    "time": "0"
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 35.386005,
-        "lng": 127.03611
-      },
-      {
-        "lat": 35.385895,
-        "lng": 127.036362
-      }
-    ],
-    "color": "#b5f63f",
-    "start_point_name": "조망점",
-    "length": 25,
-    "time": "0"
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 35.385895,
-        "lng": 127.036362
-      },
-      {
-        "lat": 35.385738,
-        "lng": 127.036827
-      }
-    ],
-    "color": "#7436ed",
-    "start_point_name": "자연경관",
-    "length": 45,
-    "time": "0"
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 35.385738,
-        "lng": 127.036827
-      },
-      {
         "lat": 35.385242,
         "lng": 127.038124
-      }
-    ],
-    "color": "#9b0c26",
-    "start_point_name": "자연경관",
-    "length": 129,
-    "time": "2"
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 35.385242,
-        "lng": 127.038124
-      },
-      {
-        "lat": 35.385159,
-        "lng": 127.038368
-      }
-    ],
-    "color": "#ee78cf",
-    "start_point_name": "자연경관",
-    "length": 23,
-    "time": "0"
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 35.385159,
-        "lng": 127.038368
-      },
-      {
-        "lat": 35.384998,
-        "lng": 127.038643
-      }
-    ],
-    "color": "#267ded",
-    "start_point_name": "운대봉(북바위)",
-    "length": 30,
-    "time": "0"
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 35.384998,
-        "lng": 127.038643
-      },
-      {
-        "lat": 35.38504,
-        "lng": 127.038643
-      }
-    ],
-    "color": "#da143e",
-    "start_point_name": "갈림길",
-    "length": 4,
-    "time": "0"
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 35.38504,
-        "lng": 127.038643
       },
       {
         "lat": 35.39016,
         "lng": 127.040077
       }
     ],
-    "color": "#bae8c4",
-    "start_point_name": "북바위",
-    "length": 583,
-    "time": "9"
+    "color": "#266af9",
+    "start_name": "자연경관 / 운대봉(북바위) / 갈림길 / 북바위",
+    "length_meter": 643.3,
+    "time_minute": 10
   }
 ]

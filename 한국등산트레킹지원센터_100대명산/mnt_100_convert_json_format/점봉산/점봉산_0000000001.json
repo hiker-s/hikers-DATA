@@ -7,353 +7,200 @@
         "lng": 128.472168
       },
       {
-        "lat": 38.036098,
-        "lng": 128.472107
+        "lat": 38.035873,
+        "lng": 128.472916
       }
     ],
-    "color": "#3b2a69",
-    "start_point_name": "사설유료주차장",
-    "length": 5,
-    "time": "0"
+    "color": "#6a48c4",
+    "start_name": "사설유료주차장 / 매점",
+    "length_meter": 80.5,
+    "time_minute": 1
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 38.036098,
-        "lng": 128.472107
-      },
-      {
         "lat": 38.035873,
         "lng": 128.472916
+      },
+      {
+        "lat": 38.036304,
+        "lng": 128.471588
       }
     ],
-    "color": "#024680",
-    "start_point_name": "매점",
-    "length": 75,
-    "time": "1"
+    "color": "#b302bb",
+    "start_name": "주차장 화장실",
+    "length_meter": 125.8,
+    "time_minute": 2
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 38.035873,
-        "lng": 128.472916
-      },
-      {
         "lat": 38.036304,
         "lng": 128.471588
+      },
+      {
+        "lat": 38.031631,
+        "lng": 128.463196
       }
     ],
-    "color": "#5bc1f8",
-    "start_point_name": "주차장 화장실",
-    "length": 125,
-    "time": "2"
+    "color": "#07b730",
+    "start_name": "외부종자 유입 방지 에어건 / 입구 / 점봉산 생태관리센터 / 외부 종자 유입 방지 에어건",
+    "length_meter": 917.8,
+    "time_minute": 15
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 38.036304,
-        "lng": 128.471588
+        "lat": 38.031631,
+        "lng": 128.463196
       },
       {
-        "lat": 38.036438,
-        "lng": 128.471298
+        "lat": 38.033512,
+        "lng": 128.456528
       }
     ],
-    "color": "#d3a32c",
-    "start_point_name": "외부종자 유입 방지 에어건",
-    "length": 29,
-    "time": "0"
+    "color": "#436a18",
+    "start_name": "폭포",
+    "length_meter": 620.3,
+    "time_minute": 10
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 38.036438,
-        "lng": 128.471298
+        "lat": 38.033512,
+        "lng": 128.456528
       },
       {
-        "lat": 38.036438,
-        "lng": 128.471298
+        "lat": 38.035477,
+        "lng": 128.45433
       }
     ],
-    "color": "#35248f",
-    "start_point_name": "입구",
-    "length": 0,
-    "time": "0"
+    "color": "#3cb7b6",
+    "start_name": "갈림길 / 쉼터",
+    "length_meter": 291.2,
+    "time_minute": 4
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 38.036438,
-        "lng": 128.471298
+        "lat": 38.035477,
+        "lng": 128.45433
       },
       {
-        "lat": 38.036438,
-        "lng": 128.471298
+        "lat": 38.037895,
+        "lng": 128.450943
       }
     ],
-    "color": "#48eba9",
-    "start_point_name": "점봉산 생태관리센터",
-    "length": 0,
-    "time": "0"
+    "color": "#e88ecb",
+    "start_name": "곰배령 끝집 등 / 사설 매점 화장실",
+    "length_meter": 400.8,
+    "time_minute": 6
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 38.036438,
-        "lng": 128.471298
+        "lat": 38.037895,
+        "lng": 128.450943
       },
       {
-        "lat": 38.031631,
-        "lng": 128.463196
+        "lat": 38.03846,
+        "lng": 128.444672
       }
     ],
-    "color": "#6fac10",
-    "start_point_name": "외부 종자 유입 방지 에어건",
-    "length": 888,
-    "time": "14"
+    "color": "#3ab457",
+    "start_name": "쉼터",
+    "length_meter": 552.8,
+    "time_minute": 9
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 38.031631,
-        "lng": 128.463196
+        "lat": 38.03846,
+        "lng": 128.444672
       },
       {
-        "lat": 38.033512,
-        "lng": 128.456528
+        "lat": 38.036495,
+        "lng": 128.44101
       }
     ],
-    "color": "#2aca4a",
-    "start_point_name": "폭포",
-    "length": 620,
-    "time": "10"
+    "color": "#4fb114",
+    "start_name": "폭포",
+    "length_meter": 388.1,
+    "time_minute": 6
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 38.033512,
-        "lng": 128.456528
+        "lat": 38.036495,
+        "lng": 128.44101
       },
       {
-        "lat": 38.033775,
-        "lng": 128.456238
+        "lat": 38.030579,
+        "lng": 128.434723
       }
     ],
-    "color": "#8e4935",
-    "start_point_name": "갈림길",
-    "length": 38,
-    "time": "0"
+    "color": "#fb09e1",
+    "start_name": "쉼터 / 쉼터",
+    "length_meter": 859.7,
+    "time_minute": 14
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 38.033775,
-        "lng": 128.456238
+        "lat": 38.030579,
+        "lng": 128.434723
       },
       {
-        "lat": 38.035477,
-        "lng": 128.45433
+        "lat": 38.029663,
+        "lng": 128.433838
       }
     ],
-    "color": "#491414",
-    "start_point_name": "쉼터",
-    "length": 252,
-    "time": "4"
+    "color": "#204c4a",
+    "start_name": "쉼터",
+    "length_meter": 128.0,
+    "time_minute": 2
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 38.035477,
-        "lng": 128.45433
+        "lat": 38.029663,
+        "lng": 128.433838
       },
       {
-        "lat": 38.035515,
-        "lng": 128.454224
+        "lat": 38.027786,
+        "lng": 128.433029
       }
     ],
-    "color": "#faf621",
-    "start_point_name": "곰배령 끝집 등",
-    "length": 10,
-    "time": "0"
+    "color": "#5b30eb",
+    "start_name": "쉼터 / 쉼터",
+    "length_meter": 221.6,
+    "time_minute": 3
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 38.035515,
-        "lng": 128.454224
-      },
-      {
-        "lat": 38.037895,
-        "lng": 128.450943
-      }
-    ],
-    "color": "#566d5a",
-    "start_point_name": "사설 매점 화장실",
-    "length": 390,
-    "time": "6"
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 38.037895,
-        "lng": 128.450943
-      },
-      {
-        "lat": 38.03846,
-        "lng": 128.444672
-      }
-    ],
-    "color": "#f3772d",
-    "start_point_name": "쉼터",
-    "length": 552,
-    "time": "9"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 38.03846,
-        "lng": 128.444672
-      },
-      {
-        "lat": 38.036495,
-        "lng": 128.44101
-      }
-    ],
-    "color": "#a21371",
-    "start_point_name": "폭포",
-    "length": 388,
-    "time": "6"
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 38.036495,
-        "lng": 128.44101
-      },
-      {
-        "lat": 38.036083,
-        "lng": 128.440765
-      }
-    ],
-    "color": "#c3241c",
-    "start_point_name": "쉼터",
-    "length": 50,
-    "time": "0"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 38.036083,
-        "lng": 128.440765
-      },
-      {
-        "lat": 38.030579,
-        "lng": 128.434723
-      }
-    ],
-    "color": "#14387f",
-    "start_point_name": "쉼터",
-    "length": 809,
-    "time": "13"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 38.030579,
-        "lng": 128.434723
-      },
-      {
-        "lat": 38.029663,
-        "lng": 128.433838
-      }
-    ],
-    "color": "#c7e938",
-    "start_point_name": "쉼터",
-    "length": 127,
-    "time": "2"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 38.029663,
-        "lng": 128.433838
-      },
-      {
-        "lat": 38.029427,
-        "lng": 128.43364
-      }
-    ],
-    "color": "#e43b5f",
-    "start_point_name": "쉼터",
-    "length": 31,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 38.029427,
-        "lng": 128.43364
-      },
-      {
         "lat": 38.027786,
         "lng": 128.433029
-      }
-    ],
-    "color": "#3a1829",
-    "start_point_name": "쉼터",
-    "length": 190,
-    "time": "3"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 38.027786,
-        "lng": 128.433029
-      },
-      {
-        "lat": 38.027752,
-        "lng": 128.432831
-      }
-    ],
-    "color": "#18688a",
-    "start_point_name": "갈림길",
-    "length": 17,
-    "time": "0"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 38.027752,
-        "lng": 128.432831
       },
       {
         "lat": 38.027935,
         "lng": 128.432312
       }
     ],
-    "color": "#d20756",
-    "start_point_name": "곰배령 정상 조망점",
-    "length": 49,
-    "time": "0"
+    "color": "#b45339",
+    "start_name": "갈림길 / 곰배령 정상 조망점",
+    "length_meter": 67.6,
+    "time_minute": 1
   }
 ]

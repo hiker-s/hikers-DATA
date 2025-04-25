@@ -11,10 +11,10 @@
         "lng": 126.906052
       }
     ],
-    "color": "#9bd2d4",
-    "start_point_name": "나무의 혹",
-    "length": 205,
-    "time": "3"
+    "color": "#efa52e",
+    "start_name": "나무의 혹",
+    "length_meter": 205.8,
+    "time_minute": 3
   },
   {
     "path_id": 1,
@@ -24,326 +24,190 @@
         "lng": 126.906052
       },
       {
-        "lat": 35.492878,
-        "lng": 126.906082
+        "lat": 35.494247,
+        "lng": 126.90641
       }
     ],
-    "color": "#1b018f",
-    "start_point_name": "백련암  화장실",
-    "length": 3,
-    "time": "0"
+    "color": "#e8fbca",
+    "start_name": "백련암  화장실 / 백련암",
+    "length_meter": 158.3,
+    "time_minute": 2
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.492878,
-        "lng": 126.906082
-      },
-      {
         "lat": 35.494247,
         "lng": 126.90641
+      },
+      {
+        "lat": 35.495987,
+        "lng": 126.905426
       }
     ],
-    "color": "#4d69e1",
-    "start_point_name": "백련암",
-    "length": 155,
-    "time": "2"
+    "color": "#9c1668",
+    "start_name": "석란정지",
+    "length_meter": 213.0,
+    "time_minute": 3
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.494247,
-        "lng": 126.90641
-      },
-      {
         "lat": 35.495987,
         "lng": 126.905426
+      },
+      {
+        "lat": 35.496983,
+        "lng": 126.905434
       }
     ],
-    "color": "#97df3b",
-    "start_point_name": "석란정지",
-    "length": 213,
-    "time": "3"
+    "color": "#0f68d3",
+    "start_name": "낙석주의",
+    "length_meter": 110.8,
+    "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.495987,
-        "lng": 126.905426
-      },
-      {
         "lat": 35.496983,
         "lng": 126.905434
+      },
+      {
+        "lat": 35.497593,
+        "lng": 126.903374
       }
     ],
-    "color": "#c17af4",
-    "start_point_name": "낙석주의",
-    "length": 110,
-    "time": "1"
+    "color": "#5e4459",
+    "start_name": "낙석주의 / 낙석주의",
+    "length_meter": 199.3,
+    "time_minute": 3
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.496983,
-        "lng": 126.905434
+        "lat": 35.497593,
+        "lng": 126.903374
       },
       {
-        "lat": 35.497124,
-        "lng": 126.905167
+        "lat": 35.498432,
+        "lng": 126.902039
       }
     ],
-    "color": "#851759",
-    "start_point_name": "낙석주의",
-    "length": 28,
-    "time": "0"
+    "color": "#a3a3f3",
+    "start_name": "서래봉 / 갈림길",
+    "length_meter": 152.7,
+    "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.497124,
-        "lng": 126.905167
+        "lat": 35.498432,
+        "lng": 126.902039
       },
       {
-        "lat": 35.497593,
-        "lng": 126.903374
+        "lat": 35.499409,
+        "lng": 126.894814
       }
     ],
-    "color": "#5db37b",
-    "start_point_name": "낙석주의",
-    "length": 170,
-    "time": "2"
+    "color": "#f45745",
+    "start_name": "안전사고주의 / 급경사지[낙석] 위험지역 / 갈림길 / 구급함",
+    "length_meter": 699.0,
+    "time_minute": 11
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.497593,
-        "lng": 126.903374
+        "lat": 35.499409,
+        "lng": 126.894814
       },
       {
-        "lat": 35.49773,
-        "lng": 126.903175
+        "lat": 35.498672,
+        "lng": 126.888786
       }
     ],
-    "color": "#509e63",
-    "start_point_name": "서래봉",
-    "length": 23,
-    "time": "0"
+    "color": "#172177",
+    "start_name": "조망점",
+    "length_meter": 551.8,
+    "time_minute": 9
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.49773,
-        "lng": 126.903175
+        "lat": 35.498672,
+        "lng": 126.888786
       },
       {
-        "lat": 35.498432,
-        "lng": 126.902039
+        "lat": 35.497795,
+        "lng": 126.88131
       }
     ],
-    "color": "#1694b5",
-    "start_point_name": "갈림길",
-    "length": 129,
-    "time": "2"
+    "color": "#1f74eb",
+    "start_name": "추락위험",
+    "length_meter": 683.8,
+    "time_minute": 11
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.498432,
-        "lng": 126.902039
+        "lat": 35.497795,
+        "lng": 126.88131
       },
       {
-        "lat": 35.498711,
-        "lng": 126.902069
+        "lat": 35.497726,
+        "lng": 126.879539
       }
     ],
-    "color": "#12d144",
-    "start_point_name": "안전사고주의",
-    "length": 31,
-    "time": "0"
+    "color": "#cf1634",
+    "start_name": "추락위험 / 조망점",
+    "length_meter": 160.5,
+    "time_minute": 2
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.498711,
-        "lng": 126.902069
+        "lat": 35.497726,
+        "lng": 126.879539
       },
       {
-        "lat": 35.49876,
-        "lng": 126.902023
+        "lat": 35.493515,
+        "lng": 126.878853
       }
     ],
-    "color": "#9fb41c",
-    "start_point_name": "급경사지[낙석] 위험지역",
-    "length": 6,
-    "time": "0"
+    "color": "#a79bd9",
+    "start_name": "망해봉",
+    "length_meter": 472.3,
+    "time_minute": 7
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.49876,
-        "lng": 126.902023
+        "lat": 35.493515,
+        "lng": 126.878853
       },
       {
-        "lat": 35.498878,
-        "lng": 126.901886
+        "lat": 35.478283,
+        "lng": 126.888969
       }
     ],
-    "color": "#703a9d",
-    "start_point_name": "갈림길",
-    "length": 18,
-    "time": "0"
+    "color": "#25fa5c",
+    "start_name": "연지봉",
+    "length_meter": 1925.5,
+    "time_minute": 32
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.498878,
-        "lng": 126.901886
-      },
-      {
-        "lat": 35.499409,
-        "lng": 126.894814
-      }
-    ],
-    "color": "#f38ca6",
-    "start_point_name": "구급함",
-    "length": 642,
-    "time": "10"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.499409,
-        "lng": 126.894814
-      },
-      {
-        "lat": 35.498672,
-        "lng": 126.888786
-      }
-    ],
-    "color": "#7ba708",
-    "start_point_name": "조망점",
-    "length": 551,
-    "time": "9"
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.498672,
-        "lng": 126.888786
-      },
-      {
-        "lat": 35.497795,
-        "lng": 126.88131
-      }
-    ],
-    "color": "#a9ab2c",
-    "start_point_name": "추락위험",
-    "length": 683,
-    "time": "11"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.497795,
-        "lng": 126.88131
-      },
-      {
-        "lat": 35.497791,
-        "lng": 126.881149
-      }
-    ],
-    "color": "#6cb843",
-    "start_point_name": "추락위험",
-    "length": 14,
-    "time": "0"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.497791,
-        "lng": 126.881149
-      },
-      {
-        "lat": 35.497726,
-        "lng": 126.879539
-      }
-    ],
-    "color": "#43135a",
-    "start_point_name": "조망점",
-    "length": 145,
-    "time": "2"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.497726,
-        "lng": 126.879539
-      },
-      {
-        "lat": 35.493515,
-        "lng": 126.878853
-      }
-    ],
-    "color": "#a237a2",
-    "start_point_name": "망해봉",
-    "length": 472,
-    "time": "7"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 35.493515,
-        "lng": 126.878853
-      },
-      {
         "lat": 35.478283,
-        "lng": 126.888969
-      }
-    ],
-    "color": "#90aebd",
-    "start_point_name": "연지봉",
-    "length": 1925,
-    "time": "32"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 35.478283,
-        "lng": 126.888969
-      },
-      {
-        "lat": 35.478287,
-        "lng": 126.888969
-      }
-    ],
-    "color": "#fdb934",
-    "start_point_name": "신선봉",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 35.478287,
         "lng": 126.888969
       },
       {
@@ -351,13 +215,13 @@
         "lng": 126.892548
       }
     ],
-    "color": "#8b1fab",
-    "start_point_name": "구급함",
-    "length": 368,
-    "time": "6"
+    "color": "#4fd0a9",
+    "start_name": "신선봉 / 구급함",
+    "length_meter": 368.8,
+    "time_minute": 6
   },
   {
-    "path_id": 21,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.479862,
@@ -368,13 +232,13 @@
         "lng": 126.898979
       }
     ],
-    "color": "#39629e",
-    "start_point_name": "갈림길",
-    "length": 584,
-    "time": "9"
+    "color": "#a05294",
+    "start_name": "갈림길",
+    "length_meter": 584.8,
+    "time_minute": 9
   },
   {
-    "path_id": 22,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.48035,
@@ -385,13 +249,13 @@
         "lng": 126.89975
       }
     ],
-    "color": "#7cff10",
-    "start_point_name": "연자봉",
-    "length": 95,
-    "time": "1"
+    "color": "#d21662",
+    "start_name": "연자봉",
+    "length_meter": 95.3,
+    "time_minute": 1
   },
   {
-    "path_id": 23,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.479767,
@@ -402,13 +266,13 @@
         "lng": 126.907272
       }
     ],
-    "color": "#c2e3a0",
-    "start_point_name": "장군봉",
-    "length": 692,
-    "time": "11"
+    "color": "#b66067",
+    "start_name": "장군봉",
+    "length_meter": 692.1,
+    "time_minute": 11
   },
   {
-    "path_id": 24,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.478661,
@@ -419,13 +283,13 @@
         "lng": 126.915359
       }
     ],
-    "color": "#6febca",
-    "start_point_name": "장군봉",
-    "length": 739,
-    "time": "12"
+    "color": "#4890e1",
+    "start_name": "장군봉",
+    "length_meter": 740.0,
+    "time_minute": 12
   },
   {
-    "path_id": 25,
+    "path_id": 17,
     "path": [
       {
         "lat": 35.477703,
@@ -436,9 +300,9 @@
         "lng": 126.915253
       }
     ],
-    "color": "#e3639c",
-    "start_point_name": "유군치",
-    "length": 849,
-    "time": "14"
+    "color": "#62be4d",
+    "start_name": "유군치",
+    "length_meter": 849.2,
+    "time_minute": 14
   }
 ]

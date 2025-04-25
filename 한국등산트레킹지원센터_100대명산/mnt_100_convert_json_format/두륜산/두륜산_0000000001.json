@@ -11,10 +11,10 @@
         "lng": 126.625511
       }
     ],
-    "color": "#189339",
-    "start_point_name": "갈림길",
-    "length": 242,
-    "time": "4"
+    "color": "#0bf069",
+    "start_name": "갈림길",
+    "length_meter": 242.7,
+    "time_minute": 4
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 126.624176
       }
     ],
-    "color": "#dcef96",
-    "start_point_name": "갈림길",
-    "length": 150,
-    "time": "2"
+    "color": "#6c40c3",
+    "start_name": "갈림길",
+    "length_meter": 150.1,
+    "time_minute": 2
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 126.622131
       }
     ],
-    "color": "#c57ff2",
-    "start_point_name": "목구조목",
-    "length": 297,
-    "time": "4"
+    "color": "#43a881",
+    "start_name": "목구조목",
+    "length_meter": 297.3,
+    "time_minute": 4
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 126.62014
       }
     ],
-    "color": "#9fb673",
-    "start_point_name": "목구조목",
-    "length": 279,
-    "time": "4"
+    "color": "#a8c45f",
+    "start_name": "목구조목",
+    "length_meter": 279.4,
+    "time_minute": 4
   },
   {
     "path_id": 4,
@@ -75,102 +75,68 @@
         "lng": 126.62014
       },
       {
-        "lat": 34.472305,
-        "lng": 126.620041
+        "lat": 34.473625,
+        "lng": 126.617775
       }
     ],
-    "color": "#fecd13",
-    "start_point_name": "목구조목",
-    "length": 16,
-    "time": "0"
+    "color": "#da779a",
+    "start_name": "목구조목 / 갈림길",
+    "length_meter": 271.0,
+    "time_minute": 4
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 34.472305,
-        "lng": 126.620041
-      },
-      {
         "lat": 34.473625,
         "lng": 126.617775
+      },
+      {
+        "lat": 34.475555,
+        "lng": 126.616676
       }
     ],
-    "color": "#99411d",
-    "start_point_name": "갈림길",
-    "length": 254,
-    "time": "4"
+    "color": "#3f80fd",
+    "start_name": "목구조목",
+    "length_meter": 237.1,
+    "time_minute": 3
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 34.473625,
-        "lng": 126.617775
-      },
-      {
         "lat": 34.475555,
         "lng": 126.616676
+      },
+      {
+        "lat": 34.475281,
+        "lng": 126.621445
       }
     ],
-    "color": "#e77766",
-    "start_point_name": "목구조목",
-    "length": 237,
-    "time": "3"
+    "color": "#d67b2c",
+    "start_name": "갈림길",
+    "length_meter": 438.2,
+    "time_minute": 7
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 34.475555,
-        "lng": 126.616676
-      },
-      {
         "lat": 34.475281,
         "lng": 126.621445
-      }
-    ],
-    "color": "#16eba5",
-    "start_point_name": "갈림길",
-    "length": 438,
-    "time": "7"
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 34.475281,
-        "lng": 126.621445
-      },
-      {
-        "lat": 34.475494,
-        "lng": 126.621986
-      }
-    ],
-    "color": "#8757fb",
-    "start_point_name": "목구조목",
-    "length": 54,
-    "time": "0"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 34.475494,
-        "lng": 126.621986
       },
       {
         "lat": 34.476357,
         "lng": 126.625092
       }
     ],
-    "color": "#a77cb1",
-    "start_point_name": "갈림길",
-    "length": 300,
-    "time": "5"
+    "color": "#245aed",
+    "start_name": "목구조목 / 갈림길",
+    "length_meter": 355.4,
+    "time_minute": 5
   },
   {
-    "path_id": 10,
+    "path_id": 8,
     "path": [
       {
         "lat": 34.476357,
@@ -181,13 +147,13 @@
         "lng": 126.627739
       }
     ],
-    "color": "#5c33c8",
-    "start_point_name": "갈림길",
-    "length": 250,
-    "time": "4"
+    "color": "#03b29c",
+    "start_name": "갈림길",
+    "length_meter": 250.6,
+    "time_minute": 4
   },
   {
-    "path_id": 11,
+    "path_id": 9,
     "path": [
       {
         "lat": 34.475792,
@@ -198,13 +164,13 @@
         "lng": 126.6297
       }
     ],
-    "color": "#bb37d6",
-    "start_point_name": "목구조목",
-    "length": 181,
-    "time": "3"
+    "color": "#33d4e6",
+    "start_name": "목구조목",
+    "length_meter": 181.7,
+    "time_minute": 3
   },
   {
-    "path_id": 12,
+    "path_id": 10,
     "path": [
       {
         "lat": 34.475552,
@@ -215,13 +181,13 @@
         "lng": 126.625473
       }
     ],
-    "color": "#746fe1",
-    "start_point_name": "갈림길",
-    "length": 398,
-    "time": "6"
+    "color": "#1b9151",
+    "start_name": "갈림길",
+    "length_meter": 398.5,
+    "time_minute": 6
   },
   {
-    "path_id": 13,
+    "path_id": 11,
     "path": [
       {
         "lat": 34.476391,
@@ -232,13 +198,13 @@
         "lng": 126.61348
       }
     ],
-    "color": "#f48a17",
-    "start_point_name": "목구조목",
-    "length": 1103,
-    "time": "18"
+    "color": "#ec1035",
+    "start_name": "목구조목",
+    "length_meter": 1103.4,
+    "time_minute": 18
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 34.477238,
@@ -249,13 +215,13 @@
         "lng": 126.613007
       }
     ],
-    "color": "#4bfdb9",
-    "start_point_name": "대흥사  일주문",
-    "length": 66,
-    "time": "1"
+    "color": "#d53f3b",
+    "start_name": "대흥사  일주문",
+    "length_meter": 66.8,
+    "time_minute": 1
   },
   {
-    "path_id": 15,
+    "path_id": 13,
     "path": [
       {
         "lat": 34.477695,
@@ -266,13 +232,13 @@
         "lng": 126.61425
       }
     ],
-    "color": "#651cdb",
-    "start_point_name": "대흥사  입구",
-    "length": 371,
-    "time": "6"
+    "color": "#e7d49e",
+    "start_name": "대흥사  입구",
+    "length_meter": 371.7,
+    "time_minute": 6
   },
   {
-    "path_id": 16,
+    "path_id": 14,
     "path": [
       {
         "lat": 34.480877,
@@ -283,13 +249,13 @@
         "lng": 126.6147
       }
     ],
-    "color": "#a61629",
-    "start_point_name": "웨이포인트 41",
-    "length": 944,
-    "time": "15"
+    "color": "#d4e8ec",
+    "start_name": "웨이포인트 41",
+    "length_meter": 944.3,
+    "time_minute": 15
   },
   {
-    "path_id": 17,
+    "path_id": 15,
     "path": [
       {
         "lat": 34.489361,
@@ -300,9 +266,9 @@
         "lng": 126.625259
       }
     ],
-    "color": "#c0e6af",
-    "start_point_name": "산책로 화장실",
-    "length": 1253,
-    "time": "20"
+    "color": "#7e7991",
+    "start_name": "산책로 화장실",
+    "length_meter": 1253.1,
+    "time_minute": 20
   }
 ]

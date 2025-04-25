@@ -11,10 +11,10 @@
         "lng": 128.529572
       }
     ],
-    "color": "#7aa5aa",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 115,
-    "time": "1"
+    "color": "#224199",
+    "start_name": "대견사 - 천왕봉 사이",
+    "length_meter": 115.8,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 128.529953
       }
     ],
-    "color": "#4cea3c",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 72,
-    "time": "1"
+    "color": "#1cae36",
+    "start_name": "대견사 - 천왕봉 사이",
+    "length_meter": 72.4,
+    "time_minute": 1
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 128.529877
       }
     ],
-    "color": "#173b25",
-    "start_point_name": "갈림길",
-    "length": 105,
-    "time": "1"
+    "color": "#b0aade",
+    "start_name": "갈림길",
+    "length_meter": 105.4,
+    "time_minute": 1
   },
   {
     "path_id": 3,
@@ -58,340 +58,221 @@
         "lng": 128.529877
       },
       {
-        "lat": 35.708691,
-        "lng": 128.530014
+        "lat": 35.706913,
+        "lng": 128.531281
       }
     ],
-    "color": "#b1d7f8",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 50,
-    "time": "0"
+    "color": "#c89cdb",
+    "start_name": "대견사 - 천왕봉 사이 / 갈림길",
+    "length_meter": 278.7,
+    "time_minute": 4
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.708691,
-        "lng": 128.530014
-      },
-      {
         "lat": 35.706913,
         "lng": 128.531281
+      },
+      {
+        "lat": 35.699066,
+        "lng": 128.532303
       }
     ],
-    "color": "#503f43",
-    "start_point_name": "갈림길",
-    "length": 228,
-    "time": "3"
+    "color": "#1ed840",
+    "start_name": "대견사 - 천왕봉 사이",
+    "length_meter": 877.4,
+    "time_minute": 14
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.706913,
-        "lng": 128.531281
-      },
-      {
         "lat": 35.699066,
         "lng": 128.532303
+      },
+      {
+        "lat": 35.69846,
+        "lng": 128.532227
       }
     ],
-    "color": "#99a7ca",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 877,
-    "time": "14"
+    "color": "#660136",
+    "start_name": "대견사 - 천왕봉 사이 / 대견사 - 천왕봉 사이",
+    "length_meter": 67.7,
+    "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.699066,
-        "lng": 128.532303
+        "lat": 35.69846,
+        "lng": 128.532227
       },
       {
-        "lat": 35.698719,
-        "lng": 128.532257
+        "lat": 35.699013,
+        "lng": 128.526367
       }
     ],
-    "color": "#c3a104",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 38,
-    "time": "0"
+    "color": "#4b2ae6",
+    "start_name": "대견사 - 천왕봉 사이 / 대견사 - 천왕봉 사이 / 대견사 - 천왕봉 사이 / 대견사 - 천왕봉 사이",
+    "length_meter": 592.4,
+    "time_minute": 9
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.698719,
-        "lng": 128.532257
+        "lat": 35.699013,
+        "lng": 128.526367
       },
       {
-        "lat": 35.69846,
-        "lng": 128.532227
+        "lat": 35.700047,
+        "lng": 128.525803
       }
     ],
-    "color": "#94ab1b",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 28,
-    "time": "0"
+    "color": "#3eebf3",
+    "start_name": "갈림길",
+    "length_meter": 125.8,
+    "time_minute": 2
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.69846,
-        "lng": 128.532227
+        "lat": 35.700047,
+        "lng": 128.525803
       },
       {
-        "lat": 35.698368,
-        "lng": 128.532227
+        "lat": 35.708511,
+        "lng": 128.518661
       }
     ],
-    "color": "#cee35f",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 10,
-    "time": "0"
+    "color": "#cd8c3b",
+    "start_name": "갈림길",
+    "length_meter": 1140.9,
+    "time_minute": 19
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.698368,
-        "lng": 128.532227
+        "lat": 35.708511,
+        "lng": 128.518661
       },
       {
-        "lat": 35.698193,
-        "lng": 128.532166
+        "lat": 35.709641,
+        "lng": 128.515671
       }
     ],
-    "color": "#6d3050",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 20,
-    "time": "0"
+    "color": "#f1386f",
+    "start_name": "유가사 방향 쉼터",
+    "length_meter": 297.8,
+    "time_minute": 4
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.698193,
-        "lng": 128.532166
+        "lat": 35.709641,
+        "lng": 128.515671
       },
       {
-        "lat": 35.697945,
-        "lng": 128.532135
+        "lat": 35.709755,
+        "lng": 128.514816
       }
     ],
-    "color": "#8c42ef",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 27,
-    "time": "0"
+    "color": "#3d3364",
+    "start_name": "유가사 방향 / 갈림길",
+    "length_meter": 83.5,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.697945,
-        "lng": 128.532135
+        "lat": 35.709755,
+        "lng": 128.514816
       },
       {
-        "lat": 35.699013,
-        "lng": 128.526367
+        "lat": 35.709606,
+        "lng": 128.513138
       }
     ],
-    "color": "#e205a2",
-    "start_point_name": "대견사 - 천왕봉 사이",
-    "length": 534,
-    "time": "8"
+    "color": "#6af5eb",
+    "start_name": "유가사 방향 쉼터",
+    "length_meter": 152.4,
+    "time_minute": 2
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.699013,
-        "lng": 128.526367
+        "lat": 35.709606,
+        "lng": 128.513138
       },
       {
-        "lat": 35.700047,
-        "lng": 128.525803
+        "lat": 35.70966,
+        "lng": 128.51236
       }
     ],
-    "color": "#c2149e",
-    "start_point_name": "갈림길",
-    "length": 125,
-    "time": "2"
+    "color": "#b3986c",
+    "start_name": "유가사 방향 쉼터",
+    "length_meter": 70.5,
+    "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 35.700047,
-        "lng": 128.525803
+        "lat": 35.70966,
+        "lng": 128.51236
       },
       {
-        "lat": 35.708511,
-        "lng": 128.518661
+        "lat": 35.709606,
+        "lng": 128.511215
       }
     ],
-    "color": "#3616c3",
-    "start_point_name": "갈림길",
-    "length": 1140,
-    "time": "19"
+    "color": "#ba1e3a",
+    "start_name": "유가사 방향 쉼터",
+    "length_meter": 103.6,
+    "time_minute": 1
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 35.708511,
-        "lng": 128.518661
+        "lat": 35.709606,
+        "lng": 128.511215
       },
       {
-        "lat": 35.709641,
-        "lng": 128.515671
+        "lat": 35.709774,
+        "lng": 128.509689
       }
     ],
-    "color": "#b7f5cc",
-    "start_point_name": "유가사 방향 쉼터",
-    "length": 297,
-    "time": "4"
+    "color": "#fa3827",
+    "start_name": "유가사 방향 쉼터",
+    "length_meter": 139.0,
+    "time_minute": 2
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 35.709641,
-        "lng": 128.515671
-      },
-      {
-        "lat": 35.709755,
-        "lng": 128.515564
-      }
-    ],
-    "color": "#2249c5",
-    "start_point_name": "유가사 방향",
-    "length": 15,
-    "time": "0"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.709755,
-        "lng": 128.515564
-      },
-      {
-        "lat": 35.709755,
-        "lng": 128.514816
-      }
-    ],
-    "color": "#1571de",
-    "start_point_name": "갈림길",
-    "length": 67,
-    "time": "1"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.709755,
-        "lng": 128.514816
-      },
-      {
-        "lat": 35.709606,
-        "lng": 128.513138
-      }
-    ],
-    "color": "#d3351f",
-    "start_point_name": "유가사 방향 쉼터",
-    "length": 152,
-    "time": "2"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 35.709606,
-        "lng": 128.513138
-      },
-      {
-        "lat": 35.70966,
-        "lng": 128.51236
-      }
-    ],
-    "color": "#884255",
-    "start_point_name": "유가사 방향 쉼터",
-    "length": 70,
-    "time": "1"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 35.70966,
-        "lng": 128.51236
-      },
-      {
-        "lat": 35.709606,
-        "lng": 128.511215
-      }
-    ],
-    "color": "#35a30f",
-    "start_point_name": "유가사 방향 쉼터",
-    "length": 103,
-    "time": "1"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 35.709606,
-        "lng": 128.511215
-      },
-      {
         "lat": 35.709774,
         "lng": 128.509689
-      }
-    ],
-    "color": "#fd6b0f",
-    "start_point_name": "유가사 방향 쉼터",
-    "length": 139,
-    "time": "2"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 35.709774,
-        "lng": 128.509689
-      },
-      {
-        "lat": 35.709969,
-        "lng": 128.509186
-      }
-    ],
-    "color": "#395525",
-    "start_point_name": "유가사 방향 쉼터",
-    "length": 50,
-    "time": "0"
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 35.709969,
-        "lng": 128.509186
       },
       {
         "lat": 35.712589,
         "lng": 128.507309
       }
     ],
-    "color": "#5b48bd",
-    "start_point_name": "유가사 방향 쉼터",
-    "length": 337,
-    "time": "5"
+    "color": "#47173f",
+    "start_name": "유가사 방향 쉼터 / 유가사 방향 쉼터",
+    "length_meter": 387.4,
+    "time_minute": 6
   },
   {
-    "path_id": 23,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.712589,
@@ -402,13 +283,13 @@
         "lng": 128.506622
       }
     ],
-    "color": "#f1670d",
-    "start_point_name": "유가사 사찰",
-    "length": 62,
-    "time": "1"
+    "color": "#3ed05d",
+    "start_name": "유가사 사찰",
+    "length_meter": 62.5,
+    "time_minute": 1
   },
   {
-    "path_id": 24,
+    "path_id": 17,
     "path": [
       {
         "lat": 35.712521,
@@ -419,13 +300,13 @@
         "lng": 128.50589
       }
     ],
-    "color": "#ce5aee",
-    "start_point_name": "유가사 화장실",
-    "length": 68,
-    "time": "1"
+    "color": "#cb940a",
+    "start_name": "유가사 화장실",
+    "length_meter": 68.6,
+    "time_minute": 1
   },
   {
-    "path_id": 25,
+    "path_id": 18,
     "path": [
       {
         "lat": 35.712357,
@@ -436,9 +317,9 @@
         "lng": 128.505234
       }
     ],
-    "color": "#4619da",
-    "start_point_name": "문화관광 안내소",
-    "length": 59,
-    "time": "0"
+    "color": "#ee997f",
+    "start_name": "문화관광 안내소",
+    "length_meter": 59.3,
+    "time_minute": 0
   }
 ]

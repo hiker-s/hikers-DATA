@@ -11,10 +11,10 @@
         "lng": 127.533211
       }
     ],
-    "color": "#c49f23",
-    "start_point_name": "서대산드림리조트",
-    "length": 105,
-    "time": "1"
+    "color": "#34e5a5",
+    "start_name": "서대산드림리조트",
+    "length_meter": 105.5,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -24,952 +24,578 @@
         "lng": 127.533211
       },
       {
-        "lat": 36.236012,
-        "lng": 127.533249
+        "lat": 36.235451,
+        "lng": 127.533691
       }
     ],
-    "color": "#0b43d7",
-    "start_point_name": "드림리조트",
-    "length": 4,
-    "time": "0"
+    "color": "#4b568a",
+    "start_name": "드림리조트 / 리조트안내소 / 리조트경내",
+    "length_meter": 80.7,
+    "time_minute": 1
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 36.236012,
-        "lng": 127.533249
+        "lat": 36.235451,
+        "lng": 127.533691
       },
       {
-        "lat": 36.236012,
-        "lng": 127.533302
+        "lat": 36.235775,
+        "lng": 127.534683
       }
     ],
-    "color": "#e92ee3",
-    "start_point_name": "리조트안내소",
-    "length": 4,
-    "time": "0"
+    "color": "#c278a0",
+    "start_name": "갈림길",
+    "length_meter": 96.0,
+    "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 36.236012,
-        "lng": 127.533302
+        "lat": 36.235775,
+        "lng": 127.534683
       },
       {
-        "lat": 36.235451,
-        "lng": 127.533691
+        "lat": 36.235329,
+        "lng": 127.535889
       }
     ],
-    "color": "#393035",
-    "start_point_name": "리조트경내",
-    "length": 71,
-    "time": "1"
+    "color": "#b22cb3",
+    "start_name": "입간판",
+    "length_meter": 119.0,
+    "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 36.235451,
-        "lng": 127.533691
+        "lat": 36.235329,
+        "lng": 127.535889
       },
       {
-        "lat": 36.235775,
-        "lng": 127.534683
+        "lat": 36.234161,
+        "lng": 127.53614
       }
     ],
-    "color": "#9e1f21",
-    "start_point_name": "갈림길",
-    "length": 95,
-    "time": "1"
+    "color": "#55956f",
+    "start_name": "리조트안내",
+    "length_meter": 131.8,
+    "time_minute": 2
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 36.235775,
-        "lng": 127.534683
+        "lat": 36.234161,
+        "lng": 127.53614
       },
       {
-        "lat": 36.235329,
-        "lng": 127.535889
+        "lat": 36.232983,
+        "lng": 127.535423
       }
     ],
-    "color": "#9ebdb9",
-    "start_point_name": "입간판",
-    "length": 118,
-    "time": "1"
+    "color": "#2ee08c",
+    "start_name": "리조트경내",
+    "length_meter": 145.9,
+    "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 36.235329,
-        "lng": 127.535889
+        "lat": 36.232983,
+        "lng": 127.535423
       },
       {
-        "lat": 36.234161,
-        "lng": 127.53614
+        "lat": 36.232704,
+        "lng": 127.537453
       }
     ],
-    "color": "#a585f1",
-    "start_point_name": "리조트안내",
-    "length": 131,
-    "time": "2"
+    "color": "#7b5553",
+    "start_name": "리조트경내 / 갈림길 / 갈림길 / 축구장",
+    "length_meter": 218.5,
+    "time_minute": 3
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 36.234161,
-        "lng": 127.53614
+        "lat": 36.232704,
+        "lng": 127.537453
       },
       {
-        "lat": 36.232983,
-        "lng": 127.535423
+        "lat": 36.23175,
+        "lng": 127.537308
       }
     ],
-    "color": "#71d849",
-    "start_point_name": "리조트경내",
-    "length": 145,
-    "time": "2"
+    "color": "#66dc13",
+    "start_name": "갈림길",
+    "length_meter": 106.9,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 36.232983,
-        "lng": 127.535423
+        "lat": 36.23175,
+        "lng": 127.537308
       },
       {
-        "lat": 36.233021,
-        "lng": 127.535385
+        "lat": 36.231388,
+        "lng": 127.538284
       }
     ],
-    "color": "#67d5d2",
-    "start_point_name": "리조트경내",
-    "length": 5,
-    "time": "0"
+    "color": "#021683",
+    "start_name": "서대산강우관측소",
+    "length_meter": 96.4,
+    "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 36.233021,
-        "lng": 127.535385
+        "lat": 36.231388,
+        "lng": 127.538284
       },
       {
-        "lat": 36.232655,
-        "lng": 127.535583
+        "lat": 36.232216,
+        "lng": 127.538498
       }
     ],
-    "color": "#60408e",
-    "start_point_name": "갈림길",
-    "length": 44,
-    "time": "0"
+    "color": "#c8a286",
+    "start_name": "자연경관(용바위) / 갈림길",
+    "length_meter": 108.2,
+    "time_minute": 1
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 36.232655,
-        "lng": 127.535583
+        "lat": 36.232216,
+        "lng": 127.538498
       },
       {
-        "lat": 36.232628,
-        "lng": 127.535652
+        "lat": 36.231819,
+        "lng": 127.539917
       }
     ],
-    "color": "#816101",
-    "start_point_name": "갈림길",
-    "length": 6,
-    "time": "0"
+    "color": "#45c995",
+    "start_name": "서대산1-2",
+    "length_meter": 134.7,
+    "time_minute": 2
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 36.232628,
-        "lng": 127.535652
+        "lat": 36.231819,
+        "lng": 127.539917
       },
       {
-        "lat": 36.232704,
-        "lng": 127.537453
+        "lat": 36.232101,
+        "lng": 127.540977
       }
     ],
-    "color": "#71809d",
-    "start_point_name": "축구장",
-    "length": 161,
-    "time": "2"
+    "color": "#db420b",
+    "start_name": "서대산1-3",
+    "length_meter": 100.1,
+    "time_minute": 1
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 36.232704,
-        "lng": 127.537453
+        "lat": 36.232101,
+        "lng": 127.540977
       },
       {
-        "lat": 36.23175,
-        "lng": 127.537308
+        "lat": 36.231918,
+        "lng": 127.541237
       }
     ],
-    "color": "#87766f",
-    "start_point_name": "갈림길",
-    "length": 106,
-    "time": "1"
+    "color": "#1a7fbe",
+    "start_name": "갈림길 / 제비봉정상 / 자연경관(제비봉)",
+    "length_meter": 123.2,
+    "time_minute": 2
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 36.23175,
-        "lng": 127.537308
+        "lat": 36.231918,
+        "lng": 127.541237
       },
       {
-        "lat": 36.231388,
-        "lng": 127.538284
+        "lat": 36.231522,
+        "lng": 127.541649
       }
     ],
-    "color": "#d85a00",
-    "start_point_name": "서대산강우관측소",
-    "length": 96,
-    "time": "1"
+    "color": "#64b43e",
+    "start_name": "등산로쉼터 / 서대산1-5",
+    "length_meter": 62.3,
+    "time_minute": 1
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 36.231388,
-        "lng": 127.538284
+        "lat": 36.231522,
+        "lng": 127.541649
       },
       {
-        "lat": 36.231426,
-        "lng": 127.538506
+        "lat": 36.230881,
+        "lng": 127.541756
       }
     ],
-    "color": "#2734c9",
-    "start_point_name": "자연경관(용바위)",
-    "length": 20,
-    "time": "0"
+    "color": "#689ad4",
+    "start_name": "조망점(멋진시야)",
+    "length_meter": 71.9,
+    "time_minute": 1
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 36.231426,
-        "lng": 127.538506
+        "lat": 36.230881,
+        "lng": 127.541756
       },
       {
-        "lat": 36.232216,
-        "lng": 127.538498
+        "lat": 36.230213,
+        "lng": 127.542717
       }
     ],
-    "color": "#535561",
-    "start_point_name": "갈림길",
-    "length": 87,
-    "time": "1"
+    "color": "#4a8ef6",
+    "start_name": "서대산1-5 / 서대산1-7",
+    "length_meter": 118.9,
+    "time_minute": 1
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 36.232216,
-        "lng": 127.538498
+        "lat": 36.230213,
+        "lng": 127.542717
       },
       {
-        "lat": 36.231819,
-        "lng": 127.539917
+        "lat": 36.229557,
+        "lng": 127.543304
       }
     ],
-    "color": "#c9e806",
-    "start_point_name": "서대산1-2",
-    "length": 134,
-    "time": "2"
+    "color": "#0974fd",
+    "start_name": "서대산1-8 / 등산로쉼터",
+    "length_meter": 92.0,
+    "time_minute": 1
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 36.231819,
-        "lng": 127.539917
+        "lat": 36.229557,
+        "lng": 127.543304
       },
       {
-        "lat": 36.232101,
-        "lng": 127.540977
+        "lat": 36.228493,
+        "lng": 127.543594
       }
     ],
-    "color": "#3fcfe7",
-    "start_point_name": "서대산1-3",
-    "length": 100,
-    "time": "1"
+    "color": "#6d0710",
+    "start_name": "자연경관(선바위) / 서대산1-9",
+    "length_meter": 122.1,
+    "time_minute": 2
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 36.232101,
-        "lng": 127.540977
+        "lat": 36.228493,
+        "lng": 127.543594
       },
       {
-        "lat": 36.232445,
-        "lng": 127.540756
+        "lat": 36.227654,
+        "lng": 127.544678
       }
     ],
-    "color": "#a24f49",
-    "start_point_name": "갈림길",
-    "length": 43,
-    "time": "0"
+    "color": "#e6fe63",
+    "start_name": "자연경관(신선바위) / 서대산1-10",
+    "length_meter": 136.6,
+    "time_minute": 2
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 36.232445,
-        "lng": 127.540756
+        "lat": 36.227654,
+        "lng": 127.544678
       },
       {
-        "lat": 36.232483,
-        "lng": 127.540817
+        "lat": 36.226875,
+        "lng": 127.544243
       }
     ],
-    "color": "#6e2d89",
-    "start_point_name": "제비봉정상",
-    "length": 6,
-    "time": "0"
+    "color": "#e2fa1b",
+    "start_name": "갈림길",
+    "length_meter": 95.0,
+    "time_minute": 1
   },
   {
     "path_id": 20,
     "path": [
       {
-        "lat": 36.232483,
-        "lng": 127.540817
+        "lat": 36.226875,
+        "lng": 127.544243
       },
       {
-        "lat": 36.231918,
-        "lng": 127.541237
+        "lat": 36.22607,
+        "lng": 127.543526
       }
     ],
-    "color": "#35275f",
-    "start_point_name": "자연경관(제비봉)",
-    "length": 73,
-    "time": "1"
+    "color": "#f83bfc",
+    "start_name": "서대산1-12",
+    "length_meter": 110.2,
+    "time_minute": 1
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 36.231918,
-        "lng": 127.541237
+        "lat": 36.22607,
+        "lng": 127.543526
       },
       {
-        "lat": 36.231789,
-        "lng": 127.541229
+        "lat": 36.225292,
+        "lng": 127.54277
       }
     ],
-    "color": "#7aa0ee",
-    "start_point_name": "등산로쉼터",
-    "length": 14,
-    "time": "0"
+    "color": "#f867d6",
+    "start_name": "갈림길 / 자연경관(북두칠성바위) / 서대산2-10",
+    "length_meter": 112.2,
+    "time_minute": 1
   },
   {
     "path_id": 22,
     "path": [
       {
-        "lat": 36.231789,
-        "lng": 127.541229
+        "lat": 36.225292,
+        "lng": 127.54277
       },
       {
-        "lat": 36.231522,
-        "lng": 127.541649
+        "lat": 36.223782,
+        "lng": 127.54261
       }
     ],
-    "color": "#9e89e7",
-    "start_point_name": "서대산1-5",
-    "length": 47,
-    "time": "0"
+    "color": "#abaf81",
+    "start_name": "서대산2-11 / 서대산2-12",
+    "length_meter": 170.5,
+    "time_minute": 2
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 36.231522,
-        "lng": 127.541649
+        "lat": 36.223782,
+        "lng": 127.54261
       },
       {
-        "lat": 36.230881,
-        "lng": 127.541756
+        "lat": 36.2225,
+        "lng": 127.542068
       }
     ],
-    "color": "#25b89b",
-    "start_point_name": "조망점(멋진시야)",
-    "length": 71,
-    "time": "1"
+    "color": "#16bc67",
+    "start_name": "자연경관(사자바위)",
+    "length_meter": 150.6,
+    "time_minute": 2
   },
   {
     "path_id": 24,
     "path": [
       {
-        "lat": 36.230881,
-        "lng": 127.541756
+        "lat": 36.2225,
+        "lng": 127.542068
       },
       {
-        "lat": 36.230511,
-        "lng": 127.542
+        "lat": 36.22163,
+        "lng": 127.540817
       }
     ],
-    "color": "#a04b55",
-    "start_point_name": "서대산1-5",
-    "length": 46,
-    "time": "0"
+    "color": "#10d417",
+    "start_name": "갈림길 / 서대산3-9",
+    "length_meter": 153.9,
+    "time_minute": 2
   },
   {
     "path_id": 25,
     "path": [
       {
-        "lat": 36.230511,
-        "lng": 127.542
+        "lat": 36.22163,
+        "lng": 127.540817
       },
       {
-        "lat": 36.230213,
-        "lng": 127.542717
+        "lat": 36.220829,
+        "lng": 127.539619
       }
     ],
-    "color": "#fbfaa7",
-    "start_point_name": "서대산1-7",
-    "length": 72,
-    "time": "1"
+    "color": "#5cddd6",
+    "start_name": "서대산3-10 / 자연경관(장군바위)",
+    "length_meter": 140.3,
+    "time_minute": 2
   },
   {
     "path_id": 26,
     "path": [
       {
-        "lat": 36.230213,
-        "lng": 127.542717
+        "lat": 36.220829,
+        "lng": 127.539619
       },
       {
-        "lat": 36.230145,
-        "lng": 127.542709
+        "lat": 36.220634,
+        "lng": 127.538918
       }
     ],
-    "color": "#265a37",
-    "start_point_name": "서대산1-8",
-    "length": 7,
-    "time": "0"
+    "color": "#f66f8e",
+    "start_name": "서대산3-13 / 서대산3-13",
+    "length_meter": 66.5,
+    "time_minute": 1
   },
   {
     "path_id": 27,
     "path": [
       {
-        "lat": 36.230145,
-        "lng": 127.542709
+        "lat": 36.220634,
+        "lng": 127.538918
       },
       {
-        "lat": 36.229557,
-        "lng": 127.543304
+        "lat": 36.221493,
+        "lng": 127.537758
       }
     ],
-    "color": "#2780ef",
-    "start_point_name": "등산로쉼터",
-    "length": 84,
-    "time": "1"
+    "color": "#5e2474",
+    "start_name": "강우관측소 / 서대산정상(904m)",
+    "length_meter": 151.6,
+    "time_minute": 2
   },
   {
     "path_id": 28,
     "path": [
       {
-        "lat": 36.229557,
-        "lng": 127.543304
+        "lat": 36.221493,
+        "lng": 127.537758
       },
       {
-        "lat": 36.229549,
-        "lng": 127.543327
+        "lat": 36.222229,
+        "lng": 127.537712
       }
     ],
-    "color": "#af1d1c",
-    "start_point_name": "자연경관(선바위)",
-    "length": 2,
-    "time": "0"
+    "color": "#2cbdb6",
+    "start_name": "서대산4-10",
+    "length_meter": 81.9,
+    "time_minute": 1
   },
   {
     "path_id": 29,
     "path": [
       {
-        "lat": 36.229549,
-        "lng": 127.543327
+        "lat": 36.222229,
+        "lng": 127.537712
       },
       {
-        "lat": 36.228493,
-        "lng": 127.543594
+        "lat": 36.223343,
+        "lng": 127.537689
       }
     ],
-    "color": "#6b738b",
-    "start_point_name": "서대산1-9",
-    "length": 119,
-    "time": "1"
+    "color": "#dafe38",
+    "start_name": "서대산4-8",
+    "length_meter": 123.9,
+    "time_minute": 2
   },
   {
     "path_id": 30,
     "path": [
       {
-        "lat": 36.228493,
-        "lng": 127.543594
+        "lat": 36.223343,
+        "lng": 127.537689
       },
       {
-        "lat": 36.228447,
-        "lng": 127.54377
+        "lat": 36.223839,
+        "lng": 127.537102
       }
     ],
-    "color": "#b0a0e2",
-    "start_point_name": "자연경관(신선바위)",
-    "length": 16,
-    "time": "0"
+    "color": "#83c0bd",
+    "start_name": "서대산4-7",
+    "length_meter": 76.3,
+    "time_minute": 1
   },
   {
     "path_id": 31,
     "path": [
       {
-        "lat": 36.228447,
-        "lng": 127.54377
+        "lat": 36.223839,
+        "lng": 127.537102
       },
       {
-        "lat": 36.227654,
-        "lng": 127.544678
+        "lat": 36.224106,
+        "lng": 127.536491
       }
     ],
-    "color": "#8f5698",
-    "start_point_name": "서대산1-10",
-    "length": 120,
-    "time": "2"
+    "color": "#3516e5",
+    "start_name": "서대산4-6",
+    "length_meter": 62.3,
+    "time_minute": 1
   },
   {
     "path_id": 32,
     "path": [
       {
-        "lat": 36.227654,
-        "lng": 127.544678
+        "lat": 36.224106,
+        "lng": 127.536491
       },
       {
-        "lat": 36.226875,
-        "lng": 127.544243
+        "lat": 36.225258,
+        "lng": 127.535423
       }
     ],
-    "color": "#1c4e3c",
-    "start_point_name": "갈림길",
-    "length": 95,
-    "time": "1"
+    "color": "#cee8ba",
+    "start_name": "서대산4-5",
+    "length_meter": 160.0,
+    "time_minute": 2
   },
   {
     "path_id": 33,
     "path": [
       {
-        "lat": 36.226875,
-        "lng": 127.544243
+        "lat": 36.225258,
+        "lng": 127.535423
       },
       {
-        "lat": 36.22607,
-        "lng": 127.543526
+        "lat": 36.227127,
+        "lng": 127.533463
       }
     ],
-    "color": "#eb0f20",
-    "start_point_name": "서대산1-12",
-    "length": 110,
-    "time": "1"
+    "color": "#99cbe5",
+    "start_name": "약수터 / 서대산4-4",
+    "length_meter": 284.5,
+    "time_minute": 4
   },
   {
     "path_id": 34,
     "path": [
       {
-        "lat": 36.22607,
-        "lng": 127.543526
+        "lat": 36.227127,
+        "lng": 127.533463
       },
       {
-        "lat": 36.225723,
-        "lng": 127.543297
+        "lat": 36.233517,
+        "lng": 127.532524
       }
     ],
-    "color": "#efc3b5",
-    "start_point_name": "갈림길",
-    "length": 43,
-    "time": "0"
+    "color": "#2095d4",
+    "start_name": "서대산4-3",
+    "length_meter": 715.5,
+    "time_minute": 11
   },
   {
     "path_id": 35,
-    "path": [
-      {
-        "lat": 36.225723,
-        "lng": 127.543297
-      },
-      {
-        "lat": 36.225716,
-        "lng": 127.543236
-      }
-    ],
-    "color": "#0e710e",
-    "start_point_name": "자연경관(북두칠성바위)",
-    "length": 5,
-    "time": "0"
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 36.225716,
-        "lng": 127.543236
-      },
-      {
-        "lat": 36.225292,
-        "lng": 127.54277
-      }
-    ],
-    "color": "#30d73d",
-    "start_point_name": "서대산2-10",
-    "length": 63,
-    "time": "1"
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 36.225292,
-        "lng": 127.54277
-      },
-      {
-        "lat": 36.225014,
-        "lng": 127.542854
-      }
-    ],
-    "color": "#0d5c84",
-    "start_point_name": "서대산2-11",
-    "length": 31,
-    "time": "0"
-  },
-  {
-    "path_id": 38,
-    "path": [
-      {
-        "lat": 36.225014,
-        "lng": 127.542854
-      },
-      {
-        "lat": 36.223782,
-        "lng": 127.54261
-      }
-    ],
-    "color": "#e5f723",
-    "start_point_name": "서대산2-12",
-    "length": 138,
-    "time": "2"
-  },
-  {
-    "path_id": 39,
-    "path": [
-      {
-        "lat": 36.223782,
-        "lng": 127.54261
-      },
-      {
-        "lat": 36.2225,
-        "lng": 127.542068
-      }
-    ],
-    "color": "#c4f468",
-    "start_point_name": "자연경관(사자바위)",
-    "length": 150,
-    "time": "2"
-  },
-  {
-    "path_id": 40,
-    "path": [
-      {
-        "lat": 36.2225,
-        "lng": 127.542068
-      },
-      {
-        "lat": 36.222496,
-        "lng": 127.541824
-      }
-    ],
-    "color": "#b677c1",
-    "start_point_name": "갈림길",
-    "length": 21,
-    "time": "0"
-  },
-  {
-    "path_id": 41,
-    "path": [
-      {
-        "lat": 36.222496,
-        "lng": 127.541824
-      },
-      {
-        "lat": 36.22163,
-        "lng": 127.540817
-      }
-    ],
-    "color": "#fa14ba",
-    "start_point_name": "서대산3-9",
-    "length": 132,
-    "time": "2"
-  },
-  {
-    "path_id": 42,
-    "path": [
-      {
-        "lat": 36.22163,
-        "lng": 127.540817
-      },
-      {
-        "lat": 36.221321,
-        "lng": 127.540474
-      }
-    ],
-    "color": "#125528",
-    "start_point_name": "서대산3-10",
-    "length": 46,
-    "time": "0"
-  },
-  {
-    "path_id": 43,
-    "path": [
-      {
-        "lat": 36.221321,
-        "lng": 127.540474
-      },
-      {
-        "lat": 36.220829,
-        "lng": 127.539619
-      }
-    ],
-    "color": "#202aa9",
-    "start_point_name": "자연경관(장군바위)",
-    "length": 94,
-    "time": "1"
-  },
-  {
-    "path_id": 44,
-    "path": [
-      {
-        "lat": 36.220829,
-        "lng": 127.539619
-      },
-      {
-        "lat": 36.220829,
-        "lng": 127.539619
-      }
-    ],
-    "color": "#305988",
-    "start_point_name": "서대산3-13",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 45,
-    "path": [
-      {
-        "lat": 36.220829,
-        "lng": 127.539619
-      },
-      {
-        "lat": 36.220634,
-        "lng": 127.538918
-      }
-    ],
-    "color": "#466e16",
-    "start_point_name": "서대산3-13",
-    "length": 66,
-    "time": "1"
-  },
-  {
-    "path_id": 46,
-    "path": [
-      {
-        "lat": 36.220634,
-        "lng": 127.538918
-      },
-      {
-        "lat": 36.220703,
-        "lng": 127.538414
-      }
-    ],
-    "color": "#7971e4",
-    "start_point_name": "강우관측소",
-    "length": 45,
-    "time": "0"
-  },
-  {
-    "path_id": 47,
-    "path": [
-      {
-        "lat": 36.220703,
-        "lng": 127.538414
-      },
-      {
-        "lat": 36.221493,
-        "lng": 127.537758
-      }
-    ],
-    "color": "#781b6e",
-    "start_point_name": "서대산정상(904m)",
-    "length": 105,
-    "time": "1"
-  },
-  {
-    "path_id": 48,
-    "path": [
-      {
-        "lat": 36.221493,
-        "lng": 127.537758
-      },
-      {
-        "lat": 36.222229,
-        "lng": 127.537712
-      }
-    ],
-    "color": "#ca5154",
-    "start_point_name": "서대산4-10",
-    "length": 81,
-    "time": "1"
-  },
-  {
-    "path_id": 49,
-    "path": [
-      {
-        "lat": 36.222229,
-        "lng": 127.537712
-      },
-      {
-        "lat": 36.223343,
-        "lng": 127.537689
-      }
-    ],
-    "color": "#bc54dc",
-    "start_point_name": "서대산4-8",
-    "length": 123,
-    "time": "2"
-  },
-  {
-    "path_id": 50,
-    "path": [
-      {
-        "lat": 36.223343,
-        "lng": 127.537689
-      },
-      {
-        "lat": 36.223839,
-        "lng": 127.537102
-      }
-    ],
-    "color": "#3b24a8",
-    "start_point_name": "서대산4-7",
-    "length": 76,
-    "time": "1"
-  },
-  {
-    "path_id": 51,
-    "path": [
-      {
-        "lat": 36.223839,
-        "lng": 127.537102
-      },
-      {
-        "lat": 36.224106,
-        "lng": 127.536491
-      }
-    ],
-    "color": "#d62414",
-    "start_point_name": "서대산4-6",
-    "length": 62,
-    "time": "1"
-  },
-  {
-    "path_id": 52,
-    "path": [
-      {
-        "lat": 36.224106,
-        "lng": 127.536491
-      },
-      {
-        "lat": 36.225258,
-        "lng": 127.535423
-      }
-    ],
-    "color": "#ef52a2",
-    "start_point_name": "서대산4-5",
-    "length": 159,
-    "time": "2"
-  },
-  {
-    "path_id": 53,
-    "path": [
-      {
-        "lat": 36.225258,
-        "lng": 127.535423
-      },
-      {
-        "lat": 36.225243,
-        "lng": 127.53511
-      }
-    ],
-    "color": "#37ecf8",
-    "start_point_name": "약수터",
-    "length": 28,
-    "time": "0"
-  },
-  {
-    "path_id": 54,
-    "path": [
-      {
-        "lat": 36.225243,
-        "lng": 127.53511
-      },
-      {
-        "lat": 36.227127,
-        "lng": 127.533463
-      }
-    ],
-    "color": "#52951d",
-    "start_point_name": "서대산4-4",
-    "length": 256,
-    "time": "4"
-  },
-  {
-    "path_id": 55,
-    "path": [
-      {
-        "lat": 36.227127,
-        "lng": 127.533463
-      },
-      {
-        "lat": 36.233517,
-        "lng": 127.532524
-      }
-    ],
-    "color": "#325481",
-    "start_point_name": "서대산4-3",
-    "length": 715,
-    "time": "11"
-  },
-  {
-    "path_id": 56,
-    "path": [
-      {
-        "lat": 36.233517,
-        "lng": 127.532524
-      },
-      {
-        "lat": 36.233517,
-        "lng": 127.532524
-      }
-    ],
-    "color": "#de40ef",
-    "start_point_name": "서대산4-1",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 57,
     "path": [
       {
         "lat": 36.233517,
@@ -980,9 +606,9 @@
         "lng": 127.527573
       }
     ],
-    "color": "#f679e8",
-    "start_point_name": "자연경관",
-    "length": 463,
-    "time": "7"
+    "color": "#94418d",
+    "start_name": "서대산4-1 / 자연경관",
+    "length_meter": 463.1,
+    "time_minute": 7
   }
 ]

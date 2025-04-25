@@ -7,659 +7,438 @@
         "lng": 128.066681
       },
       {
-        "lat": 36.790043,
-        "lng": 128.067154
+        "lat": 36.791164,
+        "lng": 128.067871
       }
     ],
-    "color": "#d9a07c",
-    "start_point_name": "참나무 병해충 예방작업",
-    "length": 50,
-    "time": "0"
+    "color": "#e6c992",
+    "start_name": "참나무 병해충 예방작업 / 등로상태",
+    "length_meter": 190.6,
+    "time_minute": 3
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 36.790043,
-        "lng": 128.067154
-      },
-      {
         "lat": 36.791164,
         "lng": 128.067871
+      },
+      {
+        "lat": 36.792301,
+        "lng": 128.068314
       }
     ],
-    "color": "#08e7b7",
-    "start_point_name": "등로상태",
-    "length": 140,
-    "time": "2"
+    "color": "#1eb414",
+    "start_name": "짧은 바위구간 / 쓰러진 나무",
+    "length_meter": 133.1,
+    "time_minute": 2
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 36.791164,
-        "lng": 128.067871
+        "lat": 36.792301,
+        "lng": 128.068314
       },
       {
-        "lat": 36.791637,
-        "lng": 128.067978
+        "lat": 36.793476,
+        "lng": 128.071991
       }
     ],
-    "color": "#a4cc91",
-    "start_point_name": "짧은 바위구간",
-    "length": 53,
-    "time": "0"
+    "color": "#d1ca81",
+    "start_name": "소나무 균락지 / 국가지점번호",
+    "length_meter": 353.1,
+    "time_minute": 5
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 36.791637,
-        "lng": 128.067978
+        "lat": 36.793476,
+        "lng": 128.071991
       },
       {
-        "lat": 36.792301,
-        "lng": 128.068314
+        "lat": 36.794167,
+        "lng": 128.073883
       }
     ],
-    "color": "#9b9944",
-    "start_point_name": "쓰러진 나무",
-    "length": 79,
-    "time": "1"
+    "color": "#54fe18",
+    "start_name": "멧돼지 흔적 / 부봉6봉 조망바위",
+    "length_meter": 185.2,
+    "time_minute": 3
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 36.792301,
-        "lng": 128.068314
+        "lat": 36.794167,
+        "lng": 128.073883
       },
       {
-        "lat": 36.792393,
-        "lng": 128.068802
+        "lat": 36.794537,
+        "lng": 128.074585
       }
     ],
-    "color": "#ee4e5e",
-    "start_point_name": "소나무 균락지",
-    "length": 44,
-    "time": "0"
+    "color": "#d58ead",
+    "start_name": "부봉표지판",
+    "length_meter": 74.8,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 36.792393,
-        "lng": 128.068802
+        "lat": 36.794537,
+        "lng": 128.074585
       },
       {
-        "lat": 36.793476,
-        "lng": 128.071991
+        "lat": 36.795494,
+        "lng": 128.075424
       }
     ],
-    "color": "#4e7ace",
-    "start_point_name": "국가지점번호",
-    "length": 308,
-    "time": "5"
+    "color": "#0eab4a",
+    "start_name": "갈림길 / 국가지점번호 / 바위와 나무",
+    "length_meter": 138.9,
+    "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 36.793476,
-        "lng": 128.071991
+        "lat": 36.795494,
+        "lng": 128.075424
       },
       {
-        "lat": 36.793674,
-        "lng": 128.072571
+        "lat": 36.796753,
+        "lng": 128.075363
       }
     ],
-    "color": "#1b2495",
-    "start_point_name": "멧돼지 흔적",
-    "length": 56,
-    "time": "0"
+    "color": "#dc009b",
+    "start_name": "바위구간",
+    "length_meter": 140.1,
+    "time_minute": 2
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 36.793674,
-        "lng": 128.072571
+        "lat": 36.796753,
+        "lng": 128.075363
       },
       {
-        "lat": 36.794167,
-        "lng": 128.073883
+        "lat": 36.797543,
+        "lng": 128.075287
       }
     ],
-    "color": "#2e4010",
-    "start_point_name": "부봉6봉 조망바위",
-    "length": 129,
-    "time": "2"
+    "color": "#f34005",
+    "start_name": "받쥴구간 / 바위옆통과",
+    "length_meter": 88.2,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 36.794167,
-        "lng": 128.073883
+        "lat": 36.797543,
+        "lng": 128.075287
       },
       {
-        "lat": 36.794537,
-        "lng": 128.074585
+        "lat": 36.798443,
+        "lng": 128.075272
       }
     ],
-    "color": "#703b8a",
-    "start_point_name": "부봉표지판",
-    "length": 74,
-    "time": "1"
+    "color": "#bf2e3d",
+    "start_name": "추락방지받줄 / 암릉과 받줄",
+    "length_meter": 100.6,
+    "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 36.794537,
-        "lng": 128.074585
+        "lat": 36.798443,
+        "lng": 128.075272
       },
       {
-        "lat": 36.794514,
-        "lng": 128.074615
+        "lat": 36.798473,
+        "lng": 128.080826
       }
     ],
-    "color": "#990888",
-    "start_point_name": "갈림길",
-    "length": 3,
-    "time": "0"
+    "color": "#fcc12e",
+    "start_name": "바위길",
+    "length_meter": 494.5,
+    "time_minute": 8
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 36.794514,
-        "lng": 128.074615
+        "lat": 36.798473,
+        "lng": 128.080826
       },
       {
-        "lat": 36.794567,
-        "lng": 128.074814
+        "lat": 36.79916,
+        "lng": 128.082245
       }
     ],
-    "color": "#7930e7",
-    "start_point_name": "국가지점번호",
-    "length": 18,
-    "time": "0"
+    "color": "#aeff93",
+    "start_name": "부봉 조령산 조망바위",
+    "length_meter": 147.6,
+    "time_minute": 2
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 36.794567,
-        "lng": 128.074814
+        "lat": 36.79916,
+        "lng": 128.082245
       },
       {
-        "lat": 36.795494,
-        "lng": 128.075424
+        "lat": 36.800392,
+        "lng": 128.085052
       }
     ],
-    "color": "#de8243",
-    "start_point_name": "바위와 나무",
-    "length": 116,
-    "time": "1"
+    "color": "#5dc8a4",
+    "start_name": "포장공터 헬기장?",
+    "length_meter": 285.0,
+    "time_minute": 4
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 36.795494,
-        "lng": 128.075424
+        "lat": 36.800392,
+        "lng": 128.085052
       },
       {
-        "lat": 36.796753,
-        "lng": 128.075363
+        "lat": 36.801334,
+        "lng": 128.085388
       }
     ],
-    "color": "#8001be",
-    "start_point_name": "바위구간",
-    "length": 140,
-    "time": "2"
+    "color": "#aac3ee",
+    "start_name": "등로상태",
+    "length_meter": 108.9,
+    "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 36.796753,
-        "lng": 128.075363
+        "lat": 36.801334,
+        "lng": 128.085388
       },
       {
-        "lat": 36.797085,
-        "lng": 128.075348
+        "lat": 36.802063,
+        "lng": 128.085144
       }
     ],
-    "color": "#8aad3a",
-    "start_point_name": "받쥴구간",
-    "length": 36,
-    "time": "0"
+    "color": "#e8593c",
+    "start_name": "산성 우측능선 산성벽",
+    "length_meter": 83.9,
+    "time_minute": 1
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 36.797085,
-        "lng": 128.075348
+        "lat": 36.802063,
+        "lng": 128.085144
       },
       {
-        "lat": 36.797543,
-        "lng": 128.075287
+        "lat": 36.80283,
+        "lng": 128.084808
       }
     ],
-    "color": "#fab73a",
-    "start_point_name": "바위옆통과",
-    "length": 51,
-    "time": "0"
+    "color": "#36be86",
+    "start_name": "나무",
+    "length_meter": 90.4,
+    "time_minute": 1
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 36.797543,
-        "lng": 128.075287
+        "lat": 36.80283,
+        "lng": 128.084808
       },
       {
-        "lat": 36.797775,
-        "lng": 128.075333
+        "lat": 36.80357,
+        "lng": 128.084625
       }
     ],
-    "color": "#73acaf",
-    "start_point_name": "추락방지받줄",
-    "length": 26,
-    "time": "0"
+    "color": "#807d88",
+    "start_name": "이정표",
+    "length_meter": 83.9,
+    "time_minute": 1
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 36.797775,
-        "lng": 128.075333
+        "lat": 36.80357,
+        "lng": 128.084625
       },
       {
-        "lat": 36.798443,
-        "lng": 128.075272
+        "lat": 36.804287,
+        "lng": 128.083817
       }
     ],
-    "color": "#84e832",
-    "start_point_name": "암릉과 받줄",
-    "length": 74,
-    "time": "1"
+    "color": "#28603d",
+    "start_name": "갈림길 / 소나뮤과 나무숲",
+    "length_meter": 107.8,
+    "time_minute": 1
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 36.798443,
-        "lng": 128.075272
+        "lat": 36.804287,
+        "lng": 128.083817
       },
       {
-        "lat": 36.798473,
-        "lng": 128.080826
+        "lat": 36.804466,
+        "lng": 128.082932
       }
     ],
-    "color": "#a54599",
-    "start_point_name": "바위길",
-    "length": 494,
-    "time": "8"
+    "color": "#591a13",
+    "start_name": "계곡따라",
+    "length_meter": 81.3,
+    "time_minute": 1
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 36.798473,
-        "lng": 128.080826
+        "lat": 36.804466,
+        "lng": 128.082932
       },
       {
-        "lat": 36.79916,
-        "lng": 128.082245
+        "lat": 36.805111,
+        "lng": 128.081406
       }
     ],
-    "color": "#fd832c",
-    "start_point_name": "부봉 조령산 조망바위",
-    "length": 147,
-    "time": "2"
+    "color": "#1f2f99",
+    "start_name": "등로상태 / 등로 정상됨",
+    "length_meter": 156.4,
+    "time_minute": 2
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 36.79916,
-        "lng": 128.082245
+        "lat": 36.805111,
+        "lng": 128.081406
       },
       {
-        "lat": 36.800392,
-        "lng": 128.085052
+        "lat": 36.806423,
+        "lng": 128.072632
       }
     ],
-    "color": "#8a76e0",
-    "start_point_name": "포장공터 헬기장?",
-    "length": 285,
-    "time": "4"
+    "color": "#70d7cb",
+    "start_name": "뮬건넘",
+    "length_meter": 794.7,
+    "time_minute": 13
   },
   {
     "path_id": 20,
     "path": [
       {
-        "lat": 36.800392,
-        "lng": 128.085052
+        "lat": 36.806423,
+        "lng": 128.072632
       },
       {
-        "lat": 36.801334,
-        "lng": 128.085388
+        "lat": 36.806587,
+        "lng": 128.070984
       }
     ],
-    "color": "#baaed4",
-    "start_point_name": "등로상태",
-    "length": 108,
-    "time": "1"
+    "color": "#99d2ee",
+    "start_name": "돌길",
+    "length_meter": 147.8,
+    "time_minute": 2
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 36.801334,
-        "lng": 128.085388
+        "lat": 36.806587,
+        "lng": 128.070984
       },
       {
-        "lat": 36.802063,
-        "lng": 128.085144
+        "lat": 36.806763,
+        "lng": 128.070145
       }
     ],
-    "color": "#ed29cb",
-    "start_point_name": "산성 우측능선 산성벽",
-    "length": 83,
-    "time": "1"
+    "color": "#7179cf",
+    "start_name": "물건넘",
+    "length_meter": 77.2,
+    "time_minute": 1
   },
   {
     "path_id": 22,
     "path": [
       {
-        "lat": 36.802063,
-        "lng": 128.085144
+        "lat": 36.806763,
+        "lng": 128.070145
       },
       {
-        "lat": 36.80283,
-        "lng": 128.084808
+        "lat": 36.806808,
+        "lng": 128.068466
       }
     ],
-    "color": "#b17770",
-    "start_point_name": "나무",
-    "length": 90,
-    "time": "1"
+    "color": "#051287",
+    "start_name": "길넓어짐",
+    "length_meter": 149.6,
+    "time_minute": 2
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 36.80283,
-        "lng": 128.084808
+        "lat": 36.806808,
+        "lng": 128.068466
       },
       {
-        "lat": 36.80357,
-        "lng": 128.084625
+        "lat": 36.80732,
+        "lng": 128.066315
       }
     ],
-    "color": "#652f53",
-    "start_point_name": "이정표",
-    "length": 83,
-    "time": "1"
+    "color": "#f46cbd",
+    "start_name": "갈림길",
+    "length_meter": 199.8,
+    "time_minute": 3
   },
   {
     "path_id": 24,
     "path": [
       {
-        "lat": 36.80357,
-        "lng": 128.084625
+        "lat": 36.80732,
+        "lng": 128.066315
       },
       {
-        "lat": 36.803673,
-        "lng": 128.084457
+        "lat": 36.806713,
+        "lng": 128.066254
       }
     ],
-    "color": "#e08b28",
-    "start_point_name": "갈림길",
-    "length": 18,
-    "time": "0"
+    "color": "#5b702e",
+    "start_name": "이정표 / 동화원 휴게소 / 동화원화장실",
+    "length_meter": 83.2,
+    "time_minute": 1
   },
   {
     "path_id": 25,
     "path": [
       {
-        "lat": 36.803673,
-        "lng": 128.084457
-      },
-      {
-        "lat": 36.804287,
-        "lng": 128.083817
-      }
-    ],
-    "color": "#767ae4",
-    "start_point_name": "소나뮤과 나무숲",
-    "length": 88,
-    "time": "1"
-  },
-  {
-    "path_id": 26,
-    "path": [
-      {
-        "lat": 36.804287,
-        "lng": 128.083817
-      },
-      {
-        "lat": 36.804466,
-        "lng": 128.082932
-      }
-    ],
-    "color": "#8f4ab2",
-    "start_point_name": "계곡따라",
-    "length": 81,
-    "time": "1"
-  },
-  {
-    "path_id": 27,
-    "path": [
-      {
-        "lat": 36.804466,
-        "lng": 128.082932
-      },
-      {
-        "lat": 36.804634,
-        "lng": 128.082779
-      }
-    ],
-    "color": "#2c076d",
-    "start_point_name": "등로상태",
-    "length": 23,
-    "time": "0"
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
-        "lat": 36.804634,
-        "lng": 128.082779
-      },
-      {
-        "lat": 36.805111,
-        "lng": 128.081406
-      }
-    ],
-    "color": "#248de1",
-    "start_point_name": "등로 정상됨",
-    "length": 133,
-    "time": "2"
-  },
-  {
-    "path_id": 29,
-    "path": [
-      {
-        "lat": 36.805111,
-        "lng": 128.081406
-      },
-      {
-        "lat": 36.806423,
-        "lng": 128.072632
-      }
-    ],
-    "color": "#d1e554",
-    "start_point_name": "뮬건넘",
-    "length": 794,
-    "time": "13"
-  },
-  {
-    "path_id": 30,
-    "path": [
-      {
-        "lat": 36.806423,
-        "lng": 128.072632
-      },
-      {
-        "lat": 36.806587,
-        "lng": 128.070984
-      }
-    ],
-    "color": "#9c6a5b",
-    "start_point_name": "돌길",
-    "length": 147,
-    "time": "2"
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 36.806587,
-        "lng": 128.070984
-      },
-      {
-        "lat": 36.806763,
-        "lng": 128.070145
-      }
-    ],
-    "color": "#5ec352",
-    "start_point_name": "물건넘",
-    "length": 77,
-    "time": "1"
-  },
-  {
-    "path_id": 32,
-    "path": [
-      {
-        "lat": 36.806763,
-        "lng": 128.070145
-      },
-      {
-        "lat": 36.806808,
-        "lng": 128.068466
-      }
-    ],
-    "color": "#7840dc",
-    "start_point_name": "길넓어짐",
-    "length": 149,
-    "time": "2"
-  },
-  {
-    "path_id": 33,
-    "path": [
-      {
-        "lat": 36.806808,
-        "lng": 128.068466
-      },
-      {
-        "lat": 36.80732,
-        "lng": 128.066315
-      }
-    ],
-    "color": "#bb327e",
-    "start_point_name": "갈림길",
-    "length": 199,
-    "time": "3"
-  },
-  {
-    "path_id": 34,
-    "path": [
-      {
-        "lat": 36.80732,
-        "lng": 128.066315
-      },
-      {
-        "lat": 36.807384,
-        "lng": 128.06633
-      }
-    ],
-    "color": "#6f035e",
-    "start_point_name": "이정표",
-    "length": 7,
-    "time": "0"
-  },
-  {
-    "path_id": 35,
-    "path": [
-      {
-        "lat": 36.807384,
-        "lng": 128.06633
-      },
-      {
-        "lat": 36.807072,
-        "lng": 128.066223
-      }
-    ],
-    "color": "#651a8d",
-    "start_point_name": "동화원 휴게소",
-    "length": 35,
-    "time": "0"
-  },
-  {
-    "path_id": 36,
-    "path": [
-      {
-        "lat": 36.807072,
-        "lng": 128.066223
-      },
-      {
         "lat": 36.806713,
         "lng": 128.066254
-      }
-    ],
-    "color": "#35367f",
-    "start_point_name": "동화원화장실",
-    "length": 40,
-    "time": "0"
-  },
-  {
-    "path_id": 37,
-    "path": [
-      {
-        "lat": 36.806713,
-        "lng": 128.066254
-      },
-      {
-        "lat": 36.806656,
-        "lng": 128.06636
-      }
-    ],
-    "color": "#8933c6",
-    "start_point_name": "부봉등산안내도",
-    "length": 11,
-    "time": "0"
-  },
-  {
-    "path_id": 38,
-    "path": [
-      {
-        "lat": 36.806656,
-        "lng": 128.06636
       },
       {
         "lat": 36.774967,
         "lng": 128.068405
       }
     ],
-    "color": "#4c0851",
-    "start_point_name": "문경새재길",
-    "length": 3528,
-    "time": "58"
+    "color": "#1f3ba7",
+    "start_name": "부봉등산안내도 / 문경새재길",
+    "length_meter": 3539.7,
+    "time_minute": 58
   }
 ]

@@ -11,10 +11,10 @@
         "lng": 127.067123
       }
     ],
-    "color": "#5c5949",
-    "start_point_name": "하봉암동",
-    "length": 402,
-    "time": "6"
+    "color": "#fe20c9",
+    "start_name": "하봉암동",
+    "length_meter": 402.8,
+    "time_minute": 6
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 127.071663
       }
     ],
-    "color": "#7586bf",
-    "start_point_name": "갈림길",
-    "length": 604,
-    "time": "10"
+    "color": "#a073c6",
+    "start_name": "갈림길",
+    "length_meter": 604.6,
+    "time_minute": 10
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 127.077339
       }
     ],
-    "color": "#df073a",
-    "start_point_name": "갈림길",
-    "length": 636,
-    "time": "10"
+    "color": "#ee3aa6",
+    "start_name": "갈림길",
+    "length_meter": 636.1,
+    "time_minute": 10
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 127.09211
       }
     ],
-    "color": "#ad0e6e",
-    "start_point_name": "갈림길",
-    "length": 1451,
-    "time": "24"
+    "color": "#dd404c",
+    "start_name": "갈림길",
+    "length_meter": 1451.7,
+    "time_minute": 24
   },
   {
     "path_id": 4,
@@ -79,10 +79,10 @@
         "lng": 127.096207
       }
     ],
-    "color": "#bee653",
-    "start_point_name": "갈림길",
-    "length": 503,
-    "time": "8"
+    "color": "#d62fc6",
+    "start_name": "갈림길",
+    "length_meter": 503.6,
+    "time_minute": 8
   },
   {
     "path_id": 5,
@@ -96,10 +96,10 @@
         "lng": 127.099251
       }
     ],
-    "color": "#8eafd6",
-    "start_point_name": "갈림길",
-    "length": 390,
-    "time": "6"
+    "color": "#fc610d",
+    "start_name": "갈림길",
+    "length_meter": 390.4,
+    "time_minute": 6
   },
   {
     "path_id": 6,
@@ -109,81 +109,47 @@
         "lng": 127.099251
       },
       {
-        "lat": 37.953491,
-        "lng": 127.099411
+        "lat": 37.950756,
+        "lng": 127.097122
       }
     ],
-    "color": "#9a980f",
-    "start_point_name": "갈림길",
-    "length": 17,
-    "time": "0"
+    "color": "#e3ef30",
+    "start_name": "갈림길 / 덕일봉(감투봉)",
+    "length_meter": 382.0,
+    "time_minute": 6
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.953491,
-        "lng": 127.099411
-      },
-      {
         "lat": 37.950756,
         "lng": 127.097122
+      },
+      {
+        "lat": 37.949299,
+        "lng": 127.085876
       }
     ],
-    "color": "#2d92c3",
-    "start_point_name": "덕일봉(감투봉)",
-    "length": 364,
-    "time": "6"
+    "color": "#30dbb7",
+    "start_name": "갈림길",
+    "length_meter": 999.3,
+    "time_minute": 16
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 37.950756,
-        "lng": 127.097122
-      },
-      {
         "lat": 37.949299,
         "lng": 127.085876
-      }
-    ],
-    "color": "#d4bad7",
-    "start_point_name": "갈림길",
-    "length": 999,
-    "time": "16"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.949299,
-        "lng": 127.085876
-      },
-      {
-        "lat": 37.9492,
-        "lng": 127.085838
-      }
-    ],
-    "color": "#00c7c6",
-    "start_point_name": "갈림길",
-    "length": 11,
-    "time": "0"
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 37.9492,
-        "lng": 127.085838
       },
       {
         "lat": 37.952103,
         "lng": 127.067657
       }
     ],
-    "color": "#44d802",
-    "start_point_name": "조망점",
-    "length": 1626,
-    "time": "27"
+    "color": "#c1ba2b",
+    "start_name": "갈림길 / 조망점",
+    "length_meter": 1638.0,
+    "time_minute": 27
   }
 ]

@@ -11,10 +11,10 @@
         "lng": 130.895447
       }
     ],
-    "color": "#d2d148",
-    "start_point_name": "갈림길",
-    "length": 241,
-    "time": "4"
+    "color": "#008f0d",
+    "start_name": "갈림길",
+    "length_meter": 242.0,
+    "time_minute": 4
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 130.894745
       }
     ],
-    "color": "#99b029",
-    "start_point_name": "갈림길",
-    "length": 163,
-    "time": "2"
+    "color": "#53478b",
+    "start_name": "갈림길",
+    "length_meter": 163.5,
+    "time_minute": 2
   },
   {
     "path_id": 2,
@@ -41,34 +41,17 @@
         "lng": 130.894745
       },
       {
-        "lat": 37.489735,
-        "lng": 130.894804
-      }
-    ],
-    "color": "#05d0e2",
-    "start_point_name": "119구조지점 3",
-    "length": 10,
-    "time": "0"
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.489735,
-        "lng": 130.894804
-      },
-      {
         "lat": 37.491219,
         "lng": 130.894257
       }
     ],
-    "color": "#c39248",
-    "start_point_name": "웨이포인트 11",
-    "length": 171,
-    "time": "2"
+    "color": "#a00100",
+    "start_name": "119구조지점 3 / 웨이포인트 11",
+    "length_meter": 181.9,
+    "time_minute": 3
   },
   {
-    "path_id": 4,
+    "path_id": 3,
     "path": [
       {
         "lat": 37.491219,
@@ -79,13 +62,13 @@
         "lng": 130.891266
       }
     ],
-    "color": "#a606aa",
-    "start_point_name": "쉼터",
-    "length": 265,
-    "time": "4"
+    "color": "#517fa9",
+    "start_name": "쉼터",
+    "length_meter": 265.5,
+    "time_minute": 4
   },
   {
-    "path_id": 5,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.491478,
@@ -96,9 +79,9 @@
         "lng": 130.888702
       }
     ],
-    "color": "#c97e4e",
-    "start_point_name": "구조지점5  비상구급함",
-    "length": 249,
-    "time": "4"
+    "color": "#b9a225",
+    "start_name": "구조지점5  비상구급함",
+    "length_meter": 249.7,
+    "time_minute": 4
   }
 ]

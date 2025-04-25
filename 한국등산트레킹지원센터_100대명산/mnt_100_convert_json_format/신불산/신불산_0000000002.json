@@ -7,272 +7,136 @@
         "lng": 129.027924
       },
       {
-        "lat": 35.578461,
-        "lng": 129.027878
+        "lat": 35.577599,
+        "lng": 129.027634
       }
     ],
-    "color": "#011516",
-    "start_point_name": "주차장간판",
-    "length": 13,
-    "time": "0"
+    "color": "#0f3b8d",
+    "start_name": "주차장간판 / 화장실 / 쉼터",
+    "length_meter": 112.6,
+    "time_minute": 1
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 35.578461,
-        "lng": 129.027878
+        "lat": 35.577599,
+        "lng": 129.027634
       },
       {
-        "lat": 35.578331,
-        "lng": 129.027893
+        "lat": 35.569218,
+        "lng": 129.023926
       }
     ],
-    "color": "#8b1648",
-    "start_point_name": "화장실",
-    "length": 14,
-    "time": "0"
+    "color": "#1230b7",
+    "start_name": "화장실 / 주차장",
+    "length_meter": 990.4,
+    "time_minute": 16
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 35.578331,
-        "lng": 129.027893
+        "lat": 35.569218,
+        "lng": 129.023926
       },
       {
-        "lat": 35.577599,
-        "lng": 129.027634
+        "lat": 35.568687,
+        "lng": 129.023758
       }
     ],
-    "color": "#c45837",
-    "start_point_name": "쉼터",
-    "length": 84,
-    "time": "1"
+    "color": "#361d86",
+    "start_name": "식당 / 사계절식당 메뉴판",
+    "length_meter": 61.9,
+    "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.577599,
-        "lng": 129.027634
+        "lat": 35.568687,
+        "lng": 129.023758
       },
       {
-        "lat": 35.57756,
-        "lng": 129.027618
+        "lat": 35.567806,
+        "lng": 129.023132
       }
     ],
-    "color": "#54fbaf",
-    "start_point_name": "화장실",
-    "length": 4,
-    "time": "0"
+    "color": "#f17a8d",
+    "start_name": "간판",
+    "length_meter": 113.1,
+    "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.57756,
-        "lng": 129.027618
+        "lat": 35.567806,
+        "lng": 129.023132
       },
       {
-        "lat": 35.569218,
-        "lng": 129.023926
+        "lat": 35.566948,
+        "lng": 129.022781
       }
     ],
-    "color": "#cdebfa",
-    "start_point_name": "주차장",
-    "length": 985,
-    "time": "16"
+    "color": "#55774f",
+    "start_name": "배내2주차장 / 소문난김치집",
+    "length_meter": 101.6,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.569218,
-        "lng": 129.023926
+        "lat": 35.566948,
+        "lng": 129.022781
       },
       {
-        "lat": 35.568932,
-        "lng": 129.023895
+        "lat": 35.566422,
+        "lng": 129.022568
       }
     ],
-    "color": "#d27764",
-    "start_point_name": "식당",
-    "length": 31,
-    "time": "0"
+    "color": "#fcd6c0",
+    "start_name": "식당",
+    "length_meter": 61.6,
+    "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.568932,
-        "lng": 129.023895
+        "lat": 35.566422,
+        "lng": 129.022568
       },
       {
-        "lat": 35.568687,
-        "lng": 129.023758
+        "lat": 35.56802,
+        "lng": 129.023376
       }
     ],
-    "color": "#e6277b",
-    "start_point_name": "사계절식당 메뉴판",
-    "length": 29,
-    "time": "0"
+    "color": "#4e1fc1",
+    "start_name": "버스",
+    "length_meter": 192.1,
+    "time_minute": 3
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.568687,
-        "lng": 129.023758
-      },
-      {
-        "lat": 35.567806,
-        "lng": 129.023132
-      }
-    ],
-    "color": "#db7e59",
-    "start_point_name": "간판",
-    "length": 113,
-    "time": "1"
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 35.567806,
-        "lng": 129.023132
-      },
-      {
-        "lat": 35.567543,
-        "lng": 129.023102
-      }
-    ],
-    "color": "#bc568f",
-    "start_point_name": "배내2주차장",
-    "length": 29,
-    "time": "0"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 35.567543,
-        "lng": 129.023102
-      },
-      {
-        "lat": 35.566948,
-        "lng": 129.022781
-      }
-    ],
-    "color": "#8c7f8d",
-    "start_point_name": "소문난김치집",
-    "length": 72,
-    "time": "1"
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.566948,
-        "lng": 129.022781
-      },
-      {
-        "lat": 35.566422,
-        "lng": 129.022568
-      }
-    ],
-    "color": "#67951d",
-    "start_point_name": "식당",
-    "length": 61,
-    "time": "1"
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 35.566422,
-        "lng": 129.022568
-      },
-      {
         "lat": 35.56802,
         "lng": 129.023376
-      }
-    ],
-    "color": "#451b2b",
-    "start_point_name": "버스",
-    "length": 192,
-    "time": "3"
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 35.56802,
-        "lng": 129.023376
-      },
-      {
-        "lat": 35.568207,
-        "lng": 129.023499
-      }
-    ],
-    "color": "#7f832e",
-    "start_point_name": "식당간판",
-    "length": 23,
-    "time": "0"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 35.568207,
-        "lng": 129.023499
-      },
-      {
-        "lat": 35.568031,
-        "lng": 129.023666
-      }
-    ],
-    "color": "#4bcfb6",
-    "start_point_name": "신불산들머리",
-    "length": 24,
-    "time": "0"
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.568031,
-        "lng": 129.023666
-      },
-      {
-        "lat": 35.568043,
-        "lng": 129.023636
-      }
-    ],
-    "color": "#f3dc90",
-    "start_point_name": "안내도",
-    "length": 3,
-    "time": "0"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.568043,
-        "lng": 129.023636
       },
       {
         "lat": 35.565258,
         "lng": 129.024872
       }
     ],
-    "color": "#df595d",
-    "start_point_name": "공터",
-    "length": 329,
-    "time": "5"
+    "color": "#c74e1a",
+    "start_name": "식당간판 / 신불산들머리 / 안내도 / 공터",
+    "length_meter": 380.6,
+    "time_minute": 6
   },
   {
-    "path_id": 16,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.565258,
@@ -283,13 +147,13 @@
         "lng": 129.029022
       }
     ],
-    "color": "#f1944d",
-    "start_point_name": "안내도",
-    "length": 379,
-    "time": "6"
+    "color": "#be082d",
+    "start_name": "안내도",
+    "length_meter": 379.7,
+    "time_minute": 6
   },
   {
-    "path_id": 17,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.564747,
@@ -300,13 +164,13 @@
         "lng": 129.034897
       }
     ],
-    "color": "#928720",
-    "start_point_name": "쉼터",
-    "length": 1260,
-    "time": "21"
+    "color": "#67c3ed",
+    "start_name": "쉼터",
+    "length_meter": 1260.7,
+    "time_minute": 21
   },
   {
-    "path_id": 18,
+    "path_id": 10,
     "path": [
       {
         "lat": 35.554466,
@@ -317,13 +181,13 @@
         "lng": 129.039627
       }
     ],
-    "color": "#e13d4f",
-    "start_point_name": "쉼터",
-    "length": 703,
-    "time": "11"
+    "color": "#66e103",
+    "start_name": "쉼터",
+    "length_meter": 703.3,
+    "time_minute": 11
   },
   {
-    "path_id": 19,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.549446,
@@ -334,13 +198,13 @@
         "lng": 129.042114
       }
     ],
-    "color": "#766961",
-    "start_point_name": "쉼터",
-    "length": 249,
-    "time": "4"
+    "color": "#e83a84",
+    "start_name": "쉼터",
+    "length_meter": 249.7,
+    "time_minute": 4
   },
   {
-    "path_id": 20,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.548473,
@@ -351,13 +215,13 @@
         "lng": 129.040588
       }
     ],
-    "color": "#9c6f6a",
-    "start_point_name": "조망점",
-    "length": 138,
-    "time": "2"
+    "color": "#ea5b8c",
+    "start_name": "조망점",
+    "length_meter": 138.1,
+    "time_minute": 2
   },
   {
-    "path_id": 21,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.548515,
@@ -368,13 +232,13 @@
         "lng": 129.030487
       }
     ],
-    "color": "#58c6c0",
-    "start_point_name": "조망점",
-    "length": 1014,
-    "time": "16"
+    "color": "#f9f212",
+    "start_name": "조망점",
+    "length_meter": 1014.9,
+    "time_minute": 16
   },
   {
-    "path_id": 22,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.552486,
@@ -385,13 +249,13 @@
         "lng": 129.02951
       }
     ],
-    "color": "#20822b",
-    "start_point_name": "조망점",
-    "length": 179,
-    "time": "2"
+    "color": "#6b4280",
+    "start_name": "조망점",
+    "length_meter": 179.4,
+    "time_minute": 2
   },
   {
-    "path_id": 23,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.55389,
@@ -402,13 +266,13 @@
         "lng": 129.033173
       }
     ],
-    "color": "#3536d7",
-    "start_point_name": "안내도",
-    "length": 1323,
-    "time": "22"
+    "color": "#997e54",
+    "start_name": "안내도",
+    "length_meter": 1323.2,
+    "time_minute": 22
   },
   {
-    "path_id": 24,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.565411,
@@ -419,13 +283,13 @@
         "lng": 129.023254
       }
     ],
-    "color": "#591954",
-    "start_point_name": "쉼터",
-    "length": 938,
-    "time": "15"
+    "color": "#5ee617",
+    "start_name": "쉼터",
+    "length_meter": 938.6,
+    "time_minute": 15
   },
   {
-    "path_id": 25,
+    "path_id": 17,
     "path": [
       {
         "lat": 35.56789,
@@ -436,9 +300,9 @@
         "lng": 129.023636
       }
     ],
-    "color": "#d38dd5",
-    "start_point_name": "화장실",
-    "length": 82,
-    "time": "1"
+    "color": "#d37c60",
+    "start_name": "화장실",
+    "length_meter": 82.6,
+    "time_minute": 1
   }
 ]

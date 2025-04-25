@@ -11,10 +11,10 @@
         "lng": 128.023834
       }
     ],
-    "color": "#feb10f",
-    "start_point_name": "공작교",
-    "length": 1408,
-    "time": "23"
+    "color": "#236b4f",
+    "start_name": "공작교",
+    "length_meter": 1408.8,
+    "time_minute": 23
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 128.023499
       }
     ],
-    "color": "#d309b4",
-    "start_point_name": "정자 쉼터",
-    "length": 87,
-    "time": "1"
+    "color": "#e69aec",
+    "start_name": "정자 쉼터",
+    "length_meter": 87.4,
+    "time_minute": 1
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 128.022629
       }
     ],
-    "color": "#277f86",
-    "start_point_name": "갈림길",
-    "length": 396,
-    "time": "6"
+    "color": "#927fad",
+    "start_name": "갈림길",
+    "length_meter": 396.4,
+    "time_minute": 6
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 128.024292
       }
     ],
-    "color": "#72621b",
-    "start_point_name": "갈림길",
-    "length": 758,
-    "time": "12"
+    "color": "#22bfd3",
+    "start_name": "갈림길",
+    "length_meter": 758.3,
+    "time_minute": 12
   },
   {
     "path_id": 4,
@@ -79,10 +79,10 @@
         "lng": 128.024124
       }
     ],
-    "color": "#220ea8",
-    "start_point_name": "노송군락지",
-    "length": 247,
-    "time": "4"
+    "color": "#f95921",
+    "start_name": "노송군락지",
+    "length_meter": 247.7,
+    "time_minute": 4
   },
   {
     "path_id": 5,
@@ -92,34 +92,17 @@
         "lng": 128.024124
       },
       {
-        "lat": 37.711166,
-        "lng": 128.023788
-      }
-    ],
-    "color": "#06d5ee",
-    "start_point_name": "갈림길",
-    "length": 54,
-    "time": "0"
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.711166,
-        "lng": 128.023788
-      },
-      {
         "lat": 37.714119,
         "lng": 128.016541
       }
     ],
-    "color": "#519642",
-    "start_point_name": "노송군락지 끝",
-    "length": 717,
-    "time": "11"
+    "color": "#04dbdb",
+    "start_name": "갈림길 / 노송군락지 끝",
+    "length_meter": 771.2,
+    "time_minute": 12
   },
   {
-    "path_id": 7,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.714119,
@@ -130,9 +113,9 @@
         "lng": 128.010406
       }
     ],
-    "color": "#54214d",
-    "start_point_name": "낙엽송식재지역",
-    "length": 561,
-    "time": "9"
+    "color": "#043a27",
+    "start_name": "낙엽송식재지역",
+    "length_meter": 561.9,
+    "time_minute": 9
   }
 ]

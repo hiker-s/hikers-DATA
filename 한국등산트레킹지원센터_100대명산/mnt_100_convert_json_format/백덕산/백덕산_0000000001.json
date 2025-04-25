@@ -7,306 +7,221 @@
         "lng": 128.261734
       },
       {
-        "lat": 37.426506,
-        "lng": 128.261551
+        "lat": 37.425903,
+        "lng": 128.259491
       }
     ],
-    "color": "#7bb2ec",
-    "start_point_name": "문재쉼터",
-    "length": 16,
-    "time": "0"
+    "color": "#c4096e",
+    "start_name": "문재쉼터 / 문재 들머리",
+    "length_meter": 210.3,
+    "time_minute": 3
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 37.426506,
-        "lng": 128.261551
-      },
-      {
         "lat": 37.425903,
         "lng": 128.259491
+      },
+      {
+        "lat": 37.425186,
+        "lng": 128.258881
       }
     ],
-    "color": "#f554be",
-    "start_point_name": "문재 들머리",
-    "length": 193,
-    "time": "3"
+    "color": "#4255c6",
+    "start_name": "등산로 폐쇄 / 갈림길",
+    "length_meter": 101.4,
+    "time_minute": 1
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 37.425903,
-        "lng": 128.259491
+        "lat": 37.425186,
+        "lng": 128.258881
       },
       {
-        "lat": 37.425705,
-        "lng": 128.259109
+        "lat": 37.42527,
+        "lng": 128.257904
       }
     ],
-    "color": "#557dff",
-    "start_point_name": "등산로 폐쇄",
-    "length": 40,
-    "time": "0"
+    "color": "#a14c45",
+    "start_name": "갈림길",
+    "length_meter": 86.8,
+    "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 37.425705,
-        "lng": 128.259109
+        "lat": 37.42527,
+        "lng": 128.257904
       },
       {
-        "lat": 37.425186,
-        "lng": 128.258881
+        "lat": 37.422302,
+        "lng": 128.258224
       }
     ],
-    "color": "#f244c7",
-    "start_point_name": "갈림길",
-    "length": 61,
-    "time": "1"
+    "color": "#f62f8d",
+    "start_name": "갈림길",
+    "length_meter": 331.2,
+    "time_minute": 5
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.425186,
-        "lng": 128.258881
+        "lat": 37.422302,
+        "lng": 128.258224
       },
       {
-        "lat": 37.42527,
-        "lng": 128.257904
+        "lat": 37.415646,
+        "lng": 128.261002
       }
     ],
-    "color": "#1fc5fb",
-    "start_point_name": "갈림길",
-    "length": 86,
-    "time": "1"
+    "color": "#5d4358",
+    "start_name": "갈림길",
+    "length_meter": 779.7,
+    "time_minute": 12
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 37.42527,
-        "lng": 128.257904
+        "lat": 37.415646,
+        "lng": 128.261002
       },
       {
-        "lat": 37.422302,
-        "lng": 128.258224
+        "lat": 37.41375,
+        "lng": 128.261795
       }
     ],
-    "color": "#f35baa",
-    "start_point_name": "갈림길",
-    "length": 331,
-    "time": "5"
+    "color": "#a3d790",
+    "start_name": "헬기장",
+    "length_meter": 222.2,
+    "time_minute": 3
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 37.422302,
-        "lng": 128.258224
+        "lat": 37.41375,
+        "lng": 128.261795
       },
       {
-        "lat": 37.415646,
-        "lng": 128.261002
+        "lat": 37.412411,
+        "lng": 128.262985
       }
     ],
-    "color": "#82e2ec",
-    "start_point_name": "갈림길",
-    "length": 779,
-    "time": "12"
+    "color": "#60f73e",
+    "start_name": "나무 쓰러짐",
+    "length_meter": 182.2,
+    "time_minute": 3
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 37.415646,
-        "lng": 128.261002
+        "lat": 37.412411,
+        "lng": 128.262985
       },
       {
-        "lat": 37.41375,
-        "lng": 128.261795
+        "lat": 37.410614,
+        "lng": 128.264465
       }
     ],
-    "color": "#397aae",
-    "start_point_name": "헬기장",
-    "length": 222,
-    "time": "3"
+    "color": "#091941",
+    "start_name": "갈림길 / 길에 넘어진 고목",
+    "length_meter": 242.1,
+    "time_minute": 4
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 37.41375,
-        "lng": 128.261795
+        "lat": 37.410614,
+        "lng": 128.264465
       },
       {
-        "lat": 37.412411,
-        "lng": 128.262985
+        "lat": 37.410042,
+        "lng": 128.264603
       }
     ],
-    "color": "#f3d6d2",
-    "start_point_name": "나무 쓰러짐",
-    "length": 182,
-    "time": "3"
+    "color": "#7429f1",
+    "start_name": "등산로폐쇄",
+    "length_meter": 64.8,
+    "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.412411,
-        "lng": 128.262985
+        "lat": 37.410042,
+        "lng": 128.264603
       },
       {
-        "lat": 37.412113,
-        "lng": 128.263046
+        "lat": 37.407829,
+        "lng": 128.266098
       }
     ],
-    "color": "#7bfb3c",
-    "start_point_name": "갈림길",
-    "length": 33,
-    "time": "0"
+    "color": "#807852",
+    "start_name": "등산로폐쇄",
+    "length_meter": 279.3,
+    "time_minute": 4
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 37.412113,
-        "lng": 128.263046
+        "lat": 37.407829,
+        "lng": 128.266098
       },
       {
-        "lat": 37.410614,
-        "lng": 128.264465
+        "lat": 37.408051,
+        "lng": 128.268127
       }
     ],
-    "color": "#86446a",
-    "start_point_name": "길에 넘어진 고목",
-    "length": 208,
-    "time": "3"
+    "color": "#353329",
+    "start_name": "갈림길",
+    "length_meter": 180.9,
+    "time_minute": 3
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 37.410614,
-        "lng": 128.264465
+        "lat": 37.408051,
+        "lng": 128.268127
       },
       {
-        "lat": 37.410042,
-        "lng": 128.264603
+        "lat": 37.407768,
+        "lng": 128.272537
       }
     ],
-    "color": "#69b0a9",
-    "start_point_name": "등산로폐쇄",
-    "length": 64,
-    "time": "1"
+    "color": "#37fe69",
+    "start_name": "등산로폐쇄",
+    "length_meter": 390.8,
+    "time_minute": 6
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 37.410042,
-        "lng": 128.264603
-      },
-      {
-        "lat": 37.407829,
-        "lng": 128.266098
-      }
-    ],
-    "color": "#e31973",
-    "start_point_name": "등산로폐쇄",
-    "length": 279,
-    "time": "4"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.407829,
-        "lng": 128.266098
-      },
-      {
-        "lat": 37.408051,
-        "lng": 128.268127
-      }
-    ],
-    "color": "#d85757",
-    "start_point_name": "갈림길",
-    "length": 180,
-    "time": "3"
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 37.408051,
-        "lng": 128.268127
-      },
-      {
         "lat": 37.407768,
         "lng": 128.272537
-      }
-    ],
-    "color": "#1e1c87",
-    "start_point_name": "등산로폐쇄",
-    "length": 390,
-    "time": "6"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.407768,
-        "lng": 128.272537
-      },
-      {
-        "lat": 37.407681,
-        "lng": 128.272705
-      }
-    ],
-    "color": "#141e54",
-    "start_point_name": "고목 쓰러짐",
-    "length": 17,
-    "time": "0"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 37.407681,
-        "lng": 128.272705
-      },
-      {
-        "lat": 37.407658,
-        "lng": 128.272736
-      }
-    ],
-    "color": "#f7e4da",
-    "start_point_name": "사자산 정상",
-    "length": 3,
-    "time": "0"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 37.407658,
-        "lng": 128.272736
       },
       {
         "lat": 37.406582,
         "lng": 128.275848
       }
     ],
-    "color": "#f3eaca",
-    "start_point_name": "갈림길",
-    "length": 299,
-    "time": "4"
+    "color": "#d60785",
+    "start_name": "고목 쓰러짐 / 사자산 정상 / 갈림길",
+    "length_meter": 321.2,
+    "time_minute": 5
   },
   {
-    "path_id": 18,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.406582,
@@ -317,13 +232,13 @@
         "lng": 128.276871
       }
     ],
-    "color": "#5df8a2",
-    "start_point_name": "가파른 경사 바로 옆길",
-    "length": 90,
-    "time": "1"
+    "color": "#5bf32d",
+    "start_name": "가파른 경사 바로 옆길",
+    "length_meter": 90.5,
+    "time_minute": 1
   },
   {
-    "path_id": 19,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.40662,
@@ -334,13 +249,13 @@
         "lng": 128.278397
       }
     ],
-    "color": "#3e2a0e",
-    "start_point_name": "백덕산 2Km전",
-    "length": 139,
-    "time": "2"
+    "color": "#21508d",
+    "start_name": "백덕산 2Km전",
+    "length_meter": 139.3,
+    "time_minute": 2
   },
   {
-    "path_id": 20,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.406303,
@@ -351,13 +266,13 @@
         "lng": 128.281967
       }
     ],
-    "color": "#a057b5",
-    "start_point_name": "등산로폐쇄",
-    "length": 316,
-    "time": "5"
+    "color": "#127330",
+    "start_name": "등산로폐쇄",
+    "length_meter": 316.5,
+    "time_minute": 5
   },
   {
-    "path_id": 21,
+    "path_id": 16,
     "path": [
       {
         "lat": 37.406551,
@@ -368,9 +283,9 @@
         "lng": 128.283325
       }
     ],
-    "color": "#929176",
-    "start_point_name": "등산로폐쇄",
-    "length": 127,
-    "time": "2"
+    "color": "#e6e6be",
+    "start_name": "등산로폐쇄",
+    "length_meter": 127.8,
+    "time_minute": 2
   }
 ]

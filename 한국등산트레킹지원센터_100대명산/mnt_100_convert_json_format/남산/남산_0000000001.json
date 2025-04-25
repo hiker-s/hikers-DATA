@@ -11,10 +11,10 @@
         "lng": 129.23027
       }
     ],
-    "color": "#4f15da",
-    "start_point_name": "삼릉곡 제1사지 탑재와 불상",
-    "length": 2440,
-    "time": "40"
+    "color": "#ba357d",
+    "start_name": "삼릉곡 제1사지 탑재와 불상",
+    "length_meter": 2440.3,
+    "time_minute": 40
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 129.231696
       }
     ],
-    "color": "#26df00",
-    "start_point_name": "갈림길",
-    "length": 714,
-    "time": "11"
+    "color": "#a7ac24",
+    "start_name": "갈림길",
+    "length_meter": 715.0,
+    "time_minute": 11
   },
   {
     "path_id": 2,
@@ -41,404 +41,217 @@
         "lng": 129.231696
       },
       {
-        "lat": 35.774075,
-        "lng": 129.231689
+        "lat": 35.773522,
+        "lng": 129.231506
       }
     ],
-    "color": "#2b914c",
-    "start_point_name": "웨이포인트 35",
-    "length": 1,
-    "time": "0"
+    "color": "#a4356d",
+    "start_name": "웨이포인트 35 / 데크 상단",
+    "length_meter": 65.1,
+    "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.774075,
-        "lng": 129.231689
-      },
-      {
         "lat": 35.773522,
         "lng": 129.231506
+      },
+      {
+        "lat": 35.772432,
+        "lng": 129.231913
       }
     ],
-    "color": "#44709e",
-    "start_point_name": "데크 상단",
-    "length": 63,
-    "time": "1"
+    "color": "#d96854",
+    "start_name": "웨이포인트 37",
+    "length_meter": 126.6,
+    "time_minute": 2
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.773522,
-        "lng": 129.231506
-      },
-      {
         "lat": 35.772432,
         "lng": 129.231913
+      },
+      {
+        "lat": 35.771954,
+        "lng": 129.232864
       }
     ],
-    "color": "#a781af",
-    "start_point_name": "웨이포인트 37",
-    "length": 126,
-    "time": "2"
+    "color": "#1a3e6f",
+    "start_name": "웨이포인트 38 / 웨이포인트 39",
+    "length_meter": 100.9,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.772432,
-        "lng": 129.231913
+        "lat": 35.771954,
+        "lng": 129.232864
       },
       {
-        "lat": 35.772432,
-        "lng": 129.231913
+        "lat": 35.771183,
+        "lng": 129.234161
       }
     ],
-    "color": "#411f2f",
-    "start_point_name": "웨이포인트 38",
-    "length": 0,
-    "time": "0"
+    "color": "#82443e",
+    "start_name": "갈림길",
+    "length_meter": 145.1,
+    "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.772432,
-        "lng": 129.231913
+        "lat": 35.771183,
+        "lng": 129.234161
       },
       {
-        "lat": 35.771954,
-        "lng": 129.232864
+        "lat": 35.769604,
+        "lng": 129.233612
       }
     ],
-    "color": "#ec0bb1",
-    "start_point_name": "웨이포인트 39",
-    "length": 100,
-    "time": "1"
+    "color": "#769926",
+    "start_name": "갈림길",
+    "length_meter": 182.4,
+    "time_minute": 3
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.771954,
-        "lng": 129.232864
+        "lat": 35.769604,
+        "lng": 129.233612
       },
       {
-        "lat": 35.771183,
-        "lng": 129.234161
+        "lat": 35.768002,
+        "lng": 129.230865
       }
     ],
-    "color": "#7466ac",
-    "start_point_name": "갈림길",
-    "length": 145,
-    "time": "2"
+    "color": "#80ba9d",
+    "start_name": "갈림길",
+    "length_meter": 305.2,
+    "time_minute": 5
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.771183,
-        "lng": 129.234161
+        "lat": 35.768002,
+        "lng": 129.230865
       },
       {
-        "lat": 35.769604,
-        "lng": 129.233612
+        "lat": 35.767544,
+        "lng": 129.225311
       }
     ],
-    "color": "#00b99a",
-    "start_point_name": "갈림길",
-    "length": 182,
-    "time": "3"
+    "color": "#c29fd8",
+    "start_name": "갈림길",
+    "length_meter": 503.7,
+    "time_minute": 8
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.769604,
-        "lng": 129.233612
+        "lat": 35.767544,
+        "lng": 129.225311
       },
       {
-        "lat": 35.768002,
-        "lng": 129.230865
+        "lat": 35.768875,
+        "lng": 129.224792
       }
     ],
-    "color": "#aae851",
-    "start_point_name": "갈림길",
-    "length": 305,
-    "time": "5"
+    "color": "#36adca",
+    "start_name": "고위봉 / 갈림길 / 웨이포인트 46",
+    "length_meter": 166.5,
+    "time_minute": 2
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.768002,
-        "lng": 129.230865
+        "lat": 35.768875,
+        "lng": 129.224792
       },
       {
-        "lat": 35.767544,
-        "lng": 129.225311
+        "lat": 35.769417,
+        "lng": 129.224548
       }
     ],
-    "color": "#90a3e9",
-    "start_point_name": "갈림길",
-    "length": 503,
-    "time": "8"
+    "color": "#b238c9",
+    "start_name": "조망터",
+    "length_meter": 64.2,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.767544,
-        "lng": 129.225311
+        "lat": 35.769417,
+        "lng": 129.224548
       },
       {
-        "lat": 35.767525,
-        "lng": 129.225311
+        "lat": 35.769952,
+        "lng": 129.223797
       }
     ],
-    "color": "#5a0bf2",
-    "start_point_name": "고위봉",
-    "length": 2,
-    "time": "0"
+    "color": "#4fcf05",
+    "start_name": "암릉구간",
+    "length_meter": 90.2,
+    "time_minute": 1
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.767525,
-        "lng": 129.225311
+        "lat": 35.769952,
+        "lng": 129.223797
       },
       {
-        "lat": 35.7675,
-        "lng": 129.225339
+        "lat": 35.77205,
+        "lng": 129.221728
       }
     ],
-    "color": "#999bbe",
-    "start_point_name": "갈림길",
-    "length": 3,
-    "time": "0"
+    "color": "#7468a8",
+    "start_name": "웨이포인트 49 / 웨이포인트 50 / 웨이포인트 51 / 웨이포인트 52",
+    "length_meter": 326.3,
+    "time_minute": 5
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 35.7675,
-        "lng": 129.225339
+        "lat": 35.77205,
+        "lng": 129.221728
       },
       {
-        "lat": 35.768875,
-        "lng": 129.224792
+        "lat": 35.773266,
+        "lng": 129.220261
       }
     ],
-    "color": "#0917c7",
-    "start_point_name": "웨이포인트 46",
-    "length": 160,
-    "time": "2"
+    "color": "#ec5080",
+    "start_name": "웨이포인트 53 / 웨이포인트 54 / 웨이포인트 55",
+    "length_meter": 189.2,
+    "time_minute": 3
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 35.768875,
-        "lng": 129.224792
-      },
-      {
-        "lat": 35.769417,
-        "lng": 129.224548
-      }
-    ],
-    "color": "#f3a580",
-    "start_point_name": "조망터",
-    "length": 64,
-    "time": "1"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 35.769417,
-        "lng": 129.224548
-      },
-      {
-        "lat": 35.769952,
-        "lng": 129.223797
-      }
-    ],
-    "color": "#345ad3",
-    "start_point_name": "암릉구간",
-    "length": 90,
-    "time": "1"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 35.769952,
-        "lng": 129.223797
-      },
-      {
-        "lat": 35.769952,
-        "lng": 129.223797
-      }
-    ],
-    "color": "#1c0950",
-    "start_point_name": "웨이포인트 49",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 35.769952,
-        "lng": 129.223797
-      },
-      {
-        "lat": 35.769952,
-        "lng": 129.223797
-      }
-    ],
-    "color": "#09e45e",
-    "start_point_name": "웨이포인트 50",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 35.769952,
-        "lng": 129.223797
-      },
-      {
-        "lat": 35.769862,
-        "lng": 129.223329
-      }
-    ],
-    "color": "#15f5f4",
-    "start_point_name": "웨이포인트 51",
-    "length": 43,
-    "time": "0"
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 35.769862,
-        "lng": 129.223329
-      },
-      {
-        "lat": 35.77205,
-        "lng": 129.221728
-      }
-    ],
-    "color": "#6d5b58",
-    "start_point_name": "웨이포인트 52",
-    "length": 282,
-    "time": "4"
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 35.77205,
-        "lng": 129.221728
-      },
-      {
-        "lat": 35.77205,
-        "lng": 129.221728
-      }
-    ],
-    "color": "#40fb4e",
-    "start_point_name": "웨이포인트 53",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 35.77205,
-        "lng": 129.221728
-      },
-      {
-        "lat": 35.77205,
-        "lng": 129.221728
-      }
-    ],
-    "color": "#314bc3",
-    "start_point_name": "웨이포인트 54",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
-        "lat": 35.77205,
-        "lng": 129.221728
-      },
-      {
         "lat": 35.773266,
         "lng": 129.220261
-      }
-    ],
-    "color": "#9a1e7c",
-    "start_point_name": "웨이포인트 55",
-    "length": 189,
-    "time": "3"
-  },
-  {
-    "path_id": 23,
-    "path": [
-      {
-        "lat": 35.773266,
-        "lng": 129.220261
-      },
-      {
-        "lat": 35.773414,
-        "lng": 129.220211
-      }
-    ],
-    "color": "#488b51",
-    "start_point_name": "추락주의",
-    "length": 17,
-    "time": "0"
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
-        "lat": 35.773414,
-        "lng": 129.220211
-      },
-      {
-        "lat": 35.773414,
-        "lng": 129.220211
-      }
-    ],
-    "color": "#b1ed5e",
-    "start_point_name": "웨이포인트 57",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 25,
-    "path": [
-      {
-        "lat": 35.773414,
-        "lng": 129.220211
       },
       {
         "lat": 35.774658,
         "lng": 129.215439
       }
     ],
-    "color": "#9fe7cd",
-    "start_point_name": "웨이포인트 58",
-    "length": 452,
-    "time": "7"
+    "color": "#7b3978",
+    "start_name": "추락주의 / 웨이포인트 57 / 웨이포인트 58",
+    "length_meter": 469.2,
+    "time_minute": 7
   }
 ]

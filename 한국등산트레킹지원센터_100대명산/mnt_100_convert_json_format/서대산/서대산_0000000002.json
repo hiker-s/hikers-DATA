@@ -11,10 +11,10 @@
         "lng": 127.53109
       }
     ],
-    "color": "#9afdea",
-    "start_point_name": "하산로",
-    "length": 121,
-    "time": "2"
+    "color": "#b0b2a7",
+    "start_name": "하산로",
+    "length_meter": 121.6,
+    "time_minute": 2
   },
   {
     "path_id": 1,
@@ -24,68 +24,34 @@
         "lng": 127.53109
       },
       {
-        "lat": 36.230473,
-        "lng": 127.530617
+        "lat": 36.230522,
+        "lng": 127.530525
       }
     ],
-    "color": "#384b08",
-    "start_point_name": "마당바위",
-    "length": 57,
-    "time": "0"
+    "color": "#db2830",
+    "start_name": "마당바위 / 개덕사",
+    "length_meter": 67.8,
+    "time_minute": 1
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 36.230473,
-        "lng": 127.530617
-      },
-      {
         "lat": 36.230522,
         "lng": 127.530525
-      }
-    ],
-    "color": "#b24c69",
-    "start_point_name": "개덕사",
-    "length": 9,
-    "time": "0"
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 36.230522,
-        "lng": 127.530525
-      },
-      {
-        "lat": 36.230106,
-        "lng": 127.53051
-      }
-    ],
-    "color": "#d2ebba",
-    "start_point_name": "서대(개덕)폭포",
-    "length": 46,
-    "time": "0"
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 36.230106,
-        "lng": 127.53051
       },
       {
         "lat": 36.229721,
         "lng": 127.529343
       }
     ],
-    "color": "#85f360",
-    "start_point_name": "개덕사 산책로",
-    "length": 113,
-    "time": "1"
+    "color": "#4f62d2",
+    "start_name": "서대(개덕)폭포 / 개덕사 산책로",
+    "length_meter": 159.4,
+    "time_minute": 2
   },
   {
-    "path_id": 5,
+    "path_id": 3,
     "path": [
       {
         "lat": 36.229721,
@@ -96,13 +62,13 @@
         "lng": 127.53476
       }
     ],
-    "color": "#5442e7",
-    "start_point_name": "갈림길",
-    "length": 512,
-    "time": "8"
+    "color": "#40c9a3",
+    "start_name": "갈림길",
+    "length_meter": 512.8,
+    "time_minute": 8
   },
   {
-    "path_id": 6,
+    "path_id": 4,
     "path": [
       {
         "lat": 36.231197,
@@ -113,9 +79,9 @@
         "lng": 127.535149
       }
     ],
-    "color": "#261e08",
-    "start_point_name": "강우관측소가는길",
-    "length": 34,
-    "time": "0"
+    "color": "#c6b84b",
+    "start_name": "강우관측소가는길",
+    "length_meter": 35.0,
+    "time_minute": 0
   }
 ]

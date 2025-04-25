@@ -11,10 +11,10 @@
         "lng": 127.775406
       }
     ],
-    "color": "#4bd070",
-    "start_point_name": "구천동주차장",
-    "length": 108,
-    "time": "1"
+    "color": "#a81e76",
+    "start_name": "구천동주차장",
+    "length_meter": 109.0,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 127.776024
       }
     ],
-    "color": "#997308",
-    "start_point_name": "공중화장실",
-    "length": 92,
-    "time": "1"
+    "color": "#7531f5",
+    "start_name": "공중화장실",
+    "length_meter": 92.8,
+    "time_minute": 1
   },
   {
     "path_id": 2,
@@ -41,1033 +41,727 @@
         "lng": 127.776024
       },
       {
-        "lat": 35.90078,
-        "lng": 127.775894
+        "lat": 35.899227,
+        "lng": 127.776527
       }
     ],
-    "color": "#fb99af",
-    "start_point_name": "버스운행표",
-    "length": 14,
-    "time": "0"
+    "color": "#87611d",
+    "start_name": "버스운행표 / 구천동버스승강장",
+    "length_meter": 196.1,
+    "time_minute": 3
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.90078,
-        "lng": 127.775894
-      },
-      {
         "lat": 35.899227,
         "lng": 127.776527
+      },
+      {
+        "lat": 35.898594,
+        "lng": 127.776886
       }
     ],
-    "color": "#e5d7ac",
-    "start_point_name": "구천동버스승강장",
-    "length": 181,
-    "time": "3"
+    "color": "#162ad5",
+    "start_name": "식당가 / GS25",
+    "length_meter": 77.8,
+    "time_minute": 1
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.899227,
-        "lng": 127.776527
+        "lat": 35.898594,
+        "lng": 127.776886
       },
       {
-        "lat": 35.899166,
-        "lng": 127.776535
+        "lat": 35.897861,
+        "lng": 127.776596
       }
     ],
-    "color": "#1ff827",
-    "start_point_name": "식당가",
-    "length": 6,
-    "time": "0"
+    "color": "#677638",
+    "start_name": "식당가",
+    "length_meter": 85.6,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 35.899166,
-        "lng": 127.776535
+        "lat": 35.897861,
+        "lng": 127.776596
       },
       {
-        "lat": 35.898594,
-        "lng": 127.776886
+        "lat": 35.896893,
+        "lng": 127.775894
       }
     ],
-    "color": "#a2050c",
-    "start_point_name": "GS25",
-    "length": 71,
-    "time": "1"
+    "color": "#b2c4eb",
+    "start_name": "식당가",
+    "length_meter": 124.8,
+    "time_minute": 2
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 35.898594,
-        "lng": 127.776886
+        "lat": 35.896893,
+        "lng": 127.775894
       },
       {
-        "lat": 35.897861,
-        "lng": 127.776596
+        "lat": 35.895649,
+        "lng": 127.775826
       }
     ],
-    "color": "#b37fc1",
-    "start_point_name": "식당가",
-    "length": 85,
-    "time": "1"
+    "color": "#de1ba5",
+    "start_name": "덕유대야영장 매표소",
+    "length_meter": 138.5,
+    "time_minute": 2
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 35.897861,
-        "lng": 127.776596
+        "lat": 35.895649,
+        "lng": 127.775826
       },
       {
-        "lat": 35.896893,
-        "lng": 127.775894
+        "lat": 35.89497,
+        "lng": 127.776222
       }
     ],
-    "color": "#31e9bf",
-    "start_point_name": "식당가",
-    "length": 124,
-    "time": "2"
+    "color": "#26189d",
+    "start_name": "마트. 음료",
+    "length_meter": 83.5,
+    "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 35.896893,
-        "lng": 127.775894
+        "lat": 35.89497,
+        "lng": 127.776222
       },
       {
-        "lat": 35.895649,
-        "lng": 127.775826
+        "lat": 35.890739,
+        "lng": 127.778534
       }
     ],
-    "color": "#ca45ca",
-    "start_point_name": "덕유대야영장 매표소",
-    "length": 138,
-    "time": "2"
+    "color": "#ecdba6",
+    "start_name": "구천동주차장 등산로 입구",
+    "length_meter": 514.5,
+    "time_minute": 8
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 35.895649,
-        "lng": 127.775826
+        "lat": 35.890739,
+        "lng": 127.778534
       },
       {
-        "lat": 35.89497,
-        "lng": 127.776222
+        "lat": 35.88942,
+        "lng": 127.778191
       }
     ],
-    "color": "#ac3334",
-    "start_point_name": "마트. 음료",
-    "length": 83,
-    "time": "1"
+    "color": "#8b24c6",
+    "start_name": "월하탄전망대 / 월하탄",
+    "length_meter": 154.4,
+    "time_minute": 2
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 35.89497,
-        "lng": 127.776222
+        "lat": 35.88942,
+        "lng": 127.778191
       },
       {
-        "lat": 35.890739,
-        "lng": 127.778534
+        "lat": 35.881943,
+        "lng": 127.777901
       }
     ],
-    "color": "#2ed42c",
-    "start_point_name": "구천동주차장 등산로 입구",
-    "length": 514,
-    "time": "8"
+    "color": "#a34f5e",
+    "start_name": "갈림길",
+    "length_meter": 831.8,
+    "time_minute": 13
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 35.890739,
-        "lng": 127.778534
+        "lat": 35.881943,
+        "lng": 127.777901
       },
       {
-        "lat": 35.890461,
-        "lng": 127.778282
+        "lat": 35.880653,
+        "lng": 127.779602
       }
     ],
-    "color": "#f00495",
-    "start_point_name": "월하탄전망대",
-    "length": 38,
-    "time": "0"
+    "color": "#eaa04e",
+    "start_name": "이정표 / 벤취 2개소 / 벤취 2개소",
+    "length_meter": 247.4,
+    "time_minute": 4
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 35.890461,
-        "lng": 127.778282
+        "lat": 35.880653,
+        "lng": 127.779602
       },
       {
-        "lat": 35.88942,
-        "lng": 127.778191
+        "lat": 35.878765,
+        "lng": 127.781586
       }
     ],
-    "color": "#297938",
-    "start_point_name": "월하탄",
-    "length": 116,
-    "time": "1"
+    "color": "#add87e",
+    "start_name": "청류동",
+    "length_meter": 275.7,
+    "time_minute": 4
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 35.88942,
-        "lng": 127.778191
+        "lat": 35.878765,
+        "lng": 127.781586
       },
       {
-        "lat": 35.881943,
-        "lng": 127.777901
+        "lat": 35.87775,
+        "lng": 127.78083
       }
     ],
-    "color": "#83118b",
-    "start_point_name": "갈림길",
-    "length": 831,
-    "time": "13"
+    "color": "#37479e",
+    "start_name": "이정표",
+    "length_meter": 131.8,
+    "time_minute": 2
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 35.881943,
-        "lng": 127.777901
+        "lat": 35.87775,
+        "lng": 127.78083
       },
       {
-        "lat": 35.881916,
-        "lng": 127.777954
+        "lat": 35.876144,
+        "lng": 127.776604
       }
     ],
-    "color": "#490a11",
-    "start_point_name": "이정표",
-    "length": 5,
-    "time": "0"
+    "color": "#1d144e",
+    "start_name": "덕유산휴게소",
+    "length_meter": 420.6,
+    "time_minute": 7
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 35.881916,
-        "lng": 127.777954
+        "lat": 35.876144,
+        "lng": 127.776604
       },
       {
-        "lat": 35.881725,
-        "lng": 127.777687
+        "lat": 35.876858,
+        "lng": 127.775383
       }
     ],
-    "color": "#902c6a",
-    "start_point_name": "벤취 2개소",
-    "length": 32,
-    "time": "0"
+    "color": "#d347fc",
+    "start_name": "벤취 2개소 / 벤취",
+    "length_meter": 158.6,
+    "time_minute": 2
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 35.881725,
-        "lng": 127.777687
+        "lat": 35.876858,
+        "lng": 127.775383
       },
       {
-        "lat": 35.880653,
-        "lng": 127.779602
+        "lat": 35.876041,
+        "lng": 127.776482
       }
     ],
-    "color": "#63e52d",
-    "start_point_name": "벤취 2개소",
-    "length": 209,
-    "time": "3"
+    "color": "#61fed6",
+    "start_name": "금포탄",
+    "length_meter": 134.4,
+    "time_minute": 2
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 35.880653,
-        "lng": 127.779602
+        "lat": 35.876041,
+        "lng": 127.776482
       },
       {
-        "lat": 35.878765,
-        "lng": 127.781586
+        "lat": 35.868073,
+        "lng": 127.772888
       }
     ],
-    "color": "#eeda1e",
-    "start_point_name": "청류동",
-    "length": 275,
-    "time": "4"
+    "color": "#ed48da",
+    "start_name": "갈림길",
+    "length_meter": 943.3,
+    "time_minute": 15
   },
   {
     "path_id": 18,
     "path": [
       {
-        "lat": 35.878765,
-        "lng": 127.781586
+        "lat": 35.868073,
+        "lng": 127.772888
       },
       {
-        "lat": 35.87775,
-        "lng": 127.78083
+        "lat": 35.867653,
+        "lng": 127.771637
       }
     ],
-    "color": "#d286d2",
-    "start_point_name": "이정표",
-    "length": 131,
-    "time": "2"
+    "color": "#7681f5",
+    "start_name": "벤취 2개소 / 갈림길 / 이정표",
+    "length_meter": 133.8,
+    "time_minute": 2
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 35.87775,
-        "lng": 127.78083
+        "lat": 35.867653,
+        "lng": 127.771637
       },
       {
-        "lat": 35.876144,
-        "lng": 127.776604
+        "lat": 35.864117,
+        "lng": 127.772324
       }
     ],
-    "color": "#90e4aa",
-    "start_point_name": "덕유산휴게소",
-    "length": 420,
-    "time": "7"
+    "color": "#2a350f",
+    "start_name": "간이화장실 / 결빙지역",
+    "length_meter": 430.4,
+    "time_minute": 7
   },
   {
     "path_id": 20,
     "path": [
       {
-        "lat": 35.876144,
-        "lng": 127.776604
+        "lat": 35.864117,
+        "lng": 127.772324
       },
       {
-        "lat": 35.875988,
-        "lng": 127.776451
+        "lat": 35.86132,
+        "lng": 127.772614
       }
     ],
-    "color": "#366157",
-    "start_point_name": "벤취 2개소",
-    "length": 22,
-    "time": "0"
+    "color": "#ca2b3d",
+    "start_name": "명경담",
+    "length_meter": 312.1,
+    "time_minute": 5
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 35.875988,
-        "lng": 127.776451
+        "lat": 35.86132,
+        "lng": 127.772614
       },
       {
-        "lat": 35.876858,
-        "lng": 127.775383
+        "lat": 35.86079,
+        "lng": 127.770767
       }
     ],
-    "color": "#28a941",
-    "start_point_name": "벤취",
-    "length": 136,
-    "time": "2"
+    "color": "#47e6fc",
+    "start_name": "백련담",
+    "length_meter": 176.6,
+    "time_minute": 2
   },
   {
     "path_id": 22,
     "path": [
       {
-        "lat": 35.876858,
-        "lng": 127.775383
+        "lat": 35.86079,
+        "lng": 127.770767
       },
       {
-        "lat": 35.876041,
-        "lng": 127.776482
+        "lat": 35.860909,
+        "lng": 127.76841
       }
     ],
-    "color": "#dcf07f",
-    "start_point_name": "금포탄",
-    "length": 134,
-    "time": "2"
+    "color": "#950bf5",
+    "start_name": "연화폭",
+    "length_meter": 212.8,
+    "time_minute": 3
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 35.876041,
-        "lng": 127.776482
+        "lat": 35.860909,
+        "lng": 127.76841
       },
       {
-        "lat": 35.868073,
-        "lng": 127.772888
+        "lat": 35.85902,
+        "lng": 127.767372
       }
     ],
-    "color": "#326da2",
-    "start_point_name": "갈림길",
-    "length": 943,
-    "time": "15"
+    "color": "#f29edf",
+    "start_name": "매월당 부도 / 낙석위험",
+    "length_meter": 230.9,
+    "time_minute": 3
   },
   {
     "path_id": 24,
     "path": [
       {
-        "lat": 35.868073,
-        "lng": 127.772888
+        "lat": 35.85902,
+        "lng": 127.767372
       },
       {
-        "lat": 35.868172,
-        "lng": 127.772659
+        "lat": 35.860355,
+        "lng": 127.767731
       }
     ],
-    "color": "#453ab6",
-    "start_point_name": "벤취 2개소",
-    "length": 23,
-    "time": "0"
+    "color": "#f3e666",
+    "start_name": "갈림길 / 이정표",
+    "length_meter": 155.1,
+    "time_minute": 2
   },
   {
     "path_id": 25,
     "path": [
       {
-        "lat": 35.868172,
-        "lng": 127.772659
+        "lat": 35.860355,
+        "lng": 127.767731
       },
       {
-        "lat": 35.868176,
-        "lng": 127.772667
+        "lat": 35.860981,
+        "lng": 127.768524
       }
     ],
-    "color": "#88a589",
-    "start_point_name": "갈림길",
-    "length": 0,
-    "time": "0"
+    "color": "#5e894a",
+    "start_name": "이속대",
+    "length_meter": 99.8,
+    "time_minute": 1
   },
   {
     "path_id": 26,
     "path": [
       {
-        "lat": 35.868176,
-        "lng": 127.772667
+        "lat": 35.860981,
+        "lng": 127.768524
       },
       {
-        "lat": 35.867653,
-        "lng": 127.771637
+        "lat": 35.86731,
+        "lng": 127.771378
       }
     ],
-    "color": "#d6a0a0",
-    "start_point_name": "이정표",
-    "length": 109,
-    "time": "1"
+    "color": "#9e2da0",
+    "start_name": "백련사 일주문",
+    "length_meter": 749.3,
+    "time_minute": 12
   },
   {
     "path_id": 27,
     "path": [
       {
-        "lat": 35.867653,
-        "lng": 127.771637
+        "lat": 35.86731,
+        "lng": 127.771378
       },
       {
-        "lat": 35.867794,
-        "lng": 127.771591
+        "lat": 35.868114,
+        "lng": 127.772354
       }
     ],
-    "color": "#3599ee",
-    "start_point_name": "간이화장실",
-    "length": 16,
-    "time": "0"
+    "color": "#2acff9",
+    "start_name": "신양담",
+    "length_meter": 125.4,
+    "time_minute": 2
   },
   {
     "path_id": 28,
     "path": [
       {
-        "lat": 35.867794,
-        "lng": 127.771591
+        "lat": 35.868114,
+        "lng": 127.772354
       },
       {
-        "lat": 35.864117,
-        "lng": 127.772324
+        "lat": 35.868393,
+        "lng": 127.773148
       }
     ],
-    "color": "#d1215d",
-    "start_point_name": "결빙지역",
-    "length": 414,
-    "time": "6"
+    "color": "#c70ef1",
+    "start_name": "이정표 / 안심대",
+    "length_meter": 78.0,
+    "time_minute": 1
   },
   {
     "path_id": 29,
     "path": [
       {
-        "lat": 35.864117,
-        "lng": 127.772324
+        "lat": 35.868393,
+        "lng": 127.773148
       },
       {
-        "lat": 35.86132,
-        "lng": 127.772614
+        "lat": 35.869987,
+        "lng": 127.774185
       }
     ],
-    "color": "#0e0376",
-    "start_point_name": "명경담",
-    "length": 312,
-    "time": "5"
+    "color": "#f63acb",
+    "start_name": "청류계",
+    "length_meter": 200.4,
+    "time_minute": 3
   },
   {
     "path_id": 30,
     "path": [
       {
-        "lat": 35.86132,
-        "lng": 127.772614
+        "lat": 35.869987,
+        "lng": 127.774185
       },
       {
-        "lat": 35.86079,
-        "lng": 127.770767
+        "lat": 35.872204,
+        "lng": 127.775581
       }
     ],
-    "color": "#8e7255",
-    "start_point_name": "백련담",
-    "length": 176,
-    "time": "2"
+    "color": "#422c01",
+    "start_name": "낙석위험",
+    "length_meter": 276.8,
+    "time_minute": 4
   },
   {
     "path_id": 31,
     "path": [
       {
-        "lat": 35.86079,
-        "lng": 127.770767
+        "lat": 35.872204,
+        "lng": 127.775581
       },
       {
-        "lat": 35.860909,
-        "lng": 127.76841
+        "lat": 35.874855,
+        "lng": 127.775536
       }
     ],
-    "color": "#6b1ab1",
-    "start_point_name": "연화폭",
-    "length": 212,
-    "time": "3"
+    "color": "#40b721",
+    "start_name": "호탄암",
+    "length_meter": 294.8,
+    "time_minute": 4
   },
   {
     "path_id": 32,
     "path": [
       {
-        "lat": 35.860909,
-        "lng": 127.76841
+        "lat": 35.874855,
+        "lng": 127.775536
       },
       {
-        "lat": 35.860512,
-        "lng": 127.768082
+        "lat": 35.876083,
+        "lng": 127.776543
       }
     ],
-    "color": "#3895de",
-    "start_point_name": "매월당 부도",
-    "length": 53,
-    "time": "0"
+    "color": "#f9e382",
+    "start_name": "이정표",
+    "length_meter": 163.9,
+    "time_minute": 2
   },
   {
     "path_id": 33,
     "path": [
       {
-        "lat": 35.860512,
-        "lng": 127.768082
+        "lat": 35.876083,
+        "lng": 127.776543
       },
       {
-        "lat": 35.85902,
-        "lng": 127.767372
+        "lat": 35.878948,
+        "lng": 127.781357
       }
     ],
-    "color": "#7b5e96",
-    "start_point_name": "낙석위험",
-    "length": 177,
-    "time": "2"
+    "color": "#6f4d2b",
+    "start_name": "이정표",
+    "length_meter": 538.2,
+    "time_minute": 8
   },
   {
     "path_id": 34,
     "path": [
       {
-        "lat": 35.85902,
-        "lng": 127.767372
+        "lat": 35.878948,
+        "lng": 127.781357
       },
       {
-        "lat": 35.859154,
-        "lng": 127.767303
+        "lat": 35.879982,
+        "lng": 127.780952
       }
     ],
-    "color": "#f18d08",
-    "start_point_name": "갈림길",
-    "length": 16,
-    "time": "0"
+    "color": "#f68868",
+    "start_name": "구월담 / 이정표",
+    "length_meter": 127.9,
+    "time_minute": 2
   },
   {
     "path_id": 35,
     "path": [
       {
-        "lat": 35.859154,
-        "lng": 127.767303
+        "lat": 35.879982,
+        "lng": 127.780952
       },
       {
-        "lat": 35.860355,
-        "lng": 127.767731
+        "lat": 35.880241,
+        "lng": 127.780067
       }
     ],
-    "color": "#4cc73c",
-    "start_point_name": "이정표",
-    "length": 139,
-    "time": "2"
+    "color": "#084892",
+    "start_name": "이정표 / 비파담",
+    "length_meter": 90.6,
+    "time_minute": 1
   },
   {
     "path_id": 36,
     "path": [
       {
-        "lat": 35.860355,
-        "lng": 127.767731
+        "lat": 35.880241,
+        "lng": 127.780067
       },
       {
-        "lat": 35.860981,
-        "lng": 127.768524
+        "lat": 35.881462,
+        "lng": 127.777153
       }
     ],
-    "color": "#a02d70",
-    "start_point_name": "이속대",
-    "length": 99,
-    "time": "1"
+    "color": "#97bb19",
+    "start_name": "낙석위험 / 이정표",
+    "length_meter": 346.1,
+    "time_minute": 5
   },
   {
     "path_id": 37,
     "path": [
       {
-        "lat": 35.860981,
-        "lng": 127.768524
+        "lat": 35.881462,
+        "lng": 127.777153
       },
       {
-        "lat": 35.86731,
-        "lng": 127.771378
+        "lat": 35.88884,
+        "lng": 127.77803
       }
     ],
-    "color": "#dcee37",
-    "start_point_name": "백련사 일주문",
-    "length": 749,
-    "time": "12"
+    "color": "#0ec41e",
+    "start_name": "사자담",
+    "length_meter": 824.2,
+    "time_minute": 13
   },
   {
     "path_id": 38,
     "path": [
       {
-        "lat": 35.86731,
-        "lng": 127.771378
+        "lat": 35.88884,
+        "lng": 127.77803
       },
       {
-        "lat": 35.868114,
-        "lng": 127.772354
+        "lat": 35.890129,
+        "lng": 127.773552
       }
     ],
-    "color": "#11bf64",
-    "start_point_name": "신양담",
-    "length": 125,
-    "time": "2"
+    "color": "#6cf13f",
+    "start_name": "갈림길 / 구조대사무실",
+    "length_meter": 428.1,
+    "time_minute": 7
   },
   {
     "path_id": 39,
     "path": [
       {
-        "lat": 35.868114,
-        "lng": 127.772354
+        "lat": 35.890129,
+        "lng": 127.773552
       },
       {
-        "lat": 35.868202,
-        "lng": 127.772575
+        "lat": 35.89204,
+        "lng": 127.777069
       }
     ],
-    "color": "#382acc",
-    "start_point_name": "이정표",
-    "length": 22,
-    "time": "0"
+    "color": "#093092",
+    "start_name": "덕유대야영장",
+    "length_meter": 381.5,
+    "time_minute": 6
   },
   {
     "path_id": 40,
     "path": [
       {
-        "lat": 35.868202,
-        "lng": 127.772575
+        "lat": 35.89204,
+        "lng": 127.777069
       },
       {
-        "lat": 35.868393,
-        "lng": 127.773148
+        "lat": 35.895222,
+        "lng": 127.776276
       }
     ],
-    "color": "#f9edf6",
-    "start_point_name": "안심대",
-    "length": 55,
-    "time": "0"
+    "color": "#c610a0",
+    "start_name": "덕유대오토캠핑장",
+    "length_meter": 361.0,
+    "time_minute": 6
   },
   {
     "path_id": 41,
     "path": [
       {
-        "lat": 35.868393,
-        "lng": 127.773148
+        "lat": 35.895222,
+        "lng": 127.776276
       },
       {
-        "lat": 35.869987,
-        "lng": 127.774185
+        "lat": 35.896297,
+        "lng": 127.775871
       }
     ],
-    "color": "#af9d9d",
-    "start_point_name": "청류계",
-    "length": 200,
-    "time": "3"
+    "color": "#df7a3c",
+    "start_name": "구천동탐방지원센터 / 공중화장실",
+    "length_meter": 134.5,
+    "time_minute": 2
   },
   {
     "path_id": 42,
     "path": [
       {
-        "lat": 35.869987,
-        "lng": 127.774185
+        "lat": 35.896297,
+        "lng": 127.775871
       },
       {
-        "lat": 35.872204,
-        "lng": 127.775581
+        "lat": 35.897152,
+        "lng": 127.776176
       }
     ],
-    "color": "#abb891",
-    "start_point_name": "낙석위험",
-    "length": 276,
-    "time": "4"
+    "color": "#37e1be",
+    "start_name": "식수대",
+    "length_meter": 99.0,
+    "time_minute": 1
   },
   {
     "path_id": 43,
     "path": [
       {
-        "lat": 35.872204,
-        "lng": 127.775581
+        "lat": 35.897152,
+        "lng": 127.776176
       },
       {
-        "lat": 35.874855,
-        "lng": 127.775536
+        "lat": 35.899738,
+        "lng": 127.776497
       }
     ],
-    "color": "#02416b",
-    "start_point_name": "호탄암",
-    "length": 294,
-    "time": "4"
+    "color": "#2b1fe7",
+    "start_name": "갈림길",
+    "length_meter": 289.0,
+    "time_minute": 4
   },
   {
     "path_id": 44,
     "path": [
       {
-        "lat": 35.874855,
-        "lng": 127.775536
-      },
-      {
-        "lat": 35.876083,
-        "lng": 127.776543
-      }
-    ],
-    "color": "#16c4c5",
-    "start_point_name": "이정표",
-    "length": 163,
-    "time": "2"
-  },
-  {
-    "path_id": 45,
-    "path": [
-      {
-        "lat": 35.876083,
-        "lng": 127.776543
-      },
-      {
-        "lat": 35.878948,
-        "lng": 127.781357
-      }
-    ],
-    "color": "#f81ab3",
-    "start_point_name": "이정표",
-    "length": 538,
-    "time": "8"
-  },
-  {
-    "path_id": 46,
-    "path": [
-      {
-        "lat": 35.878948,
-        "lng": 127.781357
-      },
-      {
-        "lat": 35.879097,
-        "lng": 127.781464
-      }
-    ],
-    "color": "#f917b6",
-    "start_point_name": "구월담",
-    "length": 19,
-    "time": "0"
-  },
-  {
-    "path_id": 47,
-    "path": [
-      {
-        "lat": 35.879097,
-        "lng": 127.781464
-      },
-      {
-        "lat": 35.879982,
-        "lng": 127.780952
-      }
-    ],
-    "color": "#728d30",
-    "start_point_name": "이정표",
-    "length": 108,
-    "time": "1"
-  },
-  {
-    "path_id": 48,
-    "path": [
-      {
-        "lat": 35.879982,
-        "lng": 127.780952
-      },
-      {
-        "lat": 35.88023,
-        "lng": 127.780624
-      }
-    ],
-    "color": "#8f05b0",
-    "start_point_name": "이정표",
-    "length": 40,
-    "time": "0"
-  },
-  {
-    "path_id": 49,
-    "path": [
-      {
-        "lat": 35.88023,
-        "lng": 127.780624
-      },
-      {
-        "lat": 35.880241,
-        "lng": 127.780067
-      }
-    ],
-    "color": "#f2df52",
-    "start_point_name": "비파담",
-    "length": 50,
-    "time": "0"
-  },
-  {
-    "path_id": 50,
-    "path": [
-      {
-        "lat": 35.880241,
-        "lng": 127.780067
-      },
-      {
-        "lat": 35.880569,
-        "lng": 127.780327
-      }
-    ],
-    "color": "#af84b6",
-    "start_point_name": "낙석위험",
-    "length": 43,
-    "time": "0"
-  },
-  {
-    "path_id": 51,
-    "path": [
-      {
-        "lat": 35.880569,
-        "lng": 127.780327
-      },
-      {
-        "lat": 35.881462,
-        "lng": 127.777153
-      }
-    ],
-    "color": "#9b0040",
-    "start_point_name": "이정표",
-    "length": 302,
-    "time": "5"
-  },
-  {
-    "path_id": 52,
-    "path": [
-      {
-        "lat": 35.881462,
-        "lng": 127.777153
-      },
-      {
-        "lat": 35.88884,
-        "lng": 127.77803
-      }
-    ],
-    "color": "#3f280e",
-    "start_point_name": "사자담",
-    "length": 824,
-    "time": "13"
-  },
-  {
-    "path_id": 53,
-    "path": [
-      {
-        "lat": 35.88884,
-        "lng": 127.77803
-      },
-      {
-        "lat": 35.88884,
-        "lng": 127.77803
-      }
-    ],
-    "color": "#6036da",
-    "start_point_name": "갈림길",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 54,
-    "path": [
-      {
-        "lat": 35.88884,
-        "lng": 127.77803
-      },
-      {
-        "lat": 35.890129,
-        "lng": 127.773552
-      }
-    ],
-    "color": "#f3cca1",
-    "start_point_name": "구조대사무실",
-    "length": 428,
-    "time": "7"
-  },
-  {
-    "path_id": 55,
-    "path": [
-      {
-        "lat": 35.890129,
-        "lng": 127.773552
-      },
-      {
-        "lat": 35.89204,
-        "lng": 127.777069
-      }
-    ],
-    "color": "#6ca4ca",
-    "start_point_name": "덕유대야영장",
-    "length": 381,
-    "time": "6"
-  },
-  {
-    "path_id": 56,
-    "path": [
-      {
-        "lat": 35.89204,
-        "lng": 127.777069
-      },
-      {
-        "lat": 35.895222,
-        "lng": 127.776276
-      }
-    ],
-    "color": "#9be94c",
-    "start_point_name": "덕유대오토캠핑장",
-    "length": 360,
-    "time": "6"
-  },
-  {
-    "path_id": 57,
-    "path": [
-      {
-        "lat": 35.895222,
-        "lng": 127.776276
-      },
-      {
-        "lat": 35.895386,
-        "lng": 127.776413
-      }
-    ],
-    "color": "#7a6fe2",
-    "start_point_name": "구천동탐방지원센터",
-    "length": 22,
-    "time": "0"
-  },
-  {
-    "path_id": 58,
-    "path": [
-      {
-        "lat": 35.895386,
-        "lng": 127.776413
-      },
-      {
-        "lat": 35.896297,
-        "lng": 127.775871
-      }
-    ],
-    "color": "#2db566",
-    "start_point_name": "공중화장실",
-    "length": 112,
-    "time": "1"
-  },
-  {
-    "path_id": 59,
-    "path": [
-      {
-        "lat": 35.896297,
-        "lng": 127.775871
-      },
-      {
-        "lat": 35.897152,
-        "lng": 127.776176
-      }
-    ],
-    "color": "#56790b",
-    "start_point_name": "식수대",
-    "length": 98,
-    "time": "1"
-  },
-  {
-    "path_id": 60,
-    "path": [
-      {
-        "lat": 35.897152,
-        "lng": 127.776176
-      },
-      {
         "lat": 35.899738,
         "lng": 127.776497
-      }
-    ],
-    "color": "#198a3c",
-    "start_point_name": "갈림길",
-    "length": 289,
-    "time": "4"
-  },
-  {
-    "path_id": 61,
-    "path": [
-      {
-        "lat": 35.899738,
-        "lng": 127.776497
-      },
-      {
-        "lat": 35.900135,
-        "lng": 127.776398
-      }
-    ],
-    "color": "#6d092e",
-    "start_point_name": "공중화장실",
-    "length": 45,
-    "time": "0"
-  },
-  {
-    "path_id": 62,
-    "path": [
-      {
-        "lat": 35.900135,
-        "lng": 127.776398
       },
       {
         "lat": 35.900799,
         "lng": 127.7752
       }
     ],
-    "color": "#936202",
-    "start_point_name": "팔각정",
-    "length": 130,
-    "time": "2"
+    "color": "#122d8f",
+    "start_name": "공중화장실 / 팔각정",
+    "length_meter": 175.8,
+    "time_minute": 2
   }
 ]

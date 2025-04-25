@@ -11,10 +11,10 @@
         "lng": 128.078369
       }
     ],
-    "color": "#bd06a9",
-    "start_point_name": "문경관광호텔 들머리",
-    "length": 70,
-    "time": "1"
+    "color": "#ef41a2",
+    "start_name": "문경관광호텔 들머리",
+    "length_meter": 70.5,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 128.079788
       }
     ],
-    "color": "#0140a9",
-    "start_point_name": "소나무지대",
-    "length": 144,
-    "time": "2"
+    "color": "#b6b141",
+    "start_name": "소나무지대",
+    "length_meter": 144.5,
+    "time_minute": 2
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 128.083801
       }
     ],
-    "color": "#c69763",
-    "start_point_name": "등로상태",
-    "length": 374,
-    "time": "6"
+    "color": "#d506e8",
+    "start_name": "등로상태",
+    "length_meter": 374.5,
+    "time_minute": 6
   },
   {
     "path_id": 3,
@@ -58,268 +58,200 @@
         "lng": 128.083801
       },
       {
-        "lat": 36.763649,
-        "lng": 128.083969
+        "lat": 36.766006,
+        "lng": 128.089874
       }
     ],
-    "color": "#1fa2b6",
-    "start_point_name": "갈림길",
-    "length": 47,
-    "time": "0"
+    "color": "#f6a6a4",
+    "start_name": "갈림길 / 참나무 서식지",
+    "length_meter": 635.5,
+    "time_minute": 10
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 36.763649,
-        "lng": 128.083969
-      },
-      {
         "lat": 36.766006,
         "lng": 128.089874
+      },
+      {
+        "lat": 36.766891,
+        "lng": 128.091034
       }
     ],
-    "color": "#4d88a4",
-    "start_point_name": "참나무 서식지",
-    "length": 587,
-    "time": "9"
+    "color": "#f4b3ad",
+    "start_name": "소나무 바위지대",
+    "length_meter": 142.7,
+    "time_minute": 2
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 36.766006,
-        "lng": 128.089874
-      },
-      {
         "lat": 36.766891,
         "lng": 128.091034
+      },
+      {
+        "lat": 36.766602,
+        "lng": 128.093872
       }
     ],
-    "color": "#7bb412",
-    "start_point_name": "소나무 바위지대",
-    "length": 142,
-    "time": "2"
+    "color": "#c412b5",
+    "start_name": "멧돼지 흔적",
+    "length_meter": 254.8,
+    "time_minute": 4
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 36.766891,
-        "lng": 128.091034
-      },
-      {
         "lat": 36.766602,
         "lng": 128.093872
+      },
+      {
+        "lat": 36.766399,
+        "lng": 128.09494
       }
     ],
-    "color": "#e5a835",
-    "start_point_name": "멧돼지 흔적",
-    "length": 254,
-    "time": "4"
+    "color": "#c3d802",
+    "start_name": "짧은 너덜",
+    "length_meter": 97.8,
+    "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 36.766602,
-        "lng": 128.093872
-      },
-      {
         "lat": 36.766399,
         "lng": 128.09494
+      },
+      {
+        "lat": 36.768196,
+        "lng": 128.096268
       }
     ],
-    "color": "#828699",
-    "start_point_name": "짧은 너덜",
-    "length": 97,
-    "time": "1"
+    "color": "#2e8555",
+    "start_name": "너덜길 / 바위 넘어감",
+    "length_meter": 240.4,
+    "time_minute": 4
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 36.766399,
-        "lng": 128.09494
+        "lat": 36.768196,
+        "lng": 128.096268
       },
       {
-        "lat": 36.766418,
-        "lng": 128.095154
+        "lat": 36.768002,
+        "lng": 128.097412
       }
     ],
-    "color": "#206ce4",
-    "start_point_name": "너덜길",
-    "length": 19,
-    "time": "0"
+    "color": "#4821fb",
+    "start_name": "틀목고개 갈림길",
+    "length_meter": 104.2,
+    "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 36.766418,
-        "lng": 128.095154
+        "lat": 36.768002,
+        "lng": 128.097412
       },
       {
-        "lat": 36.768196,
-        "lng": 128.096268
+        "lat": 36.768513,
+        "lng": 128.09816
       }
     ],
-    "color": "#e2e382",
-    "start_point_name": "바위 넘어감",
-    "length": 221,
-    "time": "3"
+    "color": "#ca7715",
+    "start_name": "문경 조망바위 / 주흘관봉",
+    "length_meter": 102.4,
+    "time_minute": 1
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 36.768196,
-        "lng": 128.096268
+        "lat": 36.768513,
+        "lng": 128.09816
       },
       {
-        "lat": 36.768002,
-        "lng": 128.097412
+        "lat": 36.773773,
+        "lng": 128.100296
       }
     ],
-    "color": "#80a414",
-    "start_point_name": "틀목고개 갈림길",
-    "length": 104,
-    "time": "1"
+    "color": "#f5cea3",
+    "start_name": "주흘산 조망처",
+    "length_meter": 615.1,
+    "time_minute": 10
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 36.768002,
-        "lng": 128.097412
+        "lat": 36.773773,
+        "lng": 128.100296
       },
       {
-        "lat": 36.768074,
-        "lng": 128.097977
+        "lat": 36.774113,
+        "lng": 128.100891
       }
     ],
-    "color": "#735562",
-    "start_point_name": "문경 조망바위",
-    "length": 50,
-    "time": "0"
+    "color": "#728e04",
+    "start_name": "부봉조망처",
+    "length_meter": 65.1,
+    "time_minute": 1
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 36.768074,
-        "lng": 128.097977
+        "lat": 36.774113,
+        "lng": 128.100891
       },
       {
-        "lat": 36.768513,
-        "lng": 128.09816
+        "lat": 36.776123,
+        "lng": 128.10173
       }
     ],
-    "color": "#ff9027",
-    "start_point_name": "주흘관봉",
-    "length": 51,
-    "time": "0"
+    "color": "#b857ad",
+    "start_name": "낡은밧줄",
+    "length_meter": 235.7,
+    "time_minute": 3
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 36.768513,
-        "lng": 128.09816
+        "lat": 36.776123,
+        "lng": 128.10173
       },
       {
-        "lat": 36.773773,
-        "lng": 128.100296
+        "lat": 36.774963,
+        "lng": 128.084045
       }
     ],
-    "color": "#f7f531",
-    "start_point_name": "주흘산 조망처",
-    "length": 615,
-    "time": "10"
+    "color": "#cef0b8",
+    "start_name": "위험주의 표지판",
+    "length_meter": 1580.4,
+    "time_minute": 26
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 36.773773,
-        "lng": 128.100296
-      },
-      {
-        "lat": 36.774113,
-        "lng": 128.100891
-      }
-    ],
-    "color": "#c08454",
-    "start_point_name": "부봉조망처",
-    "length": 65,
-    "time": "1"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 36.774113,
-        "lng": 128.100891
-      },
-      {
-        "lat": 36.776123,
-        "lng": 128.10173
-      }
-    ],
-    "color": "#f67e9c",
-    "start_point_name": "낡은밧줄",
-    "length": 235,
-    "time": "3"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 36.776123,
-        "lng": 128.10173
-      },
-      {
         "lat": 36.774963,
         "lng": 128.084045
-      }
-    ],
-    "color": "#f0b444",
-    "start_point_name": "위험주의 표지판",
-    "length": 1580,
-    "time": "26"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 36.774963,
-        "lng": 128.084045
-      },
-      {
-        "lat": 36.774708,
-        "lng": 128.083603
-      }
-    ],
-    "color": "#53bac2",
-    "start_point_name": "혜국사 나가는길",
-    "length": 48,
-    "time": "0"
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 36.774708,
-        "lng": 128.083603
       },
       {
         "lat": 36.761215,
         "lng": 128.077667
       }
     ],
-    "color": "#3fafb1",
-    "start_point_name": "불상탑",
-    "length": 1590,
-    "time": "26"
+    "color": "#c58bd3",
+    "start_name": "혜국사 나가는길 / 불상탑",
+    "length_meter": 1639.3,
+    "time_minute": 27
   }
 ]

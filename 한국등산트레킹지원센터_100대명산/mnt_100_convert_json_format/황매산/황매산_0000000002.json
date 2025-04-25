@@ -7,51 +7,17 @@
         "lng": 127.968697
       },
       {
-        "lat": 35.487068,
-        "lng": 127.969048
-      }
-    ],
-    "color": "#5d8c0c",
-    "start_point_name": "황매산 영화주제공원",
-    "length": 31,
-    "time": "0"
-  },
-  {
-    "path_id": 1,
-    "path": [
-      {
-        "lat": 35.487068,
-        "lng": 127.969048
-      },
-      {
-        "lat": 35.486969,
-        "lng": 127.969223
-      }
-    ],
-    "color": "#30922f",
-    "start_point_name": "황매산 군립공원",
-    "length": 19,
-    "time": "0"
-  },
-  {
-    "path_id": 2,
-    "path": [
-      {
-        "lat": 35.486969,
-        "lng": 127.969223
-      },
-      {
         "lat": 35.485504,
         "lng": 127.971275
       }
     ],
-    "color": "#6b144b",
-    "start_point_name": "신촌식당",
-    "length": 247,
-    "time": "4"
+    "color": "#750a3a",
+    "start_name": "황매산 영화주제공원 / 황매산 군립공원 / 신촌식당",
+    "length_meter": 298.4,
+    "time_minute": 4
   },
   {
-    "path_id": 3,
+    "path_id": 1,
     "path": [
       {
         "lat": 35.485504,
@@ -62,13 +28,13 @@
         "lng": 127.972328
       }
     ],
-    "color": "#fc67d6",
-    "start_point_name": "갈림길",
-    "length": 212,
-    "time": "3"
+    "color": "#d8f474",
+    "start_name": "갈림길",
+    "length_meter": 212.6,
+    "time_minute": 3
   },
   {
-    "path_id": 4,
+    "path_id": 2,
     "path": [
       {
         "lat": 35.487213,
@@ -79,9 +45,9 @@
         "lng": 127.974174
       }
     ],
-    "color": "#838da8",
-    "start_point_name": "정자",
-    "length": 270,
-    "time": "4"
+    "color": "#208dcb",
+    "start_name": "정자",
+    "length_meter": 270.0,
+    "time_minute": 4
   }
 ]

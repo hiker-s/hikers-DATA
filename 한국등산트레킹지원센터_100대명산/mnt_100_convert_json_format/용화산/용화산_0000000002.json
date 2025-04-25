@@ -11,10 +11,10 @@
         "lng": 127.780136
       }
     ],
-    "color": "#a86990",
-    "start_point_name": "갈림길",
-    "length": 655,
-    "time": "10"
+    "color": "#88ba51",
+    "start_name": "갈림길",
+    "length_meter": 655.6,
+    "time_minute": 10
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 127.780739
       }
     ],
-    "color": "#72bc0a",
-    "start_point_name": "산촌생태단지(수불무산 입구)",
-    "length": 387,
-    "time": "6"
+    "color": "#41c3ed",
+    "start_name": "산촌생태단지(수불무산 입구)",
+    "length_meter": 387.5,
+    "time_minute": 6
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 127.775894
       }
     ],
-    "color": "#05ee49",
-    "start_point_name": "쉼터",
-    "length": 961,
-    "time": "16"
+    "color": "#90ce3e",
+    "start_name": "쉼터",
+    "length_meter": 961.0,
+    "time_minute": 16
   },
   {
     "path_id": 3,
@@ -58,187 +58,102 @@
         "lng": 127.775894
       },
       {
-        "lat": 38.040981,
-        "lng": 127.775787
+        "lat": 38.03495,
+        "lng": 127.777168
       }
     ],
-    "color": "#67bc2f",
-    "start_point_name": "국가지점번호",
-    "length": 21,
-    "time": "0"
+    "color": "#4fe881",
+    "start_name": "국가지점번호 / 조망점",
+    "length_meter": 703.1,
+    "time_minute": 11
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 38.040981,
-        "lng": 127.775787
-      },
-      {
         "lat": 38.03495,
         "lng": 127.777168
+      },
+      {
+        "lat": 38.034416,
+        "lng": 127.777107
       }
     ],
-    "color": "#164582",
-    "start_point_name": "조망점",
-    "length": 681,
-    "time": "11"
+    "color": "#829872",
+    "start_name": "수불무산 정상 / 수불무산 정상 바위 조망점 / 수불무산 정상바위",
+    "length_meter": 60.1,
+    "time_minute": 1
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 38.03495,
-        "lng": 127.777168
+        "lat": 38.034416,
+        "lng": 127.777107
       },
       {
-        "lat": 38.034565,
-        "lng": 127.777161
+        "lat": 38.027931,
+        "lng": 127.773186
       }
     ],
-    "color": "#dbaf77",
-    "start_point_name": "수불무산 정상",
-    "length": 42,
-    "time": "0"
+    "color": "#53772f",
+    "start_name": "갈림길",
+    "length_meter": 798.7,
+    "time_minute": 13
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 38.034565,
-        "lng": 127.777161
+        "lat": 38.027931,
+        "lng": 127.773186
       },
       {
-        "lat": 38.034523,
-        "lng": 127.777138
+        "lat": 38.026825,
+        "lng": 127.770836
       }
     ],
-    "color": "#9652b4",
-    "start_point_name": "수불무산 정상 바위 조망점",
-    "length": 5,
-    "time": "0"
+    "color": "#d0bd36",
+    "start_name": "조망점",
+    "length_meter": 239.8,
+    "time_minute": 3
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 38.034523,
-        "lng": 127.777138
+        "lat": 38.026825,
+        "lng": 127.770836
       },
       {
-        "lat": 38.034416,
-        "lng": 127.777107
+        "lat": 38.037968,
+        "lng": 127.779709
       }
     ],
-    "color": "#209dbf",
-    "start_point_name": "수불무산 정상바위",
-    "length": 12,
-    "time": "0"
+    "color": "#e1a1a4",
+    "start_name": "갈림길",
+    "length_meter": 1462.6,
+    "time_minute": 24
   },
   {
     "path_id": 8,
     "path": [
       {
-        "lat": 38.034416,
-        "lng": 127.777107
-      },
-      {
-        "lat": 38.027931,
-        "lng": 127.773186
-      }
-    ],
-    "color": "#6b5421",
-    "start_point_name": "갈림길",
-    "length": 798,
-    "time": "13"
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 38.027931,
-        "lng": 127.773186
-      },
-      {
-        "lat": 38.026825,
-        "lng": 127.770836
-      }
-    ],
-    "color": "#5804cf",
-    "start_point_name": "조망점",
-    "length": 239,
-    "time": "3"
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 38.026825,
-        "lng": 127.770836
-      },
-      {
         "lat": 38.037968,
         "lng": 127.779709
-      }
-    ],
-    "color": "#dca28b",
-    "start_point_name": "갈림길",
-    "length": 1462,
-    "time": "24"
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 38.037968,
-        "lng": 127.779709
-      },
-      {
-        "lat": 38.038395,
-        "lng": 127.779846
-      }
-    ],
-    "color": "#f4eac6",
-    "start_point_name": "조망점",
-    "length": 48,
-    "time": "0"
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 38.038395,
-        "lng": 127.779846
-      },
-      {
-        "lat": 38.038391,
-        "lng": 127.779823
-      }
-    ],
-    "color": "#de573d",
-    "start_point_name": "포토존",
-    "length": 2,
-    "time": "0"
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 38.038391,
-        "lng": 127.779823
       },
       {
         "lat": 38.03952,
         "lng": 127.780937
       }
     ],
-    "color": "#1b5168",
-    "start_point_name": "자연경관",
-    "length": 158,
-    "time": "2"
+    "color": "#c3a675",
+    "start_name": "조망점 / 포토존 / 자연경관",
+    "length_meter": 210.0,
+    "time_minute": 3
   },
   {
-    "path_id": 14,
+    "path_id": 9,
     "path": [
       {
         "lat": 38.03952,
@@ -249,13 +164,13 @@
         "lng": 127.780136
       }
     ],
-    "color": "#c68de3",
-    "start_point_name": "수불무산 전위봉",
-    "length": 103,
-    "time": "1"
+    "color": "#c4867b",
+    "start_name": "수불무산 전위봉",
+    "length_meter": 103.1,
+    "time_minute": 1
   },
   {
-    "path_id": 15,
+    "path_id": 10,
     "path": [
       {
         "lat": 38.040199,
@@ -266,13 +181,13 @@
         "lng": 127.78006
       }
     ],
-    "color": "#9b60e4",
-    "start_point_name": "포토존",
-    "length": 235,
-    "time": "3"
+    "color": "#379a29",
+    "start_name": "포토존",
+    "length_meter": 235.9,
+    "time_minute": 3
   },
   {
-    "path_id": 16,
+    "path_id": 11,
     "path": [
       {
         "lat": 38.04232,
@@ -283,9 +198,9 @@
         "lng": 127.779137
       }
     ],
-    "color": "#1e1d23",
-    "start_point_name": "갈림길",
-    "length": 149,
-    "time": "2"
+    "color": "#1366e8",
+    "start_name": "갈림길",
+    "length_meter": 149.7,
+    "time_minute": 2
   }
 ]

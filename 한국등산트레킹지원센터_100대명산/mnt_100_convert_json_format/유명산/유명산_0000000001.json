@@ -11,10 +11,10 @@
         "lng": 127.489189
       }
     ],
-    "color": "#811d75",
-    "start_point_name": "유명산  제2주차장",
-    "length": 88,
-    "time": "1"
+    "color": "#e21ea9",
+    "start_name": "유명산  제2주차장",
+    "length_meter": 88.9,
+    "time_minute": 1
   },
   {
     "path_id": 1,
@@ -24,136 +24,68 @@
         "lng": 127.489189
       },
       {
-        "lat": 37.592812,
-        "lng": 127.489227
+        "lat": 37.592255,
+        "lng": 127.490898
       }
     ],
-    "color": "#7b05a5",
-    "start_point_name": "솔가든,산장가든,황토마당등",
-    "length": 12,
-    "time": "0"
+    "color": "#1e1fbc",
+    "start_name": "솔가든,산장가든,황토마당등 / 화장실 / 등산로,계곡입구",
+    "length_meter": 225.9,
+    "time_minute": 3
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 37.592812,
-        "lng": 127.489227
+        "lat": 37.592255,
+        "lng": 127.490898
       },
       {
-        "lat": 37.592445,
-        "lng": 127.489006
+        "lat": 37.591637,
+        "lng": 127.491882
       }
     ],
-    "color": "#fec9a9",
-    "start_point_name": "화장실",
-    "length": 45,
-    "time": "0"
+    "color": "#bf3c87",
+    "start_name": "제1주차장",
+    "length_meter": 110.6,
+    "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 37.592445,
-        "lng": 127.489006
+        "lat": 37.591637,
+        "lng": 127.491882
       },
       {
-        "lat": 37.592255,
-        "lng": 127.490898
+        "lat": 37.589355,
+        "lng": 127.490517
       }
     ],
-    "color": "#8a96c8",
-    "start_point_name": "등산로,계곡입구",
-    "length": 168,
-    "time": "2"
+    "color": "#1d74de",
+    "start_name": "유명산 자연  휴양림  캠핑장",
+    "length_meter": 280.8,
+    "time_minute": 4
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.592255,
-        "lng": 127.490898
-      },
-      {
-        "lat": 37.591637,
-        "lng": 127.491882
-      }
-    ],
-    "color": "#25f245",
-    "start_point_name": "제1주차장",
-    "length": 110,
-    "time": "1"
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.591637,
-        "lng": 127.491882
-      },
-      {
         "lat": 37.589355,
         "lng": 127.490517
-      }
-    ],
-    "color": "#ab2a8b",
-    "start_point_name": "유명산 자연  휴양림  캠핑장",
-    "length": 280,
-    "time": "4"
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 37.589355,
-        "lng": 127.490517
-      },
-      {
-        "lat": 37.589348,
-        "lng": 127.490517
-      }
-    ],
-    "color": "#184272",
-    "start_point_name": "갈림길 7",
-    "length": 0,
-    "time": "0"
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.589348,
-        "lng": 127.490517
-      },
-      {
-        "lat": 37.589428,
-        "lng": 127.489983
-      }
-    ],
-    "color": "#4b96bb",
-    "start_point_name": "갈림길 8",
-    "length": 47,
-    "time": "0"
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.589428,
-        "lng": 127.489983
       },
       {
         "lat": 37.587093,
         "lng": 127.486748
       }
     ],
-    "color": "#2976a7",
-    "start_point_name": "갈림길 9",
-    "length": 385,
-    "time": "6"
+    "color": "#904209",
+    "start_name": "갈림길 7 / 갈림길 8 / 갈림길 9",
+    "length_meter": 434.2,
+    "time_minute": 7
   },
   {
-    "path_id": 9,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.587093,
@@ -164,9 +96,9 @@
         "lng": 127.486855
       }
     ],
-    "color": "#1e9cc2",
-    "start_point_name": "갈림길 10",
-    "length": 1300,
-    "time": "21"
+    "color": "#e4aac6",
+    "start_name": "갈림길 10",
+    "length_meter": 1300.6,
+    "time_minute": 21
   }
 ]

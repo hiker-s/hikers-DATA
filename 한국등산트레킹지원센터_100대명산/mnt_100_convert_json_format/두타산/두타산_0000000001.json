@@ -7,102 +7,51 @@
         "lng": 129.012466
       },
       {
-        "lat": 37.384884,
-        "lng": 129.013123
+        "lat": 37.384945,
+        "lng": 129.013
       }
     ],
-    "color": "#b17325",
-    "start_point_name": "댓재주차장",
-    "length": 58,
-    "time": "0"
+    "color": "#4a30fd",
+    "start_name": "댓재주차장 / 댓재조망대",
+    "length_meter": 70.9,
+    "time_minute": 1
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 37.384884,
-        "lng": 129.013123
-      },
-      {
         "lat": 37.384945,
         "lng": 129.013
+      },
+      {
+        "lat": 37.384998,
+        "lng": 129.012146
       }
     ],
-    "color": "#a886d5",
-    "start_point_name": "댓재조망대",
-    "length": 12,
-    "time": "0"
+    "color": "#67b26a",
+    "start_name": "댓재조형물 / 댓재휴게소",
+    "length_meter": 79.3,
+    "time_minute": 1
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 37.384945,
-        "lng": 129.013
-      },
-      {
-        "lat": 37.385078,
-        "lng": 129.012589
-      }
-    ],
-    "color": "#ce3fcd",
-    "start_point_name": "댓재조형물",
-    "length": 39,
-    "time": "0"
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 37.385078,
-        "lng": 129.012589
-      },
-      {
         "lat": 37.384998,
         "lng": 129.012146
-      }
-    ],
-    "color": "#65cb0e",
-    "start_point_name": "댓재휴게소",
-    "length": 40,
-    "time": "0"
-  },
-  {
-    "path_id": 4,
-    "path": [
-      {
-        "lat": 37.384998,
-        "lng": 129.012146
-      },
-      {
-        "lat": 37.385403,
-        "lng": 129.011978
-      }
-    ],
-    "color": "#f64d64",
-    "start_point_name": "댓재화장실",
-    "length": 47,
-    "time": "0"
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.385403,
-        "lng": 129.011978
       },
       {
         "lat": 37.38868,
         "lng": 129.014954
       }
     ],
-    "color": "#497dfb",
-    "start_point_name": "갈림길",
-    "length": 449,
-    "time": "7"
+    "color": "#ee50b4",
+    "start_name": "댓재화장실 / 갈림길",
+    "length_meter": 496.8,
+    "time_minute": 8
   },
   {
-    "path_id": 6,
+    "path_id": 3,
     "path": [
       {
         "lat": 37.38868,
@@ -113,13 +62,13 @@
         "lng": 129.016495
       }
     ],
-    "color": "#577087",
-    "start_point_name": "간이쉼터",
-    "length": 278,
-    "time": "4"
+    "color": "#10ef7a",
+    "start_name": "간이쉼터",
+    "length_meter": 278.2,
+    "time_minute": 4
   },
   {
-    "path_id": 7,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.390862,
@@ -130,13 +79,13 @@
         "lng": 129.011749
       }
     ],
-    "color": "#059af8",
-    "start_point_name": "햇댓등",
-    "length": 426,
-    "time": "7"
+    "color": "#d215f1",
+    "start_name": "햇댓등",
+    "length_meter": 426.0,
+    "time_minute": 7
   },
   {
-    "path_id": 8,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.391541,
@@ -147,13 +96,13 @@
         "lng": 129.009369
       }
     ],
-    "color": "#9f5b17",
-    "start_point_name": "갈림길",
-    "length": 211,
-    "time": "3"
+    "color": "#14db79",
+    "start_name": "갈림길",
+    "length_meter": 211.7,
+    "time_minute": 3
   },
   {
-    "path_id": 9,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.391323,
@@ -164,13 +113,13 @@
         "lng": 129.004669
       }
     ],
-    "color": "#667a5d",
-    "start_point_name": "급경사지",
-    "length": 1155,
-    "time": "19"
+    "color": "#2ae52a",
+    "start_name": "급경사지",
+    "length_meter": 1155.4,
+    "time_minute": 19
   },
   {
-    "path_id": 10,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.40102,
@@ -181,13 +130,13 @@
         "lng": 129.008575
       }
     ],
-    "color": "#8ad66b",
-    "start_point_name": "조망점",
-    "length": 1298,
-    "time": "21"
+    "color": "#48bad4",
+    "start_name": "조망점",
+    "length_meter": 1298.4,
+    "time_minute": 21
   },
   {
-    "path_id": 11,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.412277,
@@ -198,9 +147,9 @@
         "lng": 129.004639
       }
     ],
-    "color": "#d4d4d9",
-    "start_point_name": "갈림길",
-    "length": 1297,
-    "time": "21"
+    "color": "#79fd16",
+    "start_name": "갈림길",
+    "length_meter": 1297.5,
+    "time_minute": 21
   }
 ]

@@ -11,10 +11,10 @@
         "lng": 129.003616
       }
     ],
-    "color": "#a0f5b6",
-    "start_point_name": "예수원정류장",
-    "length": 1029,
-    "time": "17"
+    "color": "#ded11f",
+    "start_name": "예수원정류장",
+    "length_meter": 1029.2,
+    "time_minute": 17
   },
   {
     "path_id": 1,
@@ -28,10 +28,10 @@
         "lng": 129.004608
       }
     ],
-    "color": "#5d98e8",
-    "start_point_name": "덕항산 등산로입구, 외나무골",
-    "length": 88,
-    "time": "1"
+    "color": "#022b90",
+    "start_name": "덕항산 등산로입구, 외나무골",
+    "length_meter": 88.3,
+    "time_minute": 1
   },
   {
     "path_id": 2,
@@ -45,10 +45,10 @@
         "lng": 129.006256
       }
     ],
-    "color": "#0b16fc",
-    "start_point_name": "갈림길",
-    "length": 145,
-    "time": "2"
+    "color": "#9b2071",
+    "start_name": "갈림길",
+    "length_meter": 145.8,
+    "time_minute": 2
   },
   {
     "path_id": 3,
@@ -62,10 +62,10 @@
         "lng": 129.012299
       }
     ],
-    "color": "#df1053",
-    "start_point_name": "갈림길",
-    "length": 537,
-    "time": "8"
+    "color": "#971d58",
+    "start_name": "갈림길",
+    "length_meter": 537.1,
+    "time_minute": 8
   },
   {
     "path_id": 4,
@@ -79,10 +79,10 @@
         "lng": 129.01503
       }
     ],
-    "color": "#a72997",
-    "start_point_name": "갈림길",
-    "length": 253,
-    "time": "4"
+    "color": "#c55f35",
+    "start_name": "갈림길",
+    "length_meter": 253.6,
+    "time_minute": 4
   },
   {
     "path_id": 5,
@@ -96,10 +96,10 @@
         "lng": 129.017395
       }
     ],
-    "color": "#14c03e",
-    "start_point_name": "갈림길",
-    "length": 254,
-    "time": "4"
+    "color": "#43ab24",
+    "start_name": "갈림길",
+    "length_meter": 254.8,
+    "time_minute": 4
   },
   {
     "path_id": 6,
@@ -113,10 +113,10 @@
         "lng": 129.018327
       }
     ],
-    "color": "#158525",
-    "start_point_name": "갈림길",
-    "length": 164,
-    "time": "2"
+    "color": "#41c9ff",
+    "start_name": "갈림길",
+    "length_meter": 164.4,
+    "time_minute": 2
   },
   {
     "path_id": 7,
@@ -130,10 +130,10 @@
         "lng": 129.017838
       }
     ],
-    "color": "#14f296",
-    "start_point_name": "웨이포인트 10",
-    "length": 165,
-    "time": "2"
+    "color": "#659179",
+    "start_name": "웨이포인트 10",
+    "length_meter": 165.1,
+    "time_minute": 2
   },
   {
     "path_id": 8,
@@ -147,10 +147,10 @@
         "lng": 129.016815
       }
     ],
-    "color": "#cce69c",
-    "start_point_name": "갈림길",
-    "length": 90,
-    "time": "1"
+    "color": "#79d46c",
+    "start_name": "갈림길",
+    "length_meter": 90.5,
+    "time_minute": 1
   },
   {
     "path_id": 9,
@@ -160,149 +160,98 @@
         "lng": 129.016815
       },
       {
-        "lat": 37.304924,
-        "lng": 129.016636
+        "lat": 37.305382,
+        "lng": 129.0159
       }
     ],
-    "color": "#230e61",
-    "start_point_name": "갈림길",
-    "length": 18,
-    "time": "0"
+    "color": "#d79fb4",
+    "start_name": "갈림길 / 웨이포인트 13",
+    "length_meter": 100.8,
+    "time_minute": 1
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 37.304924,
-        "lng": 129.016636
-      },
-      {
         "lat": 37.305382,
         "lng": 129.0159
+      },
+      {
+        "lat": 37.308937,
+        "lng": 129.012405
       }
     ],
-    "color": "#aed8e4",
-    "start_point_name": "웨이포인트 13",
-    "length": 82,
-    "time": "1"
+    "color": "#6ca8d4",
+    "start_name": "전망좋은곳",
+    "length_meter": 501.8,
+    "time_minute": 8
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 37.305382,
-        "lng": 129.0159
-      },
-      {
         "lat": 37.308937,
         "lng": 129.012405
+      },
+      {
+        "lat": 37.310471,
+        "lng": 129.011871
       }
     ],
-    "color": "#b937f2",
-    "start_point_name": "전망좋은곳",
-    "length": 501,
-    "time": "8"
+    "color": "#2d03b6",
+    "start_name": "덕항산 정상",
+    "length_meter": 177.0,
+    "time_minute": 2
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 37.308937,
-        "lng": 129.012405
-      },
-      {
         "lat": 37.310471,
         "lng": 129.011871
+      },
+      {
+        "lat": 37.309258,
+        "lng": 129.008606
       }
     ],
-    "color": "#34b822",
-    "start_point_name": "덕항산 정상",
-    "length": 176,
-    "time": "2"
+    "color": "#0b80c5",
+    "start_name": "쉼터 가기전 / 낭떠러지",
+    "length_meter": 350.4,
+    "time_minute": 5
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 37.310471,
-        "lng": 129.011871
+        "lat": 37.309258,
+        "lng": 129.008606
       },
       {
-        "lat": 37.310726,
-        "lng": 129.011688
+        "lat": 37.306412,
+        "lng": 128.993835
       }
     ],
-    "color": "#b0cfde",
-    "start_point_name": "쉼터 가기전",
-    "length": 32,
-    "time": "0"
+    "color": "#25ec18",
+    "start_name": "나무쓰러짐",
+    "length_meter": 1344.2,
+    "time_minute": 22
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 37.310726,
-        "lng": 129.011688
-      },
-      {
-        "lat": 37.309258,
-        "lng": 129.008606
-      }
-    ],
-    "color": "#b7609f",
-    "start_point_name": "낭떠러지",
-    "length": 317,
-    "time": "5"
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.309258,
-        "lng": 129.008606
-      },
-      {
         "lat": 37.306412,
         "lng": 128.993835
-      }
-    ],
-    "color": "#1075dd",
-    "start_point_name": "나무쓰러짐",
-    "length": 1344,
-    "time": "22"
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
-        "lat": 37.306412,
-        "lng": 128.993835
-      },
-      {
-        "lat": 37.306538,
-        "lng": 128.993561
-      }
-    ],
-    "color": "#59a1ec",
-    "start_point_name": "나무다리 중간",
-    "length": 27,
-    "time": "0"
-  },
-  {
-    "path_id": 17,
-    "path": [
-      {
-        "lat": 37.306538,
-        "lng": 128.993561
       },
       {
         "lat": 37.304291,
         "lng": 128.991959
       }
     ],
-    "color": "#f93670",
-    "start_point_name": "예수원정류장",
-    "length": 287,
-    "time": "4"
+    "color": "#2ddedf",
+    "start_name": "나무다리 중간 / 예수원정류장",
+    "length_meter": 315.2,
+    "time_minute": 5
   }
 ]
