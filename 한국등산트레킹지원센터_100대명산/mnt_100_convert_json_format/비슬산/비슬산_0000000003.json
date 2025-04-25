@@ -11,7 +11,7 @@
         "lng": 128.505798
       }
     ],
-    "color": "#960a99",
+    "color": "#122770",
     "start_name": "비슬산 자연휴양림 공용주차장 / 주차장 화장실 / 관광해설사의집 / 비슬산자연휴양림 버스",
     "length_meter": 74.8,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.507446
       }
     ],
-    "color": "#1ce12d",
+    "color": "#b815b0",
     "start_name": "식당 정보 / 자연 휴양림 매점 식당",
     "length_meter": 274.1,
     "time_minute": 4
@@ -45,7 +45,7 @@
         "lng": 128.50827
       }
     ],
-    "color": "#4a7687",
+    "color": "#36ab35",
     "start_name": "비슬산 치유센터",
     "length_meter": 109.4,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 128.508789
       }
     ],
-    "color": "#7f42db",
+    "color": "#b11932",
     "start_name": "갈림길",
     "length_meter": 139.2,
     "time_minute": 2
@@ -79,7 +79,7 @@
         "lng": 128.507721
       }
     ],
-    "color": "#5b5073",
+    "color": "#6b65b4",
     "start_name": "쉄터2",
     "length_meter": 97.7,
     "time_minute": 1
@@ -92,19 +92,36 @@
         "lng": 128.507721
       },
       {
-        "lat": 35.689026,
-        "lng": 128.508759
+        "lat": 35.690155,
+        "lng": 128.507675
       }
     ],
-    "color": "#c4d711",
-    "start_name": "갈림길 / 쉼터3",
-    "length_meter": 163.5,
-    "time_minute": 2
+    "color": "#c23f25",
+    "start_name": "갈림길",
+    "length_meter": 4.3,
+    "time_minute": 0
   },
   {
     "path_id": 6,
     "path": [
       {
+        "lat": 35.690155,
+        "lng": 128.507675
+      },
+      {
+        "lat": 35.689026,
+        "lng": 128.508759
+      }
+    ],
+    "color": "#a358aa",
+    "start_name": "쉼터3",
+    "length_meter": 159.2,
+    "time_minute": 2
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
         "lat": 35.689026,
         "lng": 128.508759
       },
@@ -113,13 +130,13 @@
         "lng": 128.51059
       }
     ],
-    "color": "#5d51ea",
+    "color": "#4b02a1",
     "start_name": "갈림길",
     "length_meter": 213.1,
     "time_minute": 3
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.687817,
@@ -130,13 +147,13 @@
         "lng": 128.512527
       }
     ],
-    "color": "#51002e",
+    "color": "#a9583b",
     "start_name": "쉼터4 / 갈림길",
     "length_meter": 359.6,
     "time_minute": 5
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.685028,
@@ -147,13 +164,13 @@
         "lng": 128.517578
       }
     ],
-    "color": "#74eac2",
+    "color": "#11325a",
     "start_name": "헬기장",
     "length_meter": 930.2,
     "time_minute": 15
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 35.677738,
@@ -164,13 +181,13 @@
         "lng": 128.518051
       }
     ],
-    "color": "#915bf8",
+    "color": "#242ab8",
     "start_name": "관기봉",
     "length_meter": 66.8,
     "time_minute": 1
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.6782,
@@ -181,13 +198,13 @@
         "lng": 128.52269
       }
     ],
-    "color": "#a94d12",
+    "color": "#a38877",
     "start_name": "멋진뷰",
     "length_meter": 529.9,
     "time_minute": 8
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.681118,
@@ -198,30 +215,47 @@
         "lng": 128.520828
       }
     ],
-    "color": "#f0408d",
+    "color": "#5c4dc0",
     "start_name": "갈림길",
     "length_meter": 419.9,
     "time_minute": 6
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.684578,
         "lng": 128.520828
+      },
+      {
+        "lat": 35.684475,
+        "lng": 128.520645
+      }
+    ],
+    "color": "#42b33a",
+    "start_name": "금수암 전망대",
+    "length_meter": 20.1,
+    "time_minute": 0
+  },
+  {
+    "path_id": 14,
+    "path": [
+      {
+        "lat": 35.684475,
+        "lng": 128.520645
       },
       {
         "lat": 35.685658,
         "lng": 128.516403
       }
     ],
-    "color": "#80cbce",
-    "start_name": "금수암 전망대 / 금빛약수터 / 갈림길",
-    "length_meter": 463.1,
+    "color": "#82836d",
+    "start_name": "금빛약수터 / 갈림길",
+    "length_meter": 443.0,
     "time_minute": 7
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.685658,
@@ -232,7 +266,7 @@
         "lng": 128.516052
       }
     ],
-    "color": "#8d5792",
+    "color": "#7803ab",
     "start_name": "쉼터5",
     "length_meter": 32.4,
     "time_minute": 0

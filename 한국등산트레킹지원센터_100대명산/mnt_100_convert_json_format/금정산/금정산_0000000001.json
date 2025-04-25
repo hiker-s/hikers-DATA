@@ -11,7 +11,7 @@
         "lng": 129.051544
       }
     ],
-    "color": "#2bb0ec",
+    "color": "#3d9a1c",
     "start_name": "갈림길",
     "length_meter": 2239.7,
     "time_minute": 37
@@ -28,7 +28,7 @@
         "lng": 129.050827
       }
     ],
-    "color": "#7139c6",
+    "color": "#744652",
     "start_name": "고당샘 / 갈림길",
     "length_meter": 108.5,
     "time_minute": 1
@@ -41,13 +41,30 @@
         "lng": 129.050827
       },
       {
+        "lat": 35.280159,
+        "lng": 129.050583
+      }
+    ],
+    "color": "#b6687e",
+    "start_name": "고당봉전망대",
+    "length_meter": 37.8,
+    "time_minute": 0
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 35.280159,
+        "lng": 129.050583
+      },
+      {
         "lat": 35.279476,
         "lng": 129.050552
       }
     ],
-    "color": "#08df4b",
-    "start_name": "고당봉전망대 / 고당봉",
-    "length_meter": 113.8,
+    "color": "#c1486d",
+    "start_name": "고당봉",
+    "length_meter": 76.0,
     "time_minute": 1
   }
 ]

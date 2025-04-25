@@ -11,7 +11,7 @@
         "lng": 126.472618
       }
     ],
-    "color": "#f19940",
+    "color": "#2a3486",
     "start_name": "무오법정사 버스정류장 / 한라산둘레길 입구 / 무오법정사 버스정류장",
     "length_meter": 1504.6,
     "time_minute": 25
@@ -28,7 +28,7 @@
         "lng": 126.472519
       }
     ],
-    "color": "#f8ad65",
+    "color": "#bf0057",
     "start_name": "무오법정사 함일운동 발원지 / 동백길 안내센터 / 동백길 입구 주차장 / 동백길 입구 화장실",
     "length_meter": 87.2,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 126.473442
       }
     ],
-    "color": "#834681",
+    "color": "#609f16",
     "start_name": "동백길 입구",
     "length_meter": 237.1,
     "time_minute": 3
@@ -62,7 +62,7 @@
         "lng": 126.473953
       }
     ],
-    "color": "#369bf4",
+    "color": "#b1868c",
     "start_name": "무오법정사 항일운동 기넘탑",
     "length_meter": 267.2,
     "time_minute": 4
@@ -79,7 +79,7 @@
         "lng": 126.477371
       }
     ],
-    "color": "#10b7cd",
+    "color": "#881f4e",
     "start_name": "갈림길",
     "length_meter": 324.8,
     "time_minute": 5
@@ -96,7 +96,7 @@
         "lng": 126.499504
       }
     ],
-    "color": "#d55b2f",
+    "color": "#6b464c",
     "start_name": "둥백나무 군락지",
     "length_meter": 2213.5,
     "time_minute": 36
@@ -113,7 +113,7 @@
         "lng": 126.501122
       }
     ],
-    "color": "#edb7ee",
+    "color": "#1a5703",
     "start_name": "갈림길",
     "length_meter": 151.4,
     "time_minute": 2
@@ -130,7 +130,7 @@
         "lng": 126.503197
       }
     ],
-    "color": "#3738af",
+    "color": "#208c78",
     "start_name": "숯가마터",
     "length_meter": 194.6,
     "time_minute": 3
@@ -147,7 +147,7 @@
         "lng": 126.513168
       }
     ],
-    "color": "#be57a5",
+    "color": "#964a81",
     "start_name": "표고버섯재배지",
     "length_meter": 1041.3,
     "time_minute": 17
@@ -164,7 +164,7 @@
         "lng": 126.518143
       }
     ],
-    "color": "#5f36f4",
+    "color": "#b0b202",
     "start_name": "4.3주둔소",
     "length_meter": 487.4,
     "time_minute": 8
@@ -177,17 +177,34 @@
         "lng": 126.518143
       },
       {
+        "lat": 33.308815,
+        "lng": 126.518295
+      }
+    ],
+    "color": "#4d6423",
+    "start_name": "서귀포 치유의 숲",
+    "length_meter": 15.3,
+    "time_minute": 0
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 33.308815,
+        "lng": 126.518295
+      },
+      {
         "lat": 33.308159,
         "lng": 126.527397
       }
     ],
-    "color": "#cb4e89",
-    "start_name": "서귀포 치유의 숲 / 시오름입구",
-    "length_meter": 864.3,
+    "color": "#10b779",
+    "start_name": "시오름입구",
+    "length_meter": 849.0,
     "time_minute": 14
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 33.308159,
@@ -198,13 +215,13 @@
         "lng": 126.536499
       }
     ],
-    "color": "#d836dc",
+    "color": "#611733",
     "start_name": "갈림길",
     "length_meter": 900.8,
     "time_minute": 15
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 33.310947,
@@ -215,13 +232,13 @@
         "lng": 126.539276
       }
     ],
-    "color": "#85e778",
+    "color": "#353772",
     "start_name": "편백나무 군락지 쉼터 / 편백나무 군락지",
     "length_meter": 837.6,
     "time_minute": 13
   },
   {
-    "path_id": 13,
+    "path_id": 14,
     "path": [
       {
         "lat": 33.318054,
@@ -232,13 +249,13 @@
         "lng": 126.545143
       }
     ],
-    "color": "#975889",
+    "color": "#8c8b21",
     "start_name": "대피소",
     "length_meter": 715.9,
     "time_minute": 11
   },
   {
-    "path_id": 14,
+    "path_id": 15,
     "path": [
       {
         "lat": 33.322227,
@@ -249,13 +266,13 @@
         "lng": 126.547691
       }
     ],
-    "color": "#f83123",
+    "color": "#a0122a",
     "start_name": "미끄럼 주의",
     "length_meter": 236.7,
     "time_minute": 3
   },
   {
-    "path_id": 15,
+    "path_id": 16,
     "path": [
       {
         "lat": 33.322227,
@@ -266,13 +283,13 @@
         "lng": 126.549698
       }
     ],
-    "color": "#942d94",
+    "color": "#b17812",
     "start_name": "미끄럼주의",
     "length_meter": 191.0,
     "time_minute": 3
   },
   {
-    "path_id": 16,
+    "path_id": 17,
     "path": [
       {
         "lat": 33.321854,
@@ -283,13 +300,13 @@
         "lng": 126.571449
       }
     ],
-    "color": "#c03aa5",
+    "color": "#2e6fb2",
     "start_name": "갈림길",
     "length_meter": 2205.5,
     "time_minute": 36
   },
   {
-    "path_id": 17,
+    "path_id": 18,
     "path": [
       {
         "lat": 33.313915,
@@ -300,13 +317,13 @@
         "lng": 126.571167
       }
     ],
-    "color": "#6a1885",
+    "color": "#517b71",
     "start_name": "화장실 / 돈내코안내소 / 돈내코안내소 입구",
     "length_meter": 366.1,
     "time_minute": 6
   },
   {
-    "path_id": 18,
+    "path_id": 19,
     "path": [
       {
         "lat": 33.310749,
@@ -317,13 +334,13 @@
         "lng": 126.570435
       }
     ],
-    "color": "#e538ea",
+    "color": "#299a2d",
     "start_name": "돈내코주차장",
     "length_meter": 346.6,
     "time_minute": 5
   },
   {
-    "path_id": 19,
+    "path_id": 20,
     "path": [
       {
         "lat": 33.307693,
@@ -334,13 +351,13 @@
         "lng": 126.458344
       }
     ],
-    "color": "#a46b95",
+    "color": "#3a5225",
     "start_name": "충혼묘지광장",
     "length_meter": 10431.7,
     "time_minute": 173
   },
   {
-    "path_id": 20,
+    "path_id": 21,
     "path": [
       {
         "lat": 33.302685,
@@ -351,13 +368,13 @@
         "lng": 126.472626
       }
     ],
-    "color": "#5e1117",
+    "color": "#2e6228",
     "start_name": "무오법정사 버스정류장",
     "length_meter": 1478.0,
     "time_minute": 24
   },
   {
-    "path_id": 21,
+    "path_id": 22,
     "path": [
       {
         "lat": 33.308533,
@@ -368,13 +385,13 @@
         "lng": 126.475883
       }
     ],
-    "color": "#ad1b22",
+    "color": "#c174b8",
     "start_name": "동백길 안내센터 / 동백길 입구",
     "length_meter": 624.0,
     "time_minute": 10
   },
   {
-    "path_id": 22,
+    "path_id": 23,
     "path": [
       {
         "lat": 33.313354,
@@ -385,13 +402,13 @@
         "lng": 126.571465
       }
     ],
-    "color": "#1caf98",
+    "color": "#a57905",
     "start_name": "무오정사 항일발원지 쉼터",
     "length_meter": 8882.0,
     "time_minute": 148
   },
   {
-    "path_id": 23,
+    "path_id": 24,
     "path": [
       {
         "lat": 33.313972,
@@ -402,7 +419,7 @@
         "lng": 126.571404
       }
     ],
-    "color": "#478280",
+    "color": "#636f29",
     "start_name": "돈내코안내소",
     "length_meter": 34.8,
     "time_minute": 0

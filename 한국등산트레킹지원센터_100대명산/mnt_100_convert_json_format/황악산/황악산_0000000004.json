@@ -11,7 +11,7 @@
         "lng": 128.009293
       }
     ],
-    "color": "#817b17",
+    "color": "#95539d",
     "start_name": "갈림길",
     "length_meter": 264.8,
     "time_minute": 4
@@ -28,7 +28,7 @@
         "lng": 127.998825
       }
     ],
-    "color": "#3cfd12",
+    "color": "#b70463",
     "start_name": "정자",
     "length_meter": 1038.0,
     "time_minute": 17
@@ -45,7 +45,7 @@
         "lng": 127.967659
       }
     ],
-    "color": "#41b39b",
+    "color": "#a971af",
     "start_name": "갈림길",
     "length_meter": 2875.1,
     "time_minute": 47
@@ -58,17 +58,34 @@
         "lng": 127.967659
       },
       {
+        "lat": 36.118507,
+        "lng": 127.967514
+      }
+    ],
+    "color": "#9e5936",
+    "start_name": "정상 근처 조망점",
+    "length_meter": 17.3,
+    "time_minute": 0
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 36.118507,
+        "lng": 127.967514
+      },
+      {
         "lat": 36.111858,
         "lng": 127.967186
       }
     ],
-    "color": "#ee70fa",
-    "start_name": "정상 근처 조망점 / 흑염소 한 쌍",
-    "length_meter": 757.3,
+    "color": "#3c7803",
+    "start_name": "흑염소 한 쌍",
+    "length_meter": 739.9,
     "time_minute": 12
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 36.111858,
@@ -79,7 +96,7 @@
         "lng": 128.001175
       }
     ],
-    "color": "#e1080e",
+    "color": "#7eb753",
     "start_name": "갈림길",
     "length_meter": 3087.2,
     "time_minute": 51

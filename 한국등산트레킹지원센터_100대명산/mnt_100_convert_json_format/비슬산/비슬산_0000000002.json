@@ -11,7 +11,7 @@
         "lng": 128.512054
       }
     ],
-    "color": "#e400fc",
+    "color": "#9a8f8c",
     "start_name": "용연사(버스 ID 01833)",
     "length_meter": 71.8,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.515671
       }
     ],
-    "color": "#ca87c9",
+    "color": "#ae4090",
     "start_name": "화장실",
     "length_meter": 421.1,
     "time_minute": 7
@@ -45,7 +45,7 @@
         "lng": 128.518143
       }
     ],
-    "color": "#20f343",
+    "color": "#acb5bd",
     "start_name": "대형버스 주차장",
     "length_meter": 275.4,
     "time_minute": 4
@@ -62,7 +62,7 @@
         "lng": 128.518768
       }
     ],
-    "color": "#dd15bd",
+    "color": "#69b392",
     "start_name": "용연사 화장실 / 용연사 주차장",
     "length_meter": 60.1,
     "time_minute": 1
@@ -79,7 +79,7 @@
         "lng": 128.519394
       }
     ],
-    "color": "#c3d123",
+    "color": "#3d7bc4",
     "start_name": "약수터 / 문화관광 해설사의 집",
     "length_meter": 80.3,
     "time_minute": 1
@@ -96,7 +96,7 @@
         "lng": 128.534485
       }
     ],
-    "color": "#7b16c9",
+    "color": "#0c4a57",
     "start_name": "용연사 / 갈림길",
     "length_meter": 1381.0,
     "time_minute": 23
@@ -113,7 +113,7 @@
         "lng": 128.535309
       }
     ],
-    "color": "#117647",
+    "color": "#3e448f",
     "start_name": "화장실",
     "length_meter": 74.7,
     "time_minute": 1
@@ -130,7 +130,7 @@
         "lng": 128.53566
       }
     ],
-    "color": "#f46b85",
+    "color": "#b97bbf",
     "start_name": "용연사약수터",
     "length_meter": 68.4,
     "time_minute": 1
@@ -147,7 +147,7 @@
         "lng": 128.5383
       }
     ],
-    "color": "#c9251b",
+    "color": "#8a8422",
     "start_name": "갈림길",
     "length_meter": 958.7,
     "time_minute": 15
@@ -164,7 +164,7 @@
         "lng": 128.539276
       }
     ],
-    "color": "#c0e480",
+    "color": "#a469b4",
     "start_name": "간이쉼터",
     "length_meter": 237.4,
     "time_minute": 3
@@ -181,7 +181,7 @@
         "lng": 128.533386
       }
     ],
-    "color": "#935634",
+    "color": "#2cad4b",
     "start_name": "갈림길",
     "length_meter": 654.3,
     "time_minute": 10
@@ -198,7 +198,7 @@
         "lng": 128.529175
       }
     ],
-    "color": "#0f2b76",
+    "color": "#6f3365",
     "start_name": "거대 암석",
     "length_meter": 680.2,
     "time_minute": 11
@@ -215,7 +215,7 @@
         "lng": 128.523041
       }
     ],
-    "color": "#97c25e",
+    "color": "#8e1b56",
     "start_name": "갈림길",
     "length_meter": 1438.2,
     "time_minute": 23
@@ -232,7 +232,7 @@
         "lng": 128.523697
       }
     ],
-    "color": "#179a5b",
+    "color": "#7d2407",
     "start_name": "대구 도시 뷰",
     "length_meter": 174.9,
     "time_minute": 2
@@ -249,7 +249,7 @@
         "lng": 128.52359
       }
     ],
-    "color": "#9625d7",
+    "color": "#3e094c",
     "start_name": "갈림길",
     "length_meter": 184.7,
     "time_minute": 3
@@ -262,34 +262,51 @@
         "lng": 128.52359
       },
       {
-        "lat": 35.715126,
-        "lng": 128.524155
+        "lat": 35.715382,
+        "lng": 128.523819
       }
     ],
-    "color": "#bb727e",
-    "start_name": "비슬산 천왕봉 / 비슬산 역사소개 / 정상 정자와 푸른하늘 / 정자 / 정상 능선 뷰",
-    "length_meter": 81.5,
-    "time_minute": 1
+    "color": "#6a9c28",
+    "start_name": "비슬산 천왕봉 / 비슬산 역사소개 / 정상 정자와 푸른하늘 / 정자",
+    "length_meter": 39.9,
+    "time_minute": 0
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 35.715126,
-        "lng": 128.524155
+        "lat": 35.715382,
+        "lng": 128.523819
+      },
+      {
+        "lat": 35.715317,
+        "lng": 128.524536
+      }
+    ],
+    "color": "#361193",
+    "start_name": "정상 능선 뷰 / 갈림길",
+    "length_meter": 82.0,
+    "time_minute": 1
+  },
+  {
+    "path_id": 17,
+    "path": [
+      {
+        "lat": 35.715317,
+        "lng": 128.524536
       },
       {
         "lat": 35.718922,
         "lng": 128.521133
       }
     ],
-    "color": "#79cb14",
-    "start_name": "갈림길 / 정상뷰",
-    "length_meter": 545.5,
-    "time_minute": 9
+    "color": "#5687b3",
+    "start_name": "정상뷰",
+    "length_meter": 505.0,
+    "time_minute": 8
   },
   {
-    "path_id": 17,
+    "path_id": 18,
     "path": [
       {
         "lat": 35.718922,
@@ -300,13 +317,13 @@
         "lng": 128.520142
       }
     ],
-    "color": "#19502c",
+    "color": "#b066ab",
     "start_name": "거대암석",
     "length_meter": 89.6,
     "time_minute": 1
   },
   {
-    "path_id": 18,
+    "path_id": 19,
     "path": [
       {
         "lat": 35.718872,
@@ -317,13 +334,13 @@
         "lng": 128.516708
       }
     ],
-    "color": "#13b530",
+    "color": "#5f983a",
     "start_name": "도성암 조망",
     "length_meter": 323.4,
     "time_minute": 5
   },
   {
-    "path_id": 19,
+    "path_id": 20,
     "path": [
       {
         "lat": 35.7197,
@@ -334,13 +351,13 @@
         "lng": 128.514648
       }
     ],
-    "color": "#e5c593",
+    "color": "#af19ad",
     "start_name": "정상이 보이는 자리",
     "length_meter": 201.9,
     "time_minute": 3
   },
   {
-    "path_id": 20,
+    "path_id": 21,
     "path": [
       {
         "lat": 35.718994,
@@ -351,13 +368,13 @@
         "lng": 128.513718
       }
     ],
-    "color": "#4b74ad",
+    "color": "#542fad",
     "start_name": "거대암석",
     "length_meter": 104.8,
     "time_minute": 1
   },
   {
-    "path_id": 21,
+    "path_id": 22,
     "path": [
       {
         "lat": 35.71843,
@@ -368,13 +385,13 @@
         "lng": 128.515701
       }
     ],
-    "color": "#9dcb96",
+    "color": "#5c7ea4",
     "start_name": "갈림길",
     "length_meter": 229.1,
     "time_minute": 3
   },
   {
-    "path_id": 22,
+    "path_id": 23,
     "path": [
       {
         "lat": 35.717144,
@@ -385,13 +402,13 @@
         "lng": 128.515854
       }
     ],
-    "color": "#e1a40b",
+    "color": "#6f4e92",
     "start_name": "도성암 공터 주차장 / 화장실",
     "length_meter": 72.8,
     "time_minute": 1
   },
   {
-    "path_id": 23,
+    "path_id": 24,
     "path": [
       {
         "lat": 35.717117,
@@ -402,13 +419,13 @@
         "lng": 128.515121
       }
     ],
-    "color": "#a8297c",
+    "color": "#85be41",
     "start_name": "정상이 보이는 자리 / 갈림길",
     "length_meter": 108.2,
     "time_minute": 1
   },
   {
-    "path_id": 24,
+    "path_id": 25,
     "path": [
       {
         "lat": 35.717827,
@@ -419,13 +436,13 @@
         "lng": 128.514633
       }
     ],
-    "color": "#977db6",
+    "color": "#280ca5",
     "start_name": "도성암 / 정상이 보이는 자리",
     "length_meter": 65.1,
     "time_minute": 1
   },
   {
-    "path_id": 25,
+    "path_id": 26,
     "path": [
       {
         "lat": 35.71788,
@@ -436,13 +453,13 @@
         "lng": 128.512726
       }
     ],
-    "color": "#381007",
+    "color": "#0ba232",
     "start_name": "도성암에서 본 풍경",
     "length_meter": 175.7,
     "time_minute": 2
   },
   {
-    "path_id": 26,
+    "path_id": 27,
     "path": [
       {
         "lat": 35.718197,
@@ -453,13 +470,13 @@
         "lng": 128.510452
       }
     ],
-    "color": "#82ce6e",
+    "color": "#be5f6e",
     "start_name": "갈림길",
     "length_meter": 370.4,
     "time_minute": 6
   },
   {
-    "path_id": 27,
+    "path_id": 28,
     "path": [
       {
         "lat": 35.715424,
@@ -470,13 +487,13 @@
         "lng": 128.505661
       }
     ],
-    "color": "#fb578a",
+    "color": "#270688",
     "start_name": "돌탑들 / 갈림길",
     "length_meter": 534.7,
     "time_minute": 8
   },
   {
-    "path_id": 28,
+    "path_id": 29,
     "path": [
       {
         "lat": 35.712635,
@@ -487,13 +504,13 @@
         "lng": 128.502365
       }
     ],
-    "color": "#1d5399",
+    "color": "#094f00",
     "start_name": "유가사",
     "length_meter": 331.4,
     "time_minute": 5
   },
   {
-    "path_id": 29,
+    "path_id": 30,
     "path": [
       {
         "lat": 35.713947,
@@ -504,13 +521,13 @@
         "lng": 128.501709
       }
     ],
-    "color": "#b5eabb",
+    "color": "#8794b7",
     "start_name": "정상이 보이는곳",
     "length_meter": 65.7,
     "time_minute": 1
   },
   {
-    "path_id": 30,
+    "path_id": 31,
     "path": [
       {
         "lat": 35.713692,
@@ -521,7 +538,7 @@
         "lng": 128.501358
       }
     ],
-    "color": "#701ce9",
+    "color": "#4d4e5f",
     "start_name": "화장실 / 유가사 천왕봉 등산객 전용 주차장",
     "length_meter": 39.8,
     "time_minute": 0

@@ -11,7 +11,7 @@
         "lng": 128.292786
       }
     ],
-    "color": "#2bb192",
+    "color": "#27af47",
     "start_name": "버스 가산2리",
     "length_meter": 101.6,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.291046
       }
     ],
-    "color": "#6d11c7",
+    "color": "#92c36c",
     "start_name": "상선암주차장",
     "length_meter": 199.6,
     "time_minute": 3
@@ -41,19 +41,36 @@
         "lng": 128.291046
       },
       {
-        "lat": 36.872227,
-        "lng": 128.295044
+        "lat": 36.872456,
+        "lng": 128.29097
       }
     ],
-    "color": "#dccbb8",
-    "start_name": "갈림길 / 상선암",
-    "length_meter": 373.5,
-    "time_minute": 6
+    "color": "#1b9e41",
+    "start_name": "갈림길",
+    "length_meter": 10.2,
+    "time_minute": 0
   },
   {
     "path_id": 3,
     "path": [
       {
+        "lat": 36.872456,
+        "lng": 128.29097
+      },
+      {
+        "lat": 36.872227,
+        "lng": 128.295044
+      }
+    ],
+    "color": "#2c37b2",
+    "start_name": "상선암",
+    "length_meter": 363.3,
+    "time_minute": 6
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
         "lat": 36.872227,
         "lng": 128.295044
       },
@@ -62,13 +79,13 @@
         "lng": 128.295883
       }
     ],
-    "color": "#91696c",
+    "color": "#83108c",
     "start_name": "갈림길 / 선암가든식당",
     "length_meter": 98.9,
     "time_minute": 1
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 36.871727,
@@ -79,13 +96,13 @@
         "lng": 128.300476
       }
     ],
-    "color": "#d14640",
+    "color": "#8aa07c",
     "start_name": "상선암",
     "length_meter": 573.9,
     "time_minute": 9
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 36.868103,
@@ -96,13 +113,13 @@
         "lng": 128.304047
       }
     ],
-    "color": "#f06421",
+    "color": "#2f0647",
     "start_name": "상선암봉 / 경관",
     "length_meter": 400.8,
     "time_minute": 6
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 36.865906,
@@ -113,13 +130,13 @@
         "lng": 128.306122
       }
     ],
-    "color": "#d7165f",
+    "color": "#c3adc5",
     "start_name": "바위",
     "length_meter": 186.9,
     "time_minute": 3
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 36.865643,
@@ -130,30 +147,47 @@
         "lng": 128.305679
       }
     ],
-    "color": "#473fc6",
+    "color": "#8a3547",
     "start_name": "제봉",
     "length_meter": 654.0,
     "time_minute": 10
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 36.859772,
         "lng": 128.305679
+      },
+      {
+        "lat": 36.85965,
+        "lng": 128.305695
+      }
+    ],
+    "color": "#c5c276",
+    "start_name": "바위",
+    "length_meter": 13.6,
+    "time_minute": 0
+  },
+  {
+    "path_id": 10,
+    "path": [
+      {
+        "lat": 36.85965,
+        "lng": 128.305695
       },
       {
         "lat": 36.858513,
         "lng": 128.308182
       }
     ],
-    "color": "#dcdb6f",
-    "start_name": "바위 / 형봉 / 갈림길",
-    "length_meter": 268.5,
+    "color": "#0bb292",
+    "start_name": "형봉 / 갈림길",
+    "length_meter": 254.9,
     "time_minute": 4
   },
   {
-    "path_id": 9,
+    "path_id": 11,
     "path": [
       {
         "lat": 36.858513,
@@ -164,13 +198,13 @@
         "lng": 128.308853
       }
     ],
-    "color": "#8de743",
+    "color": "#907f65",
     "start_name": "포토존",
     "length_meter": 110.1,
     "time_minute": 1
   },
   {
-    "path_id": 10,
+    "path_id": 12,
     "path": [
       {
         "lat": 36.857681,
@@ -181,13 +215,13 @@
         "lng": 128.311111
       }
     ],
-    "color": "#07c626",
+    "color": "#6fb801",
     "start_name": "갈림길",
     "length_meter": 251.8,
     "time_minute": 4
   },
   {
-    "path_id": 11,
+    "path_id": 13,
     "path": [
       {
         "lat": 36.856316,
@@ -198,13 +232,13 @@
         "lng": 128.308853
       }
     ],
-    "color": "#1266cf",
+    "color": "#0c911f",
     "start_name": "도락산",
     "length_meter": 250.3,
     "time_minute": 4
   },
   {
-    "path_id": 12,
+    "path_id": 14,
     "path": [
       {
         "lat": 36.857658,
@@ -215,13 +249,13 @@
         "lng": 128.307755
       }
     ],
-    "color": "#637a13",
+    "color": "#804a4c",
     "start_name": "낙뢰위험지역",
     "length_meter": 167.6,
     "time_minute": 2
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 36.858883,
@@ -232,13 +266,13 @@
         "lng": 128.303558
       }
     ],
-    "color": "#24fa73",
+    "color": "#04af7d",
     "start_name": "신선봉",
     "length_meter": 379.5,
     "time_minute": 6
   },
   {
-    "path_id": 14,
+    "path_id": 16,
     "path": [
       {
         "lat": 36.858276,
@@ -249,13 +283,13 @@
         "lng": 128.301468
       }
     ],
-    "color": "#9f6144",
+    "color": "#ac0fbc",
     "start_name": "채운봉",
     "length_meter": 191.1,
     "time_minute": 3
   },
   {
-    "path_id": 15,
+    "path_id": 17,
     "path": [
       {
         "lat": 36.858673,
@@ -266,13 +300,13 @@
         "lng": 128.300522
       }
     ],
-    "color": "#247a85",
+    "color": "#268d51",
     "start_name": "추락위험주의 / 조망",
     "length_meter": 94.2,
     "time_minute": 1
   },
   {
-    "path_id": 16,
+    "path_id": 18,
     "path": [
       {
         "lat": 36.859051,
@@ -283,13 +317,13 @@
         "lng": 128.299622
       }
     ],
-    "color": "#8c5a84",
+    "color": "#43bc2e",
     "start_name": "바위",
     "length_meter": 80.8,
     "time_minute": 1
   },
   {
-    "path_id": 17,
+    "path_id": 19,
     "path": [
       {
         "lat": 36.859146,
@@ -300,13 +334,13 @@
         "lng": 128.295273
       }
     ],
-    "color": "#a3accc",
+    "color": "#8b65c7",
     "start_name": "검봉",
     "length_meter": 909.7,
     "time_minute": 15
   },
   {
-    "path_id": 18,
+    "path_id": 20,
     "path": [
       {
         "lat": 36.86655,
@@ -317,7 +351,7 @@
         "lng": 128.292816
       }
     ],
-    "color": "#9af2e5",
+    "color": "#378b63",
     "start_name": "작은선바위",
     "length_meter": 800.8,
     "time_minute": 13

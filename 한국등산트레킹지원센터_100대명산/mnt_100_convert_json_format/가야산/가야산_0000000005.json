@@ -11,7 +11,7 @@
         "lng": 128.136398
       }
     ],
-    "color": "#145dd3",
+    "color": "#7d0944",
     "start_name": "가야산성",
     "length_meter": 335.8,
     "time_minute": 5
@@ -28,7 +28,7 @@
         "lng": 128.135468
       }
     ],
-    "color": "#699668",
+    "color": "#9f21a8",
     "start_name": "낙석주의",
     "length_meter": 175.7,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 128.134277
       }
     ],
-    "color": "#8f5830",
+    "color": "#73921b",
     "start_name": "나무의자 / 쉼터옆 계곡",
     "length_meter": 131.0,
     "time_minute": 2
@@ -62,7 +62,7 @@
         "lng": 128.124359
       }
     ],
-    "color": "#c1a575",
+    "color": "#1cadb3",
     "start_name": "낙석주의",
     "length_meter": 1063.5,
     "time_minute": 17
@@ -79,7 +79,7 @@
         "lng": 128.12381
       }
     ],
-    "color": "#7ed27e",
+    "color": "#4fc006",
     "start_name": "자연경관 / 조망",
     "length_meter": 69.3,
     "time_minute": 1
@@ -96,7 +96,7 @@
         "lng": 128.122681
       }
     ],
-    "color": "#d51dad",
+    "color": "#9e795a",
     "start_name": "자연경관",
     "length_meter": 188.8,
     "time_minute": 3
@@ -109,17 +109,34 @@
         "lng": 128.122681
       },
       {
+        "lat": 35.822544,
+        "lng": 128.122849
+      }
+    ],
+    "color": "#1a78c1",
+    "start_name": "갈림길",
+    "length_meter": 15.2,
+    "time_minute": 0
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
+        "lat": 35.822544,
+        "lng": 128.122849
+      },
+      {
         "lat": 35.823132,
         "lng": 128.12059
       }
     ],
-    "color": "#64e9b1",
-    "start_name": "갈림길 / 칠불봉",
-    "length_meter": 229.1,
+    "color": "#200193",
+    "start_name": "칠불봉",
+    "length_meter": 213.9,
     "time_minute": 3
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.823132,
@@ -130,13 +147,13 @@
         "lng": 128.128616
       }
     ],
-    "color": "#132e5c",
+    "color": "#29791a",
     "start_name": "갈림길",
     "length_meter": 1159.3,
     "time_minute": 19
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.814987,
@@ -147,7 +164,7 @@
         "lng": 128.141891
       }
     ],
-    "color": "#40e316",
+    "color": "#328e74",
     "start_name": "백운암지",
     "length_meter": 1972.5,
     "time_minute": 32

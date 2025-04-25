@@ -11,7 +11,7 @@
         "lng": 127.582588
       }
     ],
-    "color": "#6d1e04",
+    "color": "#66819d",
     "start_name": "용문산 tourist",
     "length_meter": 69.7,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 127.582054
       }
     ],
-    "color": "#29d402",
+    "color": "#611932",
     "start_name": ",매표소",
     "length_meter": 71.5,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 127.581467
       }
     ],
-    "color": "#812c55",
+    "color": "#225e9a",
     "start_name": "용문산 관광지 / 가족화장실",
     "length_meter": 98.1,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 127.580429
       }
     ],
-    "color": "#2eef26",
+    "color": "#689f93",
     "start_name": "칰환경농업박물관",
     "length_meter": 98.5,
     "time_minute": 1
@@ -79,7 +79,7 @@
         "lng": 127.579697
       }
     ],
-    "color": "#1998d9",
+    "color": "#4c1630",
     "start_name": "한국민족독립운동발상지",
     "length_meter": 69.1,
     "time_minute": 1
@@ -96,7 +96,7 @@
         "lng": 127.57399
       }
     ],
-    "color": "#ee7a8b",
+    "color": "#727a00",
     "start_name": "용문사 입구",
     "length_meter": 526.1,
     "time_minute": 8
@@ -113,7 +113,7 @@
         "lng": 127.571877
       }
     ],
-    "color": "#e7f0b4",
+    "color": "#3f3dc4",
     "start_name": "용유정",
     "length_meter": 196.7,
     "time_minute": 3
@@ -130,7 +130,7 @@
         "lng": 127.571754
       }
     ],
-    "color": "#fbd410",
+    "color": "#172c91",
     "start_name": "용문사 사천왕문 / 미르 / 용문사 테플스테이",
     "length_meter": 101.2,
     "time_minute": 1
@@ -143,36 +143,70 @@
         "lng": 127.571754
       },
       {
-        "lat": 37.551605,
-        "lng": 127.569008
+        "lat": 37.54995,
+        "lng": 127.571671
       }
     ],
-    "color": "#33d778",
-    "start_name": "용문사 은행나무 / 용문사",
-    "length_meter": 305.9,
-    "time_minute": 5
+    "color": "#b6c18c",
+    "start_name": "용문사 은행나무",
+    "length_meter": 7.6,
+    "time_minute": 0
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.551605,
-        "lng": 127.569008
+        "lat": 37.54995,
+        "lng": 127.571671
       },
       {
-        "lat": 37.55143,
-        "lng": 127.562859
+        "lat": 37.551605,
+        "lng": 127.569008
       }
     ],
-    "color": "#6c45d9",
-    "start_name": "갈림길 / 벤취",
-    "length_meter": 544.6,
-    "time_minute": 9
+    "color": "#0134ab",
+    "start_name": "용문사",
+    "length_meter": 298.3,
+    "time_minute": 4
   },
   {
     "path_id": 10,
     "path": [
       {
+        "lat": 37.551605,
+        "lng": 127.569008
+      },
+      {
+        "lat": 37.551674,
+        "lng": 127.568832
+      }
+    ],
+    "color": "#0a5d50",
+    "start_name": "갈림길",
+    "length_meter": 17.3,
+    "time_minute": 0
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 37.551674,
+        "lng": 127.568832
+      },
+      {
+        "lat": 37.55143,
+        "lng": 127.562859
+      }
+    ],
+    "color": "#3f6e0d",
+    "start_name": "벤취",
+    "length_meter": 527.3,
+    "time_minute": 8
+  },
+  {
+    "path_id": 12,
+    "path": [
+      {
         "lat": 37.55143,
         "lng": 127.562859
       },
@@ -181,66 +215,83 @@
         "lng": 127.55397
       }
     ],
-    "color": "#6cf93e",
+    "color": "#b39317",
     "start_name": "갈림길",
     "length_meter": 878.9,
     "time_minute": 14
   },
   {
-    "path_id": 11,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.547852,
         "lng": 127.55397
       },
       {
-        "lat": 37.553051,
-        "lng": 127.539543
+        "lat": 37.547756,
+        "lng": 127.553551
       }
     ],
-    "color": "#456963",
-    "start_name": "상원사 주차장 / 상원사 / 갈림길",
-    "length_meter": 1410.2,
-    "time_minute": 23
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 37.553051,
-        "lng": 127.539543
-      },
-      {
-        "lat": 37.549671,
-        "lng": 127.534241
-      }
-    ],
-    "color": "#186b45",
-    "start_name": "장군봉 / 갈림길",
-    "length_meter": 600.9,
-    "time_minute": 10
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.549671,
-        "lng": 127.534241
-      },
-      {
-        "lat": 37.541302,
-        "lng": 127.528229
-      }
-    ],
-    "color": "#8da781",
-    "start_name": "함왕봉 / 갈림길",
-    "length_meter": 1075.4,
-    "time_minute": 17
+    "color": "#39908e",
+    "start_name": "상원사 주차장",
+    "length_meter": 38.5,
+    "time_minute": 0
   },
   {
     "path_id": 14,
     "path": [
       {
+        "lat": 37.547756,
+        "lng": 127.553551
+      },
+      {
+        "lat": 37.553051,
+        "lng": 127.539543
+      }
+    ],
+    "color": "#6c1f06",
+    "start_name": "상원사 / 갈림길",
+    "length_meter": 1371.7,
+    "time_minute": 22
+  },
+  {
+    "path_id": 15,
+    "path": [
+      {
+        "lat": 37.553051,
+        "lng": 127.539543
+      },
+      {
+        "lat": 37.549671,
+        "lng": 127.534241
+      }
+    ],
+    "color": "#30102c",
+    "start_name": "장군봉 / 갈림길",
+    "length_meter": 600.9,
+    "time_minute": 10
+  },
+  {
+    "path_id": 16,
+    "path": [
+      {
+        "lat": 37.549671,
+        "lng": 127.534241
+      },
+      {
+        "lat": 37.541302,
+        "lng": 127.528229
+      }
+    ],
+    "color": "#81c179",
+    "start_name": "함왕봉 / 갈림길",
+    "length_meter": 1075.4,
+    "time_minute": 17
+  },
+  {
+    "path_id": 17,
+    "path": [
+      {
         "lat": 37.541302,
         "lng": 127.528229
       },
@@ -249,13 +300,13 @@
         "lng": 127.52858
       }
     ],
-    "color": "#1ed6fe",
+    "color": "#2b7683",
     "start_name": "백운봉 조망",
     "length_meter": 339.9,
     "time_minute": 5
   },
   {
-    "path_id": 15,
+    "path_id": 18,
     "path": [
       {
         "lat": 37.538258,
@@ -266,13 +317,13 @@
         "lng": 127.528038
       }
     ],
-    "color": "#86aadb",
+    "color": "#c56eb4",
     "start_name": "갈림길",
     "length_meter": 456.8,
     "time_minute": 7
   },
   {
-    "path_id": 16,
+    "path_id": 19,
     "path": [
       {
         "lat": 37.534172,
@@ -283,30 +334,47 @@
         "lng": 127.527107
       }
     ],
-    "color": "#84498c",
+    "color": "#5f106b",
     "start_name": "백운봉 계단",
     "length_meter": 104.1,
     "time_minute": 1
   },
   {
-    "path_id": 17,
+    "path_id": 20,
     "path": [
       {
         "lat": 37.533596,
         "lng": 127.527107
+      },
+      {
+        "lat": 37.533504,
+        "lng": 127.527069
+      }
+    ],
+    "color": "#ba9321",
+    "start_name": "백운봉 / 백운봉2",
+    "length_meter": 25.6,
+    "time_minute": 0
+  },
+  {
+    "path_id": 21,
+    "path": [
+      {
+        "lat": 37.533504,
+        "lng": 127.527069
       },
       {
         "lat": 37.530666,
         "lng": 127.528198
       }
     ],
-    "color": "#12d832",
-    "start_name": "백운봉 / 백운봉2 / 백운봉1",
-    "length_meter": 356.5,
+    "color": "#15593f",
+    "start_name": "백운봉1",
+    "length_meter": 330.9,
     "time_minute": 5
   },
   {
-    "path_id": 18,
+    "path_id": 22,
     "path": [
       {
         "lat": 37.530666,
@@ -317,13 +385,13 @@
         "lng": 127.52758
       }
     ],
-    "color": "#0fcc2d",
+    "color": "#7a9b60",
     "start_name": "갈림길",
     "length_meter": 628.0,
     "time_minute": 10
   },
   {
-    "path_id": 19,
+    "path_id": 23,
     "path": [
       {
         "lat": 37.52504,
@@ -334,13 +402,13 @@
         "lng": 127.526894
       }
     ],
-    "color": "#d69ade",
+    "color": "#432038",
     "start_name": "평상",
     "length_meter": 926.3,
     "time_minute": 15
   },
   {
-    "path_id": 20,
+    "path_id": 24,
     "path": [
       {
         "lat": 37.516727,
@@ -351,13 +419,13 @@
         "lng": 127.52578
       }
     ],
-    "color": "#840648",
+    "color": "#23234a",
     "start_name": "갈림길",
     "length_meter": 132.8,
     "time_minute": 2
   },
   {
-    "path_id": 21,
+    "path_id": 25,
     "path": [
       {
         "lat": 37.515923,
@@ -368,13 +436,13 @@
         "lng": 127.519096
       }
     ],
-    "color": "#147286",
+    "color": "#56aa41",
     "start_name": "두리봉 / 갈림길",
     "length_meter": 616.0,
     "time_minute": 10
   },
   {
-    "path_id": 22,
+    "path_id": 26,
     "path": [
       {
         "lat": 37.515221,
@@ -385,7 +453,7 @@
         "lng": 127.514648
       }
     ],
-    "color": "#3f9722",
+    "color": "#5c2820",
     "start_name": "용문산자연휴양림",
     "length_meter": 996.3,
     "time_minute": 16

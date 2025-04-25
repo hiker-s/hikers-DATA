@@ -11,7 +11,7 @@
         "lng": 126.623863
       }
     ],
-    "color": "#64bf83",
+    "color": "#8e6e44",
     "start_name": "바디재 / 바디재입구",
     "length_meter": 510.7,
     "time_minute": 8
@@ -28,7 +28,7 @@
         "lng": 126.622643
       }
     ],
-    "color": "#4fd5e0",
+    "color": "#082c33",
     "start_name": "옥녀봉80m전 / 옥녀봉전",
     "length_meter": 116.1,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 126.622932
       }
     ],
-    "color": "#8eb03f",
+    "color": "#377a0b",
     "start_name": "옥녀봉",
     "length_meter": 698.2,
     "time_minute": 11
@@ -58,19 +58,36 @@
         "lng": 126.622932
       },
       {
-        "lat": 35.627056,
-        "lng": 126.620384
+        "lat": 35.628578,
+        "lng": 126.622963
       }
     ],
-    "color": "#a938f2",
-    "start_name": "옥녀봉조망 / 관음봉조망",
-    "length_meter": 337.4,
-    "time_minute": 5
+    "color": "#24b19d",
+    "start_name": "옥녀봉조망",
+    "length_meter": 49.3,
+    "time_minute": 0
   },
   {
     "path_id": 4,
     "path": [
       {
+        "lat": 35.628578,
+        "lng": 126.622963
+      },
+      {
+        "lat": 35.627056,
+        "lng": 126.620384
+      }
+    ],
+    "color": "#2d1b21",
+    "start_name": "관음봉조망",
+    "length_meter": 288.1,
+    "time_minute": 4
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
         "lat": 35.627056,
         "lng": 126.620384
       },
@@ -79,13 +96,13 @@
         "lng": 126.609375
       }
     ],
-    "color": "#24cabd",
+    "color": "#3dbe5e",
     "start_name": "갈림길",
     "length_meter": 1471.3,
     "time_minute": 24
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 35.636803,
@@ -96,13 +113,13 @@
         "lng": 126.603065
       }
     ],
-    "color": "#a64def",
+    "color": "#780207",
     "start_name": "원시림",
     "length_meter": 692.6,
     "time_minute": 11
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 35.640339,
@@ -113,13 +130,13 @@
         "lng": 126.600899
       }
     ],
-    "color": "#58409f",
+    "color": "#465f73",
     "start_name": "계곡길",
     "length_meter": 206.5,
     "time_minute": 3
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.639748,
@@ -130,30 +147,47 @@
         "lng": 126.600471
       }
     ],
-    "color": "#1d956e",
+    "color": "#1658b8",
     "start_name": "세봉조망",
     "length_meter": 88.3,
     "time_minute": 1
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.639034,
         "lng": 126.600471
+      },
+      {
+        "lat": 35.639065,
+        "lng": 126.601105
+      }
+    ],
+    "color": "#044dbf",
+    "start_name": "갈림길",
+    "length_meter": 57.4,
+    "time_minute": 0
+  },
+  {
+    "path_id": 10,
+    "path": [
+      {
+        "lat": 35.639065,
+        "lng": 126.601105
       },
       {
         "lat": 35.637283,
         "lng": 126.596672
       }
     ],
-    "color": "#196244",
-    "start_name": "갈림길 / 와룡소",
-    "length_meter": 504.3,
-    "time_minute": 8
+    "color": "#672a5c",
+    "start_name": "와룡소",
+    "length_meter": 446.9,
+    "time_minute": 7
   },
   {
-    "path_id": 9,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.637283,
@@ -164,13 +198,13 @@
         "lng": 126.593491
       }
     ],
-    "color": "#27a6aa",
+    "color": "#be3b43",
     "start_name": "갈림길",
     "length_meter": 303.7,
     "time_minute": 5
   },
   {
-    "path_id": 10,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.636402,
@@ -181,13 +215,13 @@
         "lng": 126.591461
       }
     ],
-    "color": "#e7fe7c",
+    "color": "#84a08f",
     "start_name": "내변산 봉우리 조망",
     "length_meter": 536.7,
     "time_minute": 8
   },
   {
-    "path_id": 11,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.631866,
@@ -198,13 +232,13 @@
         "lng": 126.591751
       }
     ],
-    "color": "#56aa4f",
+    "color": "#247997",
     "start_name": "직소보 조망",
     "length_meter": 193.0,
     "time_minute": 3
   },
   {
-    "path_id": 12,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.630146,
@@ -215,13 +249,13 @@
         "lng": 126.591003
       }
     ],
-    "color": "#dd6ec8",
+    "color": "#bbc5b6",
     "start_name": "세봉삼거리전",
     "length_meter": 573.2,
     "time_minute": 9
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.625027,
@@ -232,13 +266,13 @@
         "lng": 126.592949
       }
     ],
-    "color": "#8af88d",
+    "color": "#4a83a3",
     "start_name": "곰소만 / 신전봉배경",
     "length_meter": 472.7,
     "time_minute": 7
   },
   {
-    "path_id": 14,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.621082,
@@ -249,13 +283,13 @@
         "lng": 126.594681
       }
     ],
-    "color": "#7da6d4",
+    "color": "#0f3b5f",
     "start_name": "호수",
     "length_meter": 624.0,
     "time_minute": 10
   },
   {
-    "path_id": 15,
+    "path_id": 17,
     "path": [
       {
         "lat": 35.61565,
@@ -266,13 +300,13 @@
         "lng": 126.59095
       }
     ],
-    "color": "#d591b6",
+    "color": "#0d2660",
     "start_name": "곰소만 / 관음봉",
     "length_meter": 504.0,
     "time_minute": 8
   },
   {
-    "path_id": 16,
+    "path_id": 18,
     "path": [
       {
         "lat": 35.612282,
@@ -283,7 +317,7 @@
         "lng": 126.590515
       }
     ],
-    "color": "#8deaee",
+    "color": "#9d6c1c",
     "start_name": "입암전망대",
     "length_meter": 99.3,
     "time_minute": 1

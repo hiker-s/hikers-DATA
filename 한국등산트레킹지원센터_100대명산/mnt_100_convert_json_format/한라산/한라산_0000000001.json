@@ -11,7 +11,7 @@
         "lng": 126.619652
       }
     ],
-    "color": "#c894b3",
+    "color": "#4f0e1f",
     "start_name": "281번 / 성판악주차장 / 성판악 매점 / 국립공원사무소",
     "length_meter": 72.8,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 126.581253
       }
     ],
-    "color": "#c8ae00",
+    "color": "#c2247f",
     "start_name": "화장실 / 한라산 성판악 들머리",
     "length_meter": 3604.3,
     "time_minute": 60
@@ -41,19 +41,36 @@
         "lng": 126.581253
       },
       {
-        "lat": 33.373276,
-        "lng": 126.568733
+        "lat": 33.380138,
+        "lng": 126.581245
       }
     ],
-    "color": "#a99655",
-    "start_name": "속밭대피소 / 화장실",
-    "length_meter": 1391.0,
-    "time_minute": 23
+    "color": "#27c51e",
+    "start_name": "속밭대피소",
+    "length_meter": 1.1,
+    "time_minute": 0
   },
   {
     "path_id": 3,
     "path": [
       {
+        "lat": 33.380138,
+        "lng": 126.581245
+      },
+      {
+        "lat": 33.373276,
+        "lng": 126.568733
+      }
+    ],
+    "color": "#17326e",
+    "start_name": "화장실",
+    "length_meter": 1390.0,
+    "time_minute": 23
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
         "lat": 33.373276,
         "lng": 126.568733
       },
@@ -62,13 +79,13 @@
         "lng": 126.569962
       }
     ],
-    "color": "#1e8d4e",
+    "color": "#0b86b7",
     "start_name": "갈림길",
     "length_meter": 249.5,
     "time_minute": 4
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 33.371281,
@@ -79,13 +96,13 @@
         "lng": 126.5718
       }
     ],
-    "color": "#571a85",
+    "color": "#414ba1",
     "start_name": "사라오름",
     "length_meter": 218.6,
     "time_minute": 3
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 33.370052,
@@ -96,13 +113,13 @@
         "lng": 126.55584
       }
     ],
-    "color": "#f106f0",
+    "color": "#5abd74",
     "start_name": "사라오름 전망대 조망",
     "length_meter": 1482.9,
     "time_minute": 24
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 33.369617,
@@ -113,13 +130,13 @@
         "lng": 126.535667
       }
     ],
-    "color": "#38f58a",
+    "color": "#19b9a1",
     "start_name": "진달래밭대피소 / 화장실",
     "length_meter": 2104.9,
     "time_minute": 35
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 33.361015,
@@ -130,13 +147,13 @@
         "lng": 126.534637
       }
     ],
-    "color": "#8e1384",
+    "color": "#46825c",
     "start_name": "한라산 백록담",
     "length_meter": 289.5,
     "time_minute": 4
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 33.363472,
@@ -147,13 +164,13 @@
         "lng": 126.533279
       }
     ],
-    "color": "#733ed9",
+    "color": "#c13a22",
     "start_name": "조망",
     "length_meter": 716.6,
     "time_minute": 11
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 33.369816,
@@ -164,13 +181,13 @@
         "lng": 126.530083
       }
     ],
-    "color": "#4717bb",
+    "color": "#137e54",
     "start_name": "용진각 대피소 자리",
     "length_meter": 399.3,
     "time_minute": 6
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 33.372219,
@@ -181,13 +198,13 @@
         "lng": 126.529587
       }
     ],
-    "color": "#cf3549",
+    "color": "#58225e",
     "start_name": "용진각 현수교",
     "length_meter": 67.7,
     "time_minute": 1
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 33.372665,
@@ -198,30 +215,47 @@
         "lng": 126.530624
       }
     ],
-    "color": "#d737d6",
+    "color": "#0cb9b9",
     "start_name": "약수터",
     "length_meter": 427.2,
     "time_minute": 7
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 33.376408,
         "lng": 126.530624
+      },
+      {
+        "lat": 33.376644,
+        "lng": 126.530655
+      }
+    ],
+    "color": "#2aba2d",
+    "start_name": "삼각봉 대피소 / 화장실",
+    "length_meter": 26.6,
+    "time_minute": 0
+  },
+  {
+    "path_id": 14,
+    "path": [
+      {
+        "lat": 33.376644,
+        "lng": 126.530655
       },
       {
         "lat": 33.392406,
         "lng": 126.537735
       }
     ],
-    "color": "#d1ef5a",
-    "start_name": "삼각봉 대피소 / 화장실 / 삼각봉",
-    "length_meter": 1898.4,
+    "color": "#19118b",
+    "start_name": "삼각봉",
+    "length_meter": 1871.9,
     "time_minute": 31
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 33.392406,
@@ -232,13 +266,13 @@
         "lng": 126.539856
       }
     ],
-    "color": "#53df62",
+    "color": "#01b26a",
     "start_name": "갈림길",
     "length_meter": 880.1,
     "time_minute": 14
   },
   {
-    "path_id": 14,
+    "path_id": 16,
     "path": [
       {
         "lat": 33.40012,
@@ -249,13 +283,13 @@
         "lng": 126.542137
       }
     ],
-    "color": "#d974e4",
+    "color": "#61393a",
     "start_name": "화장실",
     "length_meter": 541.9,
     "time_minute": 9
   },
   {
-    "path_id": 15,
+    "path_id": 17,
     "path": [
       {
         "lat": 33.404606,
@@ -266,13 +300,13 @@
         "lng": 126.547455
       }
     ],
-    "color": "#768a73",
+    "color": "#434f7e",
     "start_name": "숯가마터",
     "length_meter": 892.5,
     "time_minute": 14
   },
   {
-    "path_id": 16,
+    "path_id": 18,
     "path": [
       {
         "lat": 33.411293,
@@ -283,13 +317,13 @@
         "lng": 126.549973
       }
     ],
-    "color": "#c1c283",
+    "color": "#0b4ebf",
     "start_name": "구린굴",
     "length_meter": 1132.8,
     "time_minute": 18
   },
   {
-    "path_id": 17,
+    "path_id": 19,
     "path": [
       {
         "lat": 33.421261,
@@ -300,13 +334,13 @@
         "lng": 126.55056
       }
     ],
-    "color": "#7deffd",
+    "color": "#2d578f",
     "start_name": "관음사사지구 탐방지원센터",
     "length_meter": 76.6,
     "time_minute": 1
   },
   {
-    "path_id": 18,
+    "path_id": 20,
     "path": [
       {
         "lat": 33.421745,
@@ -317,7 +351,7 @@
         "lng": 126.550087
       }
     ],
-    "color": "#1962f5",
+    "color": "#1b9863",
     "start_name": "화장실 / 국립공원관리사무소",
     "length_meter": 64.9,
     "time_minute": 1

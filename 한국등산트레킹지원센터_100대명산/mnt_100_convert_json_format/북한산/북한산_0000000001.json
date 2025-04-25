@@ -11,7 +11,7 @@
         "lng": 126.948273
       }
     ],
-    "color": "#a08d9a",
+    "color": "#42bb25",
     "start_name": "북한산성입구",
     "length_meter": 252.5,
     "time_minute": 4
@@ -28,7 +28,7 @@
         "lng": 126.949341
       }
     ],
-    "color": "#09691f",
+    "color": "#704f0f",
     "start_name": "북한산성유료주차장",
     "length_meter": 160.6,
     "time_minute": 2
@@ -41,19 +41,36 @@
         "lng": 126.949341
       },
       {
-        "lat": 37.654812,
-        "lng": 126.950577
+        "lat": 37.655098,
+        "lng": 126.949608
       }
     ],
-    "color": "#0ab0c2",
-    "start_name": "안내소 / 북한산성화장실",
-    "length_meter": 120.3,
-    "time_minute": 2
+    "color": "#81aa20",
+    "start_name": "안내소",
+    "length_meter": 29.2,
+    "time_minute": 0
   },
   {
     "path_id": 3,
     "path": [
       {
+        "lat": 37.655098,
+        "lng": 126.949608
+      },
+      {
+        "lat": 37.654812,
+        "lng": 126.950577
+      }
+    ],
+    "color": "#ad8c33",
+    "start_name": "북한산성화장실",
+    "length_meter": 91.0,
+    "time_minute": 1
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
         "lat": 37.654812,
         "lng": 126.950577
       },
@@ -62,13 +79,13 @@
         "lng": 126.953293
       }
     ],
-    "color": "#b56c97",
+    "color": "#bb890f",
     "start_name": "갈림길",
     "length_meter": 239.4,
     "time_minute": 3
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.654709,
@@ -79,13 +96,13 @@
         "lng": 126.955475
       }
     ],
-    "color": "#36fc1e",
+    "color": "#345cb5",
     "start_name": "야생화 / 수구정화장실",
     "length_meter": 250.1,
     "time_minute": 4
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.656097,
@@ -96,13 +113,13 @@
         "lng": 126.961342
       }
     ],
-    "color": "#c0604a",
+    "color": "#519396",
     "start_name": "서암사",
     "length_meter": 609.1,
     "time_minute": 10
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.653194,
@@ -113,32 +130,32 @@
         "lng": 126.961952
       }
     ],
-    "color": "#45002a",
+    "color": "#7384b1",
     "start_name": "갈림길",
     "length_meter": 79.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.652672,
-        "lng": 126.961952
-      },
-      {
-        "lat": 37.652779,
-        "lng": 126.962753
-      }
-    ],
-    "color": "#746abc",
-    "start_name": "북한동역사관옆화장실",
-    "length_meter": 71.5,
     "time_minute": 1
   },
   {
     "path_id": 8,
     "path": [
       {
+        "lat": 37.652672,
+        "lng": 126.961952
+      },
+      {
+        "lat": 37.652779,
+        "lng": 126.962753
+      }
+    ],
+    "color": "#698876",
+    "start_name": "북한동역사관옆화장실",
+    "length_meter": 71.5,
+    "time_minute": 1
+  },
+  {
+    "path_id": 9,
+    "path": [
+      {
         "lat": 37.652779,
         "lng": 126.962753
       },
@@ -147,13 +164,13 @@
         "lng": 126.964867
       }
     ],
-    "color": "#22f97d",
+    "color": "#551698",
     "start_name": "보리사",
     "length_meter": 211.9,
     "time_minute": 3
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.65369,
@@ -164,13 +181,13 @@
         "lng": 126.967285
       }
     ],
-    "color": "#ca9112",
+    "color": "#963a54",
     "start_name": "개연폭포",
     "length_meter": 223.8,
     "time_minute": 3
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.654312,
@@ -181,13 +198,13 @@
         "lng": 126.970039
       }
     ],
-    "color": "#2e2f54",
+    "color": "#5350bf",
     "start_name": "갈림길",
     "length_meter": 264.0,
     "time_minute": 4
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 37.655251,
@@ -198,13 +215,13 @@
         "lng": 126.975098
       }
     ],
-    "color": "#1fe0c0",
+    "color": "#7d3b8f",
     "start_name": "대동사약수터 / 사찰 대동사",
     "length_meter": 468.1,
     "time_minute": 7
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.65617,
@@ -215,13 +232,13 @@
         "lng": 126.975929
       }
     ],
-    "color": "#09a19e",
+    "color": "#0f7bc1",
     "start_name": "백운대중턱쉄터",
     "length_meter": 106.3,
     "time_minute": 1
   },
   {
-    "path_id": 13,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.656864,
@@ -232,66 +249,100 @@
         "lng": 126.978996
       }
     ],
-    "color": "#ff95cf",
+    "color": "#99af10",
     "start_name": "예전약수암터",
     "length_meter": 276.1,
     "time_minute": 4
   },
   {
-    "path_id": 14,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.657383,
         "lng": 126.978996
       },
       {
-        "lat": 37.658661,
-        "lng": 126.978142
+        "lat": 37.657646,
+        "lng": 126.979378
       }
     ],
-    "color": "#2aa778",
-    "start_name": "갈림길 / 백운동암문 / 갈림길",
-    "length_meter": 223.6,
-    "time_minute": 3
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.658661,
-        "lng": 126.978142
-      },
-      {
-        "lat": 37.64909,
-        "lng": 126.982399
-      }
-    ],
-    "color": "#816d73",
-    "start_name": "북한산 백운대 정상 / 북한산백운대",
-    "length_meter": 1144.6,
-    "time_minute": 19
+    "color": "#bf8c20",
+    "start_name": "갈림길",
+    "length_meter": 44.6,
+    "time_minute": 0
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 37.64909,
-        "lng": 126.982399
+        "lat": 37.657646,
+        "lng": 126.979378
       },
       {
-        "lat": 37.644985,
-        "lng": 126.977013
+        "lat": 37.658661,
+        "lng": 126.978142
       }
     ],
-    "color": "#a4982a",
-    "start_name": "북한산대피소 / 북한산대피소화장실",
-    "length_meter": 673.2,
-    "time_minute": 11
+    "color": "#401ba4",
+    "start_name": "백운동암문 / 갈림길",
+    "length_meter": 179.0,
+    "time_minute": 2
   },
   {
     "path_id": 17,
     "path": [
       {
+        "lat": 37.658661,
+        "lng": 126.978142
+      },
+      {
+        "lat": 37.64909,
+        "lng": 126.982399
+      }
+    ],
+    "color": "#308955",
+    "start_name": "북한산 백운대 정상 / 북한산백운대",
+    "length_meter": 1144.6,
+    "time_minute": 19
+  },
+  {
+    "path_id": 18,
+    "path": [
+      {
+        "lat": 37.64909,
+        "lng": 126.982399
+      },
+      {
+        "lat": 37.648731,
+        "lng": 126.98243
+      }
+    ],
+    "color": "#6abf77",
+    "start_name": "북한산대피소",
+    "length_meter": 40.0,
+    "time_minute": 0
+  },
+  {
+    "path_id": 19,
+    "path": [
+      {
+        "lat": 37.648731,
+        "lng": 126.98243
+      },
+      {
+        "lat": 37.644985,
+        "lng": 126.977013
+      }
+    ],
+    "color": "#1fa04e",
+    "start_name": "북한산대피소화장실",
+    "length_meter": 633.2,
+    "time_minute": 10
+  },
+  {
+    "path_id": 20,
+    "path": [
+      {
         "lat": 37.644985,
         "lng": 126.977013
       },
@@ -300,13 +351,13 @@
         "lng": 126.975716
       }
     ],
-    "color": "#466509",
+    "color": "#0e7c14",
     "start_name": "갈림길 / 중흥사옆 화장실 / 중흥사",
     "length_meter": 139.1,
     "time_minute": 2
   },
   {
-    "path_id": 18,
+    "path_id": 21,
     "path": [
       {
         "lat": 37.645077,
@@ -317,66 +368,66 @@
         "lng": 126.974152
       }
     ],
-    "color": "#7550e9",
+    "color": "#646482",
     "start_name": "용학사약수터",
     "length_meter": 137.9,
-    "time_minute": 2
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 37.645008,
-        "lng": 126.974152
-      },
-      {
-        "lat": 37.645237,
-        "lng": 126.973427
-      }
-    ],
-    "color": "#89e582",
-    "start_name": "산영루",
-    "length_meter": 68.7,
-    "time_minute": 1
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
-        "lat": 37.645237,
-        "lng": 126.973427
-      },
-      {
-        "lat": 37.648247,
-        "lng": 126.972931
-      }
-    ],
-    "color": "#a66f62",
-    "start_name": "갈림길",
-    "length_meter": 337.5,
-    "time_minute": 5
-  },
-  {
-    "path_id": 21,
-    "path": [
-      {
-        "lat": 37.648247,
-        "lng": 126.972931
-      },
-      {
-        "lat": 37.64843,
-        "lng": 126.971489
-      }
-    ],
-    "color": "#3cb2a3",
-    "start_name": "노적사앞 쉼터",
-    "length_meter": 128.6,
     "time_minute": 2
   },
   {
     "path_id": 22,
     "path": [
       {
+        "lat": 37.645008,
+        "lng": 126.974152
+      },
+      {
+        "lat": 37.645237,
+        "lng": 126.973427
+      }
+    ],
+    "color": "#931879",
+    "start_name": "산영루",
+    "length_meter": 68.7,
+    "time_minute": 1
+  },
+  {
+    "path_id": 23,
+    "path": [
+      {
+        "lat": 37.645237,
+        "lng": 126.973427
+      },
+      {
+        "lat": 37.648247,
+        "lng": 126.972931
+      }
+    ],
+    "color": "#7fc427",
+    "start_name": "갈림길",
+    "length_meter": 337.5,
+    "time_minute": 5
+  },
+  {
+    "path_id": 24,
+    "path": [
+      {
+        "lat": 37.648247,
+        "lng": 126.972931
+      },
+      {
+        "lat": 37.64843,
+        "lng": 126.971489
+      }
+    ],
+    "color": "#2a751b",
+    "start_name": "노적사앞 쉼터",
+    "length_meter": 128.6,
+    "time_minute": 2
+  },
+  {
+    "path_id": 25,
+    "path": [
+      {
         "lat": 37.64843,
         "lng": 126.971489
       },
@@ -385,13 +436,13 @@
         "lng": 126.97049
       }
     ],
-    "color": "#2a4911",
+    "color": "#17bc96",
     "start_name": "노적사",
     "length_meter": 90.6,
     "time_minute": 1
   },
   {
-    "path_id": 23,
+    "path_id": 26,
     "path": [
       {
         "lat": 37.648624,
@@ -402,30 +453,47 @@
         "lng": 126.96727
       }
     ],
-    "color": "#d0373d",
+    "color": "#6ec000",
     "start_name": "중성,문",
     "length_meter": 310.8,
     "time_minute": 5
   },
   {
-    "path_id": 24,
+    "path_id": 27,
     "path": [
       {
         "lat": 37.649769,
         "lng": 126.96727
       },
       {
+        "lat": 37.64986,
+        "lng": 126.967163
+      }
+    ],
+    "color": "#a1230c",
+    "start_name": "범용사삼거리화장실 / 범용사쉄터",
+    "length_meter": 17.9,
+    "time_minute": 0
+  },
+  {
+    "path_id": 28,
+    "path": [
+      {
+        "lat": 37.64986,
+        "lng": 126.967163
+      },
+      {
         "lat": 37.651402,
         "lng": 126.964752
       }
     ],
-    "color": "#bb7029",
-    "start_name": "범용사삼거리화장실 / 범용사쉄터 / 범용사 / 갈림길",
-    "length_meter": 290.8,
+    "color": "#364655",
+    "start_name": "범용사 / 갈림길",
+    "length_meter": 272.9,
     "time_minute": 4
   },
   {
-    "path_id": 25,
+    "path_id": 29,
     "path": [
       {
         "lat": 37.651402,
@@ -436,13 +504,13 @@
         "lng": 126.963074
       }
     ],
-    "color": "#980c4a",
+    "color": "#51398d",
     "start_name": "선봉사",
     "length_meter": 178.4,
     "time_minute": 2
   },
   {
-    "path_id": 26,
+    "path_id": 30,
     "path": [
       {
         "lat": 37.652302,
@@ -453,13 +521,13 @@
         "lng": 126.961624
       }
     ],
-    "color": "#e5d51a",
+    "color": "#325a50",
     "start_name": "자생식물원쉼터",
     "length_meter": 143.8,
     "time_minute": 2
   },
   {
-    "path_id": 27,
+    "path_id": 31,
     "path": [
       {
         "lat": 37.652897,
@@ -470,13 +538,13 @@
         "lng": 126.959549
       }
     ],
-    "color": "#0f41e9",
+    "color": "#a0aa53",
     "start_name": "갈림길",
     "length_meter": 208.7,
     "time_minute": 3
   },
   {
-    "path_id": 28,
+    "path_id": 32,
     "path": [
       {
         "lat": 37.653805,
@@ -487,13 +555,13 @@
         "lng": 126.957733
       }
     ],
-    "color": "#03890e",
+    "color": "#6fa896",
     "start_name": "무량사",
     "length_meter": 161.8,
     "time_minute": 2
   },
   {
-    "path_id": 29,
+    "path_id": 33,
     "path": [
       {
         "lat": 37.65403,
@@ -504,13 +572,13 @@
         "lng": 126.956131
       }
     ],
-    "color": "#d57c64",
+    "color": "#14714f",
     "start_name": "북한동화장실",
     "length_meter": 148.1,
     "time_minute": 2
   },
   {
-    "path_id": 30,
+    "path_id": 34,
     "path": [
       {
         "lat": 37.653622,
@@ -521,13 +589,13 @@
         "lng": 126.953842
       }
     ],
-    "color": "#1ff78c",
+    "color": "#0b610b",
     "start_name": "대서문",
     "length_meter": 228.9,
     "time_minute": 3
   },
   {
-    "path_id": 31,
+    "path_id": 35,
     "path": [
       {
         "lat": 37.652645,
@@ -538,13 +606,13 @@
         "lng": 126.951622
       }
     ],
-    "color": "#e07de6",
+    "color": "#bf6b88",
     "start_name": "용암사",
     "length_meter": 197.0,
     "time_minute": 3
   },
   {
-    "path_id": 32,
+    "path_id": 36,
     "path": [
       {
         "lat": 37.652866,
@@ -555,13 +623,13 @@
         "lng": 126.951286
       }
     ],
-    "color": "#8c6711",
+    "color": "#26574a",
     "start_name": "갈림길",
     "length_meter": 141.5,
     "time_minute": 2
   },
   {
-    "path_id": 33,
+    "path_id": 37,
     "path": [
       {
         "lat": 37.65411,
@@ -572,13 +640,13 @@
         "lng": 126.949425
       }
     ],
-    "color": "#34dc98",
+    "color": "#84979b",
     "start_name": "북한산성분소",
     "length_meter": 241.1,
     "time_minute": 4
   },
   {
-    "path_id": 34,
+    "path_id": 38,
     "path": [
       {
         "lat": 37.655701,
@@ -589,13 +657,13 @@
         "lng": 126.94693
       }
     ],
-    "color": "#fd8a53",
+    "color": "#22aca4",
     "start_name": "산들건강밥상",
     "length_meter": 291.2,
     "time_minute": 4
   },
   {
-    "path_id": 35,
+    "path_id": 39,
     "path": [
       {
         "lat": 37.657421,
@@ -606,7 +674,7 @@
         "lng": 126.945427
       }
     ],
-    "color": "#1e3c56",
+    "color": "#9d474a",
     "start_name": "국내산장어도소매",
     "length_meter": 164.4,
     "time_minute": 2

@@ -11,7 +11,7 @@
         "lng": 128.400803
       }
     ],
-    "color": "#40d1c6",
+    "color": "#aa3c34",
     "start_name": "달아공원카페 / 국립공원 동부사무소 산양분소 / 화장실",
     "length_meter": 101.1,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.400101
       }
     ],
-    "color": "#0ec8d1",
+    "color": "#5426c1",
     "start_name": "정자 / 달아전망대",
     "length_meter": 91.7,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 128.401337
       }
     ],
-    "color": "#2a0e88",
+    "color": "#721c6e",
     "start_name": "달아공원 종합안내도",
     "length_meter": 166.9,
     "time_minute": 2
@@ -62,7 +62,7 @@
         "lng": 128.404099
       }
     ],
-    "color": "#cb3c9e",
+    "color": "#233606",
     "start_name": "달아공원 시내버스 하차장 / 등산로 입구",
     "length_meter": 547.9,
     "time_minute": 9
@@ -79,7 +79,7 @@
         "lng": 128.405991
       }
     ],
-    "color": "#451202",
+    "color": "#2b472d",
     "start_name": "달아망산 / 갈림길",
     "length_meter": 467.4,
     "time_minute": 7
@@ -96,7 +96,7 @@
         "lng": 128.403442
       }
     ],
-    "color": "#9bcf9a",
+    "color": "#a7b46e",
     "start_name": "한려해상 바위조망처",
     "length_meter": 582.2,
     "time_minute": 9
@@ -113,7 +113,7 @@
         "lng": 128.402313
       }
     ],
-    "color": "#95af54",
+    "color": "#7cac51",
     "start_name": "희망봉 가는길 쉼터",
     "length_meter": 411.9,
     "time_minute": 6
@@ -130,7 +130,7 @@
         "lng": 128.399719
       }
     ],
-    "color": "#a54f9c",
+    "color": "#bfa718",
     "start_name": "대나무숲",
     "length_meter": 319.6,
     "time_minute": 5
@@ -147,7 +147,7 @@
         "lng": 128.398056
       }
     ],
-    "color": "#70f7aa",
+    "color": "#41c422",
     "start_name": "멧돼지 흔적",
     "length_meter": 340.3,
     "time_minute": 5
@@ -164,7 +164,7 @@
         "lng": 128.396942
       }
     ],
-    "color": "#69bf43",
+    "color": "#42bf5f",
     "start_name": "산양읍사무소 1.6KM전 조망처.쉼터",
     "length_meter": 377.5,
     "time_minute": 6
@@ -181,7 +181,7 @@
         "lng": 128.396072
       }
     ],
-    "color": "#01a73a",
+    "color": "#6bb63b",
     "start_name": "희망봉 / 갈림길",
     "length_meter": 700.7,
     "time_minute": 11
@@ -198,7 +198,7 @@
         "lng": 128.395813
       }
     ],
-    "color": "#cc858e",
+    "color": "#98623e",
     "start_name": "화장실",
     "length_meter": 114.0,
     "time_minute": 1
@@ -215,7 +215,7 @@
         "lng": 128.396057
       }
     ],
-    "color": "#64c6d9",
+    "color": "#609d61",
     "start_name": "갈림길",
     "length_meter": 206.6,
     "time_minute": 3
@@ -232,7 +232,7 @@
         "lng": 128.396011
       }
     ],
-    "color": "#19fe37",
+    "color": "#38c220",
     "start_name": "산양읍 경유 미륵산종주 능선 등산로 입구",
     "length_meter": 313.0,
     "time_minute": 5
@@ -249,7 +249,7 @@
         "lng": 128.396362
       }
     ],
-    "color": "#a16bf7",
+    "color": "#6d8e64",
     "start_name": "갈림길",
     "length_meter": 677.7,
     "time_minute": 11
@@ -262,17 +262,34 @@
         "lng": 128.396362
       },
       {
+        "lat": 34.812168,
+        "lng": 128.396271
+      }
+    ],
+    "color": "#a9441c",
+    "start_name": "범왕산",
+    "length_meter": 8.7,
+    "time_minute": 0
+  },
+  {
+    "path_id": 16,
+    "path": [
+      {
+        "lat": 34.812168,
+        "lng": 128.396271
+      },
+      {
         "lat": 34.816254,
         "lng": 128.398117
       }
     ],
-    "color": "#1eb23c",
-    "start_name": "범왕산 / 범왕산 직전 조망처",
-    "length_meter": 493.3,
+    "color": "#1f6c9b",
+    "start_name": "범왕산 직전 조망처",
+    "length_meter": 484.6,
     "time_minute": 8
   },
   {
-    "path_id": 16,
+    "path_id": 17,
     "path": [
       {
         "lat": 34.816254,
@@ -283,13 +300,13 @@
         "lng": 128.402191
       }
     ],
-    "color": "#d1cd66",
+    "color": "#893dc6",
     "start_name": "갈림길",
     "length_meter": 384.3,
     "time_minute": 6
   },
   {
-    "path_id": 17,
+    "path_id": 18,
     "path": [
       {
         "lat": 34.817123,
@@ -300,13 +317,13 @@
         "lng": 128.392502
       }
     ],
-    "color": "#c0224f",
+    "color": "#b682ae",
     "start_name": "현금산",
     "length_meter": 945.3,
     "time_minute": 15
   },
   {
-    "path_id": 18,
+    "path_id": 19,
     "path": [
       {
         "lat": 34.820122,
@@ -317,7 +334,7 @@
         "lng": 128.396301
       }
     ],
-    "color": "#56b5ea",
+    "color": "#0d0b15",
     "start_name": "세포마을 등산로 들날머리",
     "length_meter": 425.4,
     "time_minute": 7

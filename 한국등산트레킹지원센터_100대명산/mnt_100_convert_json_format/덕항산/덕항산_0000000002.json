@@ -11,7 +11,7 @@
         "lng": 129.01236
       }
     ],
-    "color": "#7bdc0d",
+    "color": "#4cb370",
     "start_name": "계곡 식당가들 / 웨이포인트 1",
     "length_meter": 177.6,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 129.011398
       }
     ],
-    "color": "#49ddc5",
+    "color": "#5ebfc3",
     "start_name": "대이계곡 / 황선굴 승강장",
     "length_meter": 138.1,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 129.010239
       }
     ],
-    "color": "#bb99bf",
+    "color": "#833fb9",
     "start_name": "작은 공터",
     "length_meter": 102.8,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 129.008957
       }
     ],
-    "color": "#93dcaa",
+    "color": "#035d05",
     "start_name": "벤치 4개 / 등산로 전 화장실",
     "length_meter": 145.3,
     "time_minute": 2
@@ -79,7 +79,7 @@
         "lng": 129.008026
       }
     ],
-    "color": "#aa9fb4",
+    "color": "#2fbc96",
     "start_name": "선녀폭포 / 보호수 / 환선굴 가기전 쉼터",
     "length_meter": 91.2,
     "time_minute": 1
@@ -96,7 +96,7 @@
         "lng": 129.008194
       }
     ],
-    "color": "#ba590b",
+    "color": "#2b7abb",
     "start_name": "골말",
     "length_meter": 101.6,
     "time_minute": 1
@@ -109,17 +109,34 @@
         "lng": 129.008194
       },
       {
+        "lat": 37.323479,
+        "lng": 129.00824
+      }
+    ],
+    "color": "#498319",
+    "start_name": "모노레일 승하차장 옆 화장실",
+    "length_meter": 11.0,
+    "time_minute": 0
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
+        "lat": 37.323479,
+        "lng": 129.00824
+      },
+      {
         "lat": 37.32243,
         "lng": 129.008118
       }
     ],
-    "color": "#f4001b",
-    "start_name": "모노레일 승하차장 옆 화장실 / 황선굴",
-    "length_meter": 128.2,
-    "time_minute": 2
+    "color": "#049709",
+    "start_name": "황선굴",
+    "length_meter": 117.1,
+    "time_minute": 1
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.32243,
@@ -130,13 +147,13 @@
         "lng": 129.004868
       }
     ],
-    "color": "#a53e6a",
+    "color": "#08b50b",
     "start_name": "갈림길",
     "length_meter": 303.3,
     "time_minute": 5
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 37.323303,
@@ -147,13 +164,13 @@
         "lng": 129.005005
       }
     ],
-    "color": "#d15c55",
+    "color": "#988d12",
     "start_name": "전망대 / 갈림길 / 등산로 폐쇄 / 동굴",
     "length_meter": 60.3,
     "time_minute": 1
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.32309,
@@ -164,13 +181,13 @@
         "lng": 129.004137
       }
     ],
-    "color": "#a74e68",
+    "color": "#7bbc1d",
     "start_name": "천연동굴전망대",
     "length_meter": 81.9,
     "time_minute": 1
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.323348,
@@ -181,13 +198,13 @@
         "lng": 129.003326
       }
     ],
-    "color": "#ce9ce1",
+    "color": "#7e8464",
     "start_name": "웨이포인트 21",
     "length_meter": 98.8,
     "time_minute": 1
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 37.323959,
@@ -198,13 +215,13 @@
         "lng": 129.002991
       }
     ],
-    "color": "#1a6b49",
+    "color": "#462397",
     "start_name": "제1전망대",
     "length_meter": 127.8,
     "time_minute": 2
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.325077,
@@ -215,13 +232,13 @@
         "lng": 129.003723
       }
     ],
-    "color": "#e7eaa8",
+    "color": "#3e3f5f",
     "start_name": "제2전망대",
     "length_meter": 91.4,
     "time_minute": 1
   },
   {
-    "path_id": 13,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.325657,
@@ -232,13 +249,13 @@
         "lng": 128.998245
       }
     ],
-    "color": "#4c63da",
+    "color": "#310767",
     "start_name": "약수터 / 갈림길",
     "length_meter": 499.3,
     "time_minute": 8
   },
   {
-    "path_id": 14,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.324577,
@@ -249,13 +266,13 @@
         "lng": 128.998838
       }
     ],
-    "color": "#46e50e",
+    "color": "#830ca7",
     "start_name": "낭떠러지",
     "length_meter": 184.4,
     "time_minute": 3
   },
   {
-    "path_id": 15,
+    "path_id": 16,
     "path": [
       {
         "lat": 37.322987,
@@ -266,13 +283,13 @@
         "lng": 128.999871
       }
     ],
-    "color": "#d2a6c7",
+    "color": "#b21b50",
     "start_name": "웨이포인트 29",
     "length_meter": 419.6,
     "time_minute": 6
   },
   {
-    "path_id": 16,
+    "path_id": 17,
     "path": [
       {
         "lat": 37.319304,
@@ -283,13 +300,13 @@
         "lng": 129.000885
       }
     ],
-    "color": "#6ba765",
+    "color": "#0c9d5a",
     "start_name": "웨이포인트 30",
     "length_meter": 114.4,
     "time_minute": 1
   },
   {
-    "path_id": 17,
+    "path_id": 18,
     "path": [
       {
         "lat": 37.318665,
@@ -300,13 +317,13 @@
         "lng": 129.003723
       }
     ],
-    "color": "#99d537",
+    "color": "#995e96",
     "start_name": "지각산 환선봉 / 황선봉 근처",
     "length_meter": 425.0,
     "time_minute": 7
   },
   {
-    "path_id": 18,
+    "path_id": 19,
     "path": [
       {
         "lat": 37.315807,
@@ -317,13 +334,13 @@
         "lng": 129.006195
       }
     ],
-    "color": "#abfa52",
+    "color": "#c303ac",
     "start_name": "낭떠러지 / 웨이포인트 34",
     "length_meter": 370.3,
     "time_minute": 6
   },
   {
-    "path_id": 19,
+    "path_id": 20,
     "path": [
       {
         "lat": 37.313156,
@@ -334,13 +351,13 @@
         "lng": 129.009872
       }
     ],
-    "color": "#cc8408",
+    "color": "#03a973",
     "start_name": "낭떠러지",
     "length_meter": 370.0,
     "time_minute": 6
   },
   {
-    "path_id": 20,
+    "path_id": 21,
     "path": [
       {
         "lat": 37.311569,
@@ -351,13 +368,13 @@
         "lng": 129.011215
       }
     ],
-    "color": "#120b00",
+    "color": "#051b69",
     "start_name": "갈림길 / 철계단 시작하고 조금 아래",
     "length_meter": 306.5,
     "time_minute": 5
   },
   {
-    "path_id": 21,
+    "path_id": 22,
     "path": [
       {
         "lat": 37.313992,
@@ -368,13 +385,13 @@
         "lng": 129.011726
       }
     ],
-    "color": "#41cb74",
+    "color": "#869309",
     "start_name": "철계단파손",
     "length_meter": 94.8,
     "time_minute": 1
   },
   {
-    "path_id": 22,
+    "path_id": 23,
     "path": [
       {
         "lat": 37.314741,
@@ -385,13 +402,13 @@
         "lng": 129.013447
       }
     ],
-    "color": "#201180",
+    "color": "#5f3873",
     "start_name": "웨이포인트 42",
     "length_meter": 354.2,
     "time_minute": 5
   },
   {
-    "path_id": 23,
+    "path_id": 24,
     "path": [
       {
         "lat": 37.317617,
@@ -402,13 +419,13 @@
         "lng": 129.014794
       }
     ],
-    "color": "#61af76",
+    "color": "#185647",
     "start_name": "웨이포인트 43",
     "length_meter": 489.9,
     "time_minute": 8
   },
   {
-    "path_id": 24,
+    "path_id": 25,
     "path": [
       {
         "lat": 37.321891,
@@ -419,13 +436,13 @@
         "lng": 129.013565
       }
     ],
-    "color": "#133b3c",
+    "color": "#9fab6f",
     "start_name": "웨이포인트 44",
     "length_meter": 189.9,
     "time_minute": 3
   },
   {
-    "path_id": 25,
+    "path_id": 26,
     "path": [
       {
         "lat": 37.323292,
@@ -436,7 +453,7 @@
         "lng": 129.013306
       }
     ],
-    "color": "#f126e8",
+    "color": "#20a20b",
     "start_name": "골말 / 등산로입구 화장실",
     "length_meter": 37.2,
     "time_minute": 0

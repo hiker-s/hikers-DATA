@@ -11,7 +11,7 @@
         "lng": 127.325447
       }
     ],
-    "color": "#89298d",
+    "color": "#37544c",
     "start_name": "산정호수화장실 / 산정호수식당 / 산정호수매점 / 안내소 / 상동주차장",
     "length_meter": 115.0,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 127.328758
       }
     ],
-    "color": "#53f995",
+    "color": "#c50d97",
     "start_name": "명성산입구",
     "length_meter": 306.9,
     "time_minute": 5
@@ -45,7 +45,7 @@
         "lng": 127.340317
       }
     ],
-    "color": "#c2e2ff",
+    "color": "#be56ab",
     "start_name": "갈림길",
     "length_meter": 1271.2,
     "time_minute": 21
@@ -58,17 +58,34 @@
         "lng": 127.340317
       },
       {
+        "lat": 38.074474,
+        "lng": 127.340317
+      }
+    ],
+    "color": "#c19094",
+    "start_name": "등룡폭포",
+    "length_meter": 4.7,
+    "time_minute": 0
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 38.074474,
+        "lng": 127.340317
+      },
+      {
         "lat": 38.080406,
         "lng": 127.341095
       }
     ],
-    "color": "#e6e68e",
-    "start_name": "등룡폭포 / 등룡폭포쉼터",
-    "length_meter": 667.8,
+    "color": "#c14c30",
+    "start_name": "등룡폭포쉼터",
+    "length_meter": 663.1,
     "time_minute": 11
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 38.080406,
@@ -79,30 +96,47 @@
         "lng": 127.340523
       }
     ],
-    "color": "#0cd644",
+    "color": "#243815",
     "start_name": "갈림길 / 억새바람길",
     "length_meter": 65.3,
     "time_minute": 1
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 38.080036,
         "lng": 127.340523
+      },
+      {
+        "lat": 38.080032,
+        "lng": 127.340508
+      }
+    ],
+    "color": "#8aa7a0",
+    "start_name": "억새길포토존",
+    "length_meter": 1.4,
+    "time_minute": 0
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
+        "lat": 38.080032,
+        "lng": 127.340508
       },
       {
         "lat": 38.07991,
         "lng": 127.339485
       }
     ],
-    "color": "#53e5e8",
-    "start_name": "억새길포토존 / 명성산억새길경관",
-    "length_meter": 91.9,
+    "color": "#c6209d",
+    "start_name": "명성산억새길경관",
+    "length_meter": 90.6,
     "time_minute": 1
   },
   {
-    "path_id": 6,
+    "path_id": 8,
     "path": [
       {
         "lat": 38.07991,
@@ -113,13 +147,13 @@
         "lng": 127.336884
       }
     ],
-    "color": "#a2fe58",
+    "color": "#3c9d50",
     "start_name": "갈림길",
     "length_meter": 268.0,
     "time_minute": 4
   },
   {
-    "path_id": 7,
+    "path_id": 9,
     "path": [
       {
         "lat": 38.081181,
@@ -130,13 +164,13 @@
         "lng": 127.336212
       }
     ],
-    "color": "#70a0c0",
+    "color": "#48b23d",
     "start_name": "팔각정",
     "length_meter": 69.6,
     "time_minute": 1
   },
   {
-    "path_id": 8,
+    "path_id": 10,
     "path": [
       {
         "lat": 38.081516,
@@ -147,13 +181,13 @@
         "lng": 127.338776
       }
     ],
-    "color": "#24571d",
+    "color": "#203879",
     "start_name": "명성산 / 우체통",
     "length_meter": 1151.6,
     "time_minute": 19
   },
   {
-    "path_id": 9,
+    "path_id": 11,
     "path": [
       {
         "lat": 38.09166,
@@ -164,13 +198,13 @@
         "lng": 127.33577
       }
     ],
-    "color": "#10231a",
+    "color": "#72825e",
     "start_name": "삼각봉",
     "length_meter": 1281.7,
     "time_minute": 21
   },
   {
-    "path_id": 10,
+    "path_id": 12,
     "path": [
       {
         "lat": 38.080379,
@@ -181,13 +215,13 @@
         "lng": 127.333939
       }
     ],
-    "color": "#a1f1b8",
+    "color": "#2aaa2c",
     "start_name": "쉬는곳",
     "length_meter": 304.0,
     "time_minute": 5
   },
   {
-    "path_id": 11,
+    "path_id": 13,
     "path": [
       {
         "lat": 38.078056,
@@ -198,7 +232,7 @@
         "lng": 127.333488
       }
     ],
-    "color": "#0a1782",
+    "color": "#87a395",
     "start_name": "갈림길",
     "length_meter": 557.9,
     "time_minute": 9

@@ -11,7 +11,7 @@
         "lng": 128.259491
       }
     ],
-    "color": "#aba66d",
+    "color": "#031317",
     "start_name": "문재쉼터 / 문재 들머리",
     "length_meter": 210.3,
     "time_minute": 3
@@ -28,7 +28,7 @@
         "lng": 128.261002
       }
     ],
-    "color": "#482c9a",
+    "color": "#8a6042",
     "start_name": "등산로 폐쇄 / 갈림길",
     "length_meter": 1171.2,
     "time_minute": 19
@@ -45,7 +45,7 @@
         "lng": 128.261795
       }
     ],
-    "color": "#03ef00",
+    "color": "#9c5589",
     "start_name": "헬기장",
     "length_meter": 222.2,
     "time_minute": 3
@@ -62,7 +62,7 @@
         "lng": 128.262985
       }
     ],
-    "color": "#489314",
+    "color": "#1e4b09",
     "start_name": "나무 쓰러짐",
     "length_meter": 182.2,
     "time_minute": 3
@@ -79,7 +79,7 @@
         "lng": 128.264465
       }
     ],
-    "color": "#171f15",
+    "color": "#8829ab",
     "start_name": "갈림길 / 길에 넘어진 고목",
     "length_meter": 242.1,
     "time_minute": 4
@@ -96,7 +96,7 @@
         "lng": 128.266098
       }
     ],
-    "color": "#afaeea",
+    "color": "#6db911",
     "start_name": "등산로폐쇄",
     "length_meter": 341.6,
     "time_minute": 5
@@ -113,7 +113,7 @@
         "lng": 128.268127
       }
     ],
-    "color": "#8fc822",
+    "color": "#11a78d",
     "start_name": "갈림길",
     "length_meter": 180.9,
     "time_minute": 3
@@ -130,7 +130,7 @@
         "lng": 128.272537
       }
     ],
-    "color": "#49e4f6",
+    "color": "#67896d",
     "start_name": "등산로폐쇄",
     "length_meter": 390.8,
     "time_minute": 6
@@ -143,17 +143,34 @@
         "lng": 128.272537
       },
       {
+        "lat": 37.407681,
+        "lng": 128.272705
+      }
+    ],
+    "color": "#b27ebe",
+    "start_name": "고목 쓰러짐",
+    "length_meter": 17.7,
+    "time_minute": 0
+  },
+  {
+    "path_id": 9,
+    "path": [
+      {
+        "lat": 37.407681,
+        "lng": 128.272705
+      },
+      {
         "lat": 37.406582,
         "lng": 128.275848
       }
     ],
-    "color": "#97e7ac",
-    "start_name": "고목 쓰러짐 / 사자산 정상 / 갈림길",
-    "length_meter": 321.2,
+    "color": "#5b8103",
+    "start_name": "사자산 정상 / 갈림길",
+    "length_meter": 303.5,
     "time_minute": 5
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.406582,
@@ -164,13 +181,13 @@
         "lng": 128.276871
       }
     ],
-    "color": "#83ebe8",
+    "color": "#9fb7a0",
     "start_name": "가파른 경사 바로 옆길",
     "length_meter": 90.5,
     "time_minute": 1
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.40662,
@@ -181,7 +198,7 @@
         "lng": 128.278397
       }
     ],
-    "color": "#b63cd0",
+    "color": "#384aa8",
     "start_name": "백덕산 2Km전",
     "length_meter": 139.3,
     "time_minute": 2

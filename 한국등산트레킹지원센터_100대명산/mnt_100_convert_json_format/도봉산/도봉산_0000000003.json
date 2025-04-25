@@ -11,7 +11,7 @@
         "lng": 127.011383
       }
     ],
-    "color": "#26b06d",
+    "color": "#7aaf36",
     "start_name": "갈림길",
     "length_meter": 292.0,
     "time_minute": 4
@@ -24,19 +24,36 @@
         "lng": 127.011383
       },
       {
-        "lat": 37.698261,
-        "lng": 127.01268
+        "lat": 37.697605,
+        "lng": 127.011414
       }
     ],
-    "color": "#9191d1",
-    "start_name": "신선대조망 / 포토존",
-    "length_meter": 136.0,
-    "time_minute": 2
+    "color": "#5a8889",
+    "start_name": "신선대조망",
+    "length_meter": 2.9,
+    "time_minute": 0
   },
   {
     "path_id": 2,
     "path": [
       {
+        "lat": 37.697605,
+        "lng": 127.011414
+      },
+      {
+        "lat": 37.698261,
+        "lng": 127.01268
+      }
+    ],
+    "color": "#87b2b1",
+    "start_name": "포토존",
+    "length_meter": 133.1,
+    "time_minute": 2
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
         "lat": 37.698261,
         "lng": 127.01268
       },
@@ -45,13 +62,13 @@
         "lng": 127.015007
       }
     ],
-    "color": "#267678",
+    "color": "#29574f",
     "start_name": "갈림길",
     "length_meter": 209.2,
     "time_minute": 3
   },
   {
-    "path_id": 3,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.698647,
@@ -62,13 +79,13 @@
         "lng": 127.016151
       }
     ],
-    "color": "#d36c09",
+    "color": "#a8b01b",
     "start_name": "도봉산신선대",
     "length_meter": 158.3,
     "time_minute": 2
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.697548,
@@ -79,32 +96,32 @@
         "lng": 127.016449
       }
     ],
-    "color": "#feda6d",
+    "color": "#561c1c",
     "start_name": "선인안전쉼터",
     "length_meter": 70.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 37.696957,
-        "lng": 127.016449
-      },
-      {
-        "lat": 37.695972,
-        "lng": 127.016647
-      }
-    ],
-    "color": "#03e912",
-    "start_name": "낙석위험",
-    "length_meter": 110.9,
     "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
+        "lat": 37.696957,
+        "lng": 127.016449
+      },
+      {
+        "lat": 37.695972,
+        "lng": 127.016647
+      }
+    ],
+    "color": "#803278",
+    "start_name": "낙석위험",
+    "length_meter": 110.9,
+    "time_minute": 1
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
         "lat": 37.695972,
         "lng": 127.016647
       },
@@ -113,13 +130,13 @@
         "lng": 127.01722
       }
     ],
-    "color": "#fd8feb",
+    "color": "#6c559c",
     "start_name": "갈림길 / 멧돼지출현주의",
     "length_meter": 103.2,
     "time_minute": 1
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.695175,
@@ -130,49 +147,66 @@
         "lng": 127.017143
       }
     ],
-    "color": "#5f148f",
+    "color": "#1e383a",
     "start_name": "마당바위쉼터",
     "length_meter": 114.3,
     "time_minute": 1
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 37.694149,
         "lng": 127.017143
       },
       {
-        "lat": 37.688606,
-        "lng": 127.024437
+        "lat": 37.694061,
+        "lng": 127.017227
       }
     ],
-    "color": "#c9e9bc",
-    "start_name": "갈림길 / 마당바위 / 갈림길",
-    "length_meter": 891.3,
-    "time_minute": 14
-  },
-  {
-    "path_id": 9,
-    "path": [
-      {
-        "lat": 37.688606,
-        "lng": 127.024437
-      },
-      {
-        "lat": 37.68866,
-        "lng": 127.025864
-      }
-    ],
-    "color": "#cbb6c7",
-    "start_name": "낙석위험",
-    "length_meter": 125.7,
-    "time_minute": 2
+    "color": "#9f4c5d",
+    "start_name": "갈림길",
+    "length_meter": 12.3,
+    "time_minute": 0
   },
   {
     "path_id": 10,
     "path": [
       {
+        "lat": 37.694061,
+        "lng": 127.017227
+      },
+      {
+        "lat": 37.688606,
+        "lng": 127.024437
+      }
+    ],
+    "color": "#bdbe2f",
+    "start_name": "마당바위 / 갈림길",
+    "length_meter": 879.1,
+    "time_minute": 14
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 37.688606,
+        "lng": 127.024437
+      },
+      {
+        "lat": 37.68866,
+        "lng": 127.025864
+      }
+    ],
+    "color": "#6c875e",
+    "start_name": "낙석위험",
+    "length_meter": 125.7,
+    "time_minute": 2
+  },
+  {
+    "path_id": 12,
+    "path": [
+      {
         "lat": 37.68866,
         "lng": 127.025864
       },
@@ -181,26 +215,43 @@
         "lng": 127.030426
       }
     ],
-    "color": "#a4cd0c",
+    "color": "#232664",
     "start_name": "갈림길",
     "length_meter": 412.7,
     "time_minute": 6
   },
   {
-    "path_id": 11,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.687798,
         "lng": 127.030426
+      },
+      {
+        "lat": 37.687782,
+        "lng": 127.030403
+      }
+    ],
+    "color": "#b33c90",
+    "start_name": "간이쉼터",
+    "length_meter": 2.7,
+    "time_minute": 0
+  },
+  {
+    "path_id": 14,
+    "path": [
+      {
+        "lat": 37.687782,
+        "lng": 127.030403
       },
       {
         "lat": 37.687668,
         "lng": 127.034546
       }
     ],
-    "color": "#f05083",
-    "start_name": "간이쉼터 / 간이화장실",
-    "length_meter": 367.5,
+    "color": "#632553",
+    "start_name": "간이화장실",
+    "length_meter": 364.8,
     "time_minute": 6
   }
 ]

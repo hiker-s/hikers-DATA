@@ -11,7 +11,7 @@
         "lng": 127.708794
       }
     ],
-    "color": "#9a76c0",
+    "color": "#79bc8d",
     "start_name": "버스터미널",
     "length_meter": 112.5,
     "time_minute": 1
@@ -24,19 +24,36 @@
         "lng": 127.708794
       },
       {
-        "lat": 35.936878,
-        "lng": 127.701195
+        "lat": 35.930405,
+        "lng": 127.708763
       }
     ],
-    "color": "#3a70b1",
-    "start_name": "치목마을주차장 / 화장실 / 갈림길",
-    "length_meter": 1027.5,
-    "time_minute": 17
+    "color": "#26032d",
+    "start_name": "치목마을주차장",
+    "length_meter": 3.3,
+    "time_minute": 0
   },
   {
     "path_id": 2,
     "path": [
       {
+        "lat": 35.930405,
+        "lng": 127.708763
+      },
+      {
+        "lat": 35.936878,
+        "lng": 127.701195
+      }
+    ],
+    "color": "#6a0bb0",
+    "start_name": "화장실 / 갈림길",
+    "length_meter": 1024.3,
+    "time_minute": 17
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
         "lat": 35.936878,
         "lng": 127.701195
       },
@@ -45,13 +62,13 @@
         "lng": 127.699532
       }
     ],
-    "color": "#08b19c",
+    "color": "#a0959f",
     "start_name": "곰출현주의",
     "length_meter": 174.7,
     "time_minute": 2
   },
   {
-    "path_id": 3,
+    "path_id": 4,
     "path": [
       {
         "lat": 35.937687,
@@ -62,13 +79,13 @@
         "lng": 127.699707
       }
     ],
-    "color": "#b6a003",
+    "color": "#6c8c26",
     "start_name": "낙석주의",
     "length_meter": 233.4,
     "time_minute": 3
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 35.939781,
@@ -79,32 +96,32 @@
         "lng": 127.699394
       }
     ],
-    "color": "#a01fb0",
+    "color": "#a26bc4",
     "start_name": "급경사지 낙석지역",
     "length_meter": 77.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 5,
-    "path": [
-      {
-        "lat": 35.94043,
-        "lng": 127.699394
-      },
-      {
-        "lat": 35.940899,
-        "lng": 127.698555
-      }
-    ],
-    "color": "#11b13a",
-    "start_name": "낙석주의",
-    "length_meter": 91.8,
     "time_minute": 1
   },
   {
     "path_id": 6,
     "path": [
       {
+        "lat": 35.94043,
+        "lng": 127.699394
+      },
+      {
+        "lat": 35.940899,
+        "lng": 127.698555
+      }
+    ],
+    "color": "#56c404",
+    "start_name": "낙석주의",
+    "length_meter": 91.8,
+    "time_minute": 1
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
         "lat": 35.940899,
         "lng": 127.698555
       },
@@ -113,13 +130,13 @@
         "lng": 127.69886
       }
     ],
-    "color": "#294fc0",
+    "color": "#79bf00",
     "start_name": "급경사지 위험지역 / 송대폭포",
     "length_meter": 114.5,
     "time_minute": 1
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.941803,
@@ -130,13 +147,13 @@
         "lng": 127.697426
       }
     ],
-    "color": "#313004",
+    "color": "#03a32f",
     "start_name": "급경사지 낙석 위험지역",
     "length_meter": 313.7,
     "time_minute": 5
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.944374,
@@ -147,13 +164,13 @@
         "lng": 127.696465
       }
     ],
-    "color": "#79aac3",
+    "color": "#b381b3",
     "start_name": "추락위험 / 급경사지 낙석지역",
     "length_meter": 113.5,
     "time_minute": 1
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 35.94503,
@@ -164,32 +181,49 @@
         "lng": 127.695259
       }
     ],
-    "color": "#c08b26",
+    "color": "#9b3970",
     "start_name": "낙석주의 추락주의 / 추락위험 / 산사태주의",
     "length_meter": 175.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 35.94627,
-        "lng": 127.695259
-      },
-      {
-        "lat": 35.947701,
-        "lng": 127.694954
-      }
-    ],
-    "color": "#6b76c1",
-    "start_name": "낙석주의 / 산사태주의 / 급경사지 낙석 위험지역",
-    "length_meter": 161.8,
     "time_minute": 2
   },
   {
     "path_id": 11,
     "path": [
       {
+        "lat": 35.94627,
+        "lng": 127.695259
+      },
+      {
+        "lat": 35.946625,
+        "lng": 127.695213
+      }
+    ],
+    "color": "#37b50a",
+    "start_name": "낙석주의 / 산사태주의",
+    "length_meter": 39.9,
+    "time_minute": 0
+  },
+  {
+    "path_id": 12,
+    "path": [
+      {
+        "lat": 35.946625,
+        "lng": 127.695213
+      },
+      {
+        "lat": 35.947701,
+        "lng": 127.694954
+      }
+    ],
+    "color": "#667d0e",
+    "start_name": "급경사지 낙석 위험지역",
+    "length_meter": 121.9,
+    "time_minute": 2
+  },
+  {
+    "path_id": 13,
+    "path": [
+      {
         "lat": 35.947701,
         "lng": 127.694954
       },
@@ -198,13 +232,13 @@
         "lng": 127.693619
       }
     ],
-    "color": "#331827",
+    "color": "#121a5c",
     "start_name": "갈림길",
     "length_meter": 165.4,
     "time_minute": 2
   },
   {
-    "path_id": 12,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.948723,
@@ -215,13 +249,13 @@
         "lng": 127.693237
       }
     ],
-    "color": "#f8606f",
+    "color": "#0bc76b",
     "start_name": "대형주차장 / 갈림길",
     "length_meter": 89.1,
     "time_minute": 1
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.949261,
@@ -232,13 +266,13 @@
         "lng": 127.693581
       }
     ],
-    "color": "#8902ad",
+    "color": "#a13eb1",
     "start_name": "화장실 / 뱀 진드기 벌 주의",
     "length_meter": 72.4,
     "time_minute": 1
   },
   {
-    "path_id": 14,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.948673,
@@ -249,13 +283,13 @@
         "lng": 127.693161
       }
     ],
-    "color": "#fdea75",
+    "color": "#6eb0c1",
     "start_name": "매표소",
     "length_meter": 312.3,
     "time_minute": 5
   },
   {
-    "path_id": 15,
+    "path_id": 17,
     "path": [
       {
         "lat": 35.945885,
@@ -266,13 +300,13 @@
         "lng": 127.691887
       }
     ],
-    "color": "#dadd15",
+    "color": "#ab6c96",
     "start_name": "갈림길",
     "length_meter": 228.9,
     "time_minute": 3
   },
   {
-    "path_id": 16,
+    "path_id": 18,
     "path": [
       {
         "lat": 35.944103,
@@ -283,13 +317,13 @@
         "lng": 127.691689
       }
     ],
-    "color": "#9a708a",
+    "color": "#5cb72c",
     "start_name": "적상산성 호국사비 / 안국사 화장실",
     "length_meter": 117.8,
     "time_minute": 1
   },
   {
-    "path_id": 17,
+    "path_id": 19,
     "path": [
       {
         "lat": 35.94508,
@@ -300,30 +334,47 @@
         "lng": 127.691704
       }
     ],
-    "color": "#be0e2d",
+    "color": "#7aaaa6",
     "start_name": "극락전 / 갈림길",
     "length_meter": 73.8,
     "time_minute": 1
   },
   {
-    "path_id": 18,
+    "path_id": 20,
     "path": [
       {
         "lat": 35.944599,
         "lng": 127.691704
       },
       {
+        "lat": 35.944767,
+        "lng": 127.69146
+      }
+    ],
+    "color": "#1f5466",
+    "start_name": "안국사",
+    "length_meter": 28.8,
+    "time_minute": 0
+  },
+  {
+    "path_id": 21,
+    "path": [
+      {
+        "lat": 35.944767,
+        "lng": 127.69146
+      },
+      {
         "lat": 35.945831,
         "lng": 127.689941
       }
     ],
-    "color": "#b60d92",
-    "start_name": "안국사 / 성보박물관 전통찻집",
-    "length_meter": 209.7,
+    "color": "#255e04",
+    "start_name": "성보박물관 전통찻집",
+    "length_meter": 180.8,
     "time_minute": 3
   },
   {
-    "path_id": 19,
+    "path_id": 22,
     "path": [
       {
         "lat": 35.945831,
@@ -334,13 +385,13 @@
         "lng": 127.687225
       }
     ],
-    "color": "#81ea24",
+    "color": "#8a4eab",
     "start_name": "갈림길",
     "length_meter": 1230.9,
     "time_minute": 20
   },
   {
-    "path_id": 20,
+    "path_id": 23,
     "path": [
       {
         "lat": 35.95668,
@@ -351,13 +402,13 @@
         "lng": 127.684708
       }
     ],
-    "color": "#b4e012",
+    "color": "#721c6e",
     "start_name": "향로봉 / 향로봉 조망",
     "length_meter": 385.6,
     "time_minute": 6
   },
   {
-    "path_id": 21,
+    "path_id": 24,
     "path": [
       {
         "lat": 35.953888,
@@ -368,13 +419,13 @@
         "lng": 127.684235
       }
     ],
-    "color": "#52bc21",
+    "color": "#954578",
     "start_name": "무주 적상산성 서문지 / 급경사지 낙석 위험지역 / 바위 / 장도바위 / 급경사지 낙석지역",
     "length_meter": 93.0,
     "time_minute": 1
   },
   {
-    "path_id": 22,
+    "path_id": 25,
     "path": [
       {
         "lat": 35.953835,
@@ -385,13 +436,13 @@
         "lng": 127.683693
       }
     ],
-    "color": "#362367",
+    "color": "#570300",
     "start_name": "낙석주의 / 급경사지 낙석지역",
     "length_meter": 80.7,
     "time_minute": 1
   },
   {
-    "path_id": 23,
+    "path_id": 26,
     "path": [
       {
         "lat": 35.954372,
@@ -402,13 +453,13 @@
         "lng": 127.67395
       }
     ],
-    "color": "#fee168",
+    "color": "#52370a",
     "start_name": "벤치",
     "length_meter": 1009.3,
     "time_minute": 16
   },
   {
-    "path_id": 24,
+    "path_id": 27,
     "path": [
       {
         "lat": 35.949879,
@@ -419,13 +470,13 @@
         "lng": 127.672905
       }
     ],
-    "color": "#edfb50",
+    "color": "#1d5c1f",
     "start_name": "안내판  등산지도 / 갈림길",
     "length_meter": 103.4,
     "time_minute": 1
   },
   {
-    "path_id": 25,
+    "path_id": 28,
     "path": [
       {
         "lat": 35.949501,
@@ -436,13 +487,13 @@
         "lng": 127.67115
       }
     ],
-    "color": "#9db3ab",
+    "color": "#075885",
     "start_name": "산촌순두부",
     "length_meter": 164.0,
     "time_minute": 2
   },
   {
-    "path_id": 26,
+    "path_id": 29,
     "path": [
       {
         "lat": 35.949104,
@@ -453,7 +504,7 @@
         "lng": 127.662651
       }
     ],
-    "color": "#a7de31",
+    "color": "#626fb7",
     "start_name": "화장실",
     "length_meter": 859.2,
     "time_minute": 14

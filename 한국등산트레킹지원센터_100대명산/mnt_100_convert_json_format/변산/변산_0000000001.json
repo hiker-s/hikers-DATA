@@ -7,19 +7,36 @@
         "lng": 126.580353
       },
       {
-        "lat": 35.639881,
-        "lng": 126.580437
+        "lat": 35.64098,
+        "lng": 126.580414
       }
     ],
-    "color": "#cffe47",
-    "start_name": "내변산주차장 / 사자동편의점",
-    "length_meter": 137.6,
-    "time_minute": 2
+    "color": "#92035b",
+    "start_name": "내변산주차장",
+    "length_meter": 15.4,
+    "time_minute": 0
   },
   {
     "path_id": 1,
     "path": [
       {
+        "lat": 35.64098,
+        "lng": 126.580414
+      },
+      {
+        "lat": 35.639881,
+        "lng": 126.580437
+      }
+    ],
+    "color": "#975e3f",
+    "start_name": "사자동편의점",
+    "length_meter": 122.2,
+    "time_minute": 2
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
         "lat": 35.639881,
         "lng": 126.580437
       },
@@ -28,13 +45,13 @@
         "lng": 126.587135
       }
     ],
-    "color": "#275a22",
+    "color": "#720973",
     "start_name": "갈림길",
     "length_meter": 847.7,
     "time_minute": 14
   },
   {
-    "path_id": 2,
+    "path_id": 3,
     "path": [
       {
         "lat": 35.634544,
@@ -45,32 +62,32 @@
         "lng": 126.587372
       }
     ],
-    "color": "#a18090",
+    "color": "#873b96",
     "start_name": "세봉삼거리전",
     "length_meter": 282.8,
-    "time_minute": 4
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 35.632008,
-        "lng": 126.587372
-      },
-      {
-        "lat": 35.629597,
-        "lng": 126.588837
-      }
-    ],
-    "color": "#fda61b",
-    "start_name": "세봉삼거리전 바위",
-    "length_meter": 299.0,
     "time_minute": 4
   },
   {
     "path_id": 4,
     "path": [
       {
+        "lat": 35.632008,
+        "lng": 126.587372
+      },
+      {
+        "lat": 35.629597,
+        "lng": 126.588837
+      }
+    ],
+    "color": "#6a2c86",
+    "start_name": "세봉삼거리전 바위",
+    "length_meter": 299.0,
+    "time_minute": 4
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
         "lat": 35.629597,
         "lng": 126.588837
       },
@@ -79,13 +96,13 @@
         "lng": 126.5896
       }
     ],
-    "color": "#4a1e0e",
+    "color": "#409162",
     "start_name": "세봉삼거리전",
     "length_meter": 105.2,
     "time_minute": 1
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 35.628883,
@@ -96,13 +113,13 @@
         "lng": 126.589806
       }
     ],
-    "color": "#3f0fe8",
+    "color": "#0ec18c",
     "start_name": "인장바위",
     "length_meter": 235.2,
     "time_minute": 3
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 35.626774,
@@ -113,13 +130,13 @@
         "lng": 126.586334
       }
     ],
-    "color": "#0a8d6e",
+    "color": "#a2b57f",
     "start_name": "갈림길 / 세봉삼거리",
     "length_meter": 319.2,
     "time_minute": 5
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.626507,
@@ -130,30 +147,47 @@
         "lng": 126.582993
       }
     ],
-    "color": "#811faf",
+    "color": "#8785c4",
     "start_name": "세봉 / 세봉50미터",
     "length_meter": 454.4,
     "time_minute": 7
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.623531,
         "lng": 126.582993
       },
       {
+        "lat": 35.623219,
+        "lng": 126.582512
+      }
+    ],
+    "color": "#160c4d",
+    "start_name": "관음봉20m전",
+    "length_meter": 55.6,
+    "time_minute": 0
+  },
+  {
+    "path_id": 10,
+    "path": [
+      {
+        "lat": 35.623219,
+        "lng": 126.582512
+      },
+      {
         "lat": 35.621662,
         "lng": 126.5802
       }
     ],
-    "color": "#a5675b",
-    "start_name": "관음봉20m전 / 변산관음봉",
-    "length_meter": 327.0,
-    "time_minute": 5
+    "color": "#88a10a",
+    "start_name": "변산관음봉",
+    "length_meter": 271.4,
+    "time_minute": 4
   },
   {
-    "path_id": 9,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.621662,
@@ -164,13 +198,13 @@
         "lng": 126.581284
       }
     ],
-    "color": "#1962d0",
+    "color": "#56b9a7",
     "start_name": "갈림길",
     "length_meter": 125.0,
     "time_minute": 2
   },
   {
-    "path_id": 10,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.620964,
@@ -181,13 +215,13 @@
         "lng": 126.582085
       }
     ],
-    "color": "#822294",
+    "color": "#8bbcb6",
     "start_name": "관음봉삼거리50m전 / 곰소배경",
     "length_meter": 121.5,
     "time_minute": 2
   },
   {
-    "path_id": 11,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.620087,
@@ -198,13 +232,13 @@
         "lng": 126.58371
       }
     ],
-    "color": "#a8f7fd",
+    "color": "#5f84c7",
     "start_name": "관음봉배경",
     "length_meter": 370.6,
     "time_minute": 6
   },
   {
-    "path_id": 12,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.617027,
@@ -215,13 +249,13 @@
         "lng": 126.588028
       }
     ],
-    "color": "#3dbf72",
+    "color": "#bfa071",
     "start_name": "내소쉄터",
     "length_meter": 445.2,
     "time_minute": 7
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.615101,
@@ -232,13 +266,13 @@
         "lng": 126.587738
       }
     ],
-    "color": "#74fadf",
+    "color": "#934a57",
     "start_name": "전나무숲 / 갈림길",
     "length_meter": 270.7,
     "time_minute": 4
   },
   {
-    "path_id": 14,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.616875,
@@ -249,13 +283,13 @@
         "lng": 126.589134
       }
     ],
-    "color": "#593853",
+    "color": "#5a5a01",
     "start_name": "내소사",
     "length_meter": 390.9,
     "time_minute": 6
   },
   {
-    "path_id": 15,
+    "path_id": 17,
     "path": [
       {
         "lat": 35.613548,
@@ -266,13 +300,13 @@
         "lng": 126.589432
       }
     ],
-    "color": "#1ca1e1",
+    "color": "#bf7e7d",
     "start_name": "전나무숲",
     "length_meter": 93.8,
     "time_minute": 1
   },
   {
-    "path_id": 16,
+    "path_id": 18,
     "path": [
       {
         "lat": 35.61274,
@@ -283,7 +317,7 @@
         "lng": 126.589096
       }
     ],
-    "color": "#9f06e4",
+    "color": "#4d7048",
     "start_name": "일주문",
     "length_meter": 113.7,
     "time_minute": 1

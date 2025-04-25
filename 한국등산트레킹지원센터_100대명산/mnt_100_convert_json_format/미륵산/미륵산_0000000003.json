@@ -11,7 +11,7 @@
         "lng": 128.413864
       }
     ],
-    "color": "#b90bc4",
+    "color": "#840233",
     "start_name": "관음암. 도솔암 미륵산 등산로 입구",
     "length_meter": 128.3,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 128.411102
       }
     ],
-    "color": "#0c32e8",
+    "color": "#8c9ec6",
     "start_name": "거북등대",
     "length_meter": 268.1,
     "time_minute": 4
@@ -45,7 +45,7 @@
         "lng": 128.410019
       }
     ],
-    "color": "#ec8f9e",
+    "color": "#7d6bc6",
     "start_name": "관음암 / 갈림길",
     "length_meter": 218.0,
     "time_minute": 3
@@ -62,7 +62,7 @@
         "lng": 128.409439
       }
     ],
-    "color": "#520c4f",
+    "color": "#06056a",
     "start_name": "도솔암 / 갈림길",
     "length_meter": 269.8,
     "time_minute": 4
@@ -79,7 +79,7 @@
         "lng": 128.410095
       }
     ],
-    "color": "#c4954b",
+    "color": "#556f44",
     "start_name": "정토봉",
     "length_meter": 61.7,
     "time_minute": 1
@@ -96,7 +96,7 @@
         "lng": 128.412094
       }
     ],
-    "color": "#0662d6",
+    "color": "#221e6a",
     "start_name": "정토봉 아래 조망대",
     "length_meter": 210.0,
     "time_minute": 3
@@ -113,7 +113,7 @@
         "lng": 128.416229
       }
     ],
-    "color": "#ac1400",
+    "color": "#aa8827",
     "start_name": "갈림길",
     "length_meter": 601.5,
     "time_minute": 10
@@ -130,7 +130,7 @@
         "lng": 128.416748
       }
     ],
-    "color": "#666696",
+    "color": "#351a35",
     "start_name": "미륵산 정상 / 봉수대",
     "length_meter": 80.7,
     "time_minute": 1
@@ -147,7 +147,7 @@
         "lng": 128.417496
       }
     ],
-    "color": "#67336b",
+    "color": "#19a119",
     "start_name": "안내판",
     "length_meter": 73.8,
     "time_minute": 1
@@ -160,17 +160,34 @@
         "lng": 128.417496
       },
       {
+        "lat": 34.809917,
+        "lng": 128.418045
+      }
+    ],
+    "color": "#839e0a",
+    "start_name": "통영케이블카 신선대전망대",
+    "length_meter": 50.5,
+    "time_minute": 0
+  },
+  {
+    "path_id": 10,
+    "path": [
+      {
+        "lat": 34.809917,
+        "lng": 128.418045
+      },
+      {
         "lat": 34.807205,
         "lng": 128.417648
       }
     ],
-    "color": "#03fa82",
-    "start_name": "통영케이블카 신선대전망대 / 통영케이블카",
-    "length_meter": 354.3,
+    "color": "#6c1216",
+    "start_name": "통영케이블카",
+    "length_meter": 303.7,
     "time_minute": 5
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 34.807205,
@@ -181,13 +198,13 @@
         "lng": 128.421143
       }
     ],
-    "color": "#7945a9",
+    "color": "#a97bc4",
     "start_name": "갈림길",
     "length_meter": 473.2,
     "time_minute": 7
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 34.804062,
@@ -198,13 +215,13 @@
         "lng": 128.421188
       }
     ],
-    "color": "#3ce974",
+    "color": "#8b6c45",
     "start_name": "미래사",
     "length_meter": 169.3,
     "time_minute": 2
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 34.805584,
@@ -215,7 +232,7 @@
         "lng": 128.420044
       }
     ],
-    "color": "#45fcb0",
+    "color": "#30322c",
     "start_name": "갈림길",
     "length_meter": 870.7,
     "time_minute": 14

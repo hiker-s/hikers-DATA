@@ -11,7 +11,7 @@
         "lng": 127.520905
       }
     ],
-    "color": "#d03519",
+    "color": "#835d7c",
     "start_name": "화악산로 등산로입구",
     "length_meter": 682.8,
     "time_minute": 11
@@ -28,7 +28,7 @@
         "lng": 127.518193
       }
     ],
-    "color": "#b4dc46",
+    "color": "#ba2096",
     "start_name": "갈림길",
     "length_meter": 331.2,
     "time_minute": 5
@@ -45,7 +45,7 @@
         "lng": 127.515717
       }
     ],
-    "color": "#ff48e8",
+    "color": "#062225",
     "start_name": "웨이포인트 4",
     "length_meter": 335.5,
     "time_minute": 5
@@ -62,7 +62,7 @@
         "lng": 127.512697
       }
     ],
-    "color": "#48f58b",
+    "color": "#62628e",
     "start_name": "갈림길 / 웨이포인트 6",
     "length_meter": 273.6,
     "time_minute": 4
@@ -75,17 +75,34 @@
         "lng": 127.512697
       },
       {
+        "lat": 37.971878,
+        "lng": 127.512695
+      }
+    ],
+    "color": "#9d02bd",
+    "start_name": "웨이포인트 7",
+    "length_meter": 0.3,
+    "time_minute": 0
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 37.971878,
+        "lng": 127.512695
+      },
+      {
         "lat": 37.972939,
         "lng": 127.511108
       }
     ],
-    "color": "#44aa16",
-    "start_name": "웨이포인트 7 / 천도교 화악산수도원 쉼터",
-    "length_meter": 182.7,
+    "color": "#ba9a70",
+    "start_name": "천도교 화악산수도원 쉼터",
+    "length_meter": 182.4,
     "time_minute": 3
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.972939,
@@ -96,30 +113,47 @@
         "lng": 127.508125
       }
     ],
-    "color": "#807626",
+    "color": "#40544d",
     "start_name": "갈림길",
     "length_meter": 266.4,
     "time_minute": 4
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.973396,
         "lng": 127.508125
+      },
+      {
+        "lat": 37.97337,
+        "lng": 127.508046
+      }
+    ],
+    "color": "#7965bc",
+    "start_name": "옥녀탕",
+    "length_meter": 7.5,
+    "time_minute": 0
+  },
+  {
+    "path_id": 8,
+    "path": [
+      {
+        "lat": 37.97337,
+        "lng": 127.508046
       },
       {
         "lat": 37.991814,
         "lng": 127.503448
       }
     ],
-    "color": "#521f39",
-    "start_name": "옥녀탕 / 웨이포인트 12",
-    "length_meter": 2097.6,
+    "color": "#05a5ba",
+    "start_name": "웨이포인트 12",
+    "length_meter": 2090.1,
     "time_minute": 34
   },
   {
-    "path_id": 7,
+    "path_id": 9,
     "path": [
       {
         "lat": 37.991814,
@@ -130,13 +164,13 @@
         "lng": 127.498138
       }
     ],
-    "color": "#bcd053",
+    "color": "#c6c008",
     "start_name": "갈림길 / 웨이포인트 14",
     "length_meter": 555.7,
     "time_minute": 9
   },
   {
-    "path_id": 8,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.989342,
@@ -147,13 +181,13 @@
         "lng": 127.498886
       }
     ],
-    "color": "#5b4d6b",
+    "color": "#c08105",
     "start_name": "화악산 중봉 / 갈림길",
     "length_meter": 96.8,
     "time_minute": 1
   },
   {
-    "path_id": 9,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.988716,
@@ -164,7 +198,7 @@
         "lng": 127.50322
       }
     ],
-    "color": "#c9d723",
+    "color": "#517c4b",
     "start_name": "주목군락지",
     "length_meter": 971.0,
     "time_minute": 16

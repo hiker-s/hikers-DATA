@@ -11,7 +11,7 @@
         "lng": 126.906052
       }
     ],
-    "color": "#72c0cd",
+    "color": "#34371f",
     "start_name": "나무의 혹",
     "length_meter": 205.8,
     "time_minute": 3
@@ -28,7 +28,7 @@
         "lng": 126.90641
       }
     ],
-    "color": "#75d121",
+    "color": "#53aa2d",
     "start_name": "백련암  화장실 / 백련암",
     "length_meter": 158.3,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 126.905426
       }
     ],
-    "color": "#506bb7",
+    "color": "#242a55",
     "start_name": "석란정지",
     "length_meter": 213.0,
     "time_minute": 3
@@ -62,7 +62,7 @@
         "lng": 126.903374
       }
     ],
-    "color": "#61b511",
+    "color": "#282947",
     "start_name": "낙석주의",
     "length_meter": 257.7,
     "time_minute": 4
@@ -79,7 +79,7 @@
         "lng": 126.902039
       }
     ],
-    "color": "#69acee",
+    "color": "#86411b",
     "start_name": "서래봉 / 갈림길",
     "length_meter": 152.7,
     "time_minute": 2
@@ -92,17 +92,34 @@
         "lng": 126.902039
       },
       {
+        "lat": 35.498711,
+        "lng": 126.902069
+      }
+    ],
+    "color": "#9e508b",
+    "start_name": "안전사고주의",
+    "length_meter": 31.1,
+    "time_minute": 0
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 35.498711,
+        "lng": 126.902069
+      },
+      {
         "lat": 35.498672,
         "lng": 126.888786
       }
     ],
-    "color": "#e794c1",
-    "start_name": "안전사고주의 / 급경사지[낙석] 위험지역 / 갈림길 / 구급함",
-    "length_meter": 1242.2,
+    "color": "#7e038b",
+    "start_name": "급경사지[낙석] 위험지역 / 갈림길 / 구급함",
+    "length_meter": 1211.0,
     "time_minute": 20
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 35.498672,
@@ -113,13 +130,13 @@
         "lng": 126.879539
       }
     ],
-    "color": "#19e424",
+    "color": "#6dbd60",
     "start_name": "추락위험",
     "length_meter": 843.7,
     "time_minute": 14
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.497726,
@@ -130,13 +147,13 @@
         "lng": 126.878853
       }
     ],
-    "color": "#4c9342",
+    "color": "#9d21b7",
     "start_name": "망해봉",
     "length_meter": 472.3,
     "time_minute": 7
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.493515,
@@ -147,16 +164,33 @@
         "lng": 126.888969
       }
     ],
-    "color": "#63ba39",
+    "color": "#a633bf",
     "start_name": "연지봉",
     "length_meter": 1925.5,
     "time_minute": 32
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 35.478283,
+        "lng": 126.888969
+      },
+      {
+        "lat": 35.478287,
+        "lng": 126.888969
+      }
+    ],
+    "color": "#0788c3",
+    "start_name": "신선봉",
+    "length_meter": 0.4,
+    "time_minute": 0
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 35.478287,
         "lng": 126.888969
       },
       {
@@ -164,13 +198,13 @@
         "lng": 126.892548
       }
     ],
-    "color": "#7c0b20",
-    "start_name": "신선봉 / 구급함",
-    "length_meter": 368.8,
+    "color": "#1b8495",
+    "start_name": "구급함",
+    "length_meter": 368.4,
     "time_minute": 6
   },
   {
-    "path_id": 10,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.479862,
@@ -181,13 +215,13 @@
         "lng": 126.898979
       }
     ],
-    "color": "#e06c0a",
+    "color": "#6806c6",
     "start_name": "갈림길",
     "length_meter": 584.8,
     "time_minute": 9
   },
   {
-    "path_id": 11,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.48035,
@@ -198,13 +232,13 @@
         "lng": 126.89975
       }
     ],
-    "color": "#a53e63",
+    "color": "#8a315f",
     "start_name": "연자봉",
     "length_meter": 95.3,
     "time_minute": 1
   },
   {
-    "path_id": 12,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.479767,
@@ -215,13 +249,13 @@
         "lng": 126.915359
       }
     ],
-    "color": "#935d70",
+    "color": "#4c4d94",
     "start_name": "장군봉",
     "length_meter": 1431.9,
     "time_minute": 23
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.477703,
@@ -232,7 +266,7 @@
         "lng": 126.915253
       }
     ],
-    "color": "#a3298d",
+    "color": "#5e17b0",
     "start_name": "유군치",
     "length_meter": 849.2,
     "time_minute": 14

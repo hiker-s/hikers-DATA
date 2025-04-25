@@ -11,7 +11,7 @@
         "lng": 127.045906
       }
     ],
-    "color": "#178987",
+    "color": "#710db0",
     "start_name": "관광자원",
     "length_meter": 64.2,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 127.045303
       }
     ],
-    "color": "#e280f6",
+    "color": "#c28d59",
     "start_name": "천년사랑 거북바위 / 관광자원 / 강천산 찬물내기",
     "length_meter": 129.4,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 127.044876
       }
     ],
-    "color": "#7ed36f",
+    "color": "#248058",
     "start_name": "위험지역",
     "length_meter": 106.2,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 127.040077
       }
     ],
-    "color": "#290e05",
+    "color": "#825054",
     "start_name": "자연경관",
     "length_meter": 458.4,
     "time_minute": 7
@@ -79,7 +79,7 @@
         "lng": 127.040108
       }
     ],
-    "color": "#31dd16",
+    "color": "#3fb449",
     "start_name": "갈림길",
     "length_meter": 177.7,
     "time_minute": 2
@@ -96,7 +96,7 @@
         "lng": 127.040817
       }
     ],
-    "color": "#b1d8d9",
+    "color": "#5d259c",
     "start_name": "자연경관",
     "length_meter": 163.4,
     "time_minute": 2
@@ -113,7 +113,7 @@
         "lng": 127.040939
       }
     ],
-    "color": "#8fe7cf",
+    "color": "#630a33",
     "start_name": "갈림길",
     "length_meter": 346.7,
     "time_minute": 5
@@ -130,7 +130,7 @@
         "lng": 127.039803
       }
     ],
-    "color": "#8d3559",
+    "color": "#27027e",
     "start_name": "자연경관",
     "length_meter": 111.4,
     "time_minute": 1
@@ -147,7 +147,7 @@
         "lng": 127.039925
       }
     ],
-    "color": "#33669c",
+    "color": "#ae9e17",
     "start_name": "갈림길",
     "length_meter": 79.6,
     "time_minute": 1
@@ -160,19 +160,36 @@
         "lng": 127.039925
       },
       {
-        "lat": 35.379742,
-        "lng": 127.039131
+        "lat": 35.382591,
+        "lng": 127.040115
       }
     ],
-    "color": "#50ca5c",
-    "start_name": "자연경관 / 관광자원 / 갈림길",
-    "length_meter": 375.8,
-    "time_minute": 6
+    "color": "#8f417a",
+    "start_name": "자연경관",
+    "length_meter": 46.2,
+    "time_minute": 0
   },
   {
     "path_id": 10,
     "path": [
       {
+        "lat": 35.382591,
+        "lng": 127.040115
+      },
+      {
+        "lat": 35.379742,
+        "lng": 127.039131
+      }
+    ],
+    "color": "#747b9a",
+    "start_name": "관광자원 / 갈림길",
+    "length_meter": 329.6,
+    "time_minute": 5
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
         "lat": 35.379742,
         "lng": 127.039131
       },
@@ -181,13 +198,13 @@
         "lng": 127.05397
       }
     ],
-    "color": "#f8a5ba",
+    "color": "#c6708f",
     "start_name": "시루봉 / 자연경관",
     "length_meter": 1386.8,
     "time_minute": 23
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.381691,
@@ -198,13 +215,13 @@
         "lng": 127.056023
       }
     ],
-    "color": "#afdd3b",
+    "color": "#191c42",
     "start_name": "헬기장 / 갈림길 / 자연경관",
     "length_meter": 312.1,
     "time_minute": 5
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.383858,
@@ -215,49 +232,66 @@
         "lng": 127.05587
       }
     ],
-    "color": "#13477b",
+    "color": "#29c719",
     "start_name": "위험지역",
     "length_meter": 109.0,
     "time_minute": 1
   },
   {
-    "path_id": 13,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.38483,
         "lng": 127.05587
       },
       {
-        "lat": 35.38974,
-        "lng": 127.057945
+        "lat": 35.38485,
+        "lng": 127.056053
       }
     ],
-    "color": "#b5bf03",
-    "start_name": "광덕산 선녀봉 정상 / 갈림길 / 위험지역",
-    "length_meter": 587.3,
-    "time_minute": 9
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 35.38974,
-        "lng": 127.057945
-      },
-      {
-        "lat": 35.393734,
-        "lng": 127.056679
-      }
-    ],
-    "color": "#876b9b",
-    "start_name": "갈림길",
-    "length_meter": 458.7,
-    "time_minute": 7
+    "color": "#9c435d",
+    "start_name": "광덕산 선녀봉 정상 / 갈림길",
+    "length_meter": 17.1,
+    "time_minute": 0
   },
   {
     "path_id": 15,
     "path": [
       {
+        "lat": 35.38485,
+        "lng": 127.056053
+      },
+      {
+        "lat": 35.38974,
+        "lng": 127.057945
+      }
+    ],
+    "color": "#9a1b92",
+    "start_name": "위험지역",
+    "length_meter": 570.2,
+    "time_minute": 9
+  },
+  {
+    "path_id": 16,
+    "path": [
+      {
+        "lat": 35.38974,
+        "lng": 127.057945
+      },
+      {
+        "lat": 35.393734,
+        "lng": 127.056679
+      }
+    ],
+    "color": "#9556a6",
+    "start_name": "갈림길",
+    "length_meter": 458.7,
+    "time_minute": 7
+  },
+  {
+    "path_id": 17,
+    "path": [
+      {
         "lat": 35.393734,
         "lng": 127.056679
       },
@@ -266,30 +300,47 @@
         "lng": 127.059174
       }
     ],
-    "color": "#be46d4",
+    "color": "#4cae28",
     "start_name": "자연경관",
     "length_meter": 252.4,
     "time_minute": 4
   },
   {
-    "path_id": 16,
+    "path_id": 18,
     "path": [
       {
         "lat": 35.394741,
         "lng": 127.059174
+      },
+      {
+        "lat": 35.394947,
+        "lng": 127.059715
+      }
+    ],
+    "color": "#159d05",
+    "start_name": "갈림길",
+    "length_meter": 54.1,
+    "time_minute": 0
+  },
+  {
+    "path_id": 19,
+    "path": [
+      {
+        "lat": 35.394947,
+        "lng": 127.059715
       },
       {
         "lat": 35.396599,
         "lng": 127.060936
       }
     ],
-    "color": "#0e2501",
-    "start_name": "갈림길 / 좌쉼터",
-    "length_meter": 268.6,
-    "time_minute": 4
+    "color": "#1ec35f",
+    "start_name": "좌쉼터",
+    "length_meter": 214.5,
+    "time_minute": 3
   },
   {
-    "path_id": 17,
+    "path_id": 20,
     "path": [
       {
         "lat": 35.396599,
@@ -300,13 +351,13 @@
         "lng": 127.05864
       }
     ],
-    "color": "#eba7b7",
+    "color": "#621ab3",
     "start_name": "갈림길",
     "length_meter": 509.0,
     "time_minute": 8
   },
   {
-    "path_id": 18,
+    "path_id": 21,
     "path": [
       {
         "lat": 35.400776,
@@ -317,7 +368,7 @@
         "lng": 127.062164
       }
     ],
-    "color": "#e074b7",
+    "color": "#a90644",
     "start_name": "위험지역",
     "length_meter": 612.1,
     "time_minute": 10

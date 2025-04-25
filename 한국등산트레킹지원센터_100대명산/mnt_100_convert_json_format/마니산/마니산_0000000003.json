@@ -7,17 +7,34 @@
         "lng": 126.448242
       },
       {
+        "lat": 37.612652,
+        "lng": 126.4478
+      }
+    ],
+    "color": "#1f1abc",
+    "start_name": "갈림길",
+    "length_meter": 42.0,
+    "time_minute": 0
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
+        "lat": 37.612652,
+        "lng": 126.4478
+      },
+      {
         "lat": 37.609676,
         "lng": 126.443558
       }
     ],
-    "color": "#58eb73",
-    "start_name": "갈림길 / 화장실",
-    "length_meter": 541.1,
-    "time_minute": 9
+    "color": "#218065",
+    "start_name": "화장실",
+    "length_meter": 499.1,
+    "time_minute": 8
   },
   {
-    "path_id": 1,
+    "path_id": 2,
     "path": [
       {
         "lat": 37.609676,
@@ -28,13 +45,13 @@
         "lng": 126.443642
       }
     ],
-    "color": "#811804",
+    "color": "#a3b610",
     "start_name": "갈림길",
     "length_meter": 90.1,
     "time_minute": 1
   },
   {
-    "path_id": 2,
+    "path_id": 3,
     "path": [
       {
         "lat": 37.608868,
@@ -45,13 +62,13 @@
         "lng": 126.441025
       }
     ],
-    "color": "#8e6d48",
+    "color": "#0c44a2",
     "start_name": "사랑의하트석 / 갈림길",
     "length_meter": 275.5,
     "time_minute": 4
   },
   {
-    "path_id": 3,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.609665,
@@ -62,13 +79,13 @@
         "lng": 126.438034
       }
     ],
-    "color": "#99c5be",
+    "color": "#7237ba",
     "start_name": "미끄럼주의",
     "length_meter": 379.8,
     "time_minute": 6
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.612125,
@@ -79,13 +96,13 @@
         "lng": 126.44519
       }
     ],
-    "color": "#2dcafb",
+    "color": "#666921",
     "start_name": "추락사고위험구간 / 갈림길",
     "length_meter": 640.5,
     "time_minute": 10
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.612679,
@@ -96,13 +113,13 @@
         "lng": 126.446022
       }
     ],
-    "color": "#26e736",
+    "color": "#9bbb37",
     "start_name": "추락사고위험",
     "length_meter": 74.3,
     "time_minute": 1
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.612789,
@@ -113,13 +130,13 @@
         "lng": 126.447151
       }
     ],
-    "color": "#a05ab3",
+    "color": "#594799",
     "start_name": "함허동천계곡 / 야영장쉼터",
     "length_meter": 128.2,
     "time_minute": 2
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.612789,
@@ -130,7 +147,7 @@
         "lng": 126.448166
       }
     ],
-    "color": "#9d35eb",
+    "color": "#4ebb24",
     "start_name": "야영장 쉼터 / 야영장쉼터 / 화장실",
     "length_meter": 110.7,
     "time_minute": 1

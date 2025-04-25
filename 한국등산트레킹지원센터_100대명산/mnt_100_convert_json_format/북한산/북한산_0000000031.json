@@ -11,7 +11,7 @@
         "lng": 126.992645
       }
     ],
-    "color": "#7ead31",
+    "color": "#5c4045",
     "start_name": "갈림길 / 청수폭포",
     "length_meter": 168.7,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 126.989594
       }
     ],
-    "color": "#df9b6d",
+    "color": "#c32958",
     "start_name": "청수화장실",
     "length_meter": 479.7,
     "time_minute": 7
@@ -45,7 +45,7 @@
         "lng": 126.988686
       }
     ],
-    "color": "#e006a7",
+    "color": "#861e8f",
     "start_name": "소화기 쉼터",
     "length_meter": 264.4,
     "time_minute": 4
@@ -62,7 +62,7 @@
         "lng": 126.987389
       }
     ],
-    "color": "#c40e3b",
+    "color": "#b94d42",
     "start_name": "갈림길",
     "length_meter": 123.6,
     "time_minute": 2
@@ -79,7 +79,7 @@
         "lng": 126.985565
       }
     ],
-    "color": "#747a57",
+    "color": "#75647b",
     "start_name": "영천 약수터",
     "length_meter": 301.0,
     "time_minute": 5
@@ -96,7 +96,7 @@
         "lng": 126.981819
       }
     ],
-    "color": "#992f59",
+    "color": "#821f56",
     "start_name": "쌍줄기 약수터 / 보국문 쉼터",
     "length_meter": 632.1,
     "time_minute": 10
@@ -113,7 +113,7 @@
         "lng": 126.977631
       }
     ],
-    "color": "#3f02a0",
+    "color": "#c459b7",
     "start_name": "겨울철 상습결빙구간",
     "length_meter": 600.1,
     "time_minute": 10
@@ -130,7 +130,7 @@
         "lng": 126.977303
       }
     ],
-    "color": "#2bfca0",
+    "color": "#bc9480",
     "start_name": "인두암",
     "length_meter": 248.1,
     "time_minute": 4
@@ -147,7 +147,7 @@
         "lng": 126.97718
       }
     ],
-    "color": "#0d5733",
+    "color": "#74137d",
     "start_name": "갈림길",
     "length_meter": 940.9,
     "time_minute": 15
@@ -164,7 +164,7 @@
         "lng": 126.975998
       }
     ],
-    "color": "#9e8917",
+    "color": "#19c3c2",
     "start_name": "형제봉 조망점 / 동령폭포",
     "length_meter": 209.7,
     "time_minute": 3
@@ -181,7 +181,7 @@
         "lng": 126.975746
       }
     ],
-    "color": "#ab3d09",
+    "color": "#0348c7",
     "start_name": "무명 쉼터",
     "length_meter": 213.6,
     "time_minute": 3
@@ -194,17 +194,34 @@
         "lng": 126.975746
       },
       {
+        "lat": 37.617283,
+        "lng": 126.975754
+      }
+    ],
+    "color": "#a4402f",
+    "start_name": "평창공원 지킴터 화장실",
+    "length_meter": 31.8,
+    "time_minute": 0
+  },
+  {
+    "path_id": 12,
+    "path": [
+      {
+        "lat": 37.617283,
+        "lng": 126.975754
+      },
+      {
         "lat": 37.61591,
         "lng": 126.980049
       }
     ],
-    "color": "#dbbc24",
-    "start_name": "평창공원 지킴터 화장실 / 평창공원지킴터 / 갈림길",
-    "length_meter": 440.2,
-    "time_minute": 7
+    "color": "#461aa6",
+    "start_name": "평창공원지킴터 / 갈림길",
+    "length_meter": 408.3,
+    "time_minute": 6
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.61591,
@@ -215,30 +232,47 @@
         "lng": 126.979622
       }
     ],
-    "color": "#90047e",
+    "color": "#0b456a",
     "start_name": "감람산기도원",
     "length_meter": 120.5,
     "time_minute": 2
   },
   {
-    "path_id": 13,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.61488,
         "lng": 126.979622
+      },
+      {
+        "lat": 37.614704,
+        "lng": 126.979568
+      }
+    ],
+    "color": "#4e40c3",
+    "start_name": "선원사",
+    "length_meter": 20.1,
+    "time_minute": 0
+  },
+  {
+    "path_id": 15,
+    "path": [
+      {
+        "lat": 37.614704,
+        "lng": 126.979568
       },
       {
         "lat": 37.612797,
         "lng": 126.982155
       }
     ],
-    "color": "#80117b",
-    "start_name": "선원사 / 연화정사",
-    "length_meter": 331.4,
+    "color": "#5b9643",
+    "start_name": "연화정사",
+    "length_meter": 311.3,
     "time_minute": 5
   },
   {
-    "path_id": 14,
+    "path_id": 16,
     "path": [
       {
         "lat": 37.612797,
@@ -249,13 +283,13 @@
         "lng": 126.978333
       }
     ],
-    "color": "#9f7c10",
+    "color": "#62145a",
     "start_name": "갈림길",
     "length_meter": 368.7,
     "time_minute": 6
   },
   {
-    "path_id": 15,
+    "path_id": 17,
     "path": [
       {
         "lat": 37.611446,
@@ -266,7 +300,7 @@
         "lng": 126.976517
       }
     ],
-    "color": "#68ef90",
+    "color": "#908a7e",
     "start_name": "김영희 강남 동태찜",
     "length_meter": 199.0,
     "time_minute": 3

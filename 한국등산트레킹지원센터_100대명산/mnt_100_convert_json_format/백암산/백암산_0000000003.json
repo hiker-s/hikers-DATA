@@ -11,7 +11,7 @@
         "lng": 126.841092
       }
     ],
-    "color": "#4d5dc7",
+    "color": "#24931a",
     "start_name": "남창 국립공원 주차장",
     "length_meter": 97.8,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 126.840884
       }
     ],
-    "color": "#ff4c06",
+    "color": "#c00e1c",
     "start_name": "산골펜션 / 쉼 카페&펜션",
     "length_meter": 129.8,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 126.839569
       }
     ],
-    "color": "#595a03",
+    "color": "#71c22d",
     "start_name": "사계절 펜션 / 남경산 기도원",
     "length_meter": 226.1,
     "time_minute": 3
@@ -58,36 +58,53 @@
         "lng": 126.839569
       },
       {
-        "lat": 35.463459,
-        "lng": 126.841721
+        "lat": 35.462505,
+        "lng": 126.839455
       }
     ],
-    "color": "#e44560",
-    "start_name": "남창 탐방지원센터 / 몽계폭포 탐방로 안내 / 갈림길",
-    "length_meter": 252.3,
-    "time_minute": 4
+    "color": "#9a6cc2",
+    "start_name": "남창 탐방지원센터",
+    "length_meter": 18.0,
+    "time_minute": 0
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 35.463459,
-        "lng": 126.841721
+        "lat": 35.462505,
+        "lng": 126.839455
       },
       {
-        "lat": 35.464233,
-        "lng": 126.84362
+        "lat": 35.463459,
+        "lng": 126.841721
       }
     ],
-    "color": "#54b079",
-    "start_name": "위치번호 백암 13-13",
-    "length_meter": 192.3,
+    "color": "#382f16",
+    "start_name": "몽계폭포 탐방로 안내 / 갈림길",
+    "length_meter": 234.3,
     "time_minute": 3
   },
   {
     "path_id": 5,
     "path": [
       {
+        "lat": 35.463459,
+        "lng": 126.841721
+      },
+      {
+        "lat": 35.464233,
+        "lng": 126.84362
+      }
+    ],
+    "color": "#7e2c82",
+    "start_name": "위치번호 백암 13-13",
+    "length_meter": 192.3,
+    "time_minute": 3
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
         "lat": 35.464233,
         "lng": 126.84362
       },
@@ -96,13 +113,13 @@
         "lng": 126.844116
       }
     ],
-    "color": "#2093ac",
+    "color": "#4f2116",
     "start_name": "길안내",
     "length_meter": 68.6,
     "time_minute": 1
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 35.464699,
@@ -113,13 +130,13 @@
         "lng": 126.846458
       }
     ],
-    "color": "#7bfb73",
+    "color": "#c1592e",
     "start_name": "위치번호 백암 13-12",
     "length_meter": 223.2,
     "time_minute": 3
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.465324,
@@ -130,13 +147,13 @@
         "lng": 126.848648
       }
     ],
-    "color": "#c82eb3",
+    "color": "#08092c",
     "start_name": "갈림길 / 낙석주의 / 몽계폭포",
     "length_meter": 242.4,
     "time_minute": 4
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.465557,
@@ -147,13 +164,13 @@
         "lng": 126.852448
       }
     ],
-    "color": "#e7c804",
+    "color": "#c15706",
     "start_name": "위험지구",
     "length_meter": 344.7,
     "time_minute": 5
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 35.465374,
@@ -164,13 +181,13 @@
         "lng": 126.85672
       }
     ],
-    "color": "#035c9a",
+    "color": "#96887c",
     "start_name": "위치번호 백암 13-10",
     "length_meter": 406.5,
     "time_minute": 6
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.464252,
@@ -181,13 +198,13 @@
         "lng": 126.857727
       }
     ],
-    "color": "#741393",
+    "color": "#681c0f",
     "start_name": "길안내",
     "length_meter": 109.5,
     "time_minute": 1
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.463707,
@@ -198,13 +215,13 @@
         "lng": 126.860458
       }
     ],
-    "color": "#284989",
+    "color": "#3bbf99",
     "start_name": "몽계폭포 탐방로",
     "length_meter": 310.4,
     "time_minute": 5
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.462021,
@@ -215,13 +232,13 @@
         "lng": 126.861862
       }
     ],
-    "color": "#1e74ec",
+    "color": "#9c034a",
     "start_name": "위치번호 백암 13-08",
     "length_meter": 136.8,
     "time_minute": 2
   },
   {
-    "path_id": 13,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.461567,
@@ -232,13 +249,13 @@
         "lng": 126.863092
       }
     ],
-    "color": "#ed8c4f",
+    "color": "#a02267",
     "start_name": "길안내",
     "length_meter": 281.0,
     "time_minute": 4
   },
   {
-    "path_id": 14,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.459247,
@@ -249,13 +266,13 @@
         "lng": 126.869978
       }
     ],
-    "color": "#5d8dda",
+    "color": "#996f7f",
     "start_name": "몽계폭포 탐방로",
     "length_meter": 800.3,
     "time_minute": 13
   },
   {
-    "path_id": 15,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.454737,
@@ -266,13 +283,13 @@
         "lng": 126.8703
       }
     ],
-    "color": "#95191e",
+    "color": "#52689d",
     "start_name": "탐방로 안내 / 길안내 / 위치번호 백암 13-05 / 백양사 운문선원",
     "length_meter": 64.7,
     "time_minute": 1
   },
   {
-    "path_id": 16,
+    "path_id": 17,
     "path": [
       {
         "lat": 35.454231,
@@ -283,13 +300,13 @@
         "lng": 126.873596
       }
     ],
-    "color": "#0668d6",
+    "color": "#81522f",
     "start_name": "낙석주의",
     "length_meter": 445.9,
     "time_minute": 7
   },
   {
-    "path_id": 17,
+    "path_id": 18,
     "path": [
       {
         "lat": 35.451252,
@@ -300,13 +317,13 @@
         "lng": 126.874931
       }
     ],
-    "color": "#5c2bf5",
+    "color": "#c3188b",
     "start_name": "갈림길 / 탐방로 안내",
     "length_meter": 200.4,
     "time_minute": 3
   },
   {
-    "path_id": 18,
+    "path_id": 19,
     "path": [
       {
         "lat": 35.449829,
@@ -317,13 +334,13 @@
         "lng": 126.876038
       }
     ],
-    "color": "#0b7cdc",
+    "color": "#8b8e73",
     "start_name": "낙석위험",
     "length_meter": 158.1,
     "time_minute": 2
   },
   {
-    "path_id": 19,
+    "path_id": 20,
     "path": [
       {
         "lat": 35.44873,
@@ -334,30 +351,47 @@
         "lng": 126.87825
       }
     ],
-    "color": "#10afaa",
+    "color": "#b4522f",
     "start_name": "위치번호 백암 13-02 / 백양사 계곡",
     "length_meter": 420.5,
     "time_minute": 7
   },
   {
-    "path_id": 20,
+    "path_id": 21,
     "path": [
       {
         "lat": 35.445423,
         "lng": 126.87825
       },
       {
+        "lat": 35.445162,
+        "lng": 126.878418
+      }
+    ],
+    "color": "#78b046",
+    "start_name": "낙석위험",
+    "length_meter": 32.8,
+    "time_minute": 0
+  },
+  {
+    "path_id": 22,
+    "path": [
+      {
+        "lat": 35.445162,
+        "lng": 126.878418
+      },
+      {
         "lat": 35.440731,
         "lng": 126.882835
       }
     ],
-    "color": "#3f17c7",
-    "start_name": "낙석위험 / 비자나무",
-    "length_meter": 667.5,
-    "time_minute": 11
+    "color": "#4c503e",
+    "start_name": "비자나무",
+    "length_meter": 634.7,
+    "time_minute": 10
   },
   {
-    "path_id": 21,
+    "path_id": 23,
     "path": [
       {
         "lat": 35.440731,
@@ -368,13 +402,13 @@
         "lng": 126.882728
       }
     ],
-    "color": "#634155",
+    "color": "#843422",
     "start_name": "갈림길 / 청량원 앞 조망 / 청량원 화장실 / 청량원 입구",
     "length_meter": 67.4,
     "time_minute": 1
   },
   {
-    "path_id": 22,
+    "path_id": 24,
     "path": [
       {
         "lat": 35.441223,
@@ -385,13 +419,13 @@
         "lng": 126.884299
       }
     ],
-    "color": "#6535dc",
+    "color": "#73b773",
     "start_name": "청량원내 전경",
     "length_meter": 193.7,
     "time_minute": 3
   },
   {
-    "path_id": 23,
+    "path_id": 25,
     "path": [
       {
         "lat": 35.440041,
@@ -402,13 +436,13 @@
         "lng": 126.884689
       }
     ],
-    "color": "#261987",
+    "color": "#af9b8b",
     "start_name": "백양사 비자나무 숲 / 갈림길 / 쌍계루 화장실",
     "length_meter": 66.7,
     "time_minute": 1
   },
   {
-    "path_id": 24,
+    "path_id": 26,
     "path": [
       {
         "lat": 35.440506,
@@ -419,13 +453,13 @@
         "lng": 126.887596
       }
     ],
-    "color": "#0732b3",
+    "color": "#5e2225",
     "start_name": "백양골 자연관찰로",
     "length_meter": 340.8,
     "time_minute": 5
   },
   {
-    "path_id": 25,
+    "path_id": 27,
     "path": [
       {
         "lat": 35.442451,
@@ -436,13 +470,13 @@
         "lng": 126.884583
       }
     ],
-    "color": "#9e17a0",
+    "color": "#4faf03",
     "start_name": "천진암 / 천진암 화장실",
     "length_meter": 407.1,
     "time_minute": 6
   },
   {
-    "path_id": 26,
+    "path_id": 28,
     "path": [
       {
         "lat": 35.439857,
@@ -453,13 +487,13 @@
         "lng": 126.883537
       }
     ],
-    "color": "#1e82a7",
+    "color": "#ba012c",
     "start_name": "소담채 / 백양사 이팝나무 / 위험경고 / 백양사 쌍계루 전경",
     "length_meter": 305.5,
     "time_minute": 5
   },
   {
-    "path_id": 27,
+    "path_id": 29,
     "path": [
       {
         "lat": 35.437313,
@@ -470,13 +504,13 @@
         "lng": 126.883598
       }
     ],
-    "color": "#1f6b45",
+    "color": "#746155",
     "start_name": "백양사 자연관찰로",
     "length_meter": 64.3,
     "time_minute": 1
   },
   {
-    "path_id": 28,
+    "path_id": 30,
     "path": [
       {
         "lat": 35.436737,
@@ -487,13 +521,13 @@
         "lng": 126.88118
       }
     ],
-    "color": "#c7926b",
+    "color": "#5745a9",
     "start_name": "풍경소리",
     "length_meter": 527.8,
     "time_minute": 8
   },
   {
-    "path_id": 29,
+    "path_id": 31,
     "path": [
       {
         "lat": 35.432419,
@@ -504,13 +538,13 @@
         "lng": 126.879013
       }
     ],
-    "color": "#a04dc3",
+    "color": "#622783",
     "start_name": "갈림길",
     "length_meter": 637.6,
     "time_minute": 10
   },
   {
-    "path_id": 30,
+    "path_id": 32,
     "path": [
       {
         "lat": 35.426964,
@@ -521,7 +555,7 @@
         "lng": 126.87896
       }
     ],
-    "color": "#c08209",
+    "color": "#607128",
     "start_name": "남원식당",
     "length_meter": 89.2,
     "time_minute": 1

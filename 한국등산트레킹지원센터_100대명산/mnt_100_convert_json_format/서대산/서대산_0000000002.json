@@ -11,7 +11,7 @@
         "lng": 127.53109
       }
     ],
-    "color": "#417260",
+    "color": "#77b567",
     "start_name": "하산로",
     "length_meter": 121.6,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 127.530525
       }
     ],
-    "color": "#0e476a",
+    "color": "#5d737d",
     "start_name": "마당바위 / 개덕사",
     "length_meter": 67.8,
     "time_minute": 1
@@ -41,17 +41,34 @@
         "lng": 127.530525
       },
       {
+        "lat": 36.230106,
+        "lng": 127.53051
+      }
+    ],
+    "color": "#ac86c4",
+    "start_name": "서대(개덕)폭포",
+    "length_meter": 46.3,
+    "time_minute": 0
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 36.230106,
+        "lng": 127.53051
+      },
+      {
         "lat": 36.229721,
         "lng": 127.529343
       }
     ],
-    "color": "#1adcdf",
-    "start_name": "서대(개덕)폭포 / 개덕사 산책로",
-    "length_meter": 159.4,
-    "time_minute": 2
+    "color": "#27ac65",
+    "start_name": "개덕사 산책로",
+    "length_meter": 113.1,
+    "time_minute": 1
   },
   {
-    "path_id": 3,
+    "path_id": 4,
     "path": [
       {
         "lat": 36.229721,
@@ -62,13 +79,13 @@
         "lng": 127.53476
       }
     ],
-    "color": "#a59eb1",
+    "color": "#b6b339",
     "start_name": "갈림길",
     "length_meter": 512.8,
     "time_minute": 8
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 36.231197,
@@ -79,7 +96,7 @@
         "lng": 127.535149
       }
     ],
-    "color": "#72d9f2",
+    "color": "#5e663f",
     "start_name": "강우관측소가는길",
     "length_meter": 35.0,
     "time_minute": 0

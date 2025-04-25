@@ -11,7 +11,7 @@
         "lng": 128.969635
       }
     ],
-    "color": "#312581",
+    "color": "#291001",
     "start_name": "태백산 백천탐방지원센터 주차장 / 주차장화장실 / 백천탐방지원센터 / 안내도",
     "length_meter": 70.3,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.965134
       }
     ],
-    "color": "#8badaf",
+    "color": "#16799e",
     "start_name": "계곡 / 갈림길",
     "length_meter": 505.5,
     "time_minute": 8
@@ -45,7 +45,7 @@
         "lng": 128.959503
       }
     ],
-    "color": "#089dca",
+    "color": "#049036",
     "start_name": "낙석위험",
     "length_meter": 516.1,
     "time_minute": 8
@@ -62,7 +62,7 @@
         "lng": 128.955048
       }
     ],
-    "color": "#2a31e6",
+    "color": "#900fad",
     "start_name": "갈림길",
     "length_meter": 420.0,
     "time_minute": 7
@@ -79,7 +79,7 @@
         "lng": 128.954193
       }
     ],
-    "color": "#3013de",
+    "color": "#8e7a5b",
     "start_name": "낙석위험",
     "length_meter": 77.2,
     "time_minute": 1
@@ -96,7 +96,7 @@
         "lng": 128.946777
       }
     ],
-    "color": "#caec05",
+    "color": "#5072c7",
     "start_name": "갈림길",
     "length_meter": 668.9,
     "time_minute": 11
@@ -113,7 +113,7 @@
         "lng": 128.946091
       }
     ],
-    "color": "#2b9ac1",
+    "color": "#29187d",
     "start_name": "안내",
     "length_meter": 63.5,
     "time_minute": 1
@@ -130,7 +130,7 @@
         "lng": 128.943069
       }
     ],
-    "color": "#bddd49",
+    "color": "#727631",
     "start_name": "갈림길 / 출입금지",
     "length_meter": 440.0,
     "time_minute": 7
@@ -143,31 +143,31 @@
         "lng": 128.943069
       },
       {
-        "lat": 37.073418,
-        "lng": 128.942398
+        "lat": 37.07336,
+        "lng": 128.943054
       }
     ],
-    "color": "#032edd",
-    "start_name": "포토 / 보호수",
-    "length_meter": 65.8,
-    "time_minute": 1
+    "color": "#0da80a",
+    "start_name": "포토",
+    "length_meter": 7.2,
+    "time_minute": 0
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.073418,
-        "lng": 128.942398
+        "lat": 37.07336,
+        "lng": 128.943054
       },
       {
         "lat": 37.075455,
         "lng": 128.937714
       }
     ],
-    "color": "#99521b",
-    "start_name": "갈림길",
-    "length_meter": 473.3,
-    "time_minute": 7
+    "color": "#a82c41",
+    "start_name": "보호수 / 갈림길",
+    "length_meter": 531.8,
+    "time_minute": 8
   },
   {
     "path_id": 10,
@@ -181,7 +181,7 @@
         "lng": 128.930191
       }
     ],
-    "color": "#fc895e",
+    "color": "#793723",
     "start_name": "간이쉼터",
     "length_meter": 767.1,
     "time_minute": 12
@@ -198,7 +198,7 @@
         "lng": 128.924835
       }
     ],
-    "color": "#c4bc2e",
+    "color": "#46118c",
     "start_name": "갈림길",
     "length_meter": 956.9,
     "time_minute": 15
@@ -215,7 +215,7 @@
         "lng": 128.922501
       }
     ],
-    "color": "#5a6710",
+    "color": "#944a82",
     "start_name": "멧돼지흔적",
     "length_meter": 374.5,
     "time_minute": 6
@@ -232,7 +232,7 @@
         "lng": 128.921188
       }
     ],
-    "color": "#8f6ff6",
+    "color": "#b18c4d",
     "start_name": "갈림길",
     "length_meter": 217.9,
     "time_minute": 3
@@ -249,7 +249,7 @@
         "lng": 128.921722
       }
     ],
-    "color": "#174699",
+    "color": "#9f3e67",
     "start_name": "부쇠봉에서 바라본 전경",
     "length_meter": 104.6,
     "time_minute": 1
@@ -262,17 +262,34 @@
         "lng": 128.921722
       },
       {
+        "lat": 37.091675,
+        "lng": 128.921753
+      }
+    ],
+    "color": "#31aea2",
+    "start_name": "부쇠봉정상석 / 부쇠봉에서 바라본 하늘",
+    "length_meter": 9.0,
+    "time_minute": 0
+  },
+  {
+    "path_id": 16,
+    "path": [
+      {
+        "lat": 37.091675,
+        "lng": 128.921753
+      },
+      {
         "lat": 37.092384,
         "lng": 128.922287
       }
     ],
-    "color": "#a804b1",
-    "start_name": "부쇠봉정상석 / 부쇠봉에서 바라본 하늘 / 경관",
-    "length_meter": 101.0,
+    "color": "#84879d",
+    "start_name": "경관",
+    "length_meter": 92.0,
     "time_minute": 1
   },
   {
-    "path_id": 16,
+    "path_id": 17,
     "path": [
       {
         "lat": 37.092384,
@@ -283,13 +300,13 @@
         "lng": 128.933182
       }
     ],
-    "color": "#42cfeb",
+    "color": "#45bc2e",
     "start_name": "갈림길",
     "length_meter": 969.7,
     "time_minute": 16
   },
   {
-    "path_id": 17,
+    "path_id": 18,
     "path": [
       {
         "lat": 37.093109,
@@ -300,13 +317,13 @@
         "lng": 128.939087
       }
     ],
-    "color": "#f0e200",
+    "color": "#3d6ba7",
     "start_name": "문수봉등산로",
     "length_meter": 524.9,
     "time_minute": 8
   },
   {
-    "path_id": 18,
+    "path_id": 19,
     "path": [
       {
         "lat": 37.092796,
@@ -317,7 +334,7 @@
         "lng": 128.953796
       }
     ],
-    "color": "#e03d4f",
+    "color": "#aeb237",
     "start_name": "갈림길",
     "length_meter": 2182.6,
     "time_minute": 36

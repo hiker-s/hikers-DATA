@@ -15,10 +15,10 @@ def random_color():
         b = int(hex_color[5:7], 16)
 
         # 흰색에 가까운 색상 제외 (R, G, B 값이 너무 높은 색을 제외)
-        if r > 200 and g > 200 and b > 200:
-            continue
+        if r < 200 and g < 200 and b < 200:
+            return hex_color
         
-        return hex_color
+        
 
 
 # 거리 계산 함수 (하버사인 공식)
@@ -68,8 +68,13 @@ for mountain_folder in os.listdir(json_path):
                         start_names = [waypoints[i].get('name', f"Point {i}")]
 
                         # 걸리는 시간이 0분인 경우
+                        # 단, 다음 경로의 이름이 "갈림길"일 경우는 진행하지 않음
                         while time_minutes < 1 and i + 2 < len(waypoints):
-                            # 다음다음의 경로와 통합
+                            next_name = waypoints[i + 2].get("name", "")
+                            if "갈림길" in next_name:
+                                break
+
+                            # 경로 통합
                             next_lat = waypoints[i+2]['lat']
                             next_lon = waypoints[i+2]['lon']
                             next_length = calculate_distance(lat2, lon2, next_lat, next_lon)
@@ -81,7 +86,7 @@ for mountain_folder in os.listdir(json_path):
                             time_minutes += next_time
                             i += 1
                             start_names.append(waypoints[i].get('name', f"Point {i}"))
-
+                        
                         section = {
                             "path_id": path_id,
                             "path": [

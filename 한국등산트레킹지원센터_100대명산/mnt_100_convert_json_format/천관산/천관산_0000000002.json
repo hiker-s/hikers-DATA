@@ -11,7 +11,7 @@
         "lng": 126.909462
       }
     ],
-    "color": "#5c6ba9",
+    "color": "#8585ae",
     "start_name": "반야굴",
     "length_meter": 170.6,
     "time_minute": 2
@@ -24,34 +24,51 @@
         "lng": 126.909462
       },
       {
-        "lat": 34.531013,
-        "lng": 126.908913
+        "lat": 34.530952,
+        "lng": 126.909363
       }
     ],
-    "color": "#fd997c",
-    "start_name": "갈림길 / 탑산사",
-    "length_meter": 63.2,
-    "time_minute": 1
+    "color": "#a4b575",
+    "start_name": "갈림길",
+    "length_meter": 21.5,
+    "time_minute": 0
   },
   {
     "path_id": 2,
     "path": [
       {
-        "lat": 34.531013,
-        "lng": 126.908913
+        "lat": 34.530952,
+        "lng": 126.909363
+      },
+      {
+        "lat": 34.53109,
+        "lng": 126.908546
+      }
+    ],
+    "color": "#146fb2",
+    "start_name": "탑산사 / 갈림길",
+    "length_meter": 76.5,
+    "time_minute": 1
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 34.53109,
+        "lng": 126.908546
       },
       {
         "lat": 34.531815,
         "lng": 126.907005
       }
     ],
-    "color": "#fe851d",
-    "start_name": "갈림길 / 아육왕탑",
-    "length_meter": 197.3,
-    "time_minute": 3
+    "color": "#0227ab",
+    "start_name": "아육왕탑",
+    "length_meter": 162.6,
+    "time_minute": 2
   },
   {
-    "path_id": 3,
+    "path_id": 4,
     "path": [
       {
         "lat": 34.531815,
@@ -62,13 +79,13 @@
         "lng": 126.91066
       }
     ],
-    "color": "#50eebf",
+    "color": "#489d69",
     "start_name": "구룡봉",
     "length_meter": 443.8,
     "time_minute": 7
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 34.534435,
@@ -79,13 +96,13 @@
         "lng": 126.911171
       }
     ],
-    "color": "#74e978",
+    "color": "#bab4bd",
     "start_name": "진죽봉",
     "length_meter": 121.1,
     "time_minute": 2
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 34.535439,
@@ -96,7 +113,7 @@
         "lng": 126.912842
       }
     ],
-    "color": "#09b9b5",
+    "color": "#649d9d",
     "start_name": "갈림길",
     "length_meter": 1508.1,
     "time_minute": 25

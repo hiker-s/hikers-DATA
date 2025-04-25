@@ -11,7 +11,7 @@
         "lng": 128.000046
       }
     ],
-    "color": "#8ab6f5",
+    "color": "#8d5b23",
     "start_name": "극락전주차장 / 입산통제소",
     "length_meter": 170.5,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 127.992935
       }
     ],
-    "color": "#76e3fb",
+    "color": "#7f4048",
     "start_name": "황악산이정표",
     "length_meter": 852.3,
     "time_minute": 14
@@ -41,17 +41,34 @@
         "lng": 127.992935
       },
       {
+        "lat": 36.110054,
+        "lng": 127.992912
+      }
+    ],
+    "color": "#a36f52",
+    "start_name": "망월봉",
+    "length_meter": 2.2,
+    "time_minute": 0
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 36.110054,
+        "lng": 127.992912
+      },
+      {
         "lat": 36.109028,
         "lng": 127.99128
       }
     ],
-    "color": "#edfd70",
-    "start_name": "망월봉 / 망월봉쉼터 / 갈림길",
-    "length_meter": 193.9,
+    "color": "#418769",
+    "start_name": "망월봉쉼터 / 갈림길",
+    "length_meter": 191.6,
     "time_minute": 3
   },
   {
-    "path_id": 3,
+    "path_id": 4,
     "path": [
       {
         "lat": 36.109028,
@@ -62,30 +79,47 @@
         "lng": 127.980324
       }
     ],
-    "color": "#0cea6b",
+    "color": "#8b613e",
     "start_name": "국가지점번호 / 갈림길",
     "length_meter": 1144.7,
     "time_minute": 19
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 36.103855,
         "lng": 127.980324
+      },
+      {
+        "lat": 36.103863,
+        "lng": 127.980309
+      }
+    ],
+    "color": "#871a27",
+    "start_name": "신선봉",
+    "length_meter": 1.6,
+    "time_minute": 0
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 36.103863,
+        "lng": 127.980309
       },
       {
         "lat": 36.104332,
         "lng": 127.977654
       }
     ],
-    "color": "#c779cc",
-    "start_name": "신선봉 / 이정표 / 갈림길",
-    "length_meter": 245.8,
+    "color": "#92c541",
+    "start_name": "이정표 / 갈림길",
+    "length_meter": 244.2,
     "time_minute": 4
   },
   {
-    "path_id": 5,
+    "path_id": 7,
     "path": [
       {
         "lat": 36.104332,
@@ -96,13 +130,13 @@
         "lng": 127.972198
       }
     ],
-    "color": "#97e744",
+    "color": "#095c14",
     "start_name": "국가지점번호",
     "length_meter": 516.9,
     "time_minute": 8
   },
   {
-    "path_id": 6,
+    "path_id": 8,
     "path": [
       {
         "lat": 36.105808,
@@ -113,13 +147,13 @@
         "lng": 127.974953
       }
     ],
-    "color": "#8e69ed",
+    "color": "#926352",
     "start_name": "갈림길 / 국가지점번호",
     "length_meter": 483.4,
     "time_minute": 8
   },
   {
-    "path_id": 7,
+    "path_id": 9,
     "path": [
       {
         "lat": 36.109535,
@@ -130,13 +164,13 @@
         "lng": 127.980774
       }
     ],
-    "color": "#cecfc6",
+    "color": "#b1203c",
     "start_name": "내원계곡과 등산로합류점",
     "length_meter": 573.3,
     "time_minute": 9
   },
   {
-    "path_id": 8,
+    "path_id": 10,
     "path": [
       {
         "lat": 36.111649,
@@ -147,13 +181,13 @@
         "lng": 127.99482
       }
     ],
-    "color": "#f98a19",
+    "color": "#ad8c9f",
     "start_name": "내원계곡폭포",
     "length_meter": 1356.9,
     "time_minute": 22
   },
   {
-    "path_id": 9,
+    "path_id": 11,
     "path": [
       {
         "lat": 36.116138,
@@ -164,13 +198,13 @@
         "lng": 127.996277
       }
     ],
-    "color": "#ea34cc",
+    "color": "#0f0c7c",
     "start_name": "명적암주차장",
     "length_meter": 160.8,
     "time_minute": 2
   },
   {
-    "path_id": 10,
+    "path_id": 12,
     "path": [
       {
         "lat": 36.116978,
@@ -181,13 +215,13 @@
         "lng": 127.999779
       }
     ],
-    "color": "#c0af39",
+    "color": "#275367",
     "start_name": "갈림길",
     "length_meter": 327.7,
     "time_minute": 5
   },
   {
-    "path_id": 11,
+    "path_id": 13,
     "path": [
       {
         "lat": 36.117805,
@@ -198,7 +232,7 @@
         "lng": 127.99984
       }
     ],
-    "color": "#baf7d9",
+    "color": "#0f6c70",
     "start_name": "입산통제소",
     "length_meter": 9.3,
     "time_minute": 0

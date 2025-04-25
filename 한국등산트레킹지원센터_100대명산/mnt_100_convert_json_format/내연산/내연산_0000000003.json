@@ -11,7 +11,7 @@
         "lng": 129.259323
       }
     ],
-    "color": "#b81052",
+    "color": "#4d129b",
     "start_name": "입구 승용주차장",
     "length_meter": 63.0,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 129.258377
       }
     ],
-    "color": "#4b0d9c",
+    "color": "#679119",
     "start_name": "장애인전용 주차장 / 화장실",
     "length_meter": 135.9,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 129.260208
       }
     ],
-    "color": "#e200f9",
+    "color": "#53196d",
     "start_name": "수목원 화장실",
     "length_meter": 174.1,
     "time_minute": 2
@@ -62,7 +62,7 @@
         "lng": 129.262558
       }
     ],
-    "color": "#7b8c65",
+    "color": "#66acbe",
     "start_name": "전망대 가는길 입구",
     "length_meter": 258.8,
     "time_minute": 4
@@ -79,7 +79,7 @@
         "lng": 129.263824
       }
     ],
-    "color": "#db0fa7",
+    "color": "#655887",
     "start_name": "수목원전망대",
     "length_meter": 170.5,
     "time_minute": 2
@@ -96,7 +96,7 @@
         "lng": 129.267319
       }
     ],
-    "color": "#168e77",
+    "color": "#54570c",
     "start_name": "갈림길",
     "length_meter": 365.8,
     "time_minute": 6
@@ -113,7 +113,7 @@
         "lng": 129.27153
       }
     ],
-    "color": "#b779cc",
+    "color": "#20b75e",
     "start_name": "삿갓봉 / 갈림길",
     "length_meter": 781.2,
     "time_minute": 13
@@ -130,7 +130,7 @@
         "lng": 129.270813
       }
     ],
-    "color": "#91d1ac",
+    "color": "#b42a52",
     "start_name": "정자쉼터 / 보호수,외솔배기",
     "length_meter": 235.5,
     "time_minute": 3
@@ -147,7 +147,7 @@
         "lng": 129.27002
       }
     ],
-    "color": "#1351aa",
+    "color": "#c28971",
     "start_name": "철쭉군락지",
     "length_meter": 190.3,
     "time_minute": 3
@@ -164,7 +164,7 @@
         "lng": 129.274124
       }
     ],
-    "color": "#c481ef",
+    "color": "#c38328",
     "start_name": "참나무군락지",
     "length_meter": 1105.2,
     "time_minute": 18
@@ -181,7 +181,7 @@
         "lng": 129.277878
       }
     ],
-    "color": "#a1b5a7",
+    "color": "#c4c0a5",
     "start_name": "단풍나무군락지",
     "length_meter": 545.6,
     "time_minute": 9
@@ -198,7 +198,7 @@
         "lng": 129.282364
       }
     ],
-    "color": "#645084",
+    "color": "#b72bc5",
     "start_name": "큰바위와 조망권 / 능선과 벌판 그리고 바위",
     "length_meter": 467.8,
     "time_minute": 7
@@ -215,7 +215,7 @@
         "lng": 129.269257
       }
     ],
-    "color": "#30fce5",
+    "color": "#0a2b18",
     "start_name": "우척봉 / 갈림길",
     "length_meter": 1481.9,
     "time_minute": 24
@@ -228,17 +228,34 @@
         "lng": 129.269257
       },
       {
+        "lat": 36.236195,
+        "lng": 129.269196
+      }
+    ],
+    "color": "#812990",
+    "start_name": "쉼터3",
+    "length_meter": 5.5,
+    "time_minute": 0
+  },
+  {
+    "path_id": 14,
+    "path": [
+      {
+        "lat": 36.236195,
+        "lng": 129.269196
+      },
+      {
         "lat": 36.230824,
         "lng": 129.268112
       }
     ],
-    "color": "#13e23d",
-    "start_name": "쉼터3 / 야생동물 출현",
-    "length_meter": 610.6,
+    "color": "#41a7b4",
+    "start_name": "야생동물 출현",
+    "length_meter": 605.1,
     "time_minute": 10
   },
   {
-    "path_id": 14,
+    "path_id": 15,
     "path": [
       {
         "lat": 36.230824,
@@ -249,13 +266,13 @@
         "lng": 129.267776
       }
     ],
-    "color": "#6b8679",
+    "color": "#b37544",
     "start_name": "갈림길",
     "length_meter": 1060.9,
     "time_minute": 17
   },
   {
-    "path_id": 15,
+    "path_id": 16,
     "path": [
       {
         "lat": 36.221287,
@@ -266,13 +283,13 @@
         "lng": 129.26091
       }
     ],
-    "color": "#8c6a57",
+    "color": "#267675",
     "start_name": "정자쉼터 1",
     "length_meter": 671.7,
     "time_minute": 11
   },
   {
-    "path_id": 16,
+    "path_id": 17,
     "path": [
       {
         "lat": 36.218876,
@@ -283,13 +300,13 @@
         "lng": 129.258453
       }
     ],
-    "color": "#e63e87",
+    "color": "#307623",
     "start_name": "정자쉼터",
     "length_meter": 239.2,
     "time_minute": 3
   },
   {
-    "path_id": 17,
+    "path_id": 18,
     "path": [
       {
         "lat": 36.21804,
@@ -300,7 +317,7 @@
         "lng": 129.259155
       }
     ],
-    "color": "#e3e683",
+    "color": "#367943",
     "start_name": "명상의 숲  쉼터",
     "length_meter": 99.3,
     "time_minute": 1

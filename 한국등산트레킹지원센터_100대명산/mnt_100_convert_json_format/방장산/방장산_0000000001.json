@@ -11,7 +11,7 @@
         "lng": 126.75013
       }
     ],
-    "color": "#8008fd",
+    "color": "#c4909d",
     "start_name": "입구주차장 / 방장산자연휴양림 관리사무소,매표소 / 휴양림 입구",
     "length_meter": 183.6,
     "time_minute": 3
@@ -28,7 +28,7 @@
         "lng": 126.749603
       }
     ],
-    "color": "#1c3f40",
+    "color": "#876f21",
     "start_name": "3번지점 국립장성숲체원 / 3번지점 숲체원앞 주차장",
     "length_meter": 64.0,
     "time_minute": 1
@@ -41,31 +41,31 @@
         "lng": 126.749603
       },
       {
-        "lat": 35.445126,
-        "lng": 126.748871
+        "lat": 35.44495,
+        "lng": 126.749321
       }
     ],
-    "color": "#173eb9",
-    "start_name": "3번지점 숲체원 화장실 / 4번지점",
-    "length_meter": 73.0,
-    "time_minute": 1
+    "color": "#169c61",
+    "start_name": "3번지점 숲체원 화장실",
+    "length_meter": 27.8,
+    "time_minute": 0
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 35.445126,
-        "lng": 126.748871
+        "lat": 35.44495,
+        "lng": 126.749321
       },
       {
         "lat": 35.445503,
         "lng": 126.747383
       }
     ],
-    "color": "#01a346",
-    "start_name": "갈림길",
-    "length_meter": 141.2,
-    "time_minute": 2
+    "color": "#be6fa3",
+    "start_name": "4번지점 / 갈림길",
+    "length_meter": 186.4,
+    "time_minute": 3
   },
   {
     "path_id": 4,
@@ -75,17 +75,34 @@
         "lng": 126.747383
       },
       {
+        "lat": 35.445763,
+        "lng": 126.746941
+      }
+    ],
+    "color": "#34430b",
+    "start_name": "5번주차장 / 갈림길",
+    "length_meter": 49.4,
+    "time_minute": 0
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 35.445763,
+        "lng": 126.746941
+      },
+      {
         "lat": 35.446304,
         "lng": 126.746284
       }
     ],
-    "color": "#213674",
-    "start_name": "5번주차장 / 갈림길 / 6번쉼터",
-    "length_meter": 134.1,
-    "time_minute": 2
+    "color": "#8506b7",
+    "start_name": "6번쉼터",
+    "length_meter": 84.6,
+    "time_minute": 1
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 35.446304,
@@ -96,13 +113,13 @@
         "lng": 126.748978
       }
     ],
-    "color": "#4988f6",
+    "color": "#5e5c53",
     "start_name": "갈림길",
     "length_meter": 244.3,
     "time_minute": 4
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 35.446194,
@@ -113,13 +130,13 @@
         "lng": 126.75058
       }
     ],
-    "color": "#6b558c",
+    "color": "#a45734",
     "start_name": "16 스탬프",
     "length_meter": 147.6,
     "time_minute": 2
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 35.445953,
@@ -130,13 +147,13 @@
         "lng": 126.752525
       }
     ],
-    "color": "#fe20c6",
+    "color": "#9d8c9d",
     "start_name": "스탬프19 / 갈림길 / 편백단풍길",
     "length_meter": 248.3,
     "time_minute": 4
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 35.447514,
@@ -147,13 +164,13 @@
         "lng": 126.753387
       }
     ],
-    "color": "#064d25",
+    "color": "#52b527",
     "start_name": "자연경관",
     "length_meter": 79.2,
     "time_minute": 1
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 35.447395,
@@ -164,13 +181,13 @@
         "lng": 126.753929
       }
     ],
-    "color": "#39419a",
+    "color": "#bfb546",
     "start_name": "위험지역",
     "length_meter": 225.1,
     "time_minute": 3
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.445419,
@@ -181,13 +198,13 @@
         "lng": 126.755135
       }
     ],
-    "color": "#bf66de",
+    "color": "#54a1bc",
     "start_name": "자연경관",
     "length_meter": 131.4,
     "time_minute": 2
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.444763,
@@ -198,13 +215,13 @@
         "lng": 126.759941
       }
     ],
-    "color": "#052f96",
+    "color": "#5b5a56",
     "start_name": "철탑",
     "length_meter": 439.9,
     "time_minute": 7
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.444199,
@@ -215,13 +232,13 @@
         "lng": 126.762947
       }
     ],
-    "color": "#89b4e6",
+    "color": "#49250e",
     "start_name": "편백 단풍",
     "length_meter": 319.0,
     "time_minute": 5
   },
   {
-    "path_id": 13,
+    "path_id": 14,
     "path": [
       {
         "lat": 35.445694,
@@ -232,13 +249,13 @@
         "lng": 126.765251
       }
     ],
-    "color": "#d2c33a",
+    "color": "#755a3e",
     "start_name": "자연경관",
     "length_meter": 210.9,
     "time_minute": 3
   },
   {
-    "path_id": 14,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.445419,
@@ -249,13 +266,13 @@
         "lng": 126.765953
       }
     ],
-    "color": "#df93b8",
+    "color": "#a5b200",
     "start_name": "장성북이면일대",
     "length_meter": 87.0,
     "time_minute": 1
   },
   {
-    "path_id": 15,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.445953,
@@ -266,13 +283,13 @@
         "lng": 126.767838
       }
     ],
-    "color": "#03debc",
+    "color": "#4c8880",
     "start_name": "자연경관",
     "length_meter": 200.8,
     "time_minute": 3
   },
   {
-    "path_id": 16,
+    "path_id": 17,
     "path": [
       {
         "lat": 35.446903,
@@ -283,13 +300,13 @@
         "lng": 126.767349
       }
     ],
-    "color": "#b94d24",
+    "color": "#559d55",
     "start_name": "군락지 / 갈림길",
     "length_meter": 137.8,
     "time_minute": 2
   },
   {
-    "path_id": 17,
+    "path_id": 18,
     "path": [
       {
         "lat": 35.447758,
@@ -300,13 +317,13 @@
         "lng": 126.765587
       }
     ],
-    "color": "#681d6d",
+    "color": "#88434e",
     "start_name": "조망점  백암제",
     "length_meter": 215.4,
     "time_minute": 3
   },
   {
-    "path_id": 18,
+    "path_id": 19,
     "path": [
       {
         "lat": 35.449059,
@@ -317,13 +334,13 @@
         "lng": 126.76992
       }
     ],
-    "color": "#13e6ca",
+    "color": "#b86d62",
     "start_name": "자연경관",
     "length_meter": 1478.2,
     "time_minute": 24
   },
   {
-    "path_id": 19,
+    "path_id": 20,
     "path": [
       {
         "lat": 35.461876,
@@ -334,13 +351,13 @@
         "lng": 126.770348
       }
     ],
-    "color": "#f43c19",
+    "color": "#a9498f",
     "start_name": "방장산 능선",
     "length_meter": 75.6,
     "time_minute": 1
   },
   {
-    "path_id": 20,
+    "path_id": 21,
     "path": [
       {
         "lat": 35.461292,
@@ -351,13 +368,13 @@
         "lng": 126.773544
       }
     ],
-    "color": "#7ca47b",
+    "color": "#007c7c",
     "start_name": "갈림길",
     "length_meter": 308.6,
     "time_minute": 5
   },
   {
-    "path_id": 21,
+    "path_id": 22,
     "path": [
       {
         "lat": 35.462254,
@@ -368,13 +385,13 @@
         "lng": 126.774544
       }
     ],
-    "color": "#ac8182",
+    "color": "#43af04",
     "start_name": "자연경관",
     "length_meter": 397.3,
     "time_minute": 6
   },
   {
-    "path_id": 22,
+    "path_id": 23,
     "path": [
       {
         "lat": 35.458775,
@@ -385,13 +402,13 @@
         "lng": 126.781319
       }
     ],
-    "color": "#b0d054",
+    "color": "#bf2ec0",
     "start_name": "산악기상관측장비",
     "length_meter": 899.0,
     "time_minute": 14
   },
   {
-    "path_id": 23,
+    "path_id": 24,
     "path": [
       {
         "lat": 35.464684,
@@ -402,13 +419,13 @@
         "lng": 126.788528
       }
     ],
-    "color": "#2d4237",
+    "color": "#8cc056",
     "start_name": "자연경관",
     "length_meter": 724.0,
     "time_minute": 12
   },
   {
-    "path_id": 24,
+    "path_id": 25,
     "path": [
       {
         "lat": 35.467499,
@@ -419,13 +436,13 @@
         "lng": 126.788895
       }
     ],
-    "color": "#f0366c",
+    "color": "#8e0779",
     "start_name": "갈림길",
     "length_meter": 79.4,
     "time_minute": 1
   },
   {
-    "path_id": 25,
+    "path_id": 26,
     "path": [
       {
         "lat": 35.468147,
@@ -436,7 +453,7 @@
         "lng": 126.7892
       }
     ],
-    "color": "#08ff5a",
+    "color": "#7d244e",
     "start_name": "장성갈재 / 장성갈재 통일공원",
     "length_meter": 33.6,
     "time_minute": 0

@@ -11,7 +11,7 @@
         "lng": 126.985535
       }
     ],
-    "color": "#c4734b",
+    "color": "#0d8367",
     "start_name": "들머리",
     "length_meter": 384.1,
     "time_minute": 6
@@ -28,7 +28,7 @@
         "lng": 126.976395
       }
     ],
-    "color": "#c35d54",
+    "color": "#150cb3",
     "start_name": "보광사",
     "length_meter": 820.9,
     "time_minute": 13
@@ -45,7 +45,7 @@
         "lng": 126.976135
       }
     ],
-    "color": "#1157de",
+    "color": "#bd37b6",
     "start_name": "갈림길",
     "length_meter": 229.8,
     "time_minute": 3
@@ -62,7 +62,7 @@
         "lng": 126.973755
       }
     ],
-    "color": "#90e6d6",
+    "color": "#1a8906",
     "start_name": "회양목",
     "length_meter": 228.0,
     "time_minute": 3
@@ -79,7 +79,7 @@
         "lng": 126.971092
       }
     ],
-    "color": "#5014cd",
+    "color": "#833b5c",
     "start_name": "마당바위방향쉼터",
     "length_meter": 458.1,
     "time_minute": 7
@@ -96,7 +96,7 @@
         "lng": 126.970245
       }
     ],
-    "color": "#68e04d",
+    "color": "#378c85",
     "start_name": "이단폭포",
     "length_meter": 96.3,
     "time_minute": 1
@@ -113,7 +113,7 @@
         "lng": 126.967705
       }
     ],
-    "color": "#614f22",
+    "color": "#ab4970",
     "start_name": "갈림길 / 문원폭포",
     "length_meter": 246.5,
     "time_minute": 4
@@ -130,7 +130,7 @@
         "lng": 126.966599
       }
     ],
-    "color": "#57bef3",
+    "color": "#669531",
     "start_name": "흰뫼길",
     "length_meter": 98.3,
     "time_minute": 1
@@ -147,7 +147,7 @@
         "lng": 126.962273
       }
     ],
-    "color": "#f12126",
+    "color": "#0b9125",
     "start_name": "팔봉방향",
     "length_meter": 398.9,
     "time_minute": 6
@@ -160,36 +160,70 @@
         "lng": 126.962273
       },
       {
-        "lat": 37.434315,
-        "lng": 126.961891
+        "lat": 37.433762,
+        "lng": 126.962273
       }
     ],
-    "color": "#eb8f9e",
-    "start_name": "갈림길 / 육봉방향",
-    "length_meter": 84.9,
-    "time_minute": 1
+    "color": "#7e3d6c",
+    "start_name": "갈림길",
+    "length_meter": 14.8,
+    "time_minute": 0
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 37.434315,
-        "lng": 126.961891
+        "lat": 37.433762,
+        "lng": 126.962273
       },
       {
-        "lat": 37.435726,
-        "lng": 126.962196
+        "lat": 37.434315,
+        "lng": 126.961891
       }
     ],
-    "color": "#d33f0d",
-    "start_name": "갈림길 / 팔봉정상",
-    "length_meter": 170.8,
-    "time_minute": 2
+    "color": "#36b26a",
+    "start_name": "육봉방향",
+    "length_meter": 70.1,
+    "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
+        "lat": 37.434315,
+        "lng": 126.961891
+      },
+      {
+        "lat": 37.434719,
+        "lng": 126.961662
+      }
+    ],
+    "color": "#a8a69a",
+    "start_name": "갈림길",
+    "length_meter": 49.3,
+    "time_minute": 0
+  },
+  {
+    "path_id": 12,
+    "path": [
+      {
+        "lat": 37.434719,
+        "lng": 126.961662
+      },
+      {
+        "lat": 37.435726,
+        "lng": 126.962196
+      }
+    ],
+    "color": "#52a675",
+    "start_name": "팔봉정상",
+    "length_meter": 121.5,
+    "time_minute": 2
+  },
+  {
+    "path_id": 13,
+    "path": [
+      {
         "lat": 37.435726,
         "lng": 126.962196
       },
@@ -198,13 +232,13 @@
         "lng": 126.963165
       }
     ],
-    "color": "#06ecf6",
+    "color": "#125804",
     "start_name": "갈림길 / 합류점 인근",
     "length_meter": 136.3,
     "time_minute": 2
   },
   {
-    "path_id": 12,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.436626,
@@ -215,13 +249,13 @@
         "lng": 126.964088
       }
     ],
-    "color": "#60551c",
+    "color": "#484309",
     "start_name": "연주대방항 주능선 / 갈림길",
     "length_meter": 373.7,
     "time_minute": 6
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.43988,
@@ -232,13 +266,13 @@
         "lng": 126.963989
       }
     ],
-    "color": "#9c0d76",
+    "color": "#110f8c",
     "start_name": "kbs 기지국",
     "length_meter": 92.0,
     "time_minute": 1
   },
   {
-    "path_id": 14,
+    "path_id": 16,
     "path": [
       {
         "lat": 37.440704,
@@ -249,30 +283,47 @@
         "lng": 126.964348
       }
     ],
-    "color": "#f5dd99",
+    "color": "#7a709d",
     "start_name": "갈림길",
     "length_meter": 206.9,
     "time_minute": 3
   },
   {
-    "path_id": 15,
+    "path_id": 17,
     "path": [
       {
         "lat": 37.442543,
         "lng": 126.964348
+      },
+      {
+        "lat": 37.442986,
+        "lng": 126.964218
+      }
+    ],
+    "color": "#805b75",
+    "start_name": "사거리앞",
+    "length_meter": 50.6,
+    "time_minute": 0
+  },
+  {
+    "path_id": 18,
+    "path": [
+      {
+        "lat": 37.442986,
+        "lng": 126.964218
       },
       {
         "lat": 37.442421,
         "lng": 126.965286
       }
     ],
-    "color": "#2df67f",
-    "start_name": "사거리앞 / k23",
-    "length_meter": 163.9,
-    "time_minute": 2
+    "color": "#2d34a8",
+    "start_name": "k23",
+    "length_meter": 113.3,
+    "time_minute": 1
   },
   {
-    "path_id": 16,
+    "path_id": 19,
     "path": [
       {
         "lat": 37.442421,
@@ -283,13 +334,13 @@
         "lng": 126.966141
       }
     ],
-    "color": "#b8362a",
+    "color": "#63b99d",
     "start_name": "갈림길",
     "length_meter": 117.4,
     "time_minute": 1
   },
   {
-    "path_id": 17,
+    "path_id": 20,
     "path": [
       {
         "lat": 37.441612,
@@ -300,13 +351,13 @@
         "lng": 126.968864
       }
     ],
-    "color": "#e4b46e",
+    "color": "#1b8468",
     "start_name": "연주암앞",
     "length_meter": 266.1,
     "time_minute": 4
   },
   {
-    "path_id": 18,
+    "path_id": 21,
     "path": [
       {
         "lat": 37.442638,
@@ -317,13 +368,13 @@
         "lng": 126.972046
       }
     ],
-    "color": "#2c7d5d",
+    "color": "#70b1ad",
     "start_name": "산장",
     "length_meter": 281.7,
     "time_minute": 4
   },
   {
-    "path_id": 19,
+    "path_id": 22,
     "path": [
       {
         "lat": 37.442829,
@@ -334,13 +385,13 @@
         "lng": 126.973427
       }
     ],
-    "color": "#e10001",
+    "color": "#a699a2",
     "start_name": "제2약수터",
     "length_meter": 159.1,
     "time_minute": 2
   },
   {
-    "path_id": 20,
+    "path_id": 23,
     "path": [
       {
         "lat": 37.44191,
@@ -351,13 +402,13 @@
         "lng": 126.976669
       }
     ],
-    "color": "#9abc08",
+    "color": "#25c024",
     "start_name": "제1약수터",
     "length_meter": 313.9,
     "time_minute": 5
   },
   {
-    "path_id": 21,
+    "path_id": 24,
     "path": [
       {
         "lat": 37.44075,
@@ -368,13 +419,13 @@
         "lng": 126.978722
       }
     ],
-    "color": "#b670fc",
+    "color": "#38a9ad",
     "start_name": "계단길엽 쉼터 / 자연경관 담는 곳",
     "length_meter": 282.0,
     "time_minute": 4
   },
   {
-    "path_id": 22,
+    "path_id": 25,
     "path": [
       {
         "lat": 37.4389,
@@ -385,13 +436,13 @@
         "lng": 126.979568
       }
     ],
-    "color": "#a86cbf",
+    "color": "#486d78",
     "start_name": "교량앞",
     "length_meter": 89.7,
     "time_minute": 1
   },
   {
-    "path_id": 23,
+    "path_id": 26,
     "path": [
       {
         "lat": 37.438454,
@@ -402,13 +453,13 @@
         "lng": 126.981667
       }
     ],
-    "color": "#74bd1f",
+    "color": "#91702a",
     "start_name": "산악인대피소 / 대피소옆",
     "length_meter": 343.8,
     "time_minute": 5
   },
   {
-    "path_id": 24,
+    "path_id": 27,
     "path": [
       {
         "lat": 37.435856,
@@ -419,13 +470,13 @@
         "lng": 126.985466
       }
     ],
-    "color": "#cab9b3",
+    "color": "#a3ab75",
     "start_name": "향교전",
     "length_meter": 408.6,
     "time_minute": 6
   },
   {
-    "path_id": 25,
+    "path_id": 28,
     "path": [
       {
         "lat": 37.433758,
@@ -436,13 +487,13 @@
         "lng": 126.98674
       }
     ],
-    "color": "#c5305e",
+    "color": "#3f5500",
     "start_name": "풀장집 / 돌담집",
     "length_meter": 125.2,
     "time_minute": 2
   },
   {
-    "path_id": 26,
+    "path_id": 29,
     "path": [
       {
         "lat": 37.433281,
@@ -453,7 +504,7 @@
         "lng": 126.991333
       }
     ],
-    "color": "#9c866a",
+    "color": "#122d2d",
     "start_name": "날머리 / 하천인근",
     "length_meter": 722.4,
     "time_minute": 12

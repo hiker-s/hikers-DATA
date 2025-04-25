@@ -11,7 +11,7 @@
         "lng": 128.085434
       }
     ],
-    "color": "#5d240b",
+    "color": "#1b889e",
     "start_name": "성남종점 / 종점주차장 / 상원산장식당",
     "length_meter": 95.6,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.074097
       }
     ],
-    "color": "#b34ff2",
+    "color": "#309053",
     "start_name": "성남탐방지원센터 / 탐방지원센터 화장실 / 계곡물",
     "length_meter": 1739.3,
     "time_minute": 28
@@ -45,7 +45,7 @@
         "lng": 128.069656
       }
     ],
-    "color": "#fc7637",
+    "color": "#5d5372",
     "start_name": "임시주차장",
     "length_meter": 395.4,
     "time_minute": 6
@@ -62,7 +62,7 @@
         "lng": 128.069061
       }
     ],
-    "color": "#3441c0",
+    "color": "#bf77a3",
     "start_name": "바위와 작은폭포 / 상원사탐방로 시작점 주차장",
     "length_meter": 75.8,
     "time_minute": 1
@@ -79,7 +79,7 @@
         "lng": 128.067368
       }
     ],
-    "color": "#39cb68",
+    "color": "#870d2f",
     "start_name": "치악산국립공원 알림마당 / 화장실",
     "length_meter": 152.8,
     "time_minute": 2
@@ -96,7 +96,7 @@
         "lng": 128.066864
       }
     ],
-    "color": "#47cbb1",
+    "color": "#aabb11",
     "start_name": "계곡",
     "length_meter": 61.3,
     "time_minute": 1
@@ -113,7 +113,7 @@
         "lng": 128.064377
       }
     ],
-    "color": "#009b6c",
+    "color": "#95080f",
     "start_name": "낙석주의",
     "length_meter": 387.8,
     "time_minute": 6
@@ -130,7 +130,7 @@
         "lng": 128.063324
       }
     ],
-    "color": "#1500d9",
+    "color": "#9d52bd",
     "start_name": "의자 2개",
     "length_meter": 113.8,
     "time_minute": 1
@@ -147,7 +147,7 @@
         "lng": 128.056595
       }
     ],
-    "color": "#dd349a",
+    "color": "#55a1c0",
     "start_name": "경치",
     "length_meter": 692.1,
     "time_minute": 11
@@ -164,7 +164,7 @@
         "lng": 128.054428
       }
     ],
-    "color": "#88b259",
+    "color": "#088468",
     "start_name": "낙석주의",
     "length_meter": 426.1,
     "time_minute": 7
@@ -181,7 +181,7 @@
         "lng": 128.054108
       }
     ],
-    "color": "#1fe3fd",
+    "color": "#a03c65",
     "start_name": "상원사 샘터 폐쇄",
     "length_meter": 128.3,
     "time_minute": 2
@@ -198,7 +198,7 @@
         "lng": 128.053558
       }
     ],
-    "color": "#e35b0c",
+    "color": "#4d0a80",
     "start_name": "상원사 조망처",
     "length_meter": 64.9,
     "time_minute": 1
@@ -215,7 +215,7 @@
         "lng": 128.054047
       }
     ],
-    "color": "#352381",
+    "color": "#a64939",
     "start_name": "자연경관 / 상원사 경내 식수",
     "length_meter": 71.5,
     "time_minute": 1
@@ -232,7 +232,7 @@
         "lng": 128.053223
       }
     ],
-    "color": "#02e92c",
+    "color": "#818483",
     "start_name": "상원사 석탑 및 광배 / 포토존 / 까치전설의 종 / 상원사",
     "length_meter": 95.9,
     "time_minute": 1
@@ -249,7 +249,7 @@
         "lng": 128.053711
       }
     ],
-    "color": "#1982dc",
+    "color": "#4c8001",
     "start_name": "관광자원 / 상으ㅓㄴ사내",
     "length_meter": 70.2,
     "time_minute": 1
@@ -262,19 +262,36 @@
         "lng": 128.053711
       },
       {
-        "lat": 37.30566,
-        "lng": 128.051331
+        "lat": 37.305965,
+        "lng": 128.053787
       }
     ],
-    "color": "#84dd27",
-    "start_name": "상원사 경내 / 상원사 바깥 화장실",
-    "length_meter": 268.7,
-    "time_minute": 4
+    "color": "#96a407",
+    "start_name": "상원사 경내",
+    "length_meter": 48.8,
+    "time_minute": 0
   },
   {
     "path_id": 16,
     "path": [
       {
+        "lat": 37.305965,
+        "lng": 128.053787
+      },
+      {
+        "lat": 37.30566,
+        "lng": 128.051331
+      }
+    ],
+    "color": "#4a4e16",
+    "start_name": "상원사 바깥 화장실",
+    "length_meter": 219.9,
+    "time_minute": 3
+  },
+  {
+    "path_id": 17,
+    "path": [
+      {
         "lat": 37.30566,
         "lng": 128.051331
       },
@@ -283,13 +300,13 @@
         "lng": 128.050659
       }
     ],
-    "color": "#1c3df9",
+    "color": "#a99b4d",
     "start_name": "갈림길",
     "length_meter": 163.5,
     "time_minute": 2
   },
   {
-    "path_id": 17,
+    "path_id": 18,
     "path": [
       {
         "lat": 37.30703,
@@ -300,32 +317,32 @@
         "lng": 128.051788
       }
     ],
-    "color": "#16d0e7",
+    "color": "#6d6e8f",
     "start_name": "바위",
     "length_meter": 100.8,
-    "time_minute": 1
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 37.307152,
-        "lng": 128.051788
-      },
-      {
-        "lat": 37.307823,
-        "lng": 128.051987
-      }
-    ],
-    "color": "#8c0fc3",
-    "start_name": "초망처 / 조망처",
-    "length_meter": 77.1,
     "time_minute": 1
   },
   {
     "path_id": 19,
     "path": [
       {
+        "lat": 37.307152,
+        "lng": 128.051788
+      },
+      {
+        "lat": 37.307823,
+        "lng": 128.051987
+      }
+    ],
+    "color": "#1eb47b",
+    "start_name": "초망처 / 조망처",
+    "length_meter": 77.1,
+    "time_minute": 1
+  },
+  {
+    "path_id": 20,
+    "path": [
+      {
         "lat": 37.307823,
         "lng": 128.051987
       },
@@ -334,13 +351,13 @@
         "lng": 128.049698
       }
     ],
-    "color": "#6b9d3a",
+    "color": "#501284",
     "start_name": "치악산 남대봉 1,181m / 남대봉안전센터",
     "length_meter": 375.4,
     "time_minute": 6
   },
   {
-    "path_id": 20,
+    "path_id": 21,
     "path": [
       {
         "lat": 37.310459,
@@ -351,13 +368,13 @@
         "lng": 128.047791
       }
     ],
-    "color": "#8d67f0",
+    "color": "#3f3e56",
     "start_name": "낙석주의",
     "length_meter": 209.8,
     "time_minute": 3
   },
   {
-    "path_id": 21,
+    "path_id": 22,
     "path": [
       {
         "lat": 37.311581,
@@ -368,13 +385,13 @@
         "lng": 128.047302
       }
     ],
-    "color": "#a796dd",
+    "color": "#c549a4",
     "start_name": "종주능선 전망대",
     "length_meter": 130.8,
     "time_minute": 2
   },
   {
-    "path_id": 22,
+    "path_id": 23,
     "path": [
       {
         "lat": 37.312691,
@@ -385,13 +402,13 @@
         "lng": 128.045685
       }
     ],
-    "color": "#17dbfd",
+    "color": "#9a2dc6",
     "start_name": "원주시내 조망처",
     "length_meter": 160.5,
     "time_minute": 2
   },
   {
-    "path_id": 23,
+    "path_id": 24,
     "path": [
       {
         "lat": 37.313347,
@@ -402,13 +419,13 @@
         "lng": 128.034546
       }
     ],
-    "color": "#d2b2cf",
+    "color": "#3faa98",
     "start_name": "갈림길",
     "length_meter": 2167.5,
     "time_minute": 36
   },
   {
-    "path_id": 24,
+    "path_id": 25,
     "path": [
       {
         "lat": 37.330711,
@@ -419,30 +436,47 @@
         "lng": 128.033875
       }
     ],
-    "color": "#357b40",
+    "color": "#12751e",
     "start_name": "의자 / 향로봉 삼각점 / 향로봉안전센터",
     "length_meter": 77.5,
     "time_minute": 1
   },
   {
-    "path_id": 25,
+    "path_id": 26,
     "path": [
       {
         "lat": 37.331032,
         "lng": 128.033875
       },
       {
+        "lat": 37.331089,
+        "lng": 128.033813
+      }
+    ],
+    "color": "#8bb616",
+    "start_name": "향로봉 1,043",
+    "length_meter": 8.4,
+    "time_minute": 0
+  },
+  {
+    "path_id": 27,
+    "path": [
+      {
+        "lat": 37.331089,
+        "lng": 128.033813
+      },
+      {
         "lat": 37.332954,
         "lng": 128.033066
       }
     ],
-    "color": "#261ac9",
-    "start_name": "향로봉 1,043 / 향로봉전망대",
-    "length_meter": 226.0,
+    "color": "#43a99b",
+    "start_name": "향로봉전망대",
+    "length_meter": 217.6,
     "time_minute": 3
   },
   {
-    "path_id": 26,
+    "path_id": 28,
     "path": [
       {
         "lat": 37.332954,
@@ -453,13 +487,13 @@
         "lng": 128.026535
       }
     ],
-    "color": "#9877cd",
+    "color": "#b1836a",
     "start_name": "갈림길",
     "length_meter": 585.0,
     "time_minute": 9
   },
   {
-    "path_id": 27,
+    "path_id": 29,
     "path": [
       {
         "lat": 37.333797,
@@ -470,13 +504,13 @@
         "lng": 128.026443
       }
     ],
-    "color": "#fe8fd3",
+    "color": "#637164",
     "start_name": "보문사",
     "length_meter": 64.1,
     "time_minute": 1
   },
   {
-    "path_id": 28,
+    "path_id": 30,
     "path": [
       {
         "lat": 37.333225,
@@ -487,7 +521,7 @@
         "lng": 128.01442
       }
     ],
-    "color": "#be5d72",
+    "color": "#4f5fbc",
     "start_name": "화장실 / 자연경관",
     "length_meter": 1103.5,
     "time_minute": 18

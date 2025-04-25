@@ -11,7 +11,7 @@
         "lng": 128.576447
       }
     ],
-    "color": "#eea80d",
+    "color": "#0a6d28",
     "start_name": "마하(백룡동굴) / 백룡동굴탐방센터 야외 화장실 / 백룡동굴탐방센터 / 백운산 등산안내도",
     "length_meter": 116.8,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.579514
       }
     ],
-    "color": "#c58fa4",
+    "color": "#458156",
     "start_name": "문희마을",
     "length_meter": 294.8,
     "time_minute": 4
@@ -45,7 +45,7 @@
         "lng": 128.584976
       }
     ],
-    "color": "#f60ccb",
+    "color": "#120cb3",
     "start_name": "백운산 등산코스 안내도",
     "length_meter": 793.2,
     "time_minute": 13
@@ -62,7 +62,7 @@
         "lng": 128.586365
       }
     ],
-    "color": "#b1456d",
+    "color": "#431812",
     "start_name": "사각돌",
     "length_meter": 476.8,
     "time_minute": 7
@@ -79,7 +79,7 @@
         "lng": 128.589523
       }
     ],
-    "color": "#4c2780",
+    "color": "#0f9d8f",
     "start_name": "이정목",
     "length_meter": 284.3,
     "time_minute": 4
@@ -96,7 +96,7 @@
         "lng": 128.579163
       }
     ],
-    "color": "#77736c",
+    "color": "#096089",
     "start_name": "갈림길",
     "length_meter": 1392.9,
     "time_minute": 23
@@ -113,7 +113,7 @@
         "lng": 128.588837
       }
     ],
-    "color": "#9c6ec4",
+    "color": "#256134",
     "start_name": "푯대봉 삼각점 / 푯대봉",
     "length_meter": 1200.0,
     "time_minute": 19
@@ -130,7 +130,7 @@
         "lng": 128.590073
       }
     ],
-    "color": "#5a3046",
+    "color": "#a82850",
     "start_name": "소나무 군락",
     "length_meter": 318.4,
     "time_minute": 5
@@ -147,7 +147,7 @@
         "lng": 128.596298
       }
     ],
-    "color": "#f5aa70",
+    "color": "#327ec1",
     "start_name": "잣나무 식립지",
     "length_meter": 891.6,
     "time_minute": 14
@@ -164,7 +164,7 @@
         "lng": 128.596085
       }
     ],
-    "color": "#e0c2a0",
+    "color": "#7f6d05",
     "start_name": "추락위험",
     "length_meter": 238.7,
     "time_minute": 3
@@ -177,17 +177,34 @@
         "lng": 128.596085
       },
       {
+        "lat": 37.280018,
+        "lng": 128.596085
+      }
+    ],
+    "color": "#bd5ba4",
+    "start_name": "이정표",
+    "length_meter": 2.1,
+    "time_minute": 0
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 37.280018,
+        "lng": 128.596085
+      },
+      {
         "lat": 37.279705,
         "lng": 128.594208
       }
     ],
-    "color": "#2a24bd",
-    "start_name": "이정표 / 백운산",
-    "length_meter": 171.8,
+    "color": "#375e07",
+    "start_name": "백운산",
+    "length_meter": 169.7,
     "time_minute": 2
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 37.279705,
@@ -198,13 +215,13 @@
         "lng": 128.593018
       }
     ],
-    "color": "#46f14c",
+    "color": "#4d1c91",
     "start_name": "갈림길",
     "length_meter": 162.6,
     "time_minute": 2
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.280819,
@@ -215,13 +232,13 @@
         "lng": 128.589783
       }
     ],
-    "color": "#52f51f",
+    "color": "#3c4502",
     "start_name": "아정표",
     "length_meter": 310.2,
     "time_minute": 5
   },
   {
-    "path_id": 13,
+    "path_id": 14,
     "path": [
       {
         "lat": 37.281895,
@@ -232,7 +249,7 @@
         "lng": 128.582901
       }
     ],
-    "color": "#638e82",
+    "color": "#a74363",
     "start_name": "이정표",
     "length_meter": 612.0,
     "time_minute": 10

@@ -11,7 +11,7 @@
         "lng": 127.582916
       }
     ],
-    "color": "#607b9e",
+    "color": "#17b539",
     "start_name": "홍적종점",
     "length_meter": 1178.6,
     "time_minute": 19
@@ -24,19 +24,36 @@
         "lng": 127.582916
       },
       {
-        "lat": 37.961578,
-        "lng": 127.584503
+        "lat": 37.961418,
+        "lng": 127.582993
       }
     ],
-    "color": "#016e67",
-    "start_name": "갈림길 / 국가지점번호 / 안내소",
-    "length_meter": 160.3,
-    "time_minute": 2
+    "color": "#2f8f34",
+    "start_name": "갈림길 / 국가지점번호",
+    "length_meter": 26.7,
+    "time_minute": 0
   },
   {
     "path_id": 2,
     "path": [
       {
+        "lat": 37.961418,
+        "lng": 127.582993
+      },
+      {
+        "lat": 37.961578,
+        "lng": 127.584503
+      }
+    ],
+    "color": "#3947c2",
+    "start_name": "안내소",
+    "length_meter": 133.6,
+    "time_minute": 2
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
         "lat": 37.961578,
         "lng": 127.584503
       },
@@ -45,13 +62,13 @@
         "lng": 127.588135
       }
     ],
-    "color": "#053878",
+    "color": "#22bd04",
     "start_name": "갈림길",
     "length_meter": 333.4,
     "time_minute": 5
   },
   {
-    "path_id": 3,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.96069,
@@ -62,13 +79,13 @@
         "lng": 127.602913
       }
     ],
-    "color": "#56a485",
+    "color": "#9d85bf",
     "start_name": "이정표",
     "length_meter": 1435.5,
     "time_minute": 23
   },
   {
-    "path_id": 4,
+    "path_id": 5,
     "path": [
       {
         "lat": 37.955132,
@@ -79,13 +96,13 @@
         "lng": 127.61264
       }
     ],
-    "color": "#da699a",
+    "color": "#9399a9",
     "start_name": "국가지점번호 / 몽덕산 정상 / 이정표",
     "length_meter": 1835.6,
     "time_minute": 30
   },
   {
-    "path_id": 5,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.940517,
@@ -96,13 +113,13 @@
         "lng": 127.615173
       }
     ],
-    "color": "#924231",
+    "color": "#4e9514",
     "start_name": "국가지점번호 / 가덕산 정상",
     "length_meter": 707.2,
     "time_minute": 11
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.934525,
@@ -113,13 +130,13 @@
         "lng": 127.612625
       }
     ],
-    "color": "#5f398c",
+    "color": "#4aa7a0",
     "start_name": "이정표",
     "length_meter": 1586.6,
     "time_minute": 26
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.920399,
@@ -130,13 +147,13 @@
         "lng": 127.614525
       }
     ],
-    "color": "#a9b542",
+    "color": "#91c735",
     "start_name": "북배산 정상",
     "length_meter": 202.5,
     "time_minute": 3
   },
   {
-    "path_id": 8,
+    "path_id": 9,
     "path": [
       {
         "lat": 37.919365,
@@ -147,13 +164,13 @@
         "lng": 127.617638
       }
     ],
-    "color": "#4b108e",
+    "color": "#1e6c14",
     "start_name": "갈림길",
     "length_meter": 1242.6,
     "time_minute": 20
   },
   {
-    "path_id": 9,
+    "path_id": 10,
     "path": [
       {
         "lat": 37.908463,
@@ -164,13 +181,13 @@
         "lng": 127.612816
       }
     ],
-    "color": "#59c609",
+    "color": "#8bb631",
     "start_name": "이정표",
     "length_meter": 1171.8,
     "time_minute": 19
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 37.898636,
@@ -181,13 +198,13 @@
         "lng": 127.609344
       }
     ],
-    "color": "#d22960",
+    "color": "#ad9e43",
     "start_name": "갈림길 / 국가지점번호",
     "length_meter": 684.9,
     "time_minute": 11
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 37.89312,
@@ -198,30 +215,47 @@
         "lng": 127.594757
       }
     ],
-    "color": "#4e2b72",
+    "color": "#9d696a",
     "start_name": "이정표",
     "length_meter": 2305.7,
     "time_minute": 38
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 37.875874,
         "lng": 127.594757
+      },
+      {
+        "lat": 37.875862,
+        "lng": 127.594742
+      }
+    ],
+    "color": "#52c637",
+    "start_name": "갈림길",
+    "length_meter": 1.9,
+    "time_minute": 0
+  },
+  {
+    "path_id": 14,
+    "path": [
+      {
+        "lat": 37.875862,
+        "lng": 127.594742
       },
       {
         "lat": 37.873951,
         "lng": 127.579552
       }
     ],
-    "color": "#0329f0",
-    "start_name": "갈림길 / 국가지점번호",
-    "length_meter": 1352.0,
+    "color": "#06332a",
+    "start_name": "국가지점번호",
+    "length_meter": 1350.1,
     "time_minute": 22
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 37.873951,
@@ -232,13 +266,13 @@
         "lng": 127.540092
       }
     ],
-    "color": "#0644c5",
+    "color": "#50b870",
     "start_name": "갈림길",
     "length_meter": 3753.4,
     "time_minute": 62
   },
   {
-    "path_id": 14,
+    "path_id": 16,
     "path": [
       {
         "lat": 37.86095,
@@ -249,13 +283,13 @@
         "lng": 127.53833
       }
     ],
-    "color": "#ea114c",
+    "color": "#bd074c",
     "start_name": "미끄럼 주의",
     "length_meter": 185.9,
     "time_minute": 3
   },
   {
-    "path_id": 15,
+    "path_id": 17,
     "path": [
       {
         "lat": 37.860023,
@@ -266,13 +300,13 @@
         "lng": 127.53138
       }
     ],
-    "color": "#d173da",
+    "color": "#c0760a",
     "start_name": "이정표",
     "length_meter": 1052.6,
     "time_minute": 17
   },
   {
-    "path_id": 16,
+    "path_id": 18,
     "path": [
       {
         "lat": 37.85231,
@@ -283,13 +317,13 @@
         "lng": 127.518364
       }
     ],
-    "color": "#62226f",
+    "color": "#789a18",
     "start_name": "갈림길",
     "length_meter": 1912.8,
     "time_minute": 31
   },
   {
-    "path_id": 17,
+    "path_id": 19,
     "path": [
       {
         "lat": 37.838516,
@@ -300,13 +334,13 @@
         "lng": 127.519669
       }
     ],
-    "color": "#f7527b",
+    "color": "#9b12b1",
     "start_name": "보납산 정상",
     "length_meter": 426.2,
     "time_minute": 7
   },
   {
-    "path_id": 18,
+    "path_id": 20,
     "path": [
       {
         "lat": 37.834824,
@@ -317,7 +351,7 @@
         "lng": 127.518349
       }
     ],
-    "color": "#d37773",
+    "color": "#b75896",
     "start_name": "갈림길",
     "length_meter": 352.2,
     "time_minute": 5
