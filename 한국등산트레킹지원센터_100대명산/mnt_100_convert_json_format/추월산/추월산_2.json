@@ -3,34 +3,51 @@
     "path_id": 0,
     "path": [
       {
-        "lat": 35.395111,
-        "lng": 126.990364
+        "lat": 35.39798,
+        "lng": 126.995819
       },
       {
-        "lat": 35.394817,
-        "lng": 126.990303
+        "lat": 35.395111,
+        "lng": 126.990364
       }
     ],
-    "color": "#a7a653",
-    "start_name": "갈림길 / 추월산 구상암",
-    "length_meter": 51.7,
-    "time_minute": 0
+    "color": "#b71f2e",
+    "start_name": "쉼터",
+    "length_meter": 588.4,
+    "time_minute": 9
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 35.394817,
-        "lng": 126.990303
+        "lat": 35.395111,
+        "lng": 126.990364
+      },
+      {
+        "lat": 35.394459,
+        "lng": 126.989517
+      }
+    ],
+    "color": "#640e97",
+    "start_name": "갈림길 / 추월산 구상암 / 주의지점",
+    "length_meter": 133.3,
+    "time_minute": 2
+  },
+  {
+    "path_id": 2,
+    "path": [
+      {
+        "lat": 35.394459,
+        "lng": 126.989517
       },
       {
         "lat": 35.393349,
         "lng": 126.986763
       }
     ],
-    "color": "#08a00f",
-    "start_name": "주의지점",
-    "length_meter": 360.0,
-    "time_minute": 6
+    "color": "#62bebc",
+    "start_name": "쉼터",
+    "length_meter": 278.5,
+    "time_minute": 4
   }
 ]

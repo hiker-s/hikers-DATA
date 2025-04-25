@@ -3,6 +3,23 @@
     "path_id": 0,
     "path": [
       {
+        "lat": 37.089752,
+        "lng": 128.489716
+      },
+      {
+        "lat": 37.114155,
+        "lng": 128.48175
+      }
+    ],
+    "color": "#5b8cbd",
+    "start_name": "쉼터",
+    "length_meter": 2803.9,
+    "time_minute": 46
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
         "lat": 37.114155,
         "lng": 128.48175
       },
@@ -11,7 +28,7 @@
         "lng": 128.481705
       }
     ],
-    "color": "#1a7210",
+    "color": "#3b0fa7",
     "start_name": "입산금지",
     "length_meter": 10.2,
     "time_minute": 0

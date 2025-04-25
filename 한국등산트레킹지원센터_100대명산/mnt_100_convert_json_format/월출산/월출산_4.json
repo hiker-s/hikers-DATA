@@ -11,7 +11,7 @@
         "lng": 126.70874
       }
     ],
-    "color": "#0b143b",
+    "color": "#b24a12",
     "start_name": "경포대탐방지원센터 / 경포대탐방지원센터 앞",
     "length_meter": 129.2,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 126.708412
       }
     ],
-    "color": "#24c492",
+    "color": "#38be08",
     "start_name": "월출산국립공원 안내도 / 경포대음수화장실 / 탐방로안내 / 전남월출학생수련장",
     "length_meter": 79.3,
     "time_minute": 1
@@ -41,87 +41,53 @@
         "lng": 126.708412
       },
       {
-        "lat": 34.74789,
-        "lng": 126.708244
+        "lat": 34.747871,
+        "lng": 126.708221
       }
     ],
-    "color": "#457359",
+    "color": "#3185c7",
     "start_name": "경포대탐방로입구 / 탐방로안내 / 족욕탕 / 뱀주의",
-    "length_meter": 82.3,
+    "length_meter": 80.3,
     "time_minute": 1
   },
   {
     "path_id": 3,
     "path": [
       {
-        "lat": 34.74789,
-        "lng": 126.708244
+        "lat": 34.747871,
+        "lng": 126.708221
       },
       {
-        "lat": 34.750721,
-        "lng": 126.708824
+        "lat": 34.757198,
+        "lng": 126.707916
       }
     ],
-    "color": "#0a5f49",
-    "start_name": "국가지점번호 / 물놀이주의 / 탐방로안내 / 야생멧돼지 출현주의 / 국가지점번호",
-    "length_meter": 337.9,
-    "time_minute": 5
+    "color": "#be52b2",
+    "start_name": "물놀이주의 / 탐방로안내 / 야생멧돼지 출현주의",
+    "length_meter": 1050.6,
+    "time_minute": 17
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 34.750721,
-        "lng": 126.708824
-      },
-      {
         "lat": 34.757198,
         "lng": 126.707916
+      },
+      {
+        "lat": 34.760738,
+        "lng": 126.707672
       }
     ],
-    "color": "#844d73",
-    "start_name": "벤치",
-    "length_meter": 725.0,
-    "time_minute": 12
+    "color": "#0f3897",
+    "start_name": "굴참나무터널",
+    "length_meter": 394.3,
+    "time_minute": 6
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 34.757198,
-        "lng": 126.707916
-      },
-      {
-        "lat": 34.758327,
-        "lng": 126.708107
-      }
-    ],
-    "color": "#063790",
-    "start_name": "굴참나무터널",
-    "length_meter": 126.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
-        "lat": 34.758327,
-        "lng": 126.708107
-      },
-      {
-        "lat": 34.760738,
-        "lng": 126.707672
-      }
-    ],
-    "color": "#39a304",
-    "start_name": "국가지점번호",
-    "length_meter": 271.0,
-    "time_minute": 4
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
         "lat": 34.760738,
         "lng": 126.707672
       },
@@ -130,83 +96,66 @@
         "lng": 126.706718
       }
     ],
-    "color": "#7fa342",
+    "color": "#753a31",
     "start_name": "편백나무숲",
     "length_meter": 331.9,
     "time_minute": 5
   },
   {
-    "path_id": 8,
+    "path_id": 6,
     "path": [
       {
         "lat": 34.763618,
         "lng": 126.706718
       },
       {
-        "lat": 34.763966,
-        "lng": 126.706863
+        "lat": 34.766579,
+        "lng": 126.70652
       }
     ],
-    "color": "#7546a5",
-    "start_name": "사자봉능선 / 쉼터광장 / 국가지점번호 / 경포대옹달샘음수대",
-    "length_meter": 62.1,
+    "color": "#000684",
+    "start_name": "사자봉능선 / 쉼터광장 / 경포대옹달샘음수대 / 사자봉",
+    "length_meter": 351.7,
+    "time_minute": 5
+  },
+  {
+    "path_id": 7,
+    "path": [
+      {
+        "lat": 34.766579,
+        "lng": 126.70652
+      },
+      {
+        "lat": 34.766624,
+        "lng": 126.706757
+      }
+    ],
+    "color": "#13601d",
+    "start_name": "추락위험 / 탐방로제한안내 / 사고위험지역",
+    "length_meter": 23.7,
+    "time_minute": 0
+  },
+  {
+    "path_id": 8,
+    "path": [
+      {
+        "lat": 34.766624,
+        "lng": 126.706757
+      },
+      {
+        "lat": 34.766693,
+        "lng": 126.706078
+      }
+    ],
+    "color": "#16a498",
+    "start_name": "탐방로안내 / 갈림길",
+    "length_meter": 62.5,
     "time_minute": 1
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 34.763966,
-        "lng": 126.706863
-      },
-      {
-        "lat": 34.76659,
-        "lng": 126.70649
-      }
-    ],
-    "color": "#317eb1",
-    "start_name": "사자봉",
-    "length_meter": 293.8,
-    "time_minute": 4
-  },
-  {
-    "path_id": 10,
-    "path": [
-      {
-        "lat": 34.76659,
-        "lng": 126.70649
-      },
-      {
-        "lat": 34.766624,
-        "lng": 126.706757
-      }
-    ],
-    "color": "#4c9a81",
-    "start_name": "국가지점번호 / 추락위험 / 탐방로제한안내 / 사고위험지역",
-    "length_meter": 26.7,
-    "time_minute": 0
-  },
-  {
-    "path_id": 11,
-    "path": [
-      {
-        "lat": 34.766624,
-        "lng": 126.706757
-      },
-      {
-        "lat": 34.766693,
-        "lng": 126.706078
-      }
-    ],
-    "color": "#c04d1c",
-    "start_name": "탐방로안내 / 갈림길",
-    "length_meter": 62.5,
-    "time_minute": 1
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
         "lat": 34.766693,
         "lng": 126.706078
       },
@@ -215,13 +164,13 @@
         "lng": 126.702171
       }
     ],
-    "color": "#138f5b",
+    "color": "#b5c126",
     "start_name": "구름다리 사자봉 / 사자봉-양자봉능선 / 육형제봉과 사자봉",
     "length_meter": 408.1,
     "time_minute": 6
   },
   {
-    "path_id": 13,
+    "path_id": 10,
     "path": [
       {
         "lat": 34.765251,
@@ -232,13 +181,13 @@
         "lng": 126.70137
       }
     ],
-    "color": "#a74166",
+    "color": "#579925",
     "start_name": "자연경관",
     "length_meter": 89.6,
     "time_minute": 1
   },
   {
-    "path_id": 14,
+    "path_id": 11,
     "path": [
       {
         "lat": 34.764786,
@@ -249,13 +198,13 @@
         "lng": 126.700569
       }
     ],
-    "color": "#2318ac",
+    "color": "#bb5746",
     "start_name": "비상구급함 / 안전쉼터 / 향로봉, 구정봉,노적봉능선",
     "length_meter": 209.0,
     "time_minute": 3
   },
   {
-    "path_id": 15,
+    "path_id": 12,
     "path": [
       {
         "lat": 34.763062,
@@ -266,13 +215,13 @@
         "lng": 126.696648
       }
     ],
-    "color": "#0c6ac7",
+    "color": "#893f0c",
     "start_name": "돼지바위",
     "length_meter": 437.0,
     "time_minute": 7
   },
   {
-    "path_id": 16,
+    "path_id": 13,
     "path": [
       {
         "lat": 34.760811,
@@ -283,64 +232,30 @@
         "lng": 126.694763
       }
     ],
-    "color": "#8983b8",
+    "color": "#3aab97",
     "start_name": "구정봉 의 큰바위얼굴",
     "length_meter": 178.3,
     "time_minute": 2
   },
   {
-    "path_id": 17,
+    "path_id": 14,
     "path": [
       {
         "lat": 34.760395,
         "lng": 126.694763
-      },
-      {
-        "lat": 34.760738,
-        "lng": 126.696732
-      }
-    ],
-    "color": "#a91672",
-    "start_name": "갈림길 / 베틀굴",
-    "length_meter": 216.4,
-    "time_minute": 3
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
-        "lat": 34.760738,
-        "lng": 126.696732
-      },
-      {
-        "lat": 34.758957,
-        "lng": 126.698532
-      }
-    ],
-    "color": "#5d902c",
-    "start_name": "포토존",
-    "length_meter": 257.4,
-    "time_minute": 4
-  },
-  {
-    "path_id": 19,
-    "path": [
-      {
-        "lat": 34.758957,
-        "lng": 126.698532
       },
       {
         "lat": 34.756641,
         "lng": 126.705421
       }
     ],
-    "color": "#9d6e3e",
-    "start_name": "국가지점번호",
-    "length_meter": 680.0,
-    "time_minute": 11
+    "color": "#a7c737",
+    "start_name": "갈림길 / 베틀굴",
+    "length_meter": 1103.1,
+    "time_minute": 18
   },
   {
-    "path_id": 20,
+    "path_id": 15,
     "path": [
       {
         "lat": 34.756641,
@@ -351,13 +266,13 @@
         "lng": 126.708725
       }
     ],
-    "color": "#3834ae",
+    "color": "#100ea3",
     "start_name": "예추구간 / 금릉경포대에 이르는 폭포 / 소폭포",
     "length_meter": 999.1,
     "time_minute": 16
   },
   {
-    "path_id": 21,
+    "path_id": 16,
     "path": [
       {
         "lat": 34.748207,
@@ -368,9 +283,9 @@
         "lng": 126.708328
       }
     ],
-    "color": "#0e8828",
-    "start_name": "대피로 / 뱀, 벌주의 / 국가지점번호 / 테이블과 벤치",
-    "length_meter": 55.1,
+    "color": "#098b69",
+    "start_name": "대피로 / 뱀, 벌주의 / 테이블과 벤치",
+    "length_meter": 54.3,
     "time_minute": 0
   }
 ]

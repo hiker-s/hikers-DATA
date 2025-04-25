@@ -11,7 +11,7 @@
         "lng": 128.996597
       }
     ],
-    "color": "#526d5c",
+    "color": "#8b408a",
     "start_name": "호박소 입구 / 호박소 주차장",
     "length_meter": 105.6,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.991165
       }
     ],
-    "color": "#822e5c",
+    "color": "#b98a71",
     "start_name": "백운산 백련사",
     "length_meter": 548.6,
     "time_minute": 9
@@ -45,7 +45,7 @@
         "lng": 128.990814
       }
     ],
-    "color": "#70185f",
+    "color": "#ada886",
     "start_name": "갈림길 / 구조목 / 자연경관 / 얼음골 케이블카",
     "length_meter": 69.0,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 128.99057
       }
     ],
-    "color": "#2ba535",
+    "color": "#5abb3d",
     "start_name": "백호바위",
     "length_meter": 71.8,
     "time_minute": 1
@@ -79,9 +79,9 @@
         "lng": 128.990005
       }
     ],
-    "color": "#302923",
-    "start_name": "자연경관 / 포토존 / 릿지구간",
-    "length_meter": 76.3,
+    "color": "#3a924f",
+    "start_name": "자연경관 / 릿지구간",
+    "length_meter": 76.2,
     "time_minute": 1
   },
   {
@@ -96,7 +96,7 @@
         "lng": 128.987579
       }
     ],
-    "color": "#7b6f31",
+    "color": "#9db160",
     "start_name": "웨이포인트 14 / 자연경관",
     "length_meter": 223.5,
     "time_minute": 3
@@ -113,7 +113,7 @@
         "lng": 128.986282
       }
     ],
-    "color": "#2d38ba",
+    "color": "#2e88c2",
     "start_name": "암릉구간",
     "length_meter": 126.6,
     "time_minute": 2
@@ -130,7 +130,7 @@
         "lng": 128.98497
       }
     ],
-    "color": "#636087",
+    "color": "#aa5e56",
     "start_name": "돌탑",
     "length_meter": 304.0,
     "time_minute": 5
@@ -147,7 +147,7 @@
         "lng": 128.984787
       }
     ],
-    "color": "#3208b1",
+    "color": "#ab7ba7",
     "start_name": "표지석",
     "length_meter": 69.9,
     "time_minute": 1
@@ -164,7 +164,7 @@
         "lng": 128.984802
       }
     ],
-    "color": "#a32d96",
+    "color": "#850207",
     "start_name": "백운산 885m / 백운산 정상에서",
     "length_meter": 26.6,
     "time_minute": 0
@@ -181,7 +181,7 @@
         "lng": 128.984924
       }
     ],
-    "color": "#72b8b6",
+    "color": "#a78c46",
     "start_name": "자연경관",
     "length_meter": 127.4,
     "time_minute": 2
@@ -198,7 +198,7 @@
         "lng": 128.983978
       }
     ],
-    "color": "#376a46",
+    "color": "#980d3c",
     "start_name": "갈림길",
     "length_meter": 1401.1,
     "time_minute": 23
@@ -215,7 +215,7 @@
         "lng": 128.986008
       }
     ],
-    "color": "#033072",
+    "color": "#ab9855",
     "start_name": "백운산 재약산 천황산",
     "length_meter": 183.8,
     "time_minute": 3
@@ -232,7 +232,7 @@
         "lng": 128.986923
       }
     ],
-    "color": "#952f61",
+    "color": "#c20299",
     "start_name": "구조목",
     "length_meter": 103.9,
     "time_minute": 1
@@ -249,7 +249,7 @@
         "lng": 129.019745
       }
     ],
-    "color": "#34c1a7",
+    "color": "#12c04b",
     "start_name": "가지산 / 자연경관",
     "length_meter": 2977.3,
     "time_minute": 49
@@ -266,9 +266,9 @@
         "lng": 129.017868
       }
     ],
-    "color": "#b03478",
-    "start_name": "석남터널",
-    "length_meter": 334.0,
+    "color": "#c61d69",
+    "start_name": "석남터널 / 쉼터",
+    "length_meter": 334.7,
     "time_minute": 5
   },
   {
@@ -283,7 +283,7 @@
         "lng": 129.005798
       }
     ],
-    "color": "#3520af",
+    "color": "#5e3d3e",
     "start_name": "쇠점골",
     "length_meter": 2044.5,
     "time_minute": 34
@@ -296,17 +296,34 @@
         "lng": 129.005798
       },
       {
-        "lat": 35.587776,
-        "lng": 128.996536
+        "lat": 35.586765,
+        "lng": 128.997345
       }
     ],
-    "color": "#458f6c",
+    "color": "#b77c91",
     "start_name": "오천평반석",
-    "length_meter": 912.7,
+    "length_meter": 900.0,
     "time_minute": 15
   },
   {
     "path_id": 18,
+    "path": [
+      {
+        "lat": 35.586765,
+        "lng": 128.997345
+      },
+      {
+        "lat": 35.587776,
+        "lng": 128.996536
+      }
+    ],
+    "color": "#483f2f",
+    "start_name": "쉼터",
+    "length_meter": 134.1,
+    "time_minute": 2
+  },
+  {
+    "path_id": 19,
     "path": [
       {
         "lat": 35.587776,
@@ -317,7 +334,7 @@
         "lng": 128.996719
       }
     ],
-    "color": "#4959b5",
+    "color": "#a67d75",
     "start_name": "호박소",
     "length_meter": 37.3,
     "time_minute": 0

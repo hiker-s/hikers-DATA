@@ -3,6 +3,23 @@
     "path_id": 0,
     "path": [
       {
+        "lat": 35.392788,
+        "lng": 127.044106
+      },
+      {
+        "lat": 35.391811,
+        "lng": 127.041412
+      }
+    ],
+    "color": "#4f5717",
+    "start_name": "위험지역",
+    "length_meter": 267.3,
+    "time_minute": 4
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
         "lat": 35.391811,
         "lng": 127.041412
       },
@@ -11,13 +28,13 @@
         "lng": 127.045746
       }
     ],
-    "color": "#1c446a",
+    "color": "#05a036",
     "start_name": "갈림길",
     "length_meter": 403.6,
     "time_minute": 6
   },
   {
-    "path_id": 1,
+    "path_id": 2,
     "path": [
       {
         "lat": 35.39098,
@@ -28,13 +45,13 @@
         "lng": 127.055862
       }
     ],
-    "color": "#272aac",
+    "color": "#2f1715",
     "start_name": "자연경관",
     "length_meter": 1143.4,
     "time_minute": 19
   },
   {
-    "path_id": 2,
+    "path_id": 3,
     "path": [
       {
         "lat": 35.384838,
@@ -45,9 +62,60 @@
         "lng": 127.051704
       }
     ],
-    "color": "#752ab7",
+    "color": "#3c6fab",
     "start_name": "갈림길",
     "length_meter": 626.3,
     "time_minute": 10
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 35.389336,
+        "lng": 127.051704
+      },
+      {
+        "lat": 35.390358,
+        "lng": 127.051048
+      }
+    ],
+    "color": "#4d3693",
+    "start_name": "자연경관",
+    "length_meter": 128.3,
+    "time_minute": 2
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 35.390358,
+        "lng": 127.051048
+      },
+      {
+        "lat": 35.391907,
+        "lng": 127.046616
+      }
+    ],
+    "color": "#379da1",
+    "start_name": "조망점",
+    "length_meter": 437.1,
+    "time_minute": 7
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 35.391907,
+        "lng": 127.046616
+      },
+      {
+        "lat": 35.391907,
+        "lng": 127.046577
+      }
+    ],
+    "color": "#b5ae91",
+    "start_name": "위험지역",
+    "length_meter": 3.5,
+    "time_minute": 0
   }
 ]

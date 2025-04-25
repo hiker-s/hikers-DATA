@@ -11,7 +11,7 @@
         "lng": 128.503632
       }
     ],
-    "color": "#13768f",
+    "color": "#599c35",
     "start_name": "태화산 유아 숲 체험원",
     "length_meter": 1886.9,
     "time_minute": 31
@@ -28,7 +28,7 @@
         "lng": 128.503067
       }
     ],
-    "color": "#4b14b9",
+    "color": "#b64771",
     "start_name": "갈림길",
     "length_meter": 138.3,
     "time_minute": 2
@@ -41,34 +41,68 @@
         "lng": 128.503067
       },
       {
+        "lat": 37.123077,
+        "lng": 128.490173
+      }
+    ],
+    "color": "#6706b1",
+    "start_name": "태화산성",
+    "length_meter": 1576.4,
+    "time_minute": 26
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 37.123077,
+        "lng": 128.490173
+      },
+      {
         "lat": 37.121571,
         "lng": 128.489334
       }
     ],
-    "color": "#274277",
-    "start_name": "태화산성",
-    "length_meter": 1747.1,
-    "time_minute": 29
+    "color": "#9a5744",
+    "start_name": "쉼터",
+    "length_meter": 183.2,
+    "time_minute": 3
   },
   {
-    "path_id": 3,
+    "path_id": 4,
     "path": [
       {
         "lat": 37.121571,
         "lng": 128.489334
       },
       {
+        "lat": 37.117867,
+        "lng": 128.486526
+      }
+    ],
+    "color": "#0c923f",
+    "start_name": "갈림길",
+    "length_meter": 481.3,
+    "time_minute": 8
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 37.117867,
+        "lng": 128.486526
+      },
+      {
         "lat": 37.117607,
         "lng": 128.485626
       }
     ],
-    "color": "#78b987",
-    "start_name": "갈림길",
-    "length_meter": 549.9,
-    "time_minute": 9
+    "color": "#5b083b",
+    "start_name": "쉼터",
+    "length_meter": 84.9,
+    "time_minute": 1
   },
   {
-    "path_id": 4,
+    "path_id": 6,
     "path": [
       {
         "lat": 37.117607,
@@ -79,7 +113,7 @@
         "lng": 128.469513
       }
     ],
-    "color": "#4027c5",
+    "color": "#48351f",
     "start_name": "태화산정상",
     "length_meter": 3124.4,
     "time_minute": 52

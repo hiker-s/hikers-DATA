@@ -3,6 +3,23 @@
     "path_id": 0,
     "path": [
       {
+        "lat": 35.527931,
+        "lng": 129.026489
+      },
+      {
+        "lat": 35.530231,
+        "lng": 129.029587
+      }
+    ],
+    "color": "#44aa2a",
+    "start_name": "쉼터",
+    "length_meter": 379.5,
+    "time_minute": 6
+  },
+  {
+    "path_id": 1,
+    "path": [
+      {
         "lat": 35.530231,
         "lng": 129.029587
       },
@@ -11,13 +28,13 @@
         "lng": 129.037201
       }
     ],
-    "color": "#b69004",
+    "color": "#7fac94",
     "start_name": "자연경관",
     "length_meter": 817.7,
     "time_minute": 13
   },
   {
-    "path_id": 1,
+    "path_id": 2,
     "path": [
       {
         "lat": 35.534191,
@@ -28,7 +45,7 @@
         "lng": 129.039063
       }
     ],
-    "color": "#314219",
+    "color": "#0a6a4f",
     "start_name": "갈림길",
     "length_meter": 187.9,
     "time_minute": 3

@@ -7,36 +7,70 @@
         "lng": 127.96286
       },
       {
-        "lat": 34.749001,
-        "lng": 127.968781
+        "lat": 34.743694,
+        "lng": 127.962868
       }
     ],
-    "color": "#01b948",
-    "start_name": "한려해상국립공원 안내도 / 두모입구",
-    "length_meter": 803.5,
-    "time_minute": 13
+    "color": "#1da428",
+    "start_name": "한려해상국립공원 안내도",
+    "length_meter": 3.4,
+    "time_minute": 0
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 34.749001,
-        "lng": 127.968781
+        "lat": 34.743694,
+        "lng": 127.962868
       },
       {
-        "lat": 34.752598,
-        "lng": 127.975876
+        "lat": 34.749001,
+        "lng": 127.968781
       }
     ],
-    "color": "#7e4584",
-    "start_name": "남해 양아리 석각",
-    "length_meter": 761.7,
-    "time_minute": 12
+    "color": "#bc5f07",
+    "start_name": "두모입구",
+    "length_meter": 800.1,
+    "time_minute": 13
   },
   {
     "path_id": 2,
     "path": [
       {
+        "lat": 34.749001,
+        "lng": 127.968781
+      },
+      {
+        "lat": 34.751453,
+        "lng": 127.971718
+      }
+    ],
+    "color": "#2a3e02",
+    "start_name": "남해 양아리 석각",
+    "length_meter": 382.5,
+    "time_minute": 6
+  },
+  {
+    "path_id": 3,
+    "path": [
+      {
+        "lat": 34.751453,
+        "lng": 127.971718
+      },
+      {
+        "lat": 34.752598,
+        "lng": 127.975876
+      }
+    ],
+    "color": "#a77c6c",
+    "start_name": "쉼터",
+    "length_meter": 400.6,
+    "time_minute": 6
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
         "lat": 34.752598,
         "lng": 127.975876
       },
@@ -45,13 +79,13 @@
         "lng": 127.977196
       }
     ],
-    "color": "#c46853",
+    "color": "#8f8112",
     "start_name": "기암괴석",
     "length_meter": 128.3,
     "time_minute": 2
   },
   {
-    "path_id": 3,
+    "path_id": 5,
     "path": [
       {
         "lat": 34.752205,
@@ -62,13 +96,13 @@
         "lng": 127.977577
       }
     ],
-    "color": "#1a92bd",
+    "color": "#773528",
     "start_name": "부소암",
     "length_meter": 35.6,
     "time_minute": 0
   },
   {
-    "path_id": 4,
+    "path_id": 6,
     "path": [
       {
         "lat": 34.75214,
@@ -79,13 +113,13 @@
         "lng": 127.980377
       }
     ],
-    "color": "#28bc41",
+    "color": "#2f1624",
     "start_name": "기암괴석",
     "length_meter": 256.2,
     "time_minute": 4
   },
   {
-    "path_id": 5,
+    "path_id": 7,
     "path": [
       {
         "lat": 34.752014,
@@ -96,13 +130,13 @@
         "lng": 127.97995
       }
     ],
-    "color": "#a4a873",
+    "color": "#b27b63",
     "start_name": "갈림길",
     "length_meter": 301.1,
     "time_minute": 5
   },
   {
-    "path_id": 6,
+    "path_id": 8,
     "path": [
       {
         "lat": 34.749329,
@@ -113,49 +147,83 @@
         "lng": 127.980484
       }
     ],
-    "color": "#a8bd36",
+    "color": "#1d6f00",
     "start_name": "기암괴석",
     "length_meter": 214.7,
-    "time_minute": 3
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 34.751209,
-        "lng": 127.980484
-      },
-      {
-        "lat": 34.751736,
-        "lng": 127.981026
-      }
-    ],
-    "color": "#1e5a7d",
-    "start_name": "좌선대 / 금산산장",
-    "length_meter": 78.1,
-    "time_minute": 1
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 34.751736,
-        "lng": 127.981026
-      },
-      {
-        "lat": 34.753094,
-        "lng": 127.98243
-      }
-    ],
-    "color": "#4e525a",
-    "start_name": "흔들바위 / 갈림길",
-    "length_meter": 207.6,
     "time_minute": 3
   },
   {
     "path_id": 9,
     "path": [
       {
+        "lat": 34.751209,
+        "lng": 127.980484
+      },
+      {
+        "lat": 34.751526,
+        "lng": 127.980705
+      }
+    ],
+    "color": "#c215b7",
+    "start_name": "좌선대",
+    "length_meter": 40.6,
+    "time_minute": 0
+  },
+  {
+    "path_id": 10,
+    "path": [
+      {
+        "lat": 34.751526,
+        "lng": 127.980705
+      },
+      {
+        "lat": 34.751736,
+        "lng": 127.981026
+      }
+    ],
+    "color": "#af19a2",
+    "start_name": "금산산장",
+    "length_meter": 37.5,
+    "time_minute": 0
+  },
+  {
+    "path_id": 11,
+    "path": [
+      {
+        "lat": 34.751736,
+        "lng": 127.981026
+      },
+      {
+        "lat": 34.752167,
+        "lng": 127.981102
+      }
+    ],
+    "color": "#a5ab14",
+    "start_name": "흔들바위",
+    "length_meter": 48.4,
+    "time_minute": 0
+  },
+  {
+    "path_id": 12,
+    "path": [
+      {
+        "lat": 34.752167,
+        "lng": 127.981102
+      },
+      {
+        "lat": 34.753094,
+        "lng": 127.98243
+      }
+    ],
+    "color": "#34aa0d",
+    "start_name": "갈림길",
+    "length_meter": 159.2,
+    "time_minute": 2
+  },
+  {
+    "path_id": 13,
+    "path": [
+      {
         "lat": 34.753094,
         "lng": 127.98243
       },
@@ -164,13 +232,13 @@
         "lng": 127.982956
       }
     ],
-    "color": "#401812",
+    "color": "#a5b094",
     "start_name": "줄사철나무",
     "length_meter": 92.3,
     "time_minute": 1
   },
   {
-    "path_id": 10,
+    "path_id": 14,
     "path": [
       {
         "lat": 34.753803,
@@ -181,13 +249,13 @@
         "lng": 127.983452
       }
     ],
-    "color": "#5c1f5f",
+    "color": "#2b6b99",
     "start_name": "망대",
     "length_meter": 111.8,
     "time_minute": 1
   },
   {
-    "path_id": 11,
+    "path_id": 15,
     "path": [
       {
         "lat": 34.752884,
@@ -198,47 +266,115 @@
         "lng": 127.982811
       }
     ],
-    "color": "#2a151d",
+    "color": "#3039be",
     "start_name": "갈림길",
     "length_meter": 116.0,
     "time_minute": 1
   },
   {
-    "path_id": 12,
+    "path_id": 16,
     "path": [
       {
         "lat": 34.751984,
         "lng": 127.982811
       },
       {
+        "lat": 34.75174,
+        "lng": 127.982483
+      }
+    ],
+    "color": "#b03569",
+    "start_name": "기암괴석",
+    "length_meter": 40.4,
+    "time_minute": 0
+  },
+  {
+    "path_id": 17,
+    "path": [
+      {
+        "lat": 34.75174,
+        "lng": 127.982483
+      },
+      {
         "lat": 34.75153,
         "lng": 127.982353
       }
     ],
-    "color": "#312b44",
-    "start_name": "기암괴석 / 음성굴",
-    "length_meter": 66.6,
-    "time_minute": 1
+    "color": "#77791a",
+    "start_name": "음성굴",
+    "length_meter": 26.2,
+    "time_minute": 0
   },
   {
-    "path_id": 13,
+    "path_id": 18,
     "path": [
       {
         "lat": 34.75153,
         "lng": 127.982353
       },
       {
+        "lat": 34.751465,
+        "lng": 127.982513
+      }
+    ],
+    "color": "#58bd78",
+    "start_name": "장군암",
+    "length_meter": 16.3,
+    "time_minute": 0
+  },
+  {
+    "path_id": 19,
+    "path": [
+      {
+        "lat": 34.751465,
+        "lng": 127.982513
+      },
+      {
+        "lat": 34.751259,
+        "lng": 127.982697
+      }
+    ],
+    "color": "#7931b8",
+    "start_name": "쌍홍문",
+    "length_meter": 28.4,
+    "time_minute": 0
+  },
+  {
+    "path_id": 20,
+    "path": [
+      {
+        "lat": 34.751259,
+        "lng": 127.982697
+      },
+      {
+        "lat": 34.750748,
+        "lng": 127.983215
+      }
+    ],
+    "color": "#965f3c",
+    "start_name": "사선대",
+    "length_meter": 73.9,
+    "time_minute": 1
+  },
+  {
+    "path_id": 21,
+    "path": [
+      {
+        "lat": 34.750748,
+        "lng": 127.983215
+      },
+      {
         "lat": 34.739544,
         "lng": 127.984131
       }
     ],
-    "color": "#c31037",
-    "start_name": "장군암 / 쌍홍문 / 사선대",
-    "length_meter": 1353.9,
-    "time_minute": 22
+    "color": "#210d18",
+    "start_name": "쉼터",
+    "length_meter": 1248.6,
+    "time_minute": 20
   },
   {
-    "path_id": 14,
+    "path_id": 22,
     "path": [
       {
         "lat": 34.739544,
@@ -249,7 +385,7 @@
         "lng": 127.984009
       }
     ],
-    "color": "#99afaa",
+    "color": "#7f2c6f",
     "start_name": "탐방지원센터",
     "length_meter": 12.1,
     "time_minute": 0

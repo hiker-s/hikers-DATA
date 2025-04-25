@@ -11,7 +11,7 @@
         "lng": 127.409714
       }
     ],
-    "color": "#b474bc",
+    "color": "#214040",
     "start_name": "백운동(백우계곡) 버스정류장 / 백운산갈비 / 산맥",
     "length_meter": 241.0,
     "time_minute": 4
@@ -28,7 +28,7 @@
         "lng": 127.411003
       }
     ],
-    "color": "#88bca2",
+    "color": "#001369",
     "start_name": "백운계곡주차장",
     "length_meter": 120.4,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 127.409752
       }
     ],
-    "color": "#9a711f",
+    "color": "#380c87",
     "start_name": "백운계곡주차장화장실",
     "length_meter": 175.4,
     "time_minute": 2
@@ -58,53 +58,36 @@
         "lng": 127.409752
       },
       {
-        "lat": 38.071423,
-        "lng": 127.410103
+        "lat": 38.070412,
+        "lng": 127.412323
       }
     ],
-    "color": "#ab6f6a",
-    "start_name": "흥룡사",
-    "length_meter": 32.6,
-    "time_minute": 0
+    "color": "#a90437",
+    "start_name": "흥룡사 / 흥룡사 약수터",
+    "length_meter": 257.1,
+    "time_minute": 4
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 38.071423,
-        "lng": 127.410103
+        "lat": 38.070412,
+        "lng": 127.412323
       },
       {
-        "lat": 38.070057,
-        "lng": 127.412697
+        "lat": 38.070702,
+        "lng": 127.418228
       }
     ],
-    "color": "#33432a",
-    "start_name": "흥룡사 약수터",
-    "length_meter": 273.2,
-    "time_minute": 4
+    "color": "#68139c",
+    "start_name": "쉼터 / 갈림길",
+    "length_meter": 540.7,
+    "time_minute": 9
   },
   {
     "path_id": 5,
     "path": [
       {
-        "lat": 38.070057,
-        "lng": 127.412697
-      },
-      {
-        "lat": 38.070702,
-        "lng": 127.418228
-      }
-    ],
-    "color": "#90c136",
-    "start_name": "갈림길",
-    "length_meter": 489.5,
-    "time_minute": 8
-  },
-  {
-    "path_id": 6,
-    "path": [
-      {
         "lat": 38.070702,
         "lng": 127.418228
       },
@@ -113,13 +96,13 @@
         "lng": 127.420761
       }
     ],
-    "color": "#a1ac3f",
+    "color": "#12b6b6",
     "start_name": "겹친 산등성이들",
     "length_meter": 232.4,
     "time_minute": 3
   },
   {
-    "path_id": 7,
+    "path_id": 6,
     "path": [
       {
         "lat": 38.071327,
@@ -130,13 +113,13 @@
         "lng": 127.43322
       }
     ],
-    "color": "#19a143",
+    "color": "#36090a",
     "start_name": "밴치",
     "length_meter": 1096.8,
     "time_minute": 18
   },
   {
-    "path_id": 8,
+    "path_id": 7,
     "path": [
       {
         "lat": 38.072372,
@@ -147,13 +130,13 @@
         "lng": 127.439323
       }
     ],
-    "color": "#5d8d89",
+    "color": "#0ba871",
     "start_name": "갈림길",
     "length_meter": 649.6,
     "time_minute": 10
   },
   {
-    "path_id": 9,
+    "path_id": 8,
     "path": [
       {
         "lat": 38.075695,
@@ -164,13 +147,13 @@
         "lng": 127.438568
       }
     ],
-    "color": "#718756",
+    "color": "#6d768e",
     "start_name": "사고다발지역",
     "length_meter": 66.1,
     "time_minute": 1
   },
   {
-    "path_id": 10,
+    "path_id": 9,
     "path": [
       {
         "lat": 38.07571,
@@ -181,13 +164,13 @@
         "lng": 127.444534
       }
     ],
-    "color": "#1f083e",
+    "color": "#524998",
     "start_name": "갈림길",
     "length_meter": 529.8,
     "time_minute": 8
   },
   {
-    "path_id": 11,
+    "path_id": 10,
     "path": [
       {
         "lat": 38.074909,
@@ -198,13 +181,13 @@
         "lng": 127.444522
       }
     ],
-    "color": "#4011be",
+    "color": "#9e9021",
     "start_name": "백운산정상",
     "length_meter": 1.3,
     "time_minute": 0
   },
   {
-    "path_id": 12,
+    "path_id": 11,
     "path": [
       {
         "lat": 38.074916,
@@ -215,13 +198,13 @@
         "lng": 127.431038
       }
     ],
-    "color": "#543e12",
+    "color": "#2cb86d",
     "start_name": "웨이포인트 18 / 갈림길",
     "length_meter": 1316.9,
     "time_minute": 21
   },
   {
-    "path_id": 13,
+    "path_id": 12,
     "path": [
       {
         "lat": 38.069771,
@@ -232,13 +215,13 @@
         "lng": 127.429123
       }
     ],
-    "color": "#703f9b",
+    "color": "#962256",
     "start_name": "봉래굴 / 갈림길",
     "length_meter": 190.2,
     "time_minute": 3
   },
   {
-    "path_id": 14,
+    "path_id": 13,
     "path": [
       {
         "lat": 38.069004,
@@ -249,26 +232,43 @@
         "lng": 127.428337
       }
     ],
-    "color": "#68824c",
+    "color": "#15aa41",
     "start_name": "백운계곡 상류지점",
     "length_meter": 69.7,
     "time_minute": 1
   },
   {
-    "path_id": 15,
+    "path_id": 14,
     "path": [
       {
         "lat": 38.069103,
         "lng": 127.428337
+      },
+      {
+        "lat": 38.068985,
+        "lng": 127.41423
+      }
+    ],
+    "color": "#1b1659",
+    "start_name": "갈림길",
+    "length_meter": 1235.0,
+    "time_minute": 20
+  },
+  {
+    "path_id": 15,
+    "path": [
+      {
+        "lat": 38.068985,
+        "lng": 127.41423
       },
       {
         "lat": 38.072212,
         "lng": 127.409706
       }
     ],
-    "color": "#1689a8",
-    "start_name": "갈림길",
-    "length_meter": 1667.2,
-    "time_minute": 27
+    "color": "#2b333a",
+    "start_name": "쉼터",
+    "length_meter": 534.4,
+    "time_minute": 8
   }
 ]

@@ -3,27 +3,26 @@ import json
 import random
 import math
 
-# 랜덤 hex 색상 생성 함수
+# 경로 설정
+base_dir = os.path.dirname(__file__)
+json_path = os.path.join(base_dir, '../mnt_100_convert_json_filter_duplication')
+convert_path = os.path.join(base_dir, '../mnt_100_convert_json_format')
+os.makedirs(convert_path, exist_ok=True)
+
+# 정제 제외할 산
+skip_mnt = ["가리산", "금산"]
+
 def random_color():
     while True:
-        # 랜덤 색상 생성
         hex_color = "#{:06x}".format(random.randint(0, 0xFFFFFF))
-        
-        # hex 값을 RGB로 변환
         r = int(hex_color[1:3], 16)
         g = int(hex_color[3:5], 16)
         b = int(hex_color[5:7], 16)
-
-        # 흰색에 가까운 색상 제외 (R, G, B 값이 너무 높은 색을 제외)
         if r < 200 and g < 200 and b < 200:
             return hex_color
-        
-        
 
-
-# 거리 계산 함수 (하버사인 공식)
 def calculate_distance(lat1, lon1, lat2, lon2):
-    R = 6371000  # 지구 반지름 (미터)
+    R = 6371000
     lat1_rad = math.radians(lat1)
     lon1_rad = math.radians(lon1)
     lat2_rad = math.radians(lat2)
@@ -34,13 +33,39 @@ def calculate_distance(lat1, lon1, lat2, lon2):
     c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
     return R * c
 
-# 경로 설정
-base_dir = os.path.dirname(__file__)
-json_path = os.path.join(base_dir, '../mnt_100_convert_json_filter_duplication')
-convert_path = os.path.join(base_dir, '../mnt_100_convert_json_format')
-os.makedirs(convert_path, exist_ok=True)
+def merge_short_segments(i, waypoints, lat2, lon2, length, time_minutes, start_names):
+    while time_minutes < 1 and i + 2 < len(waypoints):
+        next_name = waypoints[i + 2].get("name", "")
+        if "갈림길" in next_name:
+            break
 
-# 산 이름 폴더 순회
+        next_lat = waypoints[i + 2]['lat']
+        next_lon = waypoints[i + 2]['lon']
+        next_length = calculate_distance(lat2, lon2, next_lat, next_lon)
+        next_time = next_length / 60
+
+        lat2 = next_lat
+        lon2 = next_lon
+        length += next_length
+        time_minutes += next_time
+        i += 1
+        start_names.append(waypoints[i].get('name', f"Point {i}"))
+
+    return i, lat2, lon2, length, time_minutes, start_names
+
+def create_section(path_id, lat1, lon1, lat2, lon2, start_names, length, time_minutes):
+    return {
+        "path_id": path_id,
+        "path": [
+            {"lat": lat1, "lng": lon1},
+            {"lat": lat2, "lng": lon2}
+        ],
+        "color": random_color(),
+        "start_name": " / ".join(start_names),
+        "length_meter": round(length, 1),
+        "time_minute": math.floor(time_minutes),
+    }
+
 for mountain_folder in os.listdir(json_path):
     mountain_path = os.path.join(json_path, mountain_folder)
 
@@ -56,6 +81,7 @@ for mountain_folder in os.listdir(json_path):
                     sections = []
                     i = 0
                     path_id = 0
+
                     while i < len(waypoints) - 1:
                         lat1 = waypoints[i]['lat']
                         lon1 = waypoints[i]['lon']
@@ -64,40 +90,17 @@ for mountain_folder in os.listdir(json_path):
 
                         length = calculate_distance(lat1, lon1, lat2, lon2)
                         time_minutes = length / 60
-
                         start_names = [waypoints[i].get('name', f"Point {i}")]
 
-                        # 걸리는 시간이 0분인 경우
-                        # 단, 다음 경로의 이름이 "갈림길"일 경우는 진행하지 않음
-                        while time_minutes < 1 and i + 2 < len(waypoints):
-                            next_name = waypoints[i + 2].get("name", "")
-                            if "갈림길" in next_name:
-                                break
+                        # 0분 미만 병합 과정
+                        if mountain_folder not in skip_mnt:
+                            i, lat2, lon2, length, time_minutes, start_names = merge_short_segments(i, waypoints, lat2, lon2, length, time_minutes, start_names)
+                        else:
+                            print(f"{mountain_folder} 제외")
 
-                            # 경로 통합
-                            next_lat = waypoints[i+2]['lat']
-                            next_lon = waypoints[i+2]['lon']
-                            next_length = calculate_distance(lat2, lon2, next_lat, next_lon)
-                            next_time = next_length / 60
+                        # section 만들기
+                        section = create_section(path_id, lat1, lon1, lat2, lon2, start_names, length, time_minutes)
 
-                            lat2 = next_lat
-                            lon2 = next_lon
-                            length += next_length
-                            time_minutes += next_time
-                            i += 1
-                            start_names.append(waypoints[i].get('name', f"Point {i}"))
-                        
-                        section = {
-                            "path_id": path_id,
-                            "path": [
-                                {"lat": lat1, "lng": lon1},
-                                {"lat": lat2, "lng": lon2}
-                            ],
-                            "color": random_color(),
-                            "start_name": " / ".join(start_names),
-                            "length_meter": round(length,1),
-                            "time_minute": math.floor(time_minutes),
-                        }
                         sections.append(section)
                         path_id += 1
                         i += 1
@@ -109,7 +112,7 @@ for mountain_folder in os.listdir(json_path):
                     with open(output_file_path, 'w', encoding='utf-8') as f:
                         json.dump(sections, f, ensure_ascii=False, indent=2)
 
-                    print(f"✅ {mountain_folder}/{filename} 변환 완료")
+                    # print(f"✅ {mountain_folder}/{filename} 변환 완료")
 
                 except Exception as e:
                     print(f"❌ {mountain_folder}/{filename} 오류 발생: {e}")

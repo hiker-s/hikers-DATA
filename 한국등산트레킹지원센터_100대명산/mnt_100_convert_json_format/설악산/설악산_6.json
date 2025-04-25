@@ -11,7 +11,7 @@
         "lng": 128.494812
       }
     ],
-    "color": "#515d5d",
+    "color": "#8f8a5d",
     "start_name": "설악산 소공원 / 소공원 주차장",
     "length_meter": 108.5,
     "time_minute": 1
@@ -28,7 +28,7 @@
         "lng": 128.492752
       }
     ],
-    "color": "#602db4",
+    "color": "#160b06",
     "start_name": "소공원 주차장 화장실",
     "length_meter": 182.9,
     "time_minute": 3
@@ -45,7 +45,7 @@
         "lng": 128.491943
       }
     ],
-    "color": "#1b6d6b",
+    "color": "#1f1a92",
     "start_name": "설악산 국립공원",
     "length_meter": 71.8,
     "time_minute": 1
@@ -62,7 +62,7 @@
         "lng": 128.490631
       }
     ],
-    "color": "#3962ab",
+    "color": "#c1479e",
     "start_name": "갈림길",
     "length_meter": 231.8,
     "time_minute": 3
@@ -79,7 +79,7 @@
         "lng": 128.496689
       }
     ],
-    "color": "#097743",
+    "color": "#9146b4",
     "start_name": "임시 우회 탐방로",
     "length_meter": 549.2,
     "time_minute": 9
@@ -96,7 +96,7 @@
         "lng": 128.498016
       }
     ],
-    "color": "#640333",
+    "color": "#852c62",
     "start_name": "비룡화장실",
     "length_meter": 144.7,
     "time_minute": 2
@@ -113,7 +113,7 @@
         "lng": 128.498718
       }
     ],
-    "color": "#13335e",
+    "color": "#02ab52",
     "start_name": "의자",
     "length_meter": 62.4,
     "time_minute": 1
@@ -130,9 +130,9 @@
         "lng": 128.499634
       }
     ],
-    "color": "#636747",
-    "start_name": "금강소나무 / 의자 / 포토존",
-    "length_meter": 84.5,
+    "color": "#7d30bc",
+    "start_name": "금강소나무 / 의자",
+    "length_meter": 83.9,
     "time_minute": 1
   },
   {
@@ -147,7 +147,7 @@
         "lng": 128.502197
       }
     ],
-    "color": "#ad399f",
+    "color": "#c66d3c",
     "start_name": "바위의 균열",
     "length_meter": 230.7,
     "time_minute": 3
@@ -160,70 +160,36 @@
         "lng": 128.502197
       },
       {
-        "lat": 38.166496,
-        "lng": 128.502106
+        "lat": 38.16571,
+        "lng": 128.501404
       }
     ],
-    "color": "#85878f",
+    "color": "#702e1c",
     "start_name": "토왕골화장실 / 비룡폭포제1지킴터 / 바위",
-    "length_meter": 201.0,
-    "time_minute": 3
+    "length_meter": 300.4,
+    "time_minute": 5
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 38.166496,
-        "lng": 128.502106
-      },
-      {
         "lat": 38.16571,
         "lng": 128.501404
+      },
+      {
+        "lat": 38.162178,
+        "lng": 128.501617
       }
     ],
-    "color": "#8979c6",
-    "start_name": "미끄럼주의",
-    "length_meter": 106.8,
-    "time_minute": 1
+    "color": "#1d1898",
+    "start_name": "자연경관 / 육담폭포",
+    "length_meter": 404.7,
+    "time_minute": 6
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 38.16571,
-        "lng": 128.501404
-      },
-      {
-        "lat": 38.164928,
-        "lng": 128.500961
-      }
-    ],
-    "color": "#409e2d",
-    "start_name": "자연경관 / 육담폭포",
-    "length_meter": 96.6,
-    "time_minute": 1
-  },
-  {
-    "path_id": 12,
-    "path": [
-      {
-        "lat": 38.164928,
-        "lng": 128.500961
-      },
-      {
-        "lat": 38.162178,
-        "lng": 128.501617
-      }
-    ],
-    "color": "#98804d",
-    "start_name": "포토존 / 육담폭포",
-    "length_meter": 311.4,
-    "time_minute": 5
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
         "lat": 38.162178,
         "lng": 128.501617
       },
@@ -232,47 +198,30 @@
         "lng": 128.492554
       }
     ],
-    "color": "#7e1123",
+    "color": "#1b971c",
     "start_name": "비룡폭포 / 비룡폭포제2지킴터",
     "length_meter": 1268.1,
     "time_minute": 21
   },
   {
-    "path_id": 14,
+    "path_id": 12,
     "path": [
       {
         "lat": 38.170631,
         "lng": 128.492554
-      },
-      {
-        "lat": 38.171658,
-        "lng": 128.490768
-      }
-    ],
-    "color": "#143b56",
-    "start_name": "울산바위",
-    "length_meter": 193.4,
-    "time_minute": 3
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 38.171658,
-        "lng": 128.490768
       },
       {
         "lat": 38.173302,
         "lng": 128.491104
       }
     ],
-    "color": "#116637",
-    "start_name": "포토존",
-    "length_meter": 185.1,
-    "time_minute": 3
+    "color": "#89805b",
+    "start_name": "울산바위",
+    "length_meter": 322.9,
+    "time_minute": 5
   },
   {
-    "path_id": 16,
+    "path_id": 13,
     "path": [
       {
         "lat": 38.173302,
@@ -283,13 +232,13 @@
         "lng": 128.490494
       }
     ],
-    "color": "#49408f",
+    "color": "#aa6795",
     "start_name": "외설악 화장실 / 솔향",
     "length_meter": 72.6,
     "time_minute": 1
   },
   {
-    "path_id": 17,
+    "path_id": 14,
     "path": [
       {
         "lat": 38.173306,
@@ -300,13 +249,13 @@
         "lng": 128.489151
       }
     ],
-    "color": "#77ac49",
+    "color": "#00215a",
     "start_name": "통일염원 사리탑 / 설악지구 전적비",
     "length_meter": 124.7,
     "time_minute": 2
   },
   {
-    "path_id": 18,
+    "path_id": 15,
     "path": [
       {
         "lat": 38.173267,
@@ -317,13 +266,13 @@
         "lng": 128.488373
       }
     ],
-    "color": "#3d4217",
+    "color": "#70007d",
     "start_name": "설악케이블카 / 케이블카 운행정보 / 식당가",
     "length_meter": 106.7,
     "time_minute": 1
   },
   {
-    "path_id": 19,
+    "path_id": 16,
     "path": [
       {
         "lat": 38.173801,
@@ -334,13 +283,13 @@
         "lng": 128.493057
       }
     ],
-    "color": "#703294",
+    "color": "#c47c84",
     "start_name": "신흥사 유물전시관 / 신흥사 일주문",
     "length_meter": 493.6,
     "time_minute": 8
   },
   {
-    "path_id": 20,
+    "path_id": 17,
     "path": [
       {
         "lat": 38.172871,
@@ -351,7 +300,7 @@
         "lng": 128.494125
       }
     ],
-    "color": "#942811",
+    "color": "#7b7b5c",
     "start_name": "설악동탐방지원센터",
     "length_meter": 96.5,
     "time_minute": 1

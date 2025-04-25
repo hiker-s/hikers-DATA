@@ -11,7 +11,7 @@
         "lng": 127.671112
       }
     ],
-    "color": "#51064f",
+    "color": "#204179",
     "start_name": "의암교차로(시내버스 정류장)",
     "length_meter": 7.4,
     "time_minute": 0
@@ -28,7 +28,7 @@
         "lng": 127.668716
       }
     ],
-    "color": "#888310",
+    "color": "#1c3250",
     "start_name": "의암닭갈비",
     "length_meter": 254.7,
     "time_minute": 4
@@ -45,7 +45,7 @@
         "lng": 127.667244
       }
     ],
-    "color": "#a11d85",
+    "color": "#704d2f",
     "start_name": "갈림길",
     "length_meter": 200.1,
     "time_minute": 3
@@ -58,31 +58,31 @@
         "lng": 127.667244
       },
       {
-        "lat": 37.828144,
-        "lng": 127.667427
+        "lat": 37.831322,
+        "lng": 127.666664
       }
     ],
-    "color": "#0d5293",
-    "start_name": "삼악산 신흥사 입구 주차장 / 갈림길",
-    "length_meter": 16.5,
-    "time_minute": 0
+    "color": "#bba91f",
+    "start_name": "삼악산 신흥사 입구 주차장 / 갈림길 / 삼악산 신흥사 등산로 입구",
+    "length_meter": 376.1,
+    "time_minute": 6
   },
   {
     "path_id": 4,
     "path": [
       {
-        "lat": 37.828144,
-        "lng": 127.667427
+        "lat": 37.831322,
+        "lng": 127.666664
       },
       {
         "lat": 37.833977,
         "lng": 127.669044
       }
     ],
-    "color": "#628b23",
-    "start_name": "삼악산 신흥사 등산로 입구",
-    "length_meter": 664.0,
-    "time_minute": 11
+    "color": "#59555f",
+    "start_name": "쉼터",
+    "length_meter": 361.7,
+    "time_minute": 6
   },
   {
     "path_id": 5,
@@ -92,47 +92,30 @@
         "lng": 127.669044
       },
       {
-        "lat": 37.837414,
-        "lng": 127.665955
+        "lat": 37.844296,
+        "lng": 127.641663
       }
     ],
-    "color": "#8d6cbc",
+    "color": "#8b8a4b",
     "start_name": "갈림길",
-    "length_meter": 468.7,
-    "time_minute": 7
+    "length_meter": 2664.2,
+    "time_minute": 44
   },
   {
     "path_id": 6,
     "path": [
       {
-        "lat": 37.837414,
-        "lng": 127.665955
-      },
-      {
-        "lat": 37.838863,
-        "lng": 127.664513
-      }
-    ],
-    "color": "#68047b",
-    "start_name": "포토존",
-    "length_meter": 204.9,
-    "time_minute": 3
-  },
-  {
-    "path_id": 7,
-    "path": [
-      {
-        "lat": 37.838863,
-        "lng": 127.664513
+        "lat": 37.844296,
+        "lng": 127.641663
       },
       {
         "lat": 37.853615,
         "lng": 127.662079
       }
     ],
-    "color": "#b50106",
-    "start_name": "갈림길",
-    "length_meter": 1654.2,
-    "time_minute": 27
+    "color": "#b39164",
+    "start_name": "쉼터",
+    "length_meter": 2070.5,
+    "time_minute": 34
   }
 ]

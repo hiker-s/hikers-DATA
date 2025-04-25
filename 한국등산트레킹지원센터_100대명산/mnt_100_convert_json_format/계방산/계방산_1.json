@@ -7,30 +7,30 @@
         "lng": 128.466949
       },
       {
-        "lat": 37.704754,
-        "lng": 128.46904
+        "lat": 37.704952,
+        "lng": 128.469116
       }
     ],
-    "color": "#430a07",
+    "color": "#b79429",
     "start_name": "간이쉼터",
-    "length_meter": 304.8,
+    "length_meter": 326.5,
     "time_minute": 5
   },
   {
     "path_id": 1,
     "path": [
       {
-        "lat": 37.704754,
-        "lng": 128.46904
+        "lat": 37.704952,
+        "lng": 128.469116
       },
       {
         "lat": 37.706242,
         "lng": 128.468964
       }
     ],
-    "color": "#716c7d",
-    "start_name": "멧돼지흔적 / 산철쯕",
-    "length_meter": 167.1,
+    "color": "#5c54af",
+    "start_name": "산철쯕",
+    "length_meter": 144.1,
     "time_minute": 2
   },
   {
@@ -45,7 +45,7 @@
         "lng": 128.46907
       }
     ],
-    "color": "#444c19",
+    "color": "#1aa25e",
     "start_name": "귄대감바위",
     "length_meter": 138.1,
     "time_minute": 2
@@ -58,13 +58,47 @@
         "lng": 128.46907
       },
       {
+        "lat": 37.707516,
+        "lng": 128.469055
+      }
+    ],
+    "color": "#26262a",
+    "start_name": "갈림길",
+    "length_meter": 4.1,
+    "time_minute": 0
+  },
+  {
+    "path_id": 4,
+    "path": [
+      {
+        "lat": 37.707516,
+        "lng": 128.469055
+      },
+      {
+        "lat": 37.711063,
+        "lng": 128.470169
+      }
+    ],
+    "color": "#463343",
+    "start_name": "쉼터",
+    "length_meter": 406.4,
+    "time_minute": 6
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 37.711063,
+        "lng": 128.470169
+      },
+      {
         "lat": 37.720734,
         "lng": 128.46814
       }
     ],
-    "color": "#7d8786",
-    "start_name": "갈림길",
-    "length_meter": 1475.9,
-    "time_minute": 24
+    "color": "#9e3318",
+    "start_name": "갈림길 / 쉼터",
+    "length_meter": 1090.1,
+    "time_minute": 18
   }
 ]

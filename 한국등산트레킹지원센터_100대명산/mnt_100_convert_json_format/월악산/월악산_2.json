@@ -11,7 +11,7 @@
         "lng": 128.088181
       }
     ],
-    "color": "#8613c7",
+    "color": "#5a3931",
     "start_name": "송계 계곡",
     "length_meter": 161.8,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 128.087891
       }
     ],
-    "color": "#344fbb",
+    "color": "#ba4820",
     "start_name": "캠핑장",
     "length_meter": 196.0,
     "time_minute": 3
@@ -41,34 +41,17 @@
         "lng": 128.087891
       },
       {
-        "lat": 36.869873,
-        "lng": 128.087296
-      }
-    ],
-    "color": "#087c67",
-    "start_name": "야영장 안내도 / 송계 계곡",
-    "length_meter": 193.4,
-    "time_minute": 3
-  },
-  {
-    "path_id": 3,
-    "path": [
-      {
-        "lat": 36.869873,
-        "lng": 128.087296
-      },
-      {
         "lat": 36.870564,
         "lng": 128.086334
       }
     ],
-    "color": "#c2af27",
-    "start_name": "벤치",
-    "length_meter": 115.0,
-    "time_minute": 1
+    "color": "#b12a33",
+    "start_name": "야영장 안내도 / 송계 계곡",
+    "length_meter": 296.4,
+    "time_minute": 4
   },
   {
-    "path_id": 4,
+    "path_id": 3,
     "path": [
       {
         "lat": 36.870564,
@@ -79,13 +62,13 @@
         "lng": 128.084534
       }
     ],
-    "color": "#ba66af",
+    "color": "#124176",
     "start_name": "골뫼골",
     "length_meter": 205.1,
     "time_minute": 3
   },
   {
-    "path_id": 5,
+    "path_id": 4,
     "path": [
       {
         "lat": 36.871716,
@@ -96,13 +79,13 @@
         "lng": 128.082428
       }
     ],
-    "color": "#029879",
+    "color": "#9828a8",
     "start_name": "송계게곡",
     "length_meter": 442.4,
     "time_minute": 7
   },
   {
-    "path_id": 6,
+    "path_id": 5,
     "path": [
       {
         "lat": 36.87532,
@@ -113,32 +96,32 @@
         "lng": 128.082504
       }
     ],
-    "color": "#684f39",
+    "color": "#0cb551",
     "start_name": "영봉",
     "length_meter": 60.2,
+    "time_minute": 1
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 36.875858,
+        "lng": 128.082504
+      },
+      {
+        "lat": 36.876514,
+        "lng": 128.082596
+      }
+    ],
+    "color": "#358238",
+    "start_name": "펜션마을 주차장 / 펜션마을",
+    "length_meter": 74.0,
     "time_minute": 1
   },
   {
     "path_id": 7,
     "path": [
       {
-        "lat": 36.875858,
-        "lng": 128.082504
-      },
-      {
-        "lat": 36.876514,
-        "lng": 128.082596
-      }
-    ],
-    "color": "#8f235b",
-    "start_name": "펜션마을 주차장 / 펜션마을",
-    "length_meter": 74.0,
-    "time_minute": 1
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
         "lat": 36.876514,
         "lng": 128.082596
       },
@@ -147,13 +130,13 @@
         "lng": 128.082764
       }
     ],
-    "color": "#2aa559",
+    "color": "#4c5c95",
     "start_name": "펜션마을 전경",
     "length_meter": 121.0,
     "time_minute": 2
   },
   {
-    "path_id": 9,
+    "path_id": 8,
     "path": [
       {
         "lat": 36.877594,
@@ -164,13 +147,13 @@
         "lng": 128.081909
       }
     ],
-    "color": "#1984b5",
+    "color": "#09c3a0",
     "start_name": "자연경관",
     "length_meter": 244.2,
     "time_minute": 4
   },
   {
-    "path_id": 10,
+    "path_id": 9,
     "path": [
       {
         "lat": 36.879681,
@@ -181,100 +164,100 @@
         "lng": 128.081497
       }
     ],
-    "color": "#4ca5b7",
+    "color": "#9e56b3",
     "start_name": "안내소 / 동창교 입구",
     "length_meter": 76.0,
+    "time_minute": 1
+  },
+  {
+    "path_id": 10,
+    "path": [
+      {
+        "lat": 36.88028,
+        "lng": 128.081497
+      },
+      {
+        "lat": 36.880947,
+        "lng": 128.081924
+      }
+    ],
+    "color": "#9f40c7",
+    "start_name": "마트 / 자광사 / 식당",
+    "length_meter": 102.2,
     "time_minute": 1
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 36.88028,
-        "lng": 128.081497
-      },
-      {
         "lat": 36.880947,
         "lng": 128.081924
+      },
+      {
+        "lat": 36.881405,
+        "lng": 128.08255
       }
     ],
-    "color": "#8c0e1c",
-    "start_name": "마트 / 자광사 / 식당",
-    "length_meter": 102.2,
+    "color": "#1abc55",
+    "start_name": "동창교 화장실 / 동창교 코스 안내 / 계곡 / 펜션,식당 / 자광사",
+    "length_meter": 77.4,
     "time_minute": 1
   },
   {
     "path_id": 12,
     "path": [
       {
-        "lat": 36.880947,
-        "lng": 128.081924
-      },
-      {
         "lat": 36.881405,
         "lng": 128.08255
+      },
+      {
+        "lat": 36.881729,
+        "lng": 128.08342
       }
     ],
-    "color": "#989232",
-    "start_name": "동창교 화장실 / 동창교 코스 안내 / 계곡 / 펜션,식당 / 자광사",
-    "length_meter": 77.4,
+    "color": "#47c449",
+    "start_name": "영봉 전경 / 자광사",
+    "length_meter": 85.6,
     "time_minute": 1
   },
   {
     "path_id": 13,
     "path": [
       {
-        "lat": 36.881405,
-        "lng": 128.08255
-      },
-      {
         "lat": 36.881729,
         "lng": 128.08342
+      },
+      {
+        "lat": 36.881512,
+        "lng": 128.08429
       }
     ],
-    "color": "#36ac73",
-    "start_name": "영봉 전경 / 자광사",
-    "length_meter": 85.6,
+    "color": "#11879b",
+    "start_name": "자연경관",
+    "length_meter": 81.1,
     "time_minute": 1
   },
   {
     "path_id": 14,
     "path": [
       {
-        "lat": 36.881729,
-        "lng": 128.08342
-      },
-      {
         "lat": 36.881512,
         "lng": 128.08429
+      },
+      {
+        "lat": 36.881332,
+        "lng": 128.084976
       }
     ],
-    "color": "#450fa4",
-    "start_name": "자연경관",
-    "length_meter": 81.1,
+    "color": "#c12a4b",
+    "start_name": "입산 시간 안내 / 계곡 / 오솔길",
+    "length_meter": 64.3,
     "time_minute": 1
   },
   {
     "path_id": 15,
     "path": [
       {
-        "lat": 36.881512,
-        "lng": 128.08429
-      },
-      {
-        "lat": 36.881332,
-        "lng": 128.084976
-      }
-    ],
-    "color": "#5e18b6",
-    "start_name": "입산 시간 안내 / 계곡 / 오솔길",
-    "length_meter": 64.3,
-    "time_minute": 1
-  },
-  {
-    "path_id": 16,
-    "path": [
-      {
         "lat": 36.881332,
         "lng": 128.084976
       },
@@ -283,32 +266,32 @@
         "lng": 128.086807
       }
     ],
-    "color": "#af50b8",
+    "color": "#48341f",
     "start_name": "계곡",
     "length_meter": 163.3,
+    "time_minute": 2
+  },
+  {
+    "path_id": 16,
+    "path": [
+      {
+        "lat": 36.881439,
+        "lng": 128.086807
+      },
+      {
+        "lat": 36.882225,
+        "lng": 128.088287
+      }
+    ],
+    "color": "#117fbd",
+    "start_name": "길",
+    "length_meter": 158.0,
     "time_minute": 2
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 36.881439,
-        "lng": 128.086807
-      },
-      {
-        "lat": 36.882225,
-        "lng": 128.088287
-      }
-    ],
-    "color": "#45bbae",
-    "start_name": "길",
-    "length_meter": 158.0,
-    "time_minute": 2
-  },
-  {
-    "path_id": 18,
-    "path": [
-      {
         "lat": 36.882225,
         "lng": 128.088287
       },
@@ -317,32 +300,32 @@
         "lng": 128.088959
       }
     ],
-    "color": "#52bbad",
+    "color": "#6363be",
     "start_name": "계곡 / 산신각 / 사고 위험지구",
     "length_meter": 92.8,
+    "time_minute": 1
+  },
+  {
+    "path_id": 18,
+    "path": [
+      {
+        "lat": 36.882839,
+        "lng": 128.088959
+      },
+      {
+        "lat": 36.883041,
+        "lng": 128.089767
+      }
+    ],
+    "color": "#0ec39e",
+    "start_name": "오솔길 / 계곡",
+    "length_meter": 76.2,
     "time_minute": 1
   },
   {
     "path_id": 19,
     "path": [
       {
-        "lat": 36.882839,
-        "lng": 128.088959
-      },
-      {
-        "lat": 36.883041,
-        "lng": 128.089767
-      }
-    ],
-    "color": "#2935c4",
-    "start_name": "오솔길 / 계곡",
-    "length_meter": 76.2,
-    "time_minute": 1
-  },
-  {
-    "path_id": 20,
-    "path": [
-      {
         "lat": 36.883041,
         "lng": 128.089767
       },
@@ -351,32 +334,32 @@
         "lng": 128.091293
       }
     ],
-    "color": "#2a435a",
+    "color": "#86513a",
     "start_name": "돌포장길",
     "length_meter": 140.8,
+    "time_minute": 2
+  },
+  {
+    "path_id": 20,
+    "path": [
+      {
+        "lat": 36.883377,
+        "lng": 128.091293
+      },
+      {
+        "lat": 36.883476,
+        "lng": 128.093063
+      }
+    ],
+    "color": "#2d085f",
+    "start_name": "길",
+    "length_meter": 157.8,
     "time_minute": 2
   },
   {
     "path_id": 21,
     "path": [
       {
-        "lat": 36.883377,
-        "lng": 128.091293
-      },
-      {
-        "lat": 36.883476,
-        "lng": 128.093063
-      }
-    ],
-    "color": "#699cbf",
-    "start_name": "길",
-    "length_meter": 157.8,
-    "time_minute": 2
-  },
-  {
-    "path_id": 22,
-    "path": [
-      {
         "lat": 36.883476,
         "lng": 128.093063
       },
@@ -385,32 +368,32 @@
         "lng": 128.09375
       }
     ],
-    "color": "#58970a",
+    "color": "#a7550d",
     "start_name": "산양 서식 안내",
     "length_meter": 61.8,
+    "time_minute": 1
+  },
+  {
+    "path_id": 22,
+    "path": [
+      {
+        "lat": 36.88356,
+        "lng": 128.09375
+      },
+      {
+        "lat": 36.882946,
+        "lng": 128.094559
+      }
+    ],
+    "color": "#601e2b",
+    "start_name": "웨이포인트 62 / 돌계단길 / 돌계단",
+    "length_meter": 99.9,
     "time_minute": 1
   },
   {
     "path_id": 23,
     "path": [
       {
-        "lat": 36.88356,
-        "lng": 128.09375
-      },
-      {
-        "lat": 36.882946,
-        "lng": 128.094559
-      }
-    ],
-    "color": "#9a734b",
-    "start_name": "웨이포인트 62 / 돌계단길 / 돌계단",
-    "length_meter": 99.9,
-    "time_minute": 1
-  },
-  {
-    "path_id": 24,
-    "path": [
-      {
         "lat": 36.882946,
         "lng": 128.094559
       },
@@ -419,13 +402,13 @@
         "lng": 128.095871
       }
     ],
-    "color": "#9f4077",
+    "color": "#08906c",
     "start_name": "웨이포인트 65 / 돌계단길",
     "length_meter": 136.7,
     "time_minute": 2
   },
   {
-    "path_id": 25,
+    "path_id": 24,
     "path": [
       {
         "lat": 36.882305,
@@ -436,49 +419,49 @@
         "lng": 128.096161
       }
     ],
-    "color": "#5ec0a9",
+    "color": "#268ea5",
     "start_name": "영봉,산양 관찰 전망대 / 영봉 전망대 / 영봉 관찰 전망대 / 전망대 / 웨이포인트 72 / 전망대 가는길",
     "length_meter": 109.0,
+    "time_minute": 1
+  },
+  {
+    "path_id": 25,
+    "path": [
+      {
+        "lat": 36.881882,
+        "lng": 128.096161
+      },
+      {
+        "lat": 36.881481,
+        "lng": 128.096405
+      }
+    ],
+    "color": "#28925e",
+    "start_name": "나무계단 / 철,나무 계단 / 자연경관",
+    "length_meter": 66.7,
     "time_minute": 1
   },
   {
     "path_id": 26,
     "path": [
       {
-        "lat": 36.881882,
-        "lng": 128.096161
+        "lat": 36.881481,
+        "lng": 128.096405
       },
       {
-        "lat": 36.881607,
-        "lng": 128.096695
+        "lat": 36.88155,
+        "lng": 128.098846
       }
     ],
-    "color": "#7c75aa",
-    "start_name": "나무계단 / 철,나무 계단 / 자연경관",
-    "length_meter": 91.7,
-    "time_minute": 1
+    "color": "#6c44b9",
+    "start_name": "쉼터 / 자연경관 / 웨이포인트 82",
+    "length_meter": 222.5,
+    "time_minute": 3
   },
   {
     "path_id": 27,
     "path": [
       {
-        "lat": 36.881607,
-        "lng": 128.096695
-      },
-      {
-        "lat": 36.88155,
-        "lng": 128.098846
-      }
-    ],
-    "color": "#780200",
-    "start_name": "웨이포인트 82",
-    "length_meter": 191.4,
-    "time_minute": 3
-  },
-  {
-    "path_id": 28,
-    "path": [
-      {
         "lat": 36.88155,
         "lng": 128.098846
       },
@@ -487,13 +470,13 @@
         "lng": 128.101089
       }
     ],
-    "color": "#0c3300",
+    "color": "#7b62c4",
     "start_name": "흙길오르막",
     "length_meter": 242.5,
     "time_minute": 4
   },
   {
-    "path_id": 29,
+    "path_id": 28,
     "path": [
       {
         "lat": 36.88031,
@@ -504,47 +487,30 @@
         "lng": 128.101929
       }
     ],
-    "color": "#280b8f",
+    "color": "#26325b",
     "start_name": "웨이포인트 85 / 웨이포인트 86",
     "length_meter": 87.3,
     "time_minute": 1
   },
   {
-    "path_id": 30,
+    "path_id": 29,
     "path": [
       {
         "lat": 36.880016,
         "lng": 128.101929
-      },
-      {
-        "lat": 36.880722,
-        "lng": 128.104111
-      }
-    ],
-    "color": "#542544",
-    "start_name": "웨이포인트 88",
-    "length_meter": 209.4,
-    "time_minute": 3
-  },
-  {
-    "path_id": 31,
-    "path": [
-      {
-        "lat": 36.880722,
-        "lng": 128.104111
       },
       {
         "lat": 36.875523,
         "lng": 128.106476
       }
     ],
-    "color": "#55ac1f",
-    "start_name": "미끄럼주의",
-    "length_meter": 615.2,
+    "color": "#ae9d5d",
+    "start_name": "웨이포인트 88",
+    "length_meter": 642.8,
     "time_minute": 10
   },
   {
-    "path_id": 32,
+    "path_id": 30,
     "path": [
       {
         "lat": 36.875523,
@@ -555,13 +521,13 @@
         "lng": 128.105118
       }
     ],
-    "color": "#0c517a",
+    "color": "#0e6823",
     "start_name": "안내소",
     "length_meter": 155.0,
     "time_minute": 2
   },
   {
-    "path_id": 33,
+    "path_id": 31,
     "path": [
       {
         "lat": 36.874649,
@@ -572,13 +538,13 @@
         "lng": 128.103714
       }
     ],
-    "color": "#87ba3f",
+    "color": "#437c07",
     "start_name": "무선충전기",
     "length_meter": 425.9,
     "time_minute": 7
   },
   {
-    "path_id": 34,
+    "path_id": 32,
     "path": [
       {
         "lat": 36.870987,
@@ -589,13 +555,13 @@
         "lng": 128.105179
       }
     ],
-    "color": "#b0945f",
+    "color": "#5f7f6e",
     "start_name": "자연경관",
     "length_meter": 383.0,
     "time_minute": 6
   },
   {
-    "path_id": 35,
+    "path_id": 33,
     "path": [
       {
         "lat": 36.867748,
@@ -606,13 +572,13 @@
         "lng": 128.105438
       }
     ],
-    "color": "#399c03",
+    "color": "#2a9f6b",
     "start_name": "웨이포인트 157 / 계곡 / 웨이포인트 159",
     "length_meter": 118.7,
     "time_minute": 1
   },
   {
-    "path_id": 36,
+    "path_id": 34,
     "path": [
       {
         "lat": 36.866718,
@@ -623,13 +589,13 @@
         "lng": 128.104568
       }
     ],
-    "color": "#413a43",
+    "color": "#497e99",
     "start_name": "웨이포인트 160",
     "length_meter": 118.6,
     "time_minute": 1
   },
   {
-    "path_id": 37,
+    "path_id": 35,
     "path": [
       {
         "lat": 36.86591,
@@ -640,13 +606,13 @@
         "lng": 128.103592
       }
     ],
-    "color": "#850064",
+    "color": "#b3b973",
     "start_name": "자연경관 / 안내소",
     "length_meter": 260.8,
     "time_minute": 4
   },
   {
-    "path_id": 38,
+    "path_id": 36,
     "path": [
       {
         "lat": 36.863708,
@@ -657,13 +623,13 @@
         "lng": 128.101898
       }
     ],
-    "color": "#a844a8",
-    "start_name": "자연경관 / 웨이포인트 165",
-    "length_meter": 266.9,
+    "color": "#c34c24",
+    "start_name": "자연경관 / 웨이포인트 165 / 쉼터",
+    "length_meter": 267.1,
     "time_minute": 4
   },
   {
-    "path_id": 39,
+    "path_id": 37,
     "path": [
       {
         "lat": 36.861732,
@@ -674,13 +640,13 @@
         "lng": 128.099838
       }
     ],
-    "color": "#c364a4",
+    "color": "#8e389b",
     "start_name": "계곡 / 웨이포인트 170",
     "length_meter": 190.5,
     "time_minute": 3
   },
   {
-    "path_id": 40,
+    "path_id": 38,
     "path": [
       {
         "lat": 36.861263,
@@ -691,13 +657,13 @@
         "lng": 128.090271
       }
     ],
-    "color": "#b68827",
+    "color": "#35a646",
     "start_name": "자연경관",
     "length_meter": 855.8,
     "time_minute": 14
   },
   {
-    "path_id": 41,
+    "path_id": 39,
     "path": [
       {
         "lat": 36.862068,
@@ -708,13 +674,13 @@
         "lng": 128.089508
       }
     ],
-    "color": "#6c7267",
+    "color": "#b7a972",
     "start_name": "덕주사 자연관찰로 / 관광자원",
     "length_meter": 80.7,
     "time_minute": 1
   },
   {
-    "path_id": 42,
+    "path_id": 40,
     "path": [
       {
         "lat": 36.862457,
@@ -725,7 +691,7 @@
         "lng": 128.088501
       }
     ],
-    "color": "#0b9d0d",
+    "color": "#906258",
     "start_name": "식당,펜션 / 안내소",
     "length_meter": 120.9,
     "time_minute": 2

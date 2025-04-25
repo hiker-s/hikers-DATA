@@ -7,12 +7,19 @@ json_path = os.path.join(base_dir, '../mnt_100_convert_json')
 convert_path = os.path.join(base_dir, '../mnt_100_convert_json_clean')
 os.makedirs(convert_path, exist_ok=True)
 
+# 정제에서 제외할 산
+skip_mnt = ["강천산", "황악산", "공작산"]
+
+
 # 제거할 요소 리스트
 elements_to_remove = [
     "낙석", "의약품 함", "낙뢰 및 우천시 행동 요령", "재해위험지구", 
-    "추락주의", "산불감시초소", "낙석 위험", "낙석 위험지역", "쉼터", "사고위험지구",
+    "추락주의", "산불감시초소", "낙석 위험", "낙석 위험지역", "사고위험지구",
     "조망점", "주차장", "위험지역", "안내표지판", "이정표", "안내도", "ㅇ", "안내판",
-    "구급함", "화장실", "구조안내", "안전센터", "낙석주의", "붕괴위험지역", "119 긴급구조 넘버01-44"
+    "구급함", "화장실", "구조안내", "안전센터", "낙석주의", "붕괴위험지역", "119 긴급구조 넘버01-44", "입석대입구 화장실",
+    "멧돼지 출몰 주의", "흡연부스", "여성전용화장실", "포토존", "고압전기시설", "좌쉼터", "오른쪽쉼터", "미끄럼주의",
+    "낙석, 추락 미끄럼 주의", "자연성릉 포토스팟", "낙석 추락미끄럼주의", "미끄럼주의(상습결빙구간)", "급경사지 위험지역",
+    "벤치", "갑사 입구 포토존", "급경사지 낙석 위험지역", "자연관찰로 옆 벤치", "멧돼지흔적", "야생돼지", "멧돼지출현흔적", "입산통제소", "국가지점번호"
 ]
 
 # 불필요한 요소를 제거하는 함수
@@ -37,19 +44,27 @@ def remove_element(json_data):
     return json_data
 
 def process_json_file(input_file):
+    # 산 이름(폴더 이름) 추출
+    relative_path = os.path.relpath(input_file, json_path)
+    mountain_name = os.path.normpath(relative_path).split(os.sep)[0].strip()
+
     with open(input_file, 'r', encoding='utf-8') as file:
         data = json.load(file)
         
     # 불필요한 요소 제거
-    cleaned_data = remove_element(data)
+    if mountain_name not in skip_mnt:
+        cleaned_data = remove_element(data)
+    else :
+        cleaned_data = data
+        
     
     # 변환된 데이터 저장 경로 설정
-    relative_path = os.path.relpath(input_file, json_path)  # 상대 경로 계산
     output_file = os.path.join(convert_path, relative_path)
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)  # 폴더 생성
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
     
     with open(output_file, 'w', encoding='utf-8') as file:
         json.dump(cleaned_data, file, ensure_ascii=False, indent=4)
+
 
 # 모든 폴더 내의 파일 처리
 def process_all_json_files():

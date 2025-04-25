@@ -11,7 +11,7 @@
         "lng": 128.000046
       }
     ],
-    "color": "#35c170",
+    "color": "#a27c74",
     "start_name": "극락전주차장 / 입산통제소",
     "length_meter": 170.5,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 127.992935
       }
     ],
-    "color": "#014403",
+    "color": "#b39d48",
     "start_name": "황악산이정표",
     "length_meter": 852.3,
     "time_minute": 14
@@ -45,7 +45,7 @@
         "lng": 127.992912
       }
     ],
-    "color": "#127d2c",
+    "color": "#978869",
     "start_name": "망월봉",
     "length_meter": 2.2,
     "time_minute": 0
@@ -62,7 +62,7 @@
         "lng": 127.99128
       }
     ],
-    "color": "#683fa7",
+    "color": "#a734bf",
     "start_name": "망월봉쉼터 / 갈림길",
     "length_meter": 191.6,
     "time_minute": 3
@@ -75,37 +75,105 @@
         "lng": 127.99128
       },
       {
+        "lat": 36.109039,
+        "lng": 127.991302
+      }
+    ],
+    "color": "#7a063a",
+    "start_name": "국가지점번호",
+    "length_meter": 2.3,
+    "time_minute": 0
+  },
+  {
+    "path_id": 5,
+    "path": [
+      {
+        "lat": 36.109039,
+        "lng": 127.991302
+      },
+      {
+        "lat": 36.108749,
+        "lng": 127.989655
+      }
+    ],
+    "color": "#744918",
+    "start_name": "갈림길 / 갈림길쉼터",
+    "length_meter": 151.8,
+    "time_minute": 2
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
+        "lat": 36.108749,
+        "lng": 127.989655
+      },
+      {
         "lat": 36.103855,
         "lng": 127.980324
       }
     ],
-    "color": "#72a762",
-    "start_name": "국가지점번호 / 갈림길",
-    "length_meter": 1144.7,
-    "time_minute": 19
+    "color": "#c5595e",
+    "start_name": "쉼터",
+    "length_meter": 999.4,
+    "time_minute": 16
   },
   {
-    "path_id": 5,
+    "path_id": 7,
     "path": [
       {
         "lat": 36.103855,
         "lng": 127.980324
       },
       {
+        "lat": 36.103863,
+        "lng": 127.980309
+      }
+    ],
+    "color": "#020c94",
+    "start_name": "신선봉",
+    "length_meter": 1.6,
+    "time_minute": 0
+  },
+  {
+    "path_id": 8,
+    "path": [
+      {
+        "lat": 36.103863,
+        "lng": 127.980309
+      },
+      {
         "lat": 36.104332,
         "lng": 127.977654
       }
     ],
-    "color": "#8f2e8b",
-    "start_name": "신선봉 / 갈림길",
-    "length_meter": 245.7,
+    "color": "#a38719",
+    "start_name": "이정표 / 갈림길",
+    "length_meter": 244.2,
     "time_minute": 4
   },
   {
-    "path_id": 6,
+    "path_id": 9,
     "path": [
       {
         "lat": 36.104332,
+        "lng": 127.977654
+      },
+      {
+        "lat": 36.104321,
+        "lng": 127.977654
+      }
+    ],
+    "color": "#647775",
+    "start_name": "국가지점번호",
+    "length_meter": 1.2,
+    "time_minute": 0
+  },
+  {
+    "path_id": 10,
+    "path": [
+      {
+        "lat": 36.104321,
         "lng": 127.977654
       },
       {
@@ -113,13 +181,13 @@
         "lng": 127.972198
       }
     ],
-    "color": "#23856d",
-    "start_name": "국가지점번호",
-    "length_meter": 516.9,
+    "color": "#5f9876",
+    "start_name": "쉼터",
+    "length_meter": 517.3,
     "time_minute": 8
   },
   {
-    "path_id": 7,
+    "path_id": 11,
     "path": [
       {
         "lat": 36.105808,
@@ -130,13 +198,13 @@
         "lng": 127.974953
       }
     ],
-    "color": "#8b657c",
+    "color": "#3f2f78",
     "start_name": "갈림길 / 국가지점번호",
     "length_meter": 483.4,
     "time_minute": 8
   },
   {
-    "path_id": 8,
+    "path_id": 12,
     "path": [
       {
         "lat": 36.109535,
@@ -147,13 +215,13 @@
         "lng": 127.980774
       }
     ],
-    "color": "#785f4b",
+    "color": "#2192ad",
     "start_name": "내원계곡과 등산로합류점",
     "length_meter": 573.3,
     "time_minute": 9
   },
   {
-    "path_id": 9,
+    "path_id": 13,
     "path": [
       {
         "lat": 36.111649,
@@ -164,13 +232,13 @@
         "lng": 127.99482
       }
     ],
-    "color": "#3b1685",
+    "color": "#a10d45",
     "start_name": "내원계곡폭포",
     "length_meter": 1356.9,
     "time_minute": 22
   },
   {
-    "path_id": 10,
+    "path_id": 14,
     "path": [
       {
         "lat": 36.116138,
@@ -181,13 +249,13 @@
         "lng": 127.996277
       }
     ],
-    "color": "#7db3a9",
+    "color": "#a52f3d",
     "start_name": "명적암주차장",
     "length_meter": 160.8,
     "time_minute": 2
   },
   {
-    "path_id": 11,
+    "path_id": 15,
     "path": [
       {
         "lat": 36.116978,
@@ -198,13 +266,13 @@
         "lng": 127.999779
       }
     ],
-    "color": "#b49906",
+    "color": "#130d12",
     "start_name": "갈림길",
     "length_meter": 327.7,
     "time_minute": 5
   },
   {
-    "path_id": 12,
+    "path_id": 16,
     "path": [
       {
         "lat": 36.117805,
@@ -215,7 +283,7 @@
         "lng": 127.99984
       }
     ],
-    "color": "#1a5f29",
+    "color": "#15542b",
     "start_name": "입산통제소",
     "length_meter": 9.3,
     "time_minute": 0

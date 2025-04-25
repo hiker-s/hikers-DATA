@@ -11,7 +11,7 @@
         "lng": 127.519531
       }
     ],
-    "color": "#c2b466",
+    "color": "#699a57",
     "start_name": "갈림길",
     "length_meter": 143.6,
     "time_minute": 2
@@ -28,7 +28,7 @@
         "lng": 127.519737
       }
     ],
-    "color": "#8ca855",
+    "color": "#6d5417",
     "start_name": "무넹기 조망점 / 갈림길",
     "length_meter": 157.7,
     "time_minute": 2
@@ -45,7 +45,7 @@
         "lng": 127.517311
       }
     ],
-    "color": "#2f74b0",
+    "color": "#c26b2f",
     "start_name": "코재전망대",
     "length_meter": 635.8,
     "time_minute": 10
@@ -62,7 +62,7 @@
         "lng": 127.507545
       }
     ],
-    "color": "#770887",
+    "color": "#3ca65e",
     "start_name": "접선대  쉼터",
     "length_meter": 2140.0,
     "time_minute": 35
@@ -79,7 +79,7 @@
         "lng": 127.50621
       }
     ],
-    "color": "#012f35",
+    "color": "#8ba44d",
     "start_name": "참샘터",
     "length_meter": 283.0,
     "time_minute": 4
@@ -96,7 +96,7 @@
         "lng": 127.505363
       }
     ],
-    "color": "#04a393",
+    "color": "#8b435b",
     "start_name": "갈림길",
     "length_meter": 126.9,
     "time_minute": 2
@@ -113,7 +113,7 @@
         "lng": 127.505173
       }
     ],
-    "color": "#b2be6d",
+    "color": "#061a6e",
     "start_name": "카페",
     "length_meter": 66.8,
     "time_minute": 1
@@ -130,7 +130,7 @@
         "lng": 127.504677
       }
     ],
-    "color": "#9cb678",
+    "color": "#481a84",
     "start_name": "갈림길",
     "length_meter": 78.9,
     "time_minute": 1
@@ -143,19 +143,36 @@
         "lng": 127.504677
       },
       {
-        "lat": 35.258289,
-        "lng": 127.499123
+        "lat": 35.262012,
+        "lng": 127.501465
       }
     ],
-    "color": "#099569",
+    "color": "#20c716",
     "start_name": "숲길",
-    "length_meter": 1168.9,
-    "time_minute": 19
+    "length_meter": 703.8,
+    "time_minute": 11
   },
   {
     "path_id": 9,
     "path": [
       {
+        "lat": 35.262012,
+        "lng": 127.501465
+      },
+      {
+        "lat": 35.258289,
+        "lng": 127.499123
+      }
+    ],
+    "color": "#811149",
+    "start_name": "쉼터",
+    "length_meter": 465.4,
+    "time_minute": 7
+  },
+  {
+    "path_id": 10,
+    "path": [
+      {
         "lat": 35.258289,
         "lng": 127.499123
       },
@@ -164,13 +181,13 @@
         "lng": 127.497871
       }
     ],
-    "color": "#135401",
+    "color": "#678489",
     "start_name": "갈림길",
     "length_meter": 358.2,
     "time_minute": 5
   },
   {
-    "path_id": 10,
+    "path_id": 11,
     "path": [
       {
         "lat": 35.255234,
@@ -181,13 +198,13 @@
         "lng": 127.497337
       }
     ],
-    "color": "#53532c",
+    "color": "#7e18c0",
     "start_name": "화엄사자연관찰로 / 갈림길",
     "length_meter": 55.8,
     "time_minute": 0
   },
   {
-    "path_id": 11,
+    "path_id": 12,
     "path": [
       {
         "lat": 35.254986,
@@ -198,30 +215,47 @@
         "lng": 127.494888
       }
     ],
-    "color": "#bfb51f",
+    "color": "#17698d",
     "start_name": "화엄사 / 갈림길",
     "length_meter": 302.6,
     "time_minute": 5
   },
   {
-    "path_id": 12,
+    "path_id": 13,
     "path": [
       {
         "lat": 35.253445,
         "lng": 127.494888
+      },
+      {
+        "lat": 35.246815,
+        "lng": 127.491241
+      }
+    ],
+    "color": "#94849a",
+    "start_name": "화엄사  부도",
+    "length_meter": 808.2,
+    "time_minute": 13
+  },
+  {
+    "path_id": 14,
+    "path": [
+      {
+        "lat": 35.246815,
+        "lng": 127.491241
       },
       {
         "lat": 35.246109,
         "lng": 127.490959
       }
     ],
-    "color": "#be9424",
-    "start_name": "화엄사  부도",
-    "length_meter": 890.3,
-    "time_minute": 14
+    "color": "#251ac3",
+    "start_name": "쉼터",
+    "length_meter": 82.6,
+    "time_minute": 1
   },
   {
-    "path_id": 13,
+    "path_id": 15,
     "path": [
       {
         "lat": 35.246109,
@@ -232,13 +266,13 @@
         "lng": 127.490555
       }
     ],
-    "color": "#1b21b8",
+    "color": "#3e9e77",
     "start_name": "화엄사  일주문",
     "length_meter": 105.0,
     "time_minute": 1
   },
   {
-    "path_id": 14,
+    "path_id": 16,
     "path": [
       {
         "lat": 35.245224,
@@ -249,7 +283,7 @@
         "lng": 127.48864
       }
     ],
-    "color": "#507198",
+    "color": "#660264",
     "start_name": "화엄사 매표소앞 화장실",
     "length_meter": 289.3,
     "time_minute": 4

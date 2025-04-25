@@ -11,7 +11,7 @@
         "lng": 127.977547
       }
     ],
-    "color": "#701d93",
+    "color": "#12c181",
     "start_name": "산림문화휴양관 주차장",
     "length_meter": 391.5,
     "time_minute": 6
@@ -28,7 +28,7 @@
         "lng": 127.976837
       }
     ],
-    "color": "#853961",
+    "color": "#c2793c",
     "start_name": "가리산강우레이더관측소 주차장",
     "length_meter": 65.5,
     "time_minute": 1
@@ -45,7 +45,7 @@
         "lng": 127.972809
       }
     ],
-    "color": "#827f51",
+    "color": "#780f81",
     "start_name": "모노레일 출발/도착 정거장",
     "length_meter": 372.9,
     "time_minute": 6
@@ -62,7 +62,7 @@
         "lng": 127.972061
       }
     ],
-    "color": "#a2b512",
+    "color": "#592893",
     "start_name": "갈림길",
     "length_meter": 562.9,
     "time_minute": 9
@@ -75,19 +75,36 @@
         "lng": 127.972061
       },
       {
-        "lat": 37.873791,
-        "lng": 127.972488
+        "lat": 37.873352,
+        "lng": 127.972115
       }
     ],
-    "color": "#070c2a",
-    "start_name": "중간 자연쉼터 / 갈림길",
-    "length_meter": 99.3,
-    "time_minute": 1
+    "color": "#37b95e",
+    "start_name": "중간 자연쉼터",
+    "length_meter": 40.5,
+    "time_minute": 0
   },
   {
     "path_id": 5,
     "path": [
       {
+        "lat": 37.873352,
+        "lng": 127.972115
+      },
+      {
+        "lat": 37.873791,
+        "lng": 127.972488
+      }
+    ],
+    "color": "#63265c",
+    "start_name": "갈림길",
+    "length_meter": 58.8,
+    "time_minute": 0
+  },
+  {
+    "path_id": 6,
+    "path": [
+      {
         "lat": 37.873791,
         "lng": 127.972488
       },
@@ -96,13 +113,13 @@
         "lng": 127.967575
       }
     ],
-    "color": "#196221",
+    "color": "#610285",
     "start_name": "중간 평지",
     "length_meter": 717.8,
     "time_minute": 11
   },
   {
-    "path_id": 6,
+    "path_id": 7,
     "path": [
       {
         "lat": 37.878952,
@@ -113,100 +130,134 @@
         "lng": 127.959641
       }
     ],
-    "color": "#8aa768",
+    "color": "#aba354",
     "start_name": "갈림길",
     "length_meter": 858.1,
     "time_minute": 14
   },
   {
-    "path_id": 7,
+    "path_id": 8,
     "path": [
       {
         "lat": 37.874443,
         "lng": 127.959641
       },
       {
-        "lat": 37.871983,
-        "lng": 127.956566
+        "lat": 37.87442,
+        "lng": 127.959267
       }
     ],
-    "color": "#658207",
-    "start_name": "한 천자 이야기 / 갈림길",
-    "length_meter": 393.0,
-    "time_minute": 6
-  },
-  {
-    "path_id": 8,
-    "path": [
-      {
-        "lat": 37.871983,
-        "lng": 127.956566
-      },
-      {
-        "lat": 37.872437,
-        "lng": 127.956154
-      }
-    ],
-    "color": "#2c9a9f",
-    "start_name": "큰바위얼굴 / 2봉",
-    "length_meter": 67.5,
-    "time_minute": 1
+    "color": "#439a03",
+    "start_name": "한 천자 이야기",
+    "length_meter": 32.9,
+    "time_minute": 0
   },
   {
     "path_id": 9,
     "path": [
       {
-        "lat": 37.872437,
-        "lng": 127.956154
+        "lat": 37.87442,
+        "lng": 127.959267
       },
       {
-        "lat": 37.871387,
-        "lng": 127.956276
+        "lat": 37.871983,
+        "lng": 127.956566
       }
     ],
-    "color": "#44c288",
-    "start_name": "3봉",
-    "length_meter": 117.2,
-    "time_minute": 1
+    "color": "#77ae29",
+    "start_name": "갈림길",
+    "length_meter": 360.1,
+    "time_minute": 6
   },
   {
     "path_id": 10,
     "path": [
       {
-        "lat": 37.871387,
-        "lng": 127.956276
+        "lat": 37.871983,
+        "lng": 127.956566
       },
       {
-        "lat": 37.870937,
-        "lng": 127.956886
+        "lat": 37.872055,
+        "lng": 127.956329
       }
     ],
-    "color": "#24b7ba",
-    "start_name": "가리산 정상",
-    "length_meter": 73.3,
-    "time_minute": 1
+    "color": "#332691",
+    "start_name": "큰바위얼굴",
+    "length_meter": 22.3,
+    "time_minute": 0
   },
   {
     "path_id": 11,
     "path": [
       {
-        "lat": 37.870937,
-        "lng": 127.956886
+        "lat": 37.872055,
+        "lng": 127.956329
       },
       {
-        "lat": 37.870586,
-        "lng": 127.957031
+        "lat": 37.872437,
+        "lng": 127.956154
       }
     ],
-    "color": "#795e7e",
-    "start_name": "갈림길",
-    "length_meter": 41.1,
+    "color": "#1438b4",
+    "start_name": "2봉",
+    "length_meter": 45.2,
     "time_minute": 0
   },
   {
     "path_id": 12,
     "path": [
       {
+        "lat": 37.872437,
+        "lng": 127.956154
+      },
+      {
+        "lat": 37.871387,
+        "lng": 127.956276
+      }
+    ],
+    "color": "#339ebb",
+    "start_name": "3봉",
+    "length_meter": 117.2,
+    "time_minute": 1
+  },
+  {
+    "path_id": 13,
+    "path": [
+      {
+        "lat": 37.871387,
+        "lng": 127.956276
+      },
+      {
+        "lat": 37.870937,
+        "lng": 127.956886
+      }
+    ],
+    "color": "#a6113f",
+    "start_name": "가리산 정상",
+    "length_meter": 73.3,
+    "time_minute": 1
+  },
+  {
+    "path_id": 14,
+    "path": [
+      {
+        "lat": 37.870937,
+        "lng": 127.956886
+      },
+      {
+        "lat": 37.870586,
+        "lng": 127.957031
+      }
+    ],
+    "color": "#5f9459",
+    "start_name": "갈림길",
+    "length_meter": 41.1,
+    "time_minute": 0
+  },
+  {
+    "path_id": 15,
+    "path": [
+      {
         "lat": 37.870586,
         "lng": 127.957031
       },
@@ -215,94 +266,94 @@
         "lng": 127.960678
       }
     ],
-    "color": "#35ab91",
+    "color": "#a06d21",
     "start_name": "가리산 제1봉 석간수",
     "length_meter": 602.4,
-    "time_minute": 10
-  },
-  {
-    "path_id": 13,
-    "path": [
-      {
-        "lat": 37.865997,
-        "lng": 127.960678
-      },
-      {
-        "lat": 37.866467,
-        "lng": 127.963112
-      }
-    ],
-    "color": "#5c0d60",
-    "start_name": "갈림길 / 무쇠말재",
-    "length_meter": 233.0,
-    "time_minute": 3
-  },
-  {
-    "path_id": 14,
-    "path": [
-      {
-        "lat": 37.866467,
-        "lng": 127.963112
-      },
-      {
-        "lat": 37.86681,
-        "lng": 127.964844
-      }
-    ],
-    "color": "#416c58",
-    "start_name": "괴목",
-    "length_meter": 156.7,
-    "time_minute": 2
-  },
-  {
-    "path_id": 15,
-    "path": [
-      {
-        "lat": 37.86681,
-        "lng": 127.964844
-      },
-      {
-        "lat": 37.868435,
-        "lng": 127.971527
-      }
-    ],
-    "color": "#56b860",
-    "start_name": "연리목",
-    "length_meter": 613.8,
     "time_minute": 10
   },
   {
     "path_id": 16,
     "path": [
       {
-        "lat": 37.868435,
-        "lng": 127.971527
+        "lat": 37.865997,
+        "lng": 127.960678
       },
       {
-        "lat": 37.865211,
-        "lng": 127.981049
+        "lat": 37.865925,
+        "lng": 127.960648
       }
     ],
-    "color": "#6dbf59",
-    "start_name": "합수곡",
-    "length_meter": 909.5,
-    "time_minute": 15
+    "color": "#60c217",
+    "start_name": "갈림길",
+    "length_meter": 8.4,
+    "time_minute": 0
   },
   {
     "path_id": 17,
     "path": [
       {
-        "lat": 37.865211,
-        "lng": 127.981049
+        "lat": 37.865925,
+        "lng": 127.960648
+      },
+      {
+        "lat": 37.866467,
+        "lng": 127.963112
+      }
+    ],
+    "color": "#0c4a1e",
+    "start_name": "무쇠말재",
+    "length_meter": 224.5,
+    "time_minute": 3
+  },
+  {
+    "path_id": 18,
+    "path": [
+      {
+        "lat": 37.866467,
+        "lng": 127.963112
+      },
+      {
+        "lat": 37.86681,
+        "lng": 127.964844
+      }
+    ],
+    "color": "#600b17",
+    "start_name": "괴목",
+    "length_meter": 156.7,
+    "time_minute": 2
+  },
+  {
+    "path_id": 19,
+    "path": [
+      {
+        "lat": 37.86681,
+        "lng": 127.964844
+      },
+      {
+        "lat": 37.868435,
+        "lng": 127.971527
+      }
+    ],
+    "color": "#98431c",
+    "start_name": "연리목",
+    "length_meter": 613.8,
+    "time_minute": 10
+  },
+  {
+    "path_id": 20,
+    "path": [
+      {
+        "lat": 37.868435,
+        "lng": 127.971527
       },
       {
         "lat": 37.865086,
         "lng": 127.982491
       }
     ],
-    "color": "#669d68",
-    "start_name": "멧돼지 출몰 주의",
-    "length_meter": 127.3,
-    "time_minute": 2
+    "color": "#b0c30c",
+    "start_name": "합수곡",
+    "length_meter": 1032.0,
+    "time_minute": 17
   }
 ]
