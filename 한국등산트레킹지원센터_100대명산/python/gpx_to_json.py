@@ -22,6 +22,8 @@ for root_dir, _, files in os.walk(mnt_100_path):
                 root = tree.getroot()
 
                 waypoints = []
+                path_id_counter = 1 
+
                 for wpt in root.findall('default:wpt', ns):
                     lat = wpt.get('lat')
                     lon = wpt.get('lon')
@@ -29,10 +31,12 @@ for root_dir, _, files in os.walk(mnt_100_path):
                     name = name_elem.text if name_elem is not None else None
 
                     waypoints.append({
+                        'path_id': path_id_counter,
                         'name': name,
                         'lat': float(lat),
                         'lon': float(lon)
                     })
+                    path_id_counter += 1
 
                 # 상대 경로 계산
                 relative_path = os.path.relpath(gpx_file_path, mnt_100_path)
