@@ -44,6 +44,9 @@ for mountain_name in os.listdir(mnt_100_path):
             "features": [
                 {
                     "type": "Feature",
+                    "properties": {
+                        
+                    },
                     "geometry": {
                         "type": "MultiLineString",
                         "coordinates": [coordinates]

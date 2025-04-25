@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "name": "용문산",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              127.584457,
+              37.546921
+            ],
+            [
+              127.567665,
+              37.563431
+            ],
+            [
+              127.557632,
+              37.566113
+            ],
+            [
+              127.561028,
+              37.559906
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
