@@ -1,24 +1,31 @@
 {
+  "mnt_id": 80,
+  "mnt_name": "천성산",
+  "course_id": 207,
   "max_ele": 878.7,
   "total_length_km": "3.6km",
   "total_time": "0시간 44분",
   "start_name": "용골산",
   "end_name": "복천정사",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
           "lat": 35.356602,
-          "lng": 128.957657
+          "lng": 128.957657,
+          "ele": 608.9
         },
         {
           "lat": 35.374546,
-          "lng": 128.949966
+          "lng": 128.949966,
+          "ele": 831.2
         }
       ],
-      "color": "#3b8da4",
+      "color": "#74ab79",
       "start_name": "용골산",
+      "end_name": "갈림길",
       "length_meter": 2113.6,
       "time_minute": 26
     },
@@ -27,15 +34,18 @@
       "path": [
         {
           "lat": 35.374546,
-          "lng": 128.949966
+          "lng": 128.949966,
+          "ele": 831.2
         },
         {
           "lat": 35.37809,
-          "lng": 128.950775
+          "lng": 128.950775,
+          "ele": 878.7
         }
       ],
-      "color": "#ba3417",
+      "color": "#16550c",
       "start_name": "갈림길",
+      "end_name": "토곡",
       "length_meter": 400.8,
       "time_minute": 5
     },
@@ -44,15 +54,18 @@
       "path": [
         {
           "lat": 35.37809,
-          "lng": 128.950775
+          "lng": 128.950775,
+          "ele": 878.7
         },
         {
           "lat": 35.378162,
-          "lng": 128.95813
+          "lng": 128.95813,
+          "ele": 608.9
         }
       ],
-      "color": "#3a7d56",
+      "color": "#4c1f8d",
       "start_name": "토곡",
+      "end_name": "갈림길",
       "length_meter": 666.9,
       "time_minute": 8
     },
@@ -61,15 +74,18 @@
       "path": [
         {
           "lat": 35.378162,
-          "lng": 128.95813
+          "lng": 128.95813,
+          "ele": 608.9
         },
         {
           "lat": 35.375217,
-          "lng": 128.956161
+          "lng": 128.956161,
+          "ele": 542.1
         }
       ],
-      "color": "#70240a",
+      "color": "#596801",
       "start_name": "갈림길",
+      "end_name": "복천정사",
       "length_meter": 373.0,
       "time_minute": 4
     }

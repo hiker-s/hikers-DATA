@@ -1,194 +1,177 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>지도에 경로 표시</title>
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-    />
-    <style>
-      #map {
-        height: 600px;
-        width: 100%;
-      }
-    </style>
+    <title>지도 경로 표시</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   </head>
   <body>
-    <h2>지리산 탐방 경로</h2>
-    <div id="map"></div>
+    <!-- 지도를 표시할 div -->
+    <div id="map" style="height: 600px"></div>
 
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <script>
-      // 지도 초기화
-      var map = L.map("map").setView([35.303749, 127.749046], 13); // 초기 위치 설정 (지리산)
+      // Leaflet 지도 초기화
+      const map = L.map("map").setView([38.084709, 128.448883], 14);
 
       // OpenStreetMap 타일 레이어 추가
-      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        attribution:
-          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-      }).addTo(map);
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(
+        map
+      );
 
-      // 경로 JSON 데이터
-      const routeData = {
-        max_ele: 510.0,
+      // 주어진 JSON 데이터
+      const jsonData = {
         track: [
           {
+            path_id: 0,
+            path: [
+              {
+                lat: 38.084709,
+                lng: 128.448883,
+              },
+              {
+                lat: 38.090847,
+                lng: 128.449371,
+              },
+            ],
+            color: "#490150",
+            start_name: "남설악탐방지원센터 / 남설악화장실",
+            end_name: "의자",
+            length_meter: 684.2,
+            time_minute: 11,
+          },
+          {
             path_id: 1,
-            name: "수덕사주차장",
-            lat: 36.656025,
-            lon: 126.621315,
-            ele: 118.0,
+            path: [
+              {
+                lat: 38.090847,
+                lng: 128.449371,
+              },
+              {
+                lat: 38.095238,
+                lng: 128.450348,
+              },
+            ],
+            color: "#9dc012",
+            start_name: "의자",
+            end_name: "오색1쉼터",
+            length_meter: 495.7,
+            time_minute: 6,
           },
           {
             path_id: 2,
-            name: "갈림길",
-            lat: 36.656517,
-            lon: 126.621284,
-            ele: 118.0,
+            path: [
+              {
+                lat: 38.095238,
+                lng: 128.450348,
+              },
+              {
+                lat: 38.096855,
+                lng: 128.453903,
+              },
+            ],
+            color: "#599c7b",
+            start_name: "오색1쉼터",
+            end_name: "갈림길",
+            length_meter: 359.3,
+            time_minute: 4,
           },
           {
             path_id: 3,
-            name: "화장실",
-            lat: 36.66256,
-            lon: 126.622215,
-            ele: 153.0,
+            path: [
+              {
+                lat: 38.096855,
+                lng: 128.453903,
+              },
+              {
+                lat: 38.103073,
+                lng: 128.456665,
+              },
+            ],
+            color: "#69a82e",
+            start_name: "갈림길 / 쉼터",
+            end_name: "설악폭포",
+            length_meter: 732.5,
+            time_minute: 12,
           },
           {
             path_id: 4,
-            name: "갈림길",
-            lat: 36.662708,
-            lon: 126.621445,
-            ele: 164.0,
+            path: [
+              {
+                lat: 38.103073,
+                lng: 128.456665,
+              },
+              {
+                lat: 38.110825,
+                lng: 128.460464,
+              },
+            ],
+            color: "#0a1025",
+            start_name: "설악폭포",
+            end_name: "오색2쉼터",
+            length_meter: 923.9,
+            time_minute: 11,
           },
           {
             path_id: 5,
-            name: "관광자원",
-            lat: 36.662495,
-            lon: 126.619438,
-            ele: 182.0,
+            path: [
+              {
+                lat: 38.110825,
+                lng: 128.460464,
+              },
+              {
+                lat: 38.119102,
+                lng: 128.465347,
+              },
+            ],
+            color: "#012325",
+            start_name: "오색2쉼터",
+            end_name: "대청봉",
+            length_meter: 1014.7,
+            time_minute: 12,
           },
           {
             path_id: 6,
-            name: "쉼터",
-            lat: 36.662708,
-            lon: 126.615768,
-            ele: 258.0,
-          },
-          {
-            path_id: 7,
-            name: "갈림길",
-            lat: 36.666767,
-            lon: 126.620583,
-            ele: 317.0,
-          },
-          {
-            path_id: 12,
-            name: "덕숭산정상",
-            lat: 36.671715,
-            lon: 126.624367,
-            ele: 510.0,
-          },
-          {
-            path_id: 13,
-            name: "조망",
-            lat: 36.670971,
-            lon: 126.625336,
-            ele: 491.0,
-          },
-          {
-            path_id: 14,
-            name: "사찰",
-            lat: 36.669006,
-            lon: 126.624077,
-            ele: 401.0,
-          },
-          {
-            path_id: 15,
-            name: "갈림길",
-            lat: 36.668827,
-            lon: 126.622162,
-            ele: 379.0,
-          },
-          {
-            path_id: 17,
-            name: "계곡",
-            lat: 36.666912,
-            lon: 126.622101,
-            ele: 292.0,
-          },
-          {
-            path_id: 18,
-            name: "갈림길",
-            lat: 36.662617,
-            lon: 126.621696,
-            ele: 157.0,
-          },
-          {
-            path_id: 19,
-            name: "관광자원",
-            lat: 36.660587,
-            lon: 126.622307,
-            ele: 135.0,
-          },
-          {
-            path_id: 21,
-            name: "매표소입구",
-            lat: 36.658676,
-            lon: 126.620827,
-            ele: 117.0,
-          },
-          {
-            path_id: 22,
-            name: "매표소",
-            lat: 36.65839,
-            lon: 126.620537,
-            ele: 112.0,
-          },
-          {
-            path_id: 23,
-            name: "매점가",
-            lat: 36.657791,
-            lon: 126.620331,
-            ele: 116.0,
-          },
-          {
-            path_id: 24,
-            name: "주차장",
-            lat: 36.656734,
-            lon: 126.620773,
-            ele: 113.0,
+            path: [
+              {
+                lat: 38.119102,
+                lng: 128.465347,
+              },
+              {
+                lat: 38.119114,
+                lng: 128.465347,
+              },
+            ],
+            color: "#a0b066",
+            start_name: "대청봉",
+            end_name: "공룡능선",
+            length_meter: 1.3,
+            time_minute: 0,
           },
         ],
       };
 
       // 경로 그리기
-      routeData.track.forEach(function (track) {
-        let latlngs = track.path.map(function (point) {
-          return [point.lat, point.lng];
-        });
+      jsonData.track.forEach(function (section) {
+        const latlngs = section.path.map((point) => [point.lat, point.lng]);
+        const color = section.color;
 
+        // 경로를 Polyline으로 지도에 추가
         L.polyline(latlngs, {
-          color: track.color,
+          color: color,
           weight: 5,
           opacity: 0.7,
         }).addTo(map);
+
+        // 시작점과 끝점에 마커 추가
+        L.marker(latlngs[0]).addTo(map).bindPopup(section.start_name);
+        L.marker(latlngs[latlngs.length - 1])
+          .addTo(map)
+          .bindPopup(section.end_name);
       });
-
-      // 시작점과 끝점 마커 추가
-      L.marker([routeData.track[0].path[0].lat, routeData.track[0].path[0].lng])
-        .addTo(map)
-        .bindPopup(routeData.start_name)
-        .openPopup();
-
-      L.marker([
-        routeData.track[routeData.track.length - 1].path[1].lat,
-        routeData.track[routeData.track.length - 1].path[1].lng,
-      ])
-        .addTo(map)
-        .bindPopup(routeData.end_name)
-        .openPopup();
     </script>
   </body>
 </html>

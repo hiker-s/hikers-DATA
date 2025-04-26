@@ -1,264 +1,273 @@
 {
+  "mnt_id": 13,
+  "mnt_name": "금수산",
+  "course_id": 31,
   "max_ele": 1040.151,
-  "total_length_km": "11.4km",
-  "total_time": "2시간 22분",
-  "start_name": "주차장 무료",
-  "end_name": "얼음골 어부네 매운탕",
+  "total_length_km": "7.6km",
+  "total_time": "1시간 34분",
+  "start_name": "들머리입구 주차장",
+  "end_name": "망덕봉 정상",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
-          "lat": 36.986202,
-          "lng": 128.197006
+          "lat": 36.987728,
+          "lng": 128.199005,
+          "ele": 178.184
         },
         {
-          "lat": 36.98698,
-          "lng": 128.197861
+          "lat": 36.988163,
+          "lng": 128.199173,
+          "ele": 181.253
         }
       ],
-      "color": "#87bbba",
-      "start_name": "주차장 무료",
-      "length_meter": 115.1,
-      "time_minute": 1
+      "color": "#070b77",
+      "start_name": "들머리입구 주차장",
+      "end_name": "능강교코스 들머리",
+      "length_meter": 50.6,
+      "time_minute": 0
     },
     {
       "path_id": 1,
       "path": [
         {
-          "lat": 36.98698,
-          "lng": 128.197861
+          "lat": 36.988163,
+          "lng": 128.199173,
+          "ele": 181.253
         },
         {
-          "lat": 36.987728,
-          "lng": 128.199005
+          "lat": 36.990971,
+          "lng": 128.207596,
+          "ele": 223.773
         }
       ],
-      "color": "#a6734a",
-      "start_name": "버스정류장(정방사) / 산이랑 물이랑",
-      "length_meter": 136.9,
-      "time_minute": 2
+      "color": "#1e2452",
+      "start_name": "능강교코스 들머리 / 갈림길",
+      "end_name": "돌탑",
+      "length_meter": 812.5,
+      "time_minute": 13
     },
     {
       "path_id": 2,
       "path": [
         {
-          "lat": 36.987728,
-          "lng": 128.199005
+          "lat": 36.990971,
+          "lng": 128.207596,
+          "ele": 223.773
         },
         {
-          "lat": 36.988163,
-          "lng": 128.199173
+          "lat": 36.990314,
+          "lng": 128.209518,
+          "ele": 239.114
         }
       ],
-      "color": "#518e4e",
-      "start_name": "들머리입구 주차장 (무료)",
-      "length_meter": 50.6,
-      "time_minute": 0
+      "color": "#a2ad35",
+      "start_name": "돌탑",
+      "end_name": "갈림길",
+      "length_meter": 185.7,
+      "time_minute": 2
     },
     {
       "path_id": 3,
       "path": [
         {
-          "lat": 36.988163,
-          "lng": 128.199173
+          "lat": 36.990314,
+          "lng": 128.209518,
+          "ele": 239.114
         },
         {
-          "lat": 36.990971,
-          "lng": 128.207596
+          "lat": 36.990307,
+          "lng": 128.213409,
+          "ele": 269.638
         }
       ],
-      "color": "#903253",
-      "start_name": "능강교코스 들머리 / 갈림길",
-      "length_meter": 812.5,
-      "time_minute": 13
+      "color": "#896d93",
+      "start_name": "갈림길",
+      "end_name": "만당암",
+      "length_meter": 345.6,
+      "time_minute": 4
     },
     {
       "path_id": 4,
       "path": [
         {
-          "lat": 36.990971,
-          "lng": 128.207596
+          "lat": 36.990307,
+          "lng": 128.213409,
+          "ele": 269.638
         },
         {
-          "lat": 36.990314,
-          "lng": 128.209518
+          "lat": 36.991028,
+          "lng": 128.218033,
+          "ele": 323.78
         }
       ],
-      "color": "#3719b7",
-      "start_name": "돌탑",
-      "length_meter": 185.7,
-      "time_minute": 2
+      "color": "#0aabc2",
+      "start_name": "만당암 / 얼음골와불",
+      "end_name": "계곡",
+      "length_meter": 423.2,
+      "time_minute": 6
     },
     {
       "path_id": 5,
       "path": [
         {
-          "lat": 36.990314,
-          "lng": 128.209518
+          "lat": 36.991028,
+          "lng": 128.218033,
+          "ele": 323.78
         },
         {
-          "lat": 36.990307,
-          "lng": 128.213409
+          "lat": 36.993244,
+          "lng": 128.223785,
+          "ele": 386.805
         }
       ],
-      "color": "#920444",
-      "start_name": "갈림길",
-      "length_meter": 345.6,
-      "time_minute": 4
+      "color": "#011255",
+      "start_name": "계곡 / 쉼터 / 화전민터",
+      "end_name": "취적담",
+      "length_meter": 574.5,
+      "time_minute": 9
     },
     {
       "path_id": 6,
       "path": [
         {
-          "lat": 36.990307,
-          "lng": 128.213409
+          "lat": 36.993244,
+          "lng": 128.223785,
+          "ele": 386.805
         },
         {
-          "lat": 36.991028,
-          "lng": 128.218033
+          "lat": 36.993835,
+          "lng": 128.224762,
+          "ele": 405.099
         }
       ],
-      "color": "#031618",
-      "start_name": "만당암 / 얼음골와불",
-      "length_meter": 423.2,
-      "time_minute": 6
+      "color": "#69422e",
+      "start_name": "취적담",
+      "end_name": "취적대(능강9곡)",
+      "length_meter": 108.8,
+      "time_minute": 1
     },
     {
       "path_id": 7,
       "path": [
         {
-          "lat": 36.991028,
-          "lng": 128.218033
+          "lat": 36.993835,
+          "lng": 128.224762,
+          "ele": 405.099
         },
         {
-          "lat": 36.993244,
-          "lng": 128.223785
+          "lat": 36.994221,
+          "lng": 128.229111,
+          "ele": 453.492
         }
       ],
-      "color": "#a208a2",
-      "start_name": "계곡 / 쉼터 / 화전민터",
-      "length_meter": 574.5,
-      "time_minute": 9
+      "color": "#4dbe6f",
+      "start_name": "취적대(능강9곡) / 갈림길",
+      "end_name": "계곡",
+      "length_meter": 404.4,
+      "time_minute": 6
     },
     {
       "path_id": 8,
       "path": [
         {
-          "lat": 36.993244,
-          "lng": 128.223785
+          "lat": 36.994221,
+          "lng": 128.229111,
+          "ele": 453.492
         },
         {
-          "lat": 36.993835,
-          "lng": 128.224762
+          "lat": 36.995304,
+          "lng": 128.242661,
+          "ele": 602.734
         }
       ],
-      "color": "#9f826f",
-      "start_name": "취적담",
-      "length_meter": 108.8,
-      "time_minute": 1
+      "color": "#548252",
+      "start_name": "계곡",
+      "end_name": "쉼터",
+      "length_meter": 1209.4,
+      "time_minute": 15
     },
     {
       "path_id": 9,
       "path": [
         {
-          "lat": 36.993835,
-          "lng": 128.224762
+          "lat": 36.995304,
+          "lng": 128.242661,
+          "ele": 602.734
         },
         {
-          "lat": 36.994221,
-          "lng": 128.229111
+          "lat": 36.986885,
+          "lng": 128.244492,
+          "ele": 876.099
         }
       ],
-      "color": "#3abe6e",
-      "start_name": "취적대(능강9곡) / 갈림길",
-      "length_meter": 404.4,
-      "time_minute": 6
+      "color": "#5aa292",
+      "start_name": "쉼터",
+      "end_name": "갈림길",
+      "length_meter": 950.2,
+      "time_minute": 11
     },
     {
       "path_id": 10,
       "path": [
         {
-          "lat": 36.994221,
-          "lng": 128.229111
+          "lat": 36.986885,
+          "lng": 128.244492,
+          "ele": 876.099
         },
         {
-          "lat": 36.995304,
-          "lng": 128.242661
+          "lat": 36.985012,
+          "lng": 128.256744,
+          "ele": 1040.151
         }
       ],
-      "color": "#013d75",
-      "start_name": "계곡",
-      "length_meter": 1209.4,
-      "time_minute": 15
+      "color": "#5e4db5",
+      "start_name": "갈림길",
+      "end_name": "금수산정상",
+      "length_meter": 1108.0,
+      "time_minute": 13
     },
     {
       "path_id": 11,
       "path": [
         {
-          "lat": 36.995304,
-          "lng": 128.242661
+          "lat": 36.985012,
+          "lng": 128.256744,
+          "ele": 1040.151
         },
         {
-          "lat": 36.986885,
-          "lng": 128.244492
+          "lat": 36.986549,
+          "lng": 128.24144,
+          "ele": 942.359
         }
       ],
-      "color": "#ab7ca1",
-      "start_name": "쉼터",
-      "length_meter": 950.2,
-      "time_minute": 11
+      "color": "#65466b",
+      "start_name": "금수산정상",
+      "end_name": "갈림길",
+      "length_meter": 1370.0,
+      "time_minute": 17
     },
     {
       "path_id": 12,
       "path": [
         {
-          "lat": 36.986885,
-          "lng": 128.244492
+          "lat": 36.986549,
+          "lng": 128.24144,
+          "ele": 942.359
         },
         {
-          "lat": 36.985012,
-          "lng": 128.256744
+          "lat": 36.986393,
+          "lng": 128.240936,
+          "ele": 950.135
         }
       ],
-      "color": "#4abf02",
+      "color": "#050f7e",
       "start_name": "갈림길",
-      "length_meter": 1108.0,
-      "time_minute": 13
-    },
-    {
-      "path_id": 13,
-      "path": [
-        {
-          "lat": 36.985012,
-          "lng": 128.256744
-        },
-        {
-          "lat": 36.986549,
-          "lng": 128.24144
-        }
-      ],
-      "color": "#94bbbe",
-      "start_name": "금수산정상",
-      "length_meter": 1370.0,
-      "time_minute": 17
-    },
-    {
-      "path_id": 14,
-      "path": [
-        {
-          "lat": 36.986549,
-          "lng": 128.24144
-        },
-        {
-          "lat": 36.98037,
-          "lng": 128.201508
-        }
-      ],
-      "color": "#587f5c",
-      "start_name": "갈림길 / 망덕봉 정상",
-      "length_meter": 3613.6,
-      "time_minute": 60
+      "end_name": "망덕봉 정상",
+      "length_meter": 48.0,
+      "time_minute": 0
     }
   ]
 }

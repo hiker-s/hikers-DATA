@@ -1,0 +1,334 @@
+{
+  "mnt_id": 18,
+  "mnt_name": "내연산",
+  "course_id": 44,
+  "max_ele": 961.389,
+  "total_length_km": "6.2km",
+  "total_time": "1시간 17분",
+  "start_name": "정자",
+  "end_name": "향로봉",
+  "level": "중",
+  "track": [
+    {
+      "path_id": 0,
+      "path": [
+        {
+          "lat": 36.220364,
+          "lng": 129.257355,
+          "ele": 658.639
+        },
+        {
+          "lat": 36.223064,
+          "lng": 129.254974,
+          "ele": 733.604
+        }
+      ],
+      "color": "#930084",
+      "start_name": "정자 / 갈림길",
+      "end_name": "벤치쉼터",
+      "length_meter": 373.6,
+      "time_minute": 6
+    },
+    {
+      "path_id": 1,
+      "path": [
+        {
+          "lat": 36.223064,
+          "lng": 129.254974,
+          "ele": 733.604
+        },
+        {
+          "lat": 36.224697,
+          "lng": 129.252396,
+          "ele": 834.961
+        }
+      ],
+      "color": "#6d0eb3",
+      "start_name": "벤치쉼터",
+      "end_name": "매봉",
+      "length_meter": 294.0,
+      "time_minute": 3
+    },
+    {
+      "path_id": 2,
+      "path": [
+        {
+          "lat": 36.224697,
+          "lng": 129.252396,
+          "ele": 834.961
+        },
+        {
+          "lat": 36.224663,
+          "lng": 129.252335,
+          "ele": 841.909
+        }
+      ],
+      "color": "#abadc3",
+      "start_name": "매봉 / 상옥 / 내연산 능선",
+      "end_name": "소나무  숲",
+      "length_meter": 7.5,
+      "time_minute": 0
+    },
+    {
+      "path_id": 3,
+      "path": [
+        {
+          "lat": 36.224663,
+          "lng": 129.252335,
+          "ele": 841.909
+        },
+        {
+          "lat": 36.230438,
+          "lng": 129.248001,
+          "ele": 788.266
+        }
+      ],
+      "color": "#4b4462",
+      "start_name": "소나무  숲",
+      "end_name": "갈림길",
+      "length_meter": 750.7,
+      "time_minute": 9
+    },
+    {
+      "path_id": 4,
+      "path": [
+        {
+          "lat": 36.230438,
+          "lng": 129.248001,
+          "ele": 788.266
+        },
+        {
+          "lat": 36.231186,
+          "lng": 129.247772,
+          "ele": 792.399
+        }
+      ],
+      "color": "#4b7774",
+      "start_name": "갈림길 / 벤치쉼터",
+      "end_name": "굴참나무군락지",
+      "length_meter": 85.9,
+      "time_minute": 1
+    },
+    {
+      "path_id": 5,
+      "path": [
+        {
+          "lat": 36.231186,
+          "lng": 129.247772,
+          "ele": 792.399
+        },
+        {
+          "lat": 36.2384,
+          "lng": 129.244614,
+          "ele": 847.891
+        }
+      ],
+      "color": "#804078",
+      "start_name": "굴참나무군락지",
+      "end_name": "갈림길",
+      "length_meter": 850.7,
+      "time_minute": 10
+    },
+    {
+      "path_id": 6,
+      "path": [
+        {
+          "lat": 36.2384,
+          "lng": 129.244614,
+          "ele": 847.891
+        },
+        {
+          "lat": 36.239418,
+          "lng": 129.246033,
+          "ele": 829.63
+        }
+      ],
+      "color": "#91a4ba",
+      "start_name": "갈림길",
+      "end_name": "담비  흔적",
+      "length_meter": 170.3,
+      "time_minute": 2
+    },
+    {
+      "path_id": 7,
+      "path": [
+        {
+          "lat": 36.239418,
+          "lng": 129.246033,
+          "ele": 829.63
+        },
+        {
+          "lat": 36.238873,
+          "lng": 129.249908,
+          "ele": 721.505
+        }
+      ],
+      "color": "#9e4c8c",
+      "start_name": "담비  흔적",
+      "end_name": "벤치쉼터",
+      "length_meter": 352.8,
+      "time_minute": 4
+    },
+    {
+      "path_id": 8,
+      "path": [
+        {
+          "lat": 36.238873,
+          "lng": 129.249908,
+          "ele": 721.505
+        },
+        {
+          "lat": 36.239231,
+          "lng": 129.252914,
+          "ele": 691.985
+        }
+      ],
+      "color": "#96a8c5",
+      "start_name": "벤치쉼터",
+      "end_name": "갈림길",
+      "length_meter": 272.5,
+      "time_minute": 3
+    },
+    {
+      "path_id": 9,
+      "path": [
+        {
+          "lat": 36.239231,
+          "lng": 129.252914,
+          "ele": 691.985
+        },
+        {
+          "lat": 36.240623,
+          "lng": 129.255325,
+          "ele": 691.113
+        }
+      ],
+      "color": "#0a0f93",
+      "start_name": "갈림길 / 벤치쉼터",
+      "end_name": "미역줄나무  군락",
+      "length_meter": 266.0,
+      "time_minute": 4
+    },
+    {
+      "path_id": 10,
+      "path": [
+        {
+          "lat": 36.240623,
+          "lng": 129.255325,
+          "ele": 691.113
+        },
+        {
+          "lat": 36.241428,
+          "lng": 129.256958,
+          "ele": 694.833
+        }
+      ],
+      "color": "#7959ac",
+      "start_name": "미역줄나무  군락 / 갈림길 / 벤치쉼터",
+      "end_name": "참꽃나무 군락지",
+      "length_meter": 173.1,
+      "time_minute": 2
+    },
+    {
+      "path_id": 11,
+      "path": [
+        {
+          "lat": 36.241428,
+          "lng": 129.256958,
+          "ele": 694.833
+        },
+        {
+          "lat": 36.245152,
+          "lng": 129.256271,
+          "ele": 653.215
+        }
+      ],
+      "color": "#78584a",
+      "start_name": "참꽃나무 군락지",
+      "end_name": "정자쉼터",
+      "length_meter": 418.6,
+      "time_minute": 5
+    },
+    {
+      "path_id": 12,
+      "path": [
+        {
+          "lat": 36.245152,
+          "lng": 129.256271,
+          "ele": 653.215
+        },
+        {
+          "lat": 36.25489,
+          "lng": 129.260071,
+          "ele": 817.5
+        }
+      ],
+      "color": "#c62112",
+      "start_name": "정자쉼터 / 갈림길",
+      "end_name": "동해바다 조망",
+      "length_meter": 1136.2,
+      "time_minute": 18
+    },
+    {
+      "path_id": 13,
+      "path": [
+        {
+          "lat": 36.25489,
+          "lng": 129.260071,
+          "ele": 817.5
+        },
+        {
+          "lat": 36.262394,
+          "lng": 129.260178,
+          "ele": 925.195
+        }
+      ],
+      "color": "#c4539f",
+      "start_name": "동해바다 조망",
+      "end_name": "갈림길",
+      "length_meter": 834.5,
+      "time_minute": 10
+    },
+    {
+      "path_id": 14,
+      "path": [
+        {
+          "lat": 36.262394,
+          "lng": 129.260178,
+          "ele": 925.195
+        },
+        {
+          "lat": 36.263374,
+          "lng": 129.258514,
+          "ele": 961.389
+        }
+      ],
+      "color": "#5ebb69",
+      "start_name": "갈림길",
+      "end_name": "동해바다",
+      "length_meter": 184.7,
+      "time_minute": 2
+    },
+    {
+      "path_id": 15,
+      "path": [
+        {
+          "lat": 36.263374,
+          "lng": 129.258514,
+          "ele": 961.389
+        },
+        {
+          "lat": 36.263332,
+          "lng": 129.258499,
+          "ele": 959.752
+        }
+      ],
+      "color": "#2da517",
+      "start_name": "동해바다",
+      "end_name": "향로봉",
+      "length_meter": 4.9,
+      "time_minute": 0
+    }
+  ],
+  "min_ele": 653.215
+}

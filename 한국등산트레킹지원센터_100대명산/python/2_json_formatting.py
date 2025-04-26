@@ -56,20 +56,25 @@ def merge_short_segments(i, waypoints, lat2, lon2, length, time_minutes, start_n
 
     return i, lat2, lon2, length, time_minutes, start_names
 
-def create_section(path_id, lat1, lon1, lat2, lon2, start_names, length, time_minutes):
+def create_section(path_id, lat1, lon1, ele1, lat2, lon2, ele2, start_names, end_name, length, time_minutes):
     return {
         "path_id": path_id,
         "path": [
-            {"lat": lat1, "lng": lon1},
-            {"lat": lat2, "lng": lon2}
+            {"lat": lat1, "lng": lon1, "ele": ele1},
+            {"lat": lat2, "lng": lon2, "ele": ele2}
         ],
         "color": random_color(),
         "start_name": " / ".join(start_names),
+        "end_name": end_name,
         "length_meter": round(length, 1),
-        "time_minute": math.floor(time_minutes),
+        "time_minute": math.floor(time_minutes)
     }
 
-for mountain_folder in os.listdir(json_path):
+# 산 폴더 정렬 후 ID 부여
+mountain_folders = sorted(os.listdir(json_path))
+course_id = 0  # 전체 course 고유 ID
+
+for mnt_id, mountain_folder in enumerate(mountain_folders, start=1): 
     mountain_path = os.path.join(json_path, mountain_folder)
 
     if os.path.isdir(mountain_path):
@@ -96,8 +101,11 @@ for mountain_folder in os.listdir(json_path):
                     while i < len(waypoints) - 1:
                         lat1 = waypoints[i]['lat']
                         lon1 = waypoints[i]['lon']
+                        ele1 = waypoints[i].get('ele', 0)
+
                         lat2 = waypoints[i+1]['lat']
                         lon2 = waypoints[i+1]['lon']
+                        ele2 = waypoints[i+1].get('ele', 0)
 
                         length = calculate_distance(lat1, lon1, lat2, lon2)
                         time_minutes = length / walking_speed_m_per_min
@@ -107,12 +115,15 @@ for mountain_folder in os.listdir(json_path):
                             i, lat2, lon2, length, time_minutes, start_names = merge_short_segments(
                                 i, waypoints, lat2, lon2, length, time_minutes, start_names
                             )
+                            ele2 = waypoints[i+1].get('ele', 0)
                         else:
                             print(f"{mountain_folder} 제외")
 
-                        total_length += length  # 누적
+                        total_length += length
 
-                        section = create_section(path_id, lat1, lon1, lat2, lon2, start_names, length, time_minutes)
+                        end_name = waypoints[i+1].get('name', f"Point {i+1}")
+
+                        section = create_section(path_id, lat1, lon1, ele1, lat2, lon2, ele2, start_names, end_name, length, time_minutes)
 
                         sections.append(section)
                         path_id += 1
@@ -135,19 +146,26 @@ for mountain_folder in os.listdir(json_path):
                     else:
                         total_time_str = f"{hours}시간 {minutes}분"
 
+                    
+
                     # 최종 JSON 데이터 구성
                     output_data = {
+                        "mnt_id": mnt_id,
+                        "mnt_name": mountain_folder,
+                        "course_id": course_id,
                         "max_ele": data["max_ele"],
                         "total_length_km": f"{round(total_length / 1000, 1)}km",
                         "total_time": total_time_str,
                         "start_name": waypoints[0].get('name'), 
                         "end_name": waypoints[-1].get('name'),
+                        "level" : "중",
                         "track": sections
                     }
 
+                    course_id += 1
+
                     with open(output_file_path, 'w', encoding='utf-8') as f:
                         json.dump(output_data, f, ensure_ascii=False, indent=2)
-
 
                 except Exception as e:
                     print(f"❌ {mountain_folder}/{filename} 오류 발생: {e}")

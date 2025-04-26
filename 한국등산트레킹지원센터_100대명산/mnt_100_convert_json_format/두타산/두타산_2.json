@@ -1,24 +1,31 @@
 {
+  "mnt_id": 28,
+  "mnt_name": "두타산",
+  "course_id": 71,
   "max_ele": 698.944,
-  "total_length_km": "1.9km",
-  "total_time": "0시간 23분",
+  "total_length_km": "1.8km",
+  "total_time": "0시간 22분",
   "start_name": "천은사주차장화장실",
-  "end_name": "갈림길",
+  "end_name": "오십정",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
           "lat": 37.444748,
-          "lng": 129.045547
+          "lng": 129.045547,
+          "ele": 217.933
         },
         {
           "lat": 37.44482,
-          "lng": 129.043854
+          "lng": 129.043854,
+          "ele": 230.72
         }
       ],
-      "color": "#500b27",
+      "color": "#804075",
       "start_name": "천은사주차장화장실 / 천은사주차장",
+      "end_name": "동안사",
       "length_meter": 161.3,
       "time_minute": 2
     },
@@ -27,15 +34,18 @@
       "path": [
         {
           "lat": 37.44482,
-          "lng": 129.043854
+          "lng": 129.043854,
+          "ele": 230.72
         },
         {
           "lat": 37.444267,
-          "lng": 129.043488
+          "lng": 129.043488,
+          "ele": 238.04
         }
       ],
-      "color": "#859463",
+      "color": "#b56456",
       "start_name": "동안사 / 보호수",
+      "end_name": "간이주차장",
       "length_meter": 113.7,
       "time_minute": 1
     },
@@ -44,15 +54,18 @@
       "path": [
         {
           "lat": 37.444267,
-          "lng": 129.043488
+          "lng": 129.043488,
+          "ele": 238.04
         },
         {
           "lat": 37.444355,
-          "lng": 129.042557
+          "lng": 129.042557,
+          "ele": 249.594
         }
       ],
-      "color": "#7eaebd",
+      "color": "#933ca4",
       "start_name": "간이주차장 / 소형화장실",
+      "end_name": "천은사",
       "length_meter": 87.0,
       "time_minute": 1
     },
@@ -61,15 +74,18 @@
       "path": [
         {
           "lat": 37.444355,
-          "lng": 129.042557
+          "lng": 129.042557,
+          "ele": 249.594
         },
         {
           "lat": 37.44479,
-          "lng": 129.026642
+          "lng": 129.026642,
+          "ele": 671.818
         }
       ],
-      "color": "#c220a4",
+      "color": "#5c7255",
       "start_name": "천은사 / 갈림길",
+      "end_name": "급경사지",
       "length_meter": 1413.4,
       "time_minute": 23
     },
@@ -78,33 +94,19 @@
       "path": [
         {
           "lat": 37.44479,
-          "lng": 129.026642
+          "lng": 129.026642,
+          "ele": 671.818
         },
         {
           "lat": 37.444485,
-          "lng": 129.02623
+          "lng": 129.02623,
+          "ele": 688.063
         }
       ],
-      "color": "#777baf",
+      "color": "#4d6727",
       "start_name": "급경사지 / 쉰음산",
+      "end_name": "오십정",
       "length_meter": 50.9,
-      "time_minute": 0
-    },
-    {
-      "path_id": 5,
-      "path": [
-        {
-          "lat": 37.444485,
-          "lng": 129.02623
-        },
-        {
-          "lat": 37.444061,
-          "lng": 129.026245
-        }
-      ],
-      "color": "#280986",
-      "start_name": "오십정",
-      "length_meter": 47.2,
       "time_minute": 0
     }
   ]

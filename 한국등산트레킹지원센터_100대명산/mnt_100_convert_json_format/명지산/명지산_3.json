@@ -1,24 +1,31 @@
 {
+  "mnt_id": 32,
+  "mnt_name": "명지산",
+  "course_id": 83,
   "max_ele": 988.029,
-  "total_length_km": "3.5km",
-  "total_time": "0시간 44분",
+  "total_length_km": "2.6km",
+  "total_time": "0시간 31분",
   "start_name": "백둔봉 입구",
-  "end_name": "백둔봉 국가표지석 있는 이길로 하산해야 되는데 버스 시간이 없어서 계곡길로",
+  "end_name": "백둔봉",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
           "lat": 37.904221,
-          "lng": 127.454338
+          "lng": 127.454338,
+          "ele": 298.126
         },
         {
           "lat": 37.914268,
-          "lng": 127.457283
+          "lng": 127.457283,
+          "ele": 718.023
         }
       ],
-      "color": "#179a5e",
+      "color": "#3a1e29",
       "start_name": "백둔봉 입구 / 갈림길",
+      "end_name": "능선 위에 멋진 소나무",
       "length_meter": 1216.2,
       "time_minute": 19
     },
@@ -27,15 +34,18 @@
       "path": [
         {
           "lat": 37.914268,
-          "lng": 127.457283
+          "lng": 127.457283,
+          "ele": 718.023
         },
         {
           "lat": 37.919418,
-          "lng": 127.45768
+          "lng": 127.45768,
+          "ele": 907.698
         }
       ],
-      "color": "#0792ac",
+      "color": "#09373c",
       "start_name": "능선 위에 멋진 소나무",
+      "end_name": "갈림길",
       "length_meter": 573.7,
       "time_minute": 7
     },
@@ -44,51 +54,20 @@
       "path": [
         {
           "lat": 37.919418,
-          "lng": 127.45768
+          "lng": 127.45768,
+          "ele": 907.698
         },
         {
           "lat": 37.924049,
-          "lng": 127.451256
+          "lng": 127.451256,
+          "ele": 972.801
         }
       ],
-      "color": "#8e5585",
+      "color": "#2eab21",
       "start_name": "갈림길",
+      "end_name": "백둔봉",
       "length_meter": 763.3,
       "time_minute": 9
-    },
-    {
-      "path_id": 3,
-      "path": [
-        {
-          "lat": 37.924049,
-          "lng": 127.451256
-        },
-        {
-          "lat": 37.923847,
-          "lng": 127.449844
-        }
-      ],
-      "color": "#930192",
-      "start_name": "백둔봉",
-      "length_meter": 125.9,
-      "time_minute": 1
-    },
-    {
-      "path_id": 4,
-      "path": [
-        {
-          "lat": 37.923847,
-          "lng": 127.449844
-        },
-        {
-          "lat": 37.920033,
-          "lng": 127.441475
-        }
-      ],
-      "color": "#b1769b",
-      "start_name": "헬기장",
-      "length_meter": 847.8,
-      "time_minute": 10
     }
   ]
 }

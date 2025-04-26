@@ -1,75 +1,71 @@
 {
+  "mnt_id": 86,
+  "mnt_name": "칠갑산",
+  "course_id": 224,
   "max_ele": 482.628,
-  "total_length_km": "1.9km",
-  "total_time": "0시간 23분",
-  "start_name": "간이화정실",
+  "total_length_km": "1.7km",
+  "total_time": "0시간 21분",
+  "start_name": "도림사지 입구",
   "end_name": "칠갑산용못고을가든",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
-          "lat": 36.397999,
-          "lng": 126.891907
+          "lat": 36.399448,
+          "lng": 126.891533,
+          "ele": 188.279
         },
         {
-          "lat": 36.39938,
-          "lng": 126.891647
+          "lat": 36.404629,
+          "lng": 126.892441,
+          "ele": 354.076
         }
       ],
-      "color": "#444117",
-      "start_name": "간이화정실",
-      "length_meter": 155.3,
-      "time_minute": 1
+      "color": "#438f2f",
+      "start_name": "도림사지 입구",
+      "end_name": "도림사지 삼층석탑",
+      "length_meter": 581.8,
+      "time_minute": 7
     },
     {
       "path_id": 1,
       "path": [
         {
-          "lat": 36.39938,
-          "lng": 126.891647
+          "lat": 36.404629,
+          "lng": 126.892441,
+          "ele": 354.076
         },
         {
-          "lat": 36.404629,
-          "lng": 126.892441
+          "lat": 36.401699,
+          "lng": 126.89167,
+          "ele": 246.058
         }
       ],
-      "color": "#b0be64",
-      "start_name": "공중화장실 / 주차가능공터 / 도림사지~정상간 등산등로 입구",
-      "length_meter": 598.0,
-      "time_minute": 9
+      "color": "#56ad38",
+      "start_name": "도림사지 삼층석탑",
+      "end_name": "공부를",
+      "length_meter": 333.0,
+      "time_minute": 4
     },
     {
       "path_id": 2,
       "path": [
         {
-          "lat": 36.404629,
-          "lng": 126.892441
-        },
-        {
           "lat": 36.401699,
-          "lng": 126.89167
-        }
-      ],
-      "color": "#1b320f",
-      "start_name": "도림사지 삼층석탑",
-      "length_meter": 333.0,
-      "time_minute": 4
-    },
-    {
-      "path_id": 3,
-      "path": [
-        {
-          "lat": 36.401699,
-          "lng": 126.89167
+          "lng": 126.89167,
+          "ele": 246.058
         },
         {
           "lat": 36.394878,
-          "lng": 126.894066
+          "lng": 126.894066,
+          "ele": 0.0
         }
       ],
-      "color": "#1a2673",
+      "color": "#609ea9",
       "start_name": "공부를",
+      "end_name": "칠갑산용못고을가든",
       "length_meter": 788.2,
       "time_minute": 9
     }

@@ -25,12 +25,11 @@ for mountain_folder in os.listdir(convert_path):
                         data = json.load(f)
 
                     # JSON에서 필요한 정보 추출
-                    # JSON에서 필요한 정보 추출
                     if "track" in data:
                         total_length_meter = f"{round(sum([section['length_meter'] for section in data['track']]) / 1000, 1)}km"
                         total_time = f"{sum([section['time_minute'] for section in data['track']]) // 60}시간 {sum([section['time_minute'] for section in data['track']]) % 60}분"
                         start_name = data["track"][0].get('start_name', "Unknown Start")  # 시작 지점 이름
-                        end_name = data["track"][-1].get('start_name', "Unknown Start")
+                        end_name = data["track"][-1].get('end_name', "Unknown Start")
                         max_ele = data.get("max_ele", "Unknown")
 
                         # 데이터 리스트에 추가

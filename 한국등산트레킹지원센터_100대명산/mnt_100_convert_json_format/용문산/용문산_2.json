@@ -1,24 +1,31 @@
 {
+  "mnt_id": 60,
+  "mnt_name": "용문산",
+  "course_id": 168,
   "max_ele": 962.52,
   "total_length_km": "4.0km",
   "total_time": "0시간 50분",
   "start_name": "용문봉 등산로 입구",
   "end_name": "마당바위",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
           "lat": 37.546921,
-          "lng": 127.584457
+          "lng": 127.584457,
+          "ele": 219.935
         },
         {
           "lat": 37.563431,
-          "lng": 127.567665
+          "lng": 127.567665,
+          "ele": 959.472
         }
       ],
-      "color": "#723b0b",
+      "color": "#667c7e",
       "start_name": "용문봉 등산로 입구",
+      "end_name": "용문봉",
       "length_meter": 2358.3,
       "time_minute": 29
     },
@@ -27,15 +34,18 @@
       "path": [
         {
           "lat": 37.563431,
-          "lng": 127.567665
+          "lng": 127.567665,
+          "ele": 959.472
         },
         {
           "lat": 37.566113,
-          "lng": 127.557632
+          "lng": 127.557632,
+          "ele": 962.52
         }
       ],
-      "color": "#c52286",
+      "color": "#bc72b8",
       "start_name": "용문봉",
+      "end_name": "갈림길",
       "length_meter": 933.2,
       "time_minute": 11
     },
@@ -44,15 +54,18 @@
       "path": [
         {
           "lat": 37.566113,
-          "lng": 127.557632
+          "lng": 127.557632,
+          "ele": 962.52
         },
         {
           "lat": 37.559906,
-          "lng": 127.561028
+          "lng": 127.561028,
+          "ele": 705.589
         }
       ],
-      "color": "#a3bb71",
+      "color": "#335a42",
       "start_name": "갈림길",
+      "end_name": "마당바위",
       "length_meter": 752.3,
       "time_minute": 9
     }

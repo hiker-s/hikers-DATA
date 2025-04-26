@@ -1,264 +1,113 @@
 {
+  "mnt_id": 84,
+  "mnt_name": "축령산",
+  "course_id": 215,
   "max_ele": 910.832,
-  "total_length_km": "4.3km",
-  "total_time": "0시간 54분",
+  "total_length_km": "2.9km",
+  "total_time": "0시간 36분",
   "start_name": "시내버스 축령산자연휴양림",
-  "end_name": "화장실",
+  "end_name": "남이바위",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
           "lat": 37.752541,
-          "lng": 127.30883
+          "lng": 127.30883,
+          "ele": 297.386
         },
         {
-          "lat": 37.752563,
-          "lng": 127.308884
+          "lat": 37.754208,
+          "lng": 127.31398,
+          "ele": 370.874
         }
       ],
-      "color": "#1db90f",
-      "start_name": "시내버스 축령산자연휴양림",
-      "length_meter": 5.3,
-      "time_minute": 0
+      "color": "#87825f",
+      "start_name": "시내버스 축령산자연휴양림 / 슈퍼 / 축령산 계곡가든 / 축령산 자연휴양림",
+      "end_name": "나무벤치",
+      "length_meter": 502.8,
+      "time_minute": 8
     },
     {
       "path_id": 1,
       "path": [
         {
-          "lat": 37.752563,
-          "lng": 127.308884
+          "lat": 37.754208,
+          "lng": 127.31398,
+          "ele": 370.874
         },
         {
-          "lat": 37.75267,
-          "lng": 127.30883
+          "lat": 37.752773,
+          "lng": 127.334007,
+          "ele": 904.963
         }
       ],
-      "color": "#3ec32e",
-      "start_name": "슈퍼",
-      "length_meter": 12.8,
-      "time_minute": 0
+      "color": "#242735",
+      "start_name": "나무벤치",
+      "end_name": "갈림길",
+      "length_meter": 1767.9,
+      "time_minute": 22
     },
     {
       "path_id": 2,
       "path": [
         {
-          "lat": 37.75267,
-          "lng": 127.30883
+          "lat": 37.752773,
+          "lng": 127.334007,
+          "ele": 904.963
         },
         {
-          "lat": 37.752728,
-          "lng": 127.308914
+          "lat": 37.751217,
+          "lng": 127.332024,
+          "ele": 885.365
         }
       ],
-      "color": "#389d31",
-      "start_name": "축령산 계곡가든",
-      "length_meter": 9.8,
-      "time_minute": 0
+      "color": "#b04c8e",
+      "start_name": "갈림길 / 축령산 정상 886.2m",
+      "end_name": "헬기장",
+      "length_meter": 248.8,
+      "time_minute": 4
     },
     {
       "path_id": 3,
       "path": [
         {
-          "lat": 37.752728,
-          "lng": 127.308914
+          "lat": 37.751217,
+          "lng": 127.332024,
+          "ele": 885.365
         },
         {
-          "lat": 37.754208,
-          "lng": 127.31398
+          "lat": 37.749367,
+          "lng": 127.330093,
+          "ele": 868.921
         }
       ],
-      "color": "#137361",
-      "start_name": "축령산 자연휴양림",
-      "length_meter": 474.8,
-      "time_minute": 5
+      "color": "#1f3c31",
+      "start_name": "헬기장",
+      "end_name": "갈림길",
+      "length_meter": 266.7,
+      "time_minute": 3
     },
     {
       "path_id": 4,
       "path": [
         {
-          "lat": 37.754208,
-          "lng": 127.31398
-        },
-        {
-          "lat": 37.752773,
-          "lng": 127.334007
-        }
-      ],
-      "color": "#c339b1",
-      "start_name": "나무벤치",
-      "length_meter": 1767.9,
-      "time_minute": 22
-    },
-    {
-      "path_id": 5,
-      "path": [
-        {
-          "lat": 37.752773,
-          "lng": 127.334007
-        },
-        {
-          "lat": 37.752712,
-          "lng": 127.334023
-        }
-      ],
-      "color": "#998269",
-      "start_name": "정상 삼거리 갈림길",
-      "length_meter": 6.9,
-      "time_minute": 0
-    },
-    {
-      "path_id": 6,
-      "path": [
-        {
-          "lat": 37.752712,
-          "lng": 127.334023
-        },
-        {
-          "lat": 37.751217,
-          "lng": 127.332024
-        }
-      ],
-      "color": "#0b8ea8",
-      "start_name": "축령산 정상 886.2m",
-      "length_meter": 241.9,
-      "time_minute": 3
-    },
-    {
-      "path_id": 7,
-      "path": [
-        {
-          "lat": 37.751217,
-          "lng": 127.332024
-        },
-        {
-          "lat": 37.749413,
-          "lng": 127.330261
-        }
-      ],
-      "color": "#7520a9",
-      "start_name": "헬기장",
-      "length_meter": 253.5,
-      "time_minute": 3
-    },
-    {
-      "path_id": 8,
-      "path": [
-        {
-          "lat": 37.749413,
-          "lng": 127.330261
-        },
-        {
           "lat": 37.749367,
-          "lng": 127.330093
-        }
-      ],
-      "color": "#a16143",
-      "start_name": "조망점",
-      "length_meter": 15.6,
-      "time_minute": 0
-    },
-    {
-      "path_id": 9,
-      "path": [
-        {
-          "lat": 37.749367,
-          "lng": 127.330093
+          "lng": 127.330093,
+          "ele": 868.921
         },
         {
           "lat": 37.748859,
-          "lng": 127.328583
+          "lng": 127.328583,
+          "ele": 860.926
         }
       ],
-      "color": "#75a6b7",
+      "color": "#47371b",
       "start_name": "갈림길",
+      "end_name": "남이바위",
       "length_meter": 144.3,
       "time_minute": 1
-    },
-    {
-      "path_id": 10,
-      "path": [
-        {
-          "lat": 37.748859,
-          "lng": 127.328583
-        },
-        {
-          "lat": 37.751057,
-          "lng": 127.32283
-        }
-      ],
-      "color": "#4e9e7f",
-      "start_name": "남이바위",
-      "length_meter": 561.8,
-      "time_minute": 7
-    },
-    {
-      "path_id": 11,
-      "path": [
-        {
-          "lat": 37.751057,
-          "lng": 127.32283
-        },
-        {
-          "lat": 37.751907,
-          "lng": 127.315224
-        }
-      ],
-      "color": "#367d76",
-      "start_name": "갈림길",
-      "length_meter": 675.4,
-      "time_minute": 8
-    },
-    {
-      "path_id": 12,
-      "path": [
-        {
-          "lat": 37.751907,
-          "lng": 127.315224
-        },
-        {
-          "lat": 37.752075,
-          "lng": 127.31498
-        }
-      ],
-      "color": "#4e9608",
-      "start_name": "나무벤치",
-      "length_meter": 28.4,
-      "time_minute": 0
-    },
-    {
-      "path_id": 13,
-      "path": [
-        {
-          "lat": 37.752075,
-          "lng": 127.31498
-        },
-        {
-          "lat": 37.75251,
-          "lng": 127.313881
-        }
-      ],
-      "color": "#2708c1",
-      "start_name": "갈림길",
-      "length_meter": 108.1,
-      "time_minute": 1
-    },
-    {
-      "path_id": 14,
-      "path": [
-        {
-          "lat": 37.75251,
-          "lng": 127.313881
-        },
-        {
-          "lat": 37.752831,
-          "lng": 127.31366
-        }
-      ],
-      "color": "#bc7553",
-      "start_name": "제1야영장",
-      "length_meter": 40.6,
-      "time_minute": 0
     }
   ]
 }

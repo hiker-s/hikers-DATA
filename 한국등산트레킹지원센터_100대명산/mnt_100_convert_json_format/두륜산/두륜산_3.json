@@ -1,24 +1,31 @@
 {
+  "mnt_id": 27,
+  "mnt_name": "두륜산",
+  "course_id": 68,
   "max_ele": 654.0,
-  "total_length_km": "3.5km",
-  "total_time": "0시간 43분",
+  "total_length_km": "3.3km",
+  "total_time": "0시간 40분",
   "start_name": "마전밭 주차장",
-  "end_name": "웨이포인트 21",
+  "end_name": "고계봉",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
           "lat": 34.483768,
-          "lng": 126.614609
+          "lng": 126.614609,
+          "ele": 125.0
         },
         {
           "lat": 34.483143,
-          "lng": 126.614166
+          "lng": 126.614166,
+          "ele": 124.0
         }
       ],
-      "color": "#c57dbf",
+      "color": "#910e1c",
       "start_name": "마전밭 주차장 / 주차장내 쉼터",
+      "end_name": "마전밭화장실",
       "length_meter": 81.7,
       "time_minute": 1
     },
@@ -27,15 +34,18 @@
       "path": [
         {
           "lat": 34.483143,
-          "lng": 126.614166
+          "lng": 126.614166,
+          "ele": 124.0
         },
         {
           "lat": 34.479847,
-          "lng": 126.612045
+          "lng": 126.612045,
+          "ele": 155.0
         }
       ],
-      "color": "#835433",
+      "color": "#3bc47e",
       "start_name": "마전밭화장실",
+      "end_name": "갈림길",
       "length_meter": 414.9,
       "time_minute": 5
     },
@@ -44,15 +54,18 @@
       "path": [
         {
           "lat": 34.479847,
-          "lng": 126.612045
+          "lng": 126.612045,
+          "ele": 155.0
         },
         {
           "lat": 34.474621,
-          "lng": 126.631439
+          "lng": 126.631439,
+          "ele": 437.0
         }
       ],
-      "color": "#747d7e",
+      "color": "#925aa0",
       "start_name": "갈림길",
+      "end_name": "북미륵암 마애여래좌상",
       "length_meter": 1870.3,
       "time_minute": 23
     },
@@ -61,15 +74,18 @@
       "path": [
         {
           "lat": 34.474621,
-          "lng": 126.631439
+          "lng": 126.631439,
+          "ele": 437.0
         },
         {
           "lat": 34.477646,
-          "lng": 126.634613
+          "lng": 126.634613,
+          "ele": 466.0
         }
       ],
-      "color": "#3b29c3",
-      "start_name": "북미륵암  마애여래좌상",
+      "color": "#24b54b",
+      "start_name": "북미륵암 마애여래좌상",
+      "end_name": "갈림길",
       "length_meter": 444.7,
       "time_minute": 5
     },
@@ -78,51 +94,20 @@
       "path": [
         {
           "lat": 34.477646,
-          "lng": 126.634613
+          "lng": 126.634613,
+          "ele": 466.0
         },
         {
           "lat": 34.481663,
-          "lng": 126.633682
+          "lng": 126.633682,
+          "ele": 654.0
         }
       ],
-      "color": "#abbb6f",
+      "color": "#8e9722",
       "start_name": "갈림길",
+      "end_name": "고계봉",
       "length_meter": 454.7,
       "time_minute": 5
-    },
-    {
-      "path_id": 5,
-      "path": [
-        {
-          "lat": 34.481663,
-          "lng": 126.633682
-        },
-        {
-          "lat": 34.480097,
-          "lng": 126.634286
-        }
-      ],
-      "color": "#b7649e",
-      "start_name": "두륜산 고계봉 / 웨이포인트 17 / 웨이포인트 18 / 웨이포인트 19",
-      "length_meter": 188.0,
-      "time_minute": 2
-    },
-    {
-      "path_id": 6,
-      "path": [
-        {
-          "lat": 34.480097,
-          "lng": 126.634286
-        },
-        {
-          "lat": 34.480097,
-          "lng": 126.634286
-        }
-      ],
-      "color": "#550f2e",
-      "start_name": "웨이포인트 20",
-      "length_meter": 0.0,
-      "time_minute": 0
     }
   ]
 }

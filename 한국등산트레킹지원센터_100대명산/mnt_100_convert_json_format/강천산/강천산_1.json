@@ -1,637 +1,592 @@
 {
+  "mnt_id": 6,
+  "mnt_name": "강천산",
+  "course_id": 17,
   "max_ele": 605.502,
-  "total_length_km": "6.2km",
-  "total_time": "1시간 17분",
-  "start_name": "여성전용화장실",
-  "end_name": "쉼터",
+  "total_length_km": "5.9km",
+  "total_time": "1시간 14분",
+  "start_name": "강천산 입구",
+  "end_name": "강천사 소소원",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
-          "lat": 35.408741,
-          "lng": 127.06794
+          "lat": 35.40918,
+          "lng": 127.067688,
+          "ele": 222.424
         },
         {
-          "lat": 35.40918,
-          "lng": 127.067688
+          "lat": 35.408585,
+          "lng": 127.066795,
+          "ele": 199.259
         }
       ],
-      "color": "#8c962c",
-      "start_name": "여성전용화장실 / 흡연부스 / 주차장",
-      "length_meter": 71.4,
+      "color": "#15058d",
+      "start_name": "강천산 입구 / 매표소",
+      "end_name": "자연경관",
+      "length_meter": 120.1,
       "time_minute": 1
     },
     {
       "path_id": 1,
       "path": [
         {
-          "lat": 35.40918,
-          "lng": 127.067688
+          "lat": 35.408585,
+          "lng": 127.066795,
+          "ele": 199.259
         },
         {
-          "lat": 35.408882,
-          "lng": 127.06723
+          "lat": 35.408051,
+          "lng": 127.066467,
+          "ele": 201.796
         }
       ],
-      "color": "#8a3e77",
-      "start_name": "강천산 입구 / 매표소",
-      "length_meter": 71.9,
+      "color": "#690c26",
+      "start_name": "자연경관 / 종합안내도",
+      "end_name": "야생동물",
+      "length_meter": 68.2,
       "time_minute": 1
     },
     {
       "path_id": 2,
       "path": [
         {
-          "lat": 35.408882,
-          "lng": 127.06723
+          "lat": 35.408051,
+          "lng": 127.066467,
+          "ele": 201.796
         },
         {
-          "lat": 35.408306,
-          "lng": 127.066719
+          "lat": 35.407475,
+          "lng": 127.065231,
+          "ele": 205.205
         }
       ],
-      "color": "#b77a1f",
-      "start_name": "화장실 / 안내도 / 포토존 / 자연경관",
-      "length_meter": 94.6,
+      "color": "#622c17",
+      "start_name": "야생동물 / 병풍폭포",
+      "end_name": "병풍폭포앞쉼터",
+      "length_meter": 129.2,
       "time_minute": 1
     },
     {
       "path_id": 3,
       "path": [
         {
-          "lat": 35.408306,
-          "lng": 127.066719
+          "lat": 35.407475,
+          "lng": 127.065231,
+          "ele": 205.205
         },
         {
-          "lat": 35.407795,
-          "lng": 127.065849
+          "lat": 35.406887,
+          "lng": 127.064705,
+          "ele": 209.188
         }
       ],
-      "color": "#40295e",
-      "start_name": "종합안내도 / 야생동물",
-      "length_meter": 99.2,
+      "color": "#3cbf67",
+      "start_name": "병풍폭포앞쉼터 / 발씻는곳",
+      "end_name": "자연경관",
+      "length_meter": 81.2,
       "time_minute": 1
     },
     {
       "path_id": 4,
       "path": [
         {
-          "lat": 35.407795,
-          "lng": 127.065849
+          "lat": 35.406887,
+          "lng": 127.064705,
+          "ele": 209.188
         },
         {
-          "lat": 35.407402,
-          "lng": 127.065193
+          "lat": 35.406746,
+          "lng": 127.063339,
+          "ele": 259.677
         }
       ],
-      "color": "#972802",
-      "start_name": "병풍폭포 / 화장실 / 포토존 / 병풍폭포앞쉼터",
-      "length_meter": 77.2,
-      "time_minute": 1
+      "color": "#825d0b",
+      "start_name": "자연경관 / 갈림길 / 너덜등산로",
+      "end_name": "쉼터",
+      "length_meter": 138.4,
+      "time_minute": 2
     },
     {
       "path_id": 5,
       "path": [
         {
-          "lat": 35.407402,
-          "lng": 127.065193
+          "lat": 35.406746,
+          "lng": 127.063339,
+          "ele": 259.677
         },
         {
-          "lat": 35.406887,
-          "lng": 127.064705
+          "lat": 35.408932,
+          "lng": 127.05986,
+          "ele": 456.586
         }
       ],
-      "color": "#4a0f38",
-      "start_name": "발씻는곳",
-      "length_meter": 72.4,
-      "time_minute": 0
+      "color": "#48478f",
+      "start_name": "쉼터",
+      "end_name": "자연경관",
+      "length_meter": 398.1,
+      "time_minute": 4
     },
     {
       "path_id": 6,
       "path": [
         {
-          "lat": 35.406887,
-          "lng": 127.064705
+          "lat": 35.408932,
+          "lng": 127.05986,
+          "ele": 456.586
         },
         {
-          "lat": 35.406746,
-          "lng": 127.063339
+          "lat": 35.410427,
+          "lng": 127.057686,
+          "ele": 529.497
         }
       ],
-      "color": "#6daa9e",
-      "start_name": "자연경관 / 갈림길 / 너덜등산로",
-      "length_meter": 138.4,
-      "time_minute": 2
+      "color": "#1b7158",
+      "start_name": "자연경관",
+      "end_name": "갈림길",
+      "length_meter": 257.8,
+      "time_minute": 3
     },
     {
       "path_id": 7,
       "path": [
         {
-          "lat": 35.406746,
-          "lng": 127.063339
+          "lat": 35.410427,
+          "lng": 127.057686,
+          "ele": 529.497
         },
         {
-          "lat": 35.408932,
-          "lng": 127.05986
+          "lat": 35.407303,
+          "lng": 127.053314,
+          "ele": 599.857
         }
       ],
-      "color": "#956595",
-      "start_name": "쉼터",
-      "length_meter": 398.1,
-      "time_minute": 4
+      "color": "#a10241",
+      "start_name": "갈림길",
+      "end_name": "깃대봉",
+      "length_meter": 526.9,
+      "time_minute": 6
     },
     {
       "path_id": 8,
       "path": [
         {
-          "lat": 35.408932,
-          "lng": 127.05986
+          "lat": 35.407303,
+          "lng": 127.053314,
+          "ele": 599.857
         },
         {
-          "lat": 35.409107,
-          "lng": 127.059647
+          "lat": 35.406643,
+          "lng": 127.050781,
+          "ele": 582.106
         }
       ],
-      "color": "#1d0544",
-      "start_name": "자연경관 / 조망점",
-      "length_meter": 30.1,
-      "time_minute": 0
+      "color": "#ad6a1b",
+      "start_name": "깃대봉",
+      "end_name": "단풍나무",
+      "length_meter": 241.0,
+      "time_minute": 3
     },
     {
       "path_id": 9,
       "path": [
         {
-          "lat": 35.409107,
-          "lng": 127.059647
+          "lat": 35.406643,
+          "lng": 127.050781,
+          "ele": 582.106
         },
         {
-          "lat": 35.410427,
-          "lng": 127.057686
+          "lat": 35.405746,
+          "lng": 127.048058,
+          "ele": 585.987
         }
       ],
-      "color": "#a0864d",
-      "start_name": "자연경관",
-      "length_meter": 230.5,
-      "time_minute": 2
+      "color": "#54a35c",
+      "start_name": "단풍나무",
+      "end_name": "걷기좋은 능선길",
+      "length_meter": 266.2,
+      "time_minute": 3
     },
     {
       "path_id": 10,
       "path": [
         {
-          "lat": 35.410427,
-          "lng": 127.057686
+          "lat": 35.405746,
+          "lng": 127.048058,
+          "ele": 585.987
         },
         {
-          "lat": 35.407303,
-          "lng": 127.053314
+          "lat": 35.40358,
+          "lng": 127.047615,
+          "ele": 605.502
         }
       ],
-      "color": "#6b8286",
-      "start_name": "갈림길",
-      "length_meter": 526.9,
-      "time_minute": 6
+      "color": "#52c19d",
+      "start_name": "걷기좋은 능선길",
+      "end_name": "갈림길",
+      "length_meter": 244.2,
+      "time_minute": 3
     },
     {
       "path_id": 11,
       "path": [
         {
-          "lat": 35.407303,
-          "lng": 127.053314
+          "lat": 35.40358,
+          "lng": 127.047615,
+          "ele": 605.502
         },
         {
-          "lat": 35.406643,
-          "lng": 127.050781
+          "lat": 35.396866,
+          "lng": 127.041046,
+          "ele": 506.014
         }
       ],
-      "color": "#06953c",
-      "start_name": "깃대봉",
-      "length_meter": 241.0,
-      "time_minute": 3
+      "color": "#b50eb9",
+      "start_name": "갈림길",
+      "end_name": "자연경관",
+      "length_meter": 954.9,
+      "time_minute": 11
     },
     {
       "path_id": 12,
       "path": [
         {
-          "lat": 35.406643,
-          "lng": 127.050781
+          "lat": 35.396866,
+          "lng": 127.041046,
+          "ele": 506.014
         },
         {
-          "lat": 35.405746,
-          "lng": 127.048058
+          "lat": 35.394482,
+          "lng": 127.037521,
+          "ele": 328.032
         }
       ],
-      "color": "#af0088",
-      "start_name": "단풍나무",
-      "length_meter": 266.2,
-      "time_minute": 3
+      "color": "#afb3aa",
+      "start_name": "자연경관",
+      "end_name": "갈림길",
+      "length_meter": 415.2,
+      "time_minute": 5
     },
     {
       "path_id": 13,
       "path": [
         {
-          "lat": 35.405746,
-          "lng": 127.048058
+          "lat": 35.394482,
+          "lng": 127.037521,
+          "ele": 328.032
         },
         {
-          "lat": 35.40358,
-          "lng": 127.047615
+          "lat": 35.394283,
+          "lng": 127.038528,
+          "ele": 325.513
         }
       ],
-      "color": "#09b914",
-      "start_name": "걷기좋은 능선길",
-      "length_meter": 244.2,
-      "time_minute": 3
+      "color": "#930f56",
+      "start_name": "갈림길 / 호수",
+      "end_name": "자연경관",
+      "length_meter": 100.3,
+      "time_minute": 1
     },
     {
       "path_id": 14,
       "path": [
         {
-          "lat": 35.40358,
-          "lng": 127.047615
+          "lat": 35.394283,
+          "lng": 127.038528,
+          "ele": 325.513
         },
         {
-          "lat": 35.398617,
-          "lng": 127.041771
+          "lat": 35.393814,
+          "lng": 127.043373,
+          "ele": 337.737
         }
       ],
-      "color": "#6d5b8e",
-      "start_name": "갈림길",
-      "length_meter": 764.9,
-      "time_minute": 9
+      "color": "#3d870d",
+      "start_name": "자연경관",
+      "end_name": "강천호 댐",
+      "length_meter": 442.3,
+      "time_minute": 5
     },
     {
       "path_id": 15,
       "path": [
         {
-          "lat": 35.398617,
-          "lng": 127.041771
+          "lat": 35.393814,
+          "lng": 127.043373,
+          "ele": 337.737
         },
         {
-          "lat": 35.396866,
-          "lng": 127.041046
+          "lat": 35.393692,
+          "lng": 127.044174,
+          "ele": 326.957
         }
       ],
-      "color": "#1b1722",
-      "start_name": "조망점",
-      "length_meter": 205.5,
-      "time_minute": 2
+      "color": "#2caa57",
+      "start_name": "강천호 댐 / 갈림길",
+      "end_name": "강천호",
+      "length_meter": 73.9,
+      "time_minute": 1
     },
     {
       "path_id": 16,
       "path": [
         {
-          "lat": 35.396866,
-          "lng": 127.041046
+          "lat": 35.393692,
+          "lng": 127.044174,
+          "ele": 326.957
         },
         {
-          "lat": 35.396561,
-          "lng": 127.040993
+          "lat": 35.393242,
+          "lng": 127.045151,
+          "ele": 293.235
         }
       ],
-      "color": "#10522d",
-      "start_name": "자연경관 / 조망점",
-      "length_meter": 43.2,
-      "time_minute": 0
+      "color": "#237182",
+      "start_name": "강천호 / 자연경관",
+      "end_name": "쉼터",
+      "length_meter": 164.4,
+      "time_minute": 2
     },
     {
       "path_id": 17,
       "path": [
         {
-          "lat": 35.396561,
-          "lng": 127.040993
+          "lat": 35.393242,
+          "lng": 127.045151,
+          "ele": 293.235
         },
         {
-          "lat": 35.394482,
-          "lng": 127.037521
+          "lat": 35.39296,
+          "lng": 127.045532,
+          "ele": 287.287
         }
       ],
-      "color": "#65b9a6",
-      "start_name": "자연경관",
-      "length_meter": 390.5,
-      "time_minute": 4
+      "color": "#3426b6",
+      "start_name": "쉼터 / 자연경관",
+      "end_name": "쉼터",
+      "length_meter": 50.3,
+      "time_minute": 0
     },
     {
       "path_id": 18,
       "path": [
         {
-          "lat": 35.394482,
-          "lng": 127.037521
+          "lat": 35.39296,
+          "lng": 127.045532,
+          "ele": 287.287
         },
         {
-          "lat": 35.394283,
-          "lng": 127.038528
+          "lat": 35.393192,
+          "lng": 127.046318,
+          "ele": 284.648
         }
       ],
-      "color": "#ad7216",
-      "start_name": "갈림길 / 호수",
-      "length_meter": 100.3,
+      "color": "#620034",
+      "start_name": "쉼터 / 갈림길 / 자연경관",
+      "end_name": "쉼터",
+      "length_meter": 93.0,
       "time_minute": 1
     },
     {
       "path_id": 19,
       "path": [
         {
-          "lat": 35.394283,
-          "lng": 127.038528
+          "lat": 35.393192,
+          "lng": 127.046318,
+          "ele": 284.648
         },
         {
-          "lat": 35.393814,
-          "lng": 127.043373
+          "lat": 35.393951,
+          "lng": 127.04715,
+          "ele": 282.572
         }
       ],
-      "color": "#af7b40",
-      "start_name": "자연경관",
-      "length_meter": 442.3,
-      "time_minute": 5
+      "color": "#7aa091",
+      "start_name": "쉼터 / 사랑공원 돌탑 / 자연경관",
+      "end_name": "구장군폭포",
+      "length_meter": 118.7,
+      "time_minute": 1
     },
     {
       "path_id": 20,
       "path": [
         {
-          "lat": 35.393814,
-          "lng": 127.043373
+          "lat": 35.393951,
+          "lng": 127.04715,
+          "ele": 282.572
         },
         {
-          "lat": 35.393692,
-          "lng": 127.044174
+          "lat": 35.395004,
+          "lng": 127.04969,
+          "ele": 273.661
         }
       ],
-      "color": "#668495",
-      "start_name": "강천호 댐 / 갈림길",
-      "length_meter": 73.9,
-      "time_minute": 1
+      "color": "#9f5c64",
+      "start_name": "구장군폭포 / 자연경관",
+      "end_name": "단풍길",
+      "length_meter": 267.2,
+      "time_minute": 4
     },
     {
       "path_id": 21,
       "path": [
         {
-          "lat": 35.393692,
-          "lng": 127.044174
+          "lat": 35.395004,
+          "lng": 127.04969,
+          "ele": 273.661
         },
         {
-          "lat": 35.39341,
-          "lng": 127.044548
+          "lat": 35.395336,
+          "lng": 127.050674,
+          "ele": 273.134
         }
       ],
-      "color": "#6f0275",
-      "start_name": "강천호 / 자연경관 / 위험지역",
-      "length_meter": 108.4,
+      "color": "#c24359",
+      "start_name": "단풍길",
+      "end_name": "자연경관",
+      "length_meter": 96.5,
       "time_minute": 1
     },
     {
       "path_id": 22,
       "path": [
         {
-          "lat": 35.39341,
-          "lng": 127.044548
+          "lat": 35.395336,
+          "lng": 127.050674,
+          "ele": 273.134
         },
         {
-          "lat": 35.392944,
-          "lng": 127.04554
+          "lat": 35.395969,
+          "lng": 127.052002,
+          "ele": 269.001
         }
       ],
-      "color": "#b21b51",
-      "start_name": "자연경관 / 쉼터",
-      "length_meter": 106.2,
+      "color": "#20b1ad",
+      "start_name": "자연경관",
+      "end_name": "갈림길",
+      "length_meter": 139.4,
       "time_minute": 1
     },
     {
       "path_id": 23,
       "path": [
         {
-          "lat": 35.392944,
-          "lng": 127.04554
+          "lat": 35.395969,
+          "lng": 127.052002,
+          "ele": 269.001
         },
         {
-          "lat": 35.39296,
-          "lng": 127.045532
+          "lat": 35.395996,
+          "lng": 127.052155,
+          "ele": 267.337
         }
       ],
-      "color": "#a164b6",
-      "start_name": "자연경관",
-      "length_meter": 1.9,
+      "color": "#a90947",
+      "start_name": "갈림길",
+      "end_name": "현수교아래 공원 쉼터",
+      "length_meter": 14.2,
       "time_minute": 0
     },
     {
       "path_id": 24,
       "path": [
         {
-          "lat": 35.39296,
-          "lng": 127.045532
+          "lat": 35.395996,
+          "lng": 127.052155,
+          "ele": 267.337
         },
         {
-          "lat": 35.393192,
-          "lng": 127.046318
+          "lat": 35.3965,
+          "lng": 127.054344,
+          "ele": 260.956
         }
       ],
-      "color": "#039c0b",
-      "start_name": "쉼터 / 갈림길 / 자연경관",
-      "length_meter": 93.0,
-      "time_minute": 1
+      "color": "#36c73b",
+      "start_name": "현수교아래 공원 쉼터",
+      "end_name": "갈림길",
+      "length_meter": 206.2,
+      "time_minute": 2
     },
     {
       "path_id": 25,
       "path": [
         {
-          "lat": 35.393192,
-          "lng": 127.046318
+          "lat": 35.3965,
+          "lng": 127.054344,
+          "ele": 260.956
         },
         {
-          "lat": 35.393951,
-          "lng": 127.04715
+          "lat": 35.397167,
+          "lng": 127.055916,
+          "ele": 262.941
         }
       ],
-      "color": "#612f5e",
-      "start_name": "쉼터 / 화장실 / 사랑공원 돌탑 / 자연경관",
-      "length_meter": 125.0,
+      "color": "#272dc1",
+      "start_name": "갈림길",
+      "end_name": "쉼터",
+      "length_meter": 160.6,
       "time_minute": 2
     },
     {
       "path_id": 26,
       "path": [
         {
-          "lat": 35.393951,
-          "lng": 127.04715
+          "lat": 35.397167,
+          "lng": 127.055916,
+          "ele": 262.941
         },
         {
-          "lat": 35.394749,
-          "lng": 127.047768
+          "lat": 35.397652,
+          "lng": 127.056076,
+          "ele": 262.479
         }
       ],
-      "color": "#2a869b",
-      "start_name": "구장군폭포 / 자연경관",
-      "length_meter": 105.6,
-      "time_minute": 1
+      "color": "#2c6a73",
+      "start_name": "쉼터",
+      "end_name": "강천사 모과나무",
+      "length_meter": 55.8,
+      "time_minute": 0
     },
     {
       "path_id": 27,
       "path": [
         {
-          "lat": 35.394749,
-          "lng": 127.047768
+          "lat": 35.397652,
+          "lng": 127.056076,
+          "ele": 262.479
         },
         {
-          "lat": 35.395004,
-          "lng": 127.04969
+          "lat": 35.398407,
+          "lng": 127.055931,
+          "ele": 255.957
         }
       ],
-      "color": "#998998",
-      "start_name": "고압전기시설",
-      "length_meter": 176.5,
-      "time_minute": 2
+      "color": "#3b7339",
+      "start_name": "강천사 모과나무 / 갈림길 / 순창 삼인대 / 절의탑",
+      "end_name": "강천사",
+      "length_meter": 91.8,
+      "time_minute": 1
     },
     {
       "path_id": 28,
       "path": [
         {
-          "lat": 35.395004,
-          "lng": 127.04969
-        },
-        {
-          "lat": 35.395336,
-          "lng": 127.050674
-        }
-      ],
-      "color": "#a61e35",
-      "start_name": "단풍길",
-      "length_meter": 96.5,
-      "time_minute": 1
-    },
-    {
-      "path_id": 29,
-      "path": [
-        {
-          "lat": 35.395336,
-          "lng": 127.050674
-        },
-        {
-          "lat": 35.395996,
-          "lng": 127.051888
-        }
-      ],
-      "color": "#267587",
-      "start_name": "자연경관",
-      "length_meter": 132.3,
-      "time_minute": 1
-    },
-    {
-      "path_id": 30,
-      "path": [
-        {
-          "lat": 35.395996,
-          "lng": 127.051888
-        },
-        {
-          "lat": 35.395996,
-          "lng": 127.052155
-        }
-      ],
-      "color": "#9c834d",
-      "start_name": "화장실 / 갈림길",
-      "length_meter": 25.0,
-      "time_minute": 0
-    },
-    {
-      "path_id": 31,
-      "path": [
-        {
-          "lat": 35.395996,
-          "lng": 127.052155
-        },
-        {
-          "lat": 35.3965,
-          "lng": 127.054344
-        }
-      ],
-      "color": "#3c82ae",
-      "start_name": "현수교아래 공원 쉼터",
-      "length_meter": 206.2,
-      "time_minute": 2
-    },
-    {
-      "path_id": 32,
-      "path": [
-        {
-          "lat": 35.3965,
-          "lng": 127.054344
-        },
-        {
-          "lat": 35.397167,
-          "lng": 127.055916
-        }
-      ],
-      "color": "#3c15b4",
-      "start_name": "갈림길 / 포토존",
-      "length_meter": 160.6,
-      "time_minute": 2
-    },
-    {
-      "path_id": 33,
-      "path": [
-        {
-          "lat": 35.397167,
-          "lng": 127.055916
-        },
-        {
-          "lat": 35.397652,
-          "lng": 127.056076
-        }
-      ],
-      "color": "#9f8e6f",
-      "start_name": "쉼터",
-      "length_meter": 55.8,
-      "time_minute": 0
-    },
-    {
-      "path_id": 34,
-      "path": [
-        {
-          "lat": 35.397652,
-          "lng": 127.056076
-        },
-        {
           "lat": 35.398407,
-          "lng": 127.055931
-        }
-      ],
-      "color": "#67ad3a",
-      "start_name": "강천사 모과나무 / 갈림길 / 순창 삼인대 / 절의탑",
-      "length_meter": 91.8,
-      "time_minute": 1
-    },
-    {
-      "path_id": 35,
-      "path": [
-        {
-          "lat": 35.398407,
-          "lng": 127.055931
+          "lng": 127.055931,
+          "ele": 255.957
         },
         {
-          "lat": 35.398972,
-          "lng": 127.056099
+          "lat": 35.398579,
+          "lng": 127.056038,
+          "ele": 257.212
         }
       ],
-      "color": "#a02f67",
-      "start_name": "강천사 / 강천사 소소원",
-      "length_meter": 65.5,
-      "time_minute": 1
-    },
-    {
-      "path_id": 36,
-      "path": [
-        {
-          "lat": 35.398972,
-          "lng": 127.056099
-        },
-        {
-          "lat": 35.399174,
-          "lng": 127.056473
-        }
-      ],
-      "color": "#9d829b",
-      "start_name": "화장실",
-      "length_meter": 40.7,
+      "color": "#216213",
+      "start_name": "강천사",
+      "end_name": "강천사 소소원",
+      "length_meter": 21.4,
       "time_minute": 0
     }
   ]

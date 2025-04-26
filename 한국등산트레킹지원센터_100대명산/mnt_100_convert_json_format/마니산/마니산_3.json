@@ -1,92 +1,91 @@
 {
+  "mnt_id": 29,
+  "mnt_name": "마니산",
+  "course_id": 73,
   "max_ele": 452.277,
-  "total_length_km": "2.1km",
-  "total_time": "0시간 26분",
-  "start_name": "갈림길",
+  "total_length_km": "1.5km",
+  "total_time": "0시간 19분",
+  "start_name": "사랑의하트석",
   "end_name": "야영장쉼터",
+  "level": "중",
   "track": [
     {
       "path_id": 0,
       "path": [
         {
-          "lat": 37.612511,
-          "lng": 126.448242
+          "lat": 37.608868,
+          "lng": 126.443642,
+          "ele": 257.78
         },
         {
-          "lat": 37.608868,
-          "lng": 126.443642
+          "lat": 37.612125,
+          "lng": 126.438034,
+          "ele": 441.039
         }
       ],
-      "color": "#8a642a",
-      "start_name": "갈림길",
-      "length_meter": 573.0,
-      "time_minute": 7
+      "color": "#9caf4b",
+      "start_name": "사랑의하트석 / 갈림길",
+      "end_name": "추락사고위험구간",
+      "length_meter": 647.6,
+      "time_minute": 10
     },
     {
       "path_id": 1,
       "path": [
         {
-          "lat": 37.608868,
-          "lng": 126.443642
+          "lat": 37.612125,
+          "lng": 126.438034,
+          "ele": 441.039
         },
         {
-          "lat": 37.612125,
-          "lng": 126.438034
+          "lat": 37.612679,
+          "lng": 126.44519,
+          "ele": 181.278
         }
       ],
-      "color": "#12463f",
-      "start_name": "사랑의하트석 / 갈림길",
-      "length_meter": 647.6,
+      "color": "#0c6d47",
+      "start_name": "추락사고위험구간 / 갈림길",
+      "end_name": "추락사고위험",
+      "length_meter": 640.5,
       "time_minute": 10
     },
     {
       "path_id": 2,
       "path": [
         {
-          "lat": 37.612125,
-          "lng": 126.438034
+          "lat": 37.612679,
+          "lng": 126.44519,
+          "ele": 181.278
         },
         {
-          "lat": 37.612679,
-          "lng": 126.44519
+          "lat": 37.613148,
+          "lng": 126.446472,
+          "ele": 139.11
         }
       ],
-      "color": "#152b37",
-      "start_name": "추락사고위험구간 / 갈림길",
-      "length_meter": 640.5,
-      "time_minute": 10
+      "color": "#73527c",
+      "start_name": "추락사고위험 / 함허동천계곡",
+      "end_name": "야영장쉼터",
+      "length_meter": 130.6,
+      "time_minute": 1
     },
     {
       "path_id": 3,
       "path": [
         {
-          "lat": 37.612679,
-          "lng": 126.44519
-        },
-        {
           "lat": 37.613148,
-          "lng": 126.446472
-        }
-      ],
-      "color": "#800487",
-      "start_name": "추락사고위험 / 함허동천계곡",
-      "length_meter": 130.6,
-      "time_minute": 1
-    },
-    {
-      "path_id": 4,
-      "path": [
-        {
-          "lat": 37.613148,
-          "lng": 126.446472
+          "lng": 126.446472,
+          "ele": 139.11
         },
         {
           "lat": 37.61272,
-          "lng": 126.447533
+          "lng": 126.447533,
+          "ele": 120.798
         }
       ],
-      "color": "#681343",
+      "color": "#8ec16e",
       "start_name": "야영장쉼터 / 야영장 쉼터",
+      "end_name": "야영장쉼터",
       "length_meter": 106.4,
       "time_minute": 1
     }
