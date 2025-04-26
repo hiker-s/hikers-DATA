@@ -4,11 +4,11 @@ import json
 # 경로 설정
 base_dir = os.path.dirname(__file__)
 json_path = os.path.join(base_dir, '../mnt_100_convert_json_2')
-convert_path = os.path.join(base_dir, '../mnt_100_convert_json_clean')
+convert_path = os.path.join(base_dir, '../mnt_100_result/mnt_100_convert_json_clean')
 os.makedirs(convert_path, exist_ok=True)
 
 # 정제에서 제외할 산
-skip_mnt = ["강천산", "황악산", "공작산", "대암산", "축령산", "덕숭산", "민주지산"]
+skip_mnt = ["강천산", "황악산", "공작산", "축령산", "덕숭산", "민주지산"]
 
 
 # 제거할 요소 리스트

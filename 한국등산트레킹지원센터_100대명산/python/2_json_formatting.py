@@ -5,12 +5,12 @@ import math
 
 # 경로 설정
 base_dir = os.path.dirname(__file__)
-json_path = os.path.join(base_dir, '../mnt_100_convert_json_filter_duplication')
-convert_path = os.path.join(base_dir, '../mnt_100_convert_json_format')
+json_path = os.path.join(base_dir, '../mnt_100_result/mnt_100_convert_json_filter_duplication')
+convert_path = os.path.join(base_dir, '../mnt_100_result/mnt_100_convert_json_format')
 os.makedirs(convert_path, exist_ok=True)
 
 # 정제 제외할 산
-skip_mnt = ["가리산", "금산", "대암산", "축령산", "덕숭산", "민주지산"]
+skip_mnt = ["가리산", "금산", "대암산", "축령산", "덕숭산", "민주지산"]
 
 # 걸음 속도 4.8 km/h => 80 m/min
 walking_speed_m_per_min = 80

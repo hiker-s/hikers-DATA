@@ -8,7 +8,7 @@ import json
 # 경로 설정
 base_dir = os.path.dirname(__file__)
 mnt_100_path = os.path.join(base_dir, '../mnt_100')
-convert_path = os.path.join(base_dir, '../mnt_100_convert_json')
+convert_path = os.path.join(base_dir, '../mnt_100_convert_json_3')
 os.makedirs(convert_path, exist_ok=True)
 
 # 네임스페이스 설정

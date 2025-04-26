@@ -3,8 +3,8 @@ import json
 
 # 경로 설정
 base_dir = os.path.dirname(__file__)
-json_path = os.path.join(base_dir, '../mnt_100_convert_json_format')
-convert_path = os.path.join(base_dir, '../mnt_100_convert_json_format_add_min_ele')
+json_path = os.path.join(base_dir, '../mnt_100_result/mnt_100_convert_json_format')
+convert_path = os.path.join(base_dir, '../mnt_100_result/mnt_100_convert_json_format_add_min_ele')
 os.makedirs(convert_path, exist_ok=True)
 
 # 최소 고도 계산

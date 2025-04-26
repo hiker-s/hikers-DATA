@@ -4,8 +4,8 @@ import re
 
 # 경로 설정
 base_dir = os.path.dirname(__file__)
-json_path = os.path.join(base_dir, '../mnt_100_convert_json_format_add_min_ele')
-convert_path = os.path.join(base_dir, '../mnt_100_convert_json_format_add_level')
+json_path = os.path.join(base_dir, '../mnt_100_result/mnt_100_convert_json_format_add_min_ele')
+convert_path = os.path.join(base_dir, '../mnt_100_result/mnt_100_convert_json_format_add_level')
 os.makedirs(convert_path, exist_ok=True)
 
 # 미터로 변환

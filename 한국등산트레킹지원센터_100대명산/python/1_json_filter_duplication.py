@@ -7,8 +7,8 @@ import json
 
 # 경로 설정
 base_dir = os.path.dirname(__file__)
-json_path = os.path.join(base_dir, '../mnt_100_convert_json_clean')
-convert_path = os.path.join(base_dir, '../mnt_100_convert_json_filter_duplication')
+json_path = os.path.join(base_dir, '../mnt_100_result/mnt_100_convert_json_clean')
+convert_path = os.path.join(base_dir, '../mnt_100_result/mnt_100_convert_json_filter_duplication')
 os.makedirs(convert_path, exist_ok=True)
 
 # 연속된 같은 이름의 객체 제거 함수 (track 안에서만 적용)
